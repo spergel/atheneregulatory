@@ -1,0 +1,26 @@
+[
+  {
+    "period": "2022Q1",
+    "entity": "ULAM",
+    "bonds": 19298700878.0,
+    "mortgages": 1175596176.0,
+    "alts": 1101092281.0,
+    "cash": 143788218.0,
+    "real_estate": 82597335.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 21801774888.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "ULAM",
+    "bonds": 19763080787.0,
+    "mortgages": 1138707960.0,
+    "alts": 1217392976.0,
+    "cash": 111652663.0,
+    "real_estate": 77826467.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 22308660853.0
+  }
+]

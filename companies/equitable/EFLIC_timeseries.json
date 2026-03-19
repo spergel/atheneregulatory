@@ -1,0 +1,50 @@
+[
+  {
+    "period": "2023Q1",
+    "entity": "EFLIC",
+    "bonds": 42336502292.0,
+    "mortgages": 12638308465.0,
+    "alts": 2870454989.0,
+    "cash": 1166960894.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 2537943182.0,
+    "life_prem_ytd": 523452378.0,
+    "total_invested": 59012226640.0
+  },
+  {
+    "period": "2023Q2",
+    "entity": "EFLIC",
+    "bonds": 40177621688.0,
+    "mortgages": 12086071049.0,
+    "alts": 3042645068.0,
+    "cash": 2712428741.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 4744850527.0,
+    "life_prem_ytd": 1065337279.0,
+    "total_invested": 58018766546.0
+  },
+  {
+    "period": "2023Q3",
+    "entity": "EFLIC",
+    "bonds": 38560726429.0,
+    "mortgages": 12191392738.0,
+    "alts": 3177456416.0,
+    "cash": 805401042.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 6690496102.0,
+    "life_prem_ytd": 1562509152.0,
+    "total_invested": 54734976625.0
+  },
+  {
+    "period": "2025Q1",
+    "entity": "EFLIC",
+    "bonds": 35839391101.0,
+    "mortgages": 12671587142.0,
+    "alts": 3199167596.0,
+    "cash": 1124842636.0,
+    "real_estate": 56583235.0,
+    "annuity_ytd": 2033705596.0,
+    "life_prem_ytd": 512485302.0,
+    "total_invested": 52891571710.0
+  }
+]

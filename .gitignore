@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Large data files — run download_*.py and extract_*.py locally
+companies/*/pdfs/
+companies/*/extracted/
+companies/*/schedules/
+
+# Keep in git (small, needed for Vercel):
+# companies/*/all_timeseries.json
+# companies/*/all_timeseries.csv
+# website/data/
+
+# OS
+.DS_Store
+Thumbs.db

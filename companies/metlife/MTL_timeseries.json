@@ -1,0 +1,86 @@
+[
+  {
+    "period": "2023Q3",
+    "entity": "MTL",
+    "bonds": 19958705856.0,
+    "mortgages": 5417312922.0,
+    "alts": 1827895001.0,
+    "cash": 833129959.0,
+    "real_estate": 43020688.0,
+    "annuity_ytd": 4268164001.0,
+    "life_prem_ytd": 768386585.0,
+    "total_invested": 28080064426.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "MTL",
+    "bonds": 18387627786.0,
+    "mortgages": 5778824499.0,
+    "alts": 1849839665.0,
+    "cash": 677538854.0,
+    "real_estate": 43020688.0,
+    "annuity_ytd": 5310076555.0,
+    "life_prem_ytd": 966908952.0,
+    "total_invested": 26736851492.0
+  },
+  {
+    "period": "2024Q2",
+    "entity": "MTL",
+    "bonds": 20183095931.0,
+    "mortgages": 6197266349.0,
+    "alts": 1843409492.0,
+    "cash": 545590559.0,
+    "real_estate": 43020688.0,
+    "annuity_ytd": 2644333726.0,
+    "life_prem_ytd": 776636188.0,
+    "total_invested": 28812383019.0
+  },
+  {
+    "period": "2024Q3",
+    "entity": "MTL",
+    "bonds": 20397270159.0,
+    "mortgages": 6343960899.0,
+    "alts": 1827125807.0,
+    "cash": 853611340.0,
+    "real_estate": 43124538.0,
+    "annuity_ytd": 3340415586.0,
+    "life_prem_ytd": 1091057937.0,
+    "total_invested": 29465092743.0
+  },
+  {
+    "period": "2025Q1",
+    "entity": "MTL",
+    "bonds": 22569039560.0,
+    "mortgages": 6540393207.0,
+    "alts": 1876313818.0,
+    "cash": 745319378.0,
+    "real_estate": 43288688.0,
+    "annuity_ytd": 1530262778.0,
+    "life_prem_ytd": 97406742.0,
+    "total_invested": 31774354651.0
+  },
+  {
+    "period": "2025Q2",
+    "entity": "MTL",
+    "bonds": 23434160671.0,
+    "mortgages": 6652284699.0,
+    "alts": 1894486222.0,
+    "cash": 663635781.0,
+    "real_estate": 43318838.0,
+    "annuity_ytd": 1687268676.0,
+    "life_prem_ytd": 206372041.0,
+    "total_invested": 32687886211.0
+  },
+  {
+    "period": "2025Q3",
+    "entity": "MTL",
+    "bonds": 24208956290.0,
+    "mortgages": 6738364375.0,
+    "alts": 1889245308.0,
+    "cash": 673965901.0,
+    "real_estate": 43436088.0,
+    "annuity_ytd": 1938431634.0,
+    "life_prem_ytd": 286118994.0,
+    "total_invested": 33553967962.0
+  }
+]

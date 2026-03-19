@@ -1,0 +1,62 @@
+[
+  {
+    "period": "2021Q4",
+    "entity": "VALIC",
+    "bonds": 38537812149.0,
+    "mortgages": 6696683251.0,
+    "alts": 0.0,
+    "cash": 44816989.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 45279312389.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "VALIC",
+    "bonds": 38274833796.0,
+    "mortgages": 7481148548.0,
+    "alts": 2246933911.0,
+    "cash": 267238037.0,
+    "real_estate": 4497217.0,
+    "annuity_ytd": 4091155419.0,
+    "life_prem_ytd": 3200458195.0,
+    "total_invested": 48274651509.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "VALIC",
+    "bonds": 36038995667.0,
+    "mortgages": 7415653530.0,
+    "alts": 1942290729.0,
+    "cash": 221402982.0,
+    "real_estate": 2815853.0,
+    "annuity_ytd": 4278501898.0,
+    "life_prem_ytd": 7518.0,
+    "total_invested": 45621158761.0
+  },
+  {
+    "period": "2024Q4",
+    "entity": "VALIC",
+    "bonds": 32867587918.0,
+    "mortgages": 7106919146.0,
+    "alts": 1869663690.0,
+    "cash": 30424919.0,
+    "real_estate": 55111.0,
+    "annuity_ytd": 4016666723.0,
+    "life_prem_ytd": 7971.0,
+    "total_invested": 41874650784.0
+  },
+  {
+    "period": "2025Q4",
+    "entity": "VALIC",
+    "bonds": 31450633294.0,
+    "mortgages": 6938762838.0,
+    "alts": 1498173756.0,
+    "cash": 13175932.0,
+    "real_estate": 522620.0,
+    "annuity_ytd": 3377567956.0,
+    "life_prem_ytd": 12582.0,
+    "total_invested": 39901268440.0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "period": "2020Q2",
+    "entity": "EFLOA",
+    "bonds": 1675084389.0,
+    "mortgages": 17000000.0,
+    "alts": 0.0,
+    "cash": 109781256.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 6858838.0,
+    "life_prem_ytd": 339773180.0,
+    "total_invested": 1801865645.0
+  },
+  {
+    "period": "2021Q1",
+    "entity": "EFLOA",
+    "bonds": 1982637918.0,
+    "mortgages": 17000000.0,
+    "alts": 0.0,
+    "cash": 88555256.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 10291953.0,
+    "life_prem_ytd": 172542006.0,
+    "total_invested": 2088193174.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "EFLOA",
+    "bonds": 2106196340.0,
+    "mortgages": 17000000.0,
+    "alts": 0.0,
+    "cash": 195675606.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 873711057.0,
+    "life_prem_ytd": 751731373.0,
+    "total_invested": 2318871946.0
+  },
+  {
+    "period": "2024Q3",
+    "entity": "EFLOA",
+    "bonds": 3131604441.0,
+    "mortgages": 68350000.0,
+    "alts": 23325189.0,
+    "cash": 1293782170.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 10651996327.0,
+    "life_prem_ytd": 620967336.0,
+    "total_invested": 4517061800.0
+  },
+  {
+    "period": "2025Q1",
+    "entity": "EFLOA",
+    "bonds": 2724903160.0,
+    "mortgages": 68350000.0,
+    "alts": 53581893.0,
+    "cash": 1958593.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 3983805686.0,
+    "life_prem_ytd": 222095138.0,
+    "total_invested": 2848793646.0
+  }
+]

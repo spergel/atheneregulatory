@@ -1,0 +1,98 @@
+[
+  {
+    "period": "2021Q4",
+    "entity": "LLANY",
+    "bonds": 7367225275.0,
+    "mortgages": 965424561.0,
+    "alts": 0.0,
+    "cash": 39319000.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 8371968836.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "LLANY",
+    "bonds": 7375016451.0,
+    "mortgages": 915452539.0,
+    "alts": 21025665.0,
+    "cash": 43595000.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 804142232.0,
+    "life_prem_ytd": 284365346.0,
+    "total_invested": 8355089655.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "LLANY",
+    "bonds": 7329887571.0,
+    "mortgages": 923014380.0,
+    "alts": 22963783.0,
+    "cash": 32948587.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 580717427.0,
+    "life_prem_ytd": 251342551.0,
+    "total_invested": 8308814321.0
+  },
+  {
+    "period": "2019Q4",
+    "entity": "LNL",
+    "bonds": 80146720180.0,
+    "mortgages": 13143141692.0,
+    "alts": 0.0,
+    "cash": 951876884.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 18042490602.0,
+    "life_prem_ytd": 8098479447.0,
+    "total_invested": 94241738756.0
+  },
+  {
+    "period": "2020Q4",
+    "entity": "LNL",
+    "bonds": 84628404344.0,
+    "mortgages": 13540977301.0,
+    "alts": 0.0,
+    "cash": 381292042.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 16373359275.0,
+    "life_prem_ytd": 6902842239.0,
+    "total_invested": 98550673687.0
+  },
+  {
+    "period": "2021Q4",
+    "entity": "LNL",
+    "bonds": 85406426260.0,
+    "mortgages": 14763814425.0,
+    "alts": 0.0,
+    "cash": 1603459476.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 101773700161.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "LNL",
+    "bonds": 91021286237.0,
+    "mortgages": 14518464772.0,
+    "alts": 3600038514.0,
+    "cash": 1081700048.0,
+    "real_estate": 27198266.0,
+    "annuity_ytd": 16974991209.0,
+    "life_prem_ytd": 8121143377.0,
+    "total_invested": 110248687837.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "LNL",
+    "bonds": 64994283071.0,
+    "mortgages": 14543993642.0,
+    "alts": 4258338617.0,
+    "cash": 1336108024.0,
+    "real_estate": 26482872.0,
+    "annuity_ytd": 17918582369.0,
+    "life_prem_ytd": 7908829602.0,
+    "total_invested": 85159206226.0
+  }
+]

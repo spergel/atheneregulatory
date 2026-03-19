@@ -1,0 +1,38 @@
+[
+  {
+    "period": "2021Q4",
+    "entity": "LLANY",
+    "bonds": 7367225275.0,
+    "mortgages": 965424561.0,
+    "alts": 0.0,
+    "cash": 39319000.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 8371968836.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "LLANY",
+    "bonds": 7375016451.0,
+    "mortgages": 915452539.0,
+    "alts": 21025665.0,
+    "cash": 43595000.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 804142232.0,
+    "life_prem_ytd": 284365346.0,
+    "total_invested": 8355089655.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "LLANY",
+    "bonds": 7329887571.0,
+    "mortgages": 923014380.0,
+    "alts": 22963783.0,
+    "cash": 32948587.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 580717427.0,
+    "life_prem_ytd": 251342551.0,
+    "total_invested": 8308814321.0
+  }
+]

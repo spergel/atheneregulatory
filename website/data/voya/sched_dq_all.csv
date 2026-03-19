@@ -1,0 +1,252 @@
+entity,period,category,naic_designation,total_current_year,total_prior_year
+VRIAC,2019Q3,BONDS,NAIC 1,35751206,30311307
+VRIAC,2019Q3,BONDS,NAIC 2,843918880,959594849
+VRIAC,2019Q3,BONDS,NAIC 3,225061821,312312849
+VRIAC,2019Q3,BONDS,NAIC 4,53346359,48663678
+VRIAC,2019Q3,BONDS,NAIC 5,5,163716
+VRIAC,2019Q3,BONDS,NAIC 6,3633304,9030146
+VRIAC,2019Q3,BONDS,NAIC 1,102842500,108742500
+VRIAC,2019Q3,BONDS,NAIC 2,41538118,41538118
+VRIAC,2019Q3,BONDS,NAIC 3,0,0
+VRIAC,2019Q3,BONDS,NAIC 4,0,0
+VRIAC,2019Q3,BONDS,NAIC 5,0,0
+VRIAC,2019Q3,BONDS,NAIC 6,0,354999
+VRIAC,2021Q4,"U.S. Governments                                                                                                                                                                                                                     2.6      602,321,549                     0",NAIC 1,0,0
+VRIAC,2021Q4,"U.S. Governments                                                                                                                                                                                                                     2.6      602,321,549                     0",NAIC 2,0,0
+VRIAC,2021Q4,"U.S. Governments                                                                                                                                                                                                                     2.6      602,321,549                     0",NAIC 3,0,0
+VRIAC,2021Q4,"U.S. Governments                                                                                                                                                                                                                     2.6      602,321,549                     0",NAIC 4,0,0
+VRIAC,2021Q4,"U.S. Governments                                                                                                                                                                                                                     2.6      602,321,549                     0",NAIC 5,0,0
+VRIAC,2021Q4,"U.S. Governments                                                                                                                                                                                                                     2.6      602,321,549                     0",NAIC 6,0,0
+VRIAC,2021Q4,"All Other Governments                                                                                                                                                                                                                0.0       75,732,446",NAIC 1,0,0
+VRIAC,2021Q4,"All Other Governments                                                                                                                                                                                                                0.0       75,732,446",NAIC 2,0,0
+VRIAC,2021Q4,"All Other Governments                                                                                                                                                                                                                0.0       75,732,446",NAIC 3,0,0
+VRIAC,2021Q4,"All Other Governments                                                                                                                                                                                                                0.0       75,732,446",NAIC 4,0,0
+VRIAC,2021Q4,"All Other Governments                                                                                                                                                                                                                0.0       75,732,446",NAIC 5,98089378,0
+VRIAC,2021Q4,"All Other Governments                                                                                                                                                                                                                0.0       75,732,446",NAIC 6,0,0
+VRIAC,2021Q4,"U.S. States, Territories and Possessions etc.,          980,207            7,996,955       2,315,407        1,414,660         13,166,361        XXX            5,134,429                    0.1    10,742,531                        0.0       27,751,736                    (1)",NAIC 1,0,960808
+VRIAC,2021Q4,"U.S. States, Territories and Possessions etc.,          980,207            7,996,955       2,315,407        1,414,660         13,166,361        XXX            5,134,429                    0.1    10,742,531                        0.0       27,751,736                    (1)",NAIC 2,0,0
+VRIAC,2021Q4,"U.S. States, Territories and Possessions etc.,          980,207            7,996,955       2,315,407        1,414,660         13,166,361        XXX            5,134,429                    0.1    10,742,531                        0.0       27,751,736                    (1)",NAIC 3,312667846,0
+VRIAC,2021Q4,"U.S. States, Territories and Possessions etc.,          980,207            7,996,955       2,315,407        1,414,660         13,166,361        XXX            5,134,429                    0.1    10,742,531                        0.0       27,751,736                    (1)",NAIC 4,0,0
+VRIAC,2021Q4,"U.S. States, Territories and Possessions etc.,          980,207            7,996,955       2,315,407        1,414,660         13,166,361        XXX            5,134,429                    0.1    10,742,531                        0.0       27,751,736                    (1)",NAIC 5,0,0
+VRIAC,2021Q4,"U.S. States, Territories and Possessions etc.,          980,207            7,996,955       2,315,407        1,414,660         13,166,361        XXX            5,134,429                    0.1    10,742,531                        0.0       27,751,736                    (1)",NAIC 6,0,0
+VRIAC,2021Q4,"U.S. Political Subdivisions of States, Territories and  2,583,254          20,594,291      67,380,193       93,698,913        40,536,524        XXX          224,793,175                    0.9    269,266,736                       0.0       26,424,651                     0",NAIC 1,24932081,0
+VRIAC,2021Q4,"U.S. Political Subdivisions of States, Territories and  2,583,254          20,594,291      67,380,193       93,698,913        40,536,524        XXX          224,793,175                    0.9    269,266,736                       0.0       26,424,651                     0",NAIC 2,0,0
+VRIAC,2021Q4,"U.S. Political Subdivisions of States, Territories and  2,583,254          20,594,291      67,380,193       93,698,913        40,536,524        XXX          224,793,175                    0.9    269,266,736                       0.0       26,424,651                     0",NAIC 3,0,0
+VRIAC,2021Q4,"U.S. Political Subdivisions of States, Territories and  2,583,254          20,594,291      67,380,193       93,698,913        40,536,524        XXX          224,793,175                    0.9    269,266,736                       0.0       26,424,651                     0",NAIC 4,0,0
+VRIAC,2021Q4,"U.S. Political Subdivisions of States, Territories and  2,583,254          20,594,291      67,380,193       93,698,913        40,536,524        XXX          224,793,175                    0.9    269,266,736                       0.0       26,424,651                     0",NAIC 5,0,415323403
+VRIAC,2021Q4,"U.S. Political Subdivisions of States, Territories and  2,583,254          20,594,291      67,380,193       93,698,913        40,536,524        XXX          224,793,175                    0.9    269,266,736                       0.0       26,424,651                     0",NAIC 6,0,0
+VRIAC,2021Q4,"U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX                                         0.0    0                                           63,666,537                     0",NAIC 1,294198817,0
+VRIAC,2021Q4,"U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX                                         0.0    0                                           63,666,537                     0",NAIC 2,0,0
+VRIAC,2021Q4,"U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX                                         0.0    0                                           63,666,537                     0",NAIC 3,388898751,0
+VRIAC,2021Q4,"U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX                                         0.0    0                                           63,666,537                     0",NAIC 4,0,0
+VRIAC,2021Q4,"U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX                                         0.0    0                                           63,666,537                     0",NAIC 5,29405650,0
+VRIAC,2021Q4,"U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX                                         0.0    0                                           63,666,537                     0",NAIC 6,0,0
+VRIAC,2021Q4,"Industrial & Miscellaneous (Unaffiliated)                                                                                                                                                                                   33.7     3,332,360,469      5,014,334,195",NAIC 1,0,0
+VRIAC,2021Q4,"Industrial & Miscellaneous (Unaffiliated)                                                                                                                                                                                   33.7     3,332,360,469      5,014,334,195",NAIC 2,9702851551,474593082
+VRIAC,2021Q4,"Industrial & Miscellaneous (Unaffiliated)                                                                                                                                                                                   33.7     3,332,360,469      5,014,334,195",NAIC 3,0,0
+VRIAC,2021Q4,"Industrial & Miscellaneous (Unaffiliated)                                                                                                                                                                                   33.7     3,332,360,469      5,014,334,195",NAIC 4,250643143,8168013
+VRIAC,2021Q4,"Industrial & Miscellaneous (Unaffiliated)                                                                                                                                                                                   33.7     3,332,360,469      5,014,334,195",NAIC 5,0,0
+VRIAC,2021Q4,"Industrial & Miscellaneous (Unaffiliated)                                                                                                                                                                                   33.7     3,332,360,469      5,014,334,195",NAIC 6,8457923,8446253858
+VRIAC,2021Q4,"Hybrid Securities                             412,538            2,505,102            4,214       5,536,069                        0  XXX             19,890,921,837                 0.0    24,179,246                        0.1                  0",NAIC 1,0,0
+VRIAC,2021Q4,"Hybrid Securities                             412,538            2,505,102            4,214       5,536,069                        0  XXX             19,890,921,837                 0.0    24,179,246                        0.1                  0",NAIC 2,1977290,2577354
+VRIAC,2021Q4,"Hybrid Securities                             412,538            2,505,102            4,214       5,536,069                        0  XXX             19,890,921,837                 0.0    24,179,246                        0.1                  0",NAIC 3,0,0
+VRIAC,2021Q4,"Hybrid Securities                             412,538            2,505,102            4,214       5,536,069                        0  XXX             19,890,921,837                 0.0    24,179,246                        0.1                  0",NAIC 4,18779344870,0
+VRIAC,2021Q4,"Hybrid Securities                             412,538            2,505,102            4,214       5,536,069                        0  XXX             19,890,921,837                 0.0    24,179,246                        0.1                  0",NAIC 5,0,0
+VRIAC,2021Q4,"Hybrid Securities                             412,538            2,505,102            4,214       5,536,069                        0  XXX             19,890,921,837                 0.0    24,179,246                        0.1                  0",NAIC 6,0,0
+VRIAC,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0  17,296,648                      0  8,355,011         XXX             25,651,659                     0.1    20,533,137                        0.0                            4,534,309",NAIC 1,0,0
+VRIAC,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0  17,296,648                      0  8,355,011         XXX             25,651,659                     0.1    20,533,137                        0.0                            4,534,309",NAIC 2,8614455,0
+VRIAC,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0  17,296,648                      0  8,355,011         XXX             25,651,659                     0.1    20,533,137                        0.0                            4,534,309",NAIC 3,0,0
+VRIAC,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0  17,296,648                      0  8,355,011         XXX             25,651,659                     0.1    20,533,137                        0.0                            4,534,309",NAIC 4,0,0
+VRIAC,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0  17,296,648                      0  8,355,011         XXX             25,651,659                     0.1    20,533,137                        0.0                            4,534,309",NAIC 5,0,0
+VRIAC,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0  17,296,648                      0  8,355,011         XXX             25,651,659                     0.1    20,533,137                        0.0                            4,534,309",NAIC 6,0,0
+VRIAC,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                                 0.0,NAIC 1,0,0
+VRIAC,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                                 0.0,NAIC 2,34266114,0
+VRIAC,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                                 0.0,NAIC 3,0,0
+VRIAC,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                                 0.0,NAIC 4,155748028,0
+VRIAC,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                                 0.0,NAIC 5,0,0
+VRIAC,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                                 0.0,NAIC 6,8322058,0
+VRIAC,2021Q4,"Unaffiliated Bank Loans                                      0               0  4,958,971                       0                 0  XXX             4,958,971                      0.0    8,420,404                         0.3                                      0",NAIC 1,0,0
+VRIAC,2021Q4,"Unaffiliated Bank Loans                                      0               0  4,958,971                       0                 0  XXX             4,958,971                      0.0    8,420,404                         0.3                                      0",NAIC 2,7336946,2749501
+VRIAC,2021Q4,"Unaffiliated Bank Loans                                      0               0  4,958,971                       0                 0  XXX             4,958,971                      0.0    8,420,404                         0.3                                      0",NAIC 3,0,0
+VRIAC,2021Q4,"Unaffiliated Bank Loans                                      0               0  4,958,971                       0                 0  XXX             4,958,971                      0.0    8,420,404                         0.3                                      0",NAIC 4,6402999,0
+VRIAC,2021Q4,"Unaffiliated Bank Loans                                      0               0  4,958,971                       0                 0  XXX             4,958,971                      0.0    8,420,404                         0.3                                      0",NAIC 5,0,0
+VRIAC,2021Q4,Total Bonds Current Year,NAIC 1,0,7862820863
+VRIAC,2021Q4,Total Bonds Current Year,NAIC 2,0,0
+VRIAC,2021Q4,Total Bonds Current Year,NAIC 3,0,0
+VRIAC,2021Q4,Total Bonds Current Year,NAIC 4,0,0
+VRIAC,2021Q4,Total Bonds Current Year,NAIC 5,0,453429354
+VRIAC,2021Q4,Total Bonds Current Year,NAIC 6,0,0
+VRIAC,2021Q4,"Total Bonds Prior Year                              299,920,467        1,744,731,572       3,822,253,335      3,522,991,493           3,654,442,839                   0    XXX                    XXX              13,044,339,706                 53.8 8,331,989,885 4,712,349,821",NAIC 1,0,0
+VRIAC,2021Q4,"Total Bonds Prior Year                              299,920,467        1,744,731,572       3,822,253,335      3,522,991,493           3,654,442,839                   0    XXX                    XXX              13,044,339,706                 53.8 8,331,989,885 4,712,349,821",NAIC 2,0,0
+VRIAC,2021Q4,"Total Bonds Prior Year                              299,920,467        1,744,731,572       3,822,253,335      3,522,991,493           3,654,442,839                   0    XXX                    XXX              13,044,339,706                 53.8 8,331,989,885 4,712,349,821",NAIC 3,0,0
+VRIAC,2021Q4,"Total Bonds Prior Year                              299,920,467        1,744,731,572       3,822,253,335      3,522,991,493           3,654,442,839                   0    XXX                    XXX              13,044,339,706                 53.8 8,331,989,885 4,712,349,821",NAIC 4,792143618,451665964
+VRIAC,2021Q4,"Total Bonds Prior Year                              299,920,467        1,744,731,572       3,822,253,335      3,522,991,493           3,654,442,839                   0    XXX                    XXX              13,044,339,706                 53.8 8,331,989,885 4,712,349,821",NAIC 5,0,0
+VRIAC,2021Q4,"Total Bonds Prior Year                              299,920,467        1,744,731,572       3,822,253,335      3,522,991,493           3,654,442,839                   0    XXX                    XXX              13,044,339,706                 53.8 8,331,989,885 4,712,349,821",NAIC 6,177485625,0
+VRIAC,2021Q4,"Total Publicly Traded Bonds                         182,097,126        879,994,048         1,553,869,466      2,709,973,354           2,536,886,869                   0 7,862,820,863                        30.9 8,331,989,885                   34.4 7,862,820,863              XXX",NAIC 1,0,0
+VRIAC,2021Q4,"Total Publicly Traded Bonds                         182,097,126        879,994,048         1,553,869,466      2,709,973,354           2,536,886,869                   0 7,862,820,863                        30.9 8,331,989,885                   34.4 7,862,820,863              XXX",NAIC 2,4975395333,0
+VRIAC,2021Q4,"Total Publicly Traded Bonds                         182,097,126        879,994,048         1,553,869,466      2,709,973,354           2,536,886,869                   0 7,862,820,863                        30.9 8,331,989,885                   34.4 7,862,820,863              XXX",NAIC 3,0,0
+VRIAC,2021Q4,"Total Publicly Traded Bonds                         182,097,126        879,994,048         1,553,869,466      2,709,973,354           2,536,886,869                   0 7,862,820,863                        30.9 8,331,989,885                   34.4 7,862,820,863              XXX",NAIC 4,0,340477654
+VRIAC,2021Q4,"Total Publicly Traded Bonds                         182,097,126        879,994,048         1,553,869,466      2,709,973,354           2,536,886,869                   0 7,862,820,863                        30.9 8,331,989,885                   34.4 7,862,820,863              XXX",NAIC 5,0,0
+VRIAC,2021Q4,"Total Privately Placed Bonds                        260,652,749          872,014,356       2,229,353,269               801,156,587    1,119,848,438                   0 5,283,025,399                        20.8 4,712,349,821                   19.4      XXX                5,283,025,399",NAIC 1,5944649367,0
+VRIAC,2021Q4,"Total Privately Placed Bonds                        260,652,749          872,014,356       2,229,353,269               801,156,587    1,119,848,438                   0 5,283,025,399                        20.8 4,712,349,821                   19.4      XXX                5,283,025,399",NAIC 2,6218892337,0
+VRIAC,2021Q4,"Total Privately Placed Bonds                        260,652,749          872,014,356       2,229,353,269               801,156,587    1,119,848,438                   0 5,283,025,399                        20.8 4,712,349,821                   19.4      XXX                5,283,025,399",NAIC 3,0,0
+VRIAC,2021Q4,"Total Privately Placed Bonds                        260,652,749          872,014,356       2,229,353,269               801,156,587    1,119,848,438                   0 5,283,025,399                        20.8 4,712,349,821                   19.4      XXX                5,283,025,399",NAIC 4,0,451665964
+VRIAC,2021Q4,"Total Privately Placed Bonds                        260,652,749          872,014,356       2,229,353,269               801,156,587    1,119,848,438                   0 5,283,025,399                        20.8 4,712,349,821                   19.4      XXX                5,283,025,399",NAIC 5,0,0
+VRIAC,2021Q4,"Total Privately Placed Bonds                        260,652,749          872,014,356       2,229,353,269               801,156,587    1,119,848,438                   0 5,283,025,399                        20.8 4,712,349,821                   19.4      XXX                5,283,025,399",NAIC 6,0,0
+VRIAC,2023Q2,BONDS,NAIC 1,11160946032,11782925634
+VRIAC,2023Q2,BONDS,NAIC 2,10463218551,10987477803
+VRIAC,2023Q2,BONDS,NAIC 3,676939309,680949241
+VRIAC,2023Q2,BONDS,NAIC 4,191036923,190920361
+VRIAC,2023Q2,BONDS,NAIC 5,20066301,21366898
+VRIAC,2023Q2,BONDS,NAIC 6,3635352,12115340
+VRIAC,2023Q2,BONDS,NAIC 1,76904299,107513965
+VRIAC,2023Q2,BONDS,NAIC 2,140189647,142050369
+VRIAC,2023Q2,BONDS,NAIC 3,0,0
+VRIAC,2023Q2,BONDS,NAIC 4,0,0
+VRIAC,2023Q2,BONDS,NAIC 5,0,0
+VRIAC,2023Q2,BONDS,NAIC 6,1796,0
+VRIAC,2023Q4,U.S. Governments,NAIC 1,1387100734,1387100734
+VRIAC,2023Q4,U.S. Governments,NAIC 2,0,0
+VRIAC,2023Q4,U.S. Governments,NAIC 3,0,0
+VRIAC,2023Q4,U.S. Governments,NAIC 4,0,0
+VRIAC,2023Q4,U.S. Governments,NAIC 5,0,0
+VRIAC,2023Q4,U.S. Governments,NAIC 6,0,0
+VRIAC,2023Q4,All Other Governments,NAIC 1,74852593,20458549
+VRIAC,2023Q4,All Other Governments,NAIC 2,115267737,39592598
+VRIAC,2023Q4,All Other Governments,NAIC 3,27389041,26789041
+VRIAC,2023Q4,All Other Governments,NAIC 4,10349572,10349572
+VRIAC,2023Q4,All Other Governments,NAIC 5,0,0
+VRIAC,2023Q4,All Other Governments,NAIC 6,416000,32000
+VRIAC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,46830374,46830374
+VRIAC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+VRIAC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+VRIAC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+VRIAC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+VRIAC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,36761507,36761507
+VRIAC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+VRIAC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+VRIAC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+VRIAC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+VRIAC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+VRIAC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 1,1983394740,1840671526
+VRIAC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 2,100783530,20303238
+VRIAC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+VRIAC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+VRIAC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 5,137010,137010
+VRIAC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+VRIAC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,7246051513,2418012678
+VRIAC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,8834033595,3715008826
+VRIAC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,614451502,126494353
+VRIAC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,121507205,59543637
+VRIAC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,33101493,4659166
+VRIAC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,7741757,958708
+VRIAC,2023Q4,Hybrid Securities,NAIC 1,118550108,28169318
+VRIAC,2023Q4,Hybrid Securities,NAIC 2,582857226,531280663
+VRIAC,2023Q4,Hybrid Securities,NAIC 3,11891361,6875000
+VRIAC,2023Q4,Hybrid Securities,NAIC 4,0,0
+VRIAC,2023Q4,Hybrid Securities,NAIC 5,0,0
+VRIAC,2023Q4,Hybrid Securities,NAIC 6,5000,5000
+VRIAC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,121441442,114445847
+VRIAC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,28056728,27026389
+VRIAC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,1359826,1359826
+VRIAC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,5994443,5994443
+VRIAC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,755167,755167
+VRIAC,2023Q4,SVO Identified Funds,NAIC 1,0,0
+VRIAC,2023Q4,SVO Identified Funds,NAIC 2,0,0
+VRIAC,2023Q4,SVO Identified Funds,NAIC 3,0,0
+VRIAC,2023Q4,SVO Identified Funds,NAIC 4,0,0
+VRIAC,2023Q4,SVO Identified Funds,NAIC 5,0,0
+VRIAC,2023Q4,SVO Identified Funds,NAIC 6,0,0
+VRIAC,2023Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+VRIAC,2023Q4,Unaffiliated Bank Loans,NAIC 2,123329729,0
+VRIAC,2023Q4,Unaffiliated Bank Loans,NAIC 3,74739382,0
+VRIAC,2023Q4,Unaffiliated Bank Loans,NAIC 4,32660766,8986266
+VRIAC,2023Q4,Unaffiliated Bank Loans,NAIC 5,4347974,0
+VRIAC,2023Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+VRIAC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+VRIAC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+VRIAC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+VRIAC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+VRIAC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+VRIAC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+VRIAC,2023Q4,Total Bonds Current Year,NAIC 1,0,5892450533
+VRIAC,2023Q4,Total Bonds Current Year,NAIC 2,0,4333211714
+VRIAC,2023Q4,Total Bonds Current Year,NAIC 3,0,161518220
+VRIAC,2023Q4,Total Bonds Current Year,NAIC 4,0,84873918
+VRIAC,2023Q4,Total Bonds Current Year,NAIC 5,0,5551343
+VRIAC,2023Q4,Total Bonds Current Year,NAIC 6,0,995708
+VRIAC,2023Q4,Total Bonds Prior Year,NAIC 1,0,6699250726
+VRIAC,2023Q4,Total Bonds Prior Year,NAIC 2,0,4966590231
+VRIAC,2023Q4,Total Bonds Prior Year,NAIC 3,0,219357840
+VRIAC,2023Q4,Total Bonds Prior Year,NAIC 4,0,70515356
+VRIAC,2023Q4,Total Bonds Prior Year,NAIC 5,0,3010430
+VRIAC,2023Q4,Total Bonds Prior Year,NAIC 6,0,824795
+VRIAC,2023Q4,Total Publicly Traded Bonds,NAIC 1,0,6699250726
+VRIAC,2023Q4,Total Publicly Traded Bonds,NAIC 3,0,219357840
+VRIAC,2023Q4,Total Publicly Traded Bonds,NAIC 4,0,70515356
+VRIAC,2023Q4,Total Publicly Traded Bonds,NAIC 5,0,3010430
+VRIAC,2023Q4,Total Publicly Traded Bonds,NAIC 6,0,824795
+VRIAC,2023Q4,Total Privately Placed Bonds,NAIC 1,0,5083674908
+VRIAC,2023Q4,Total Privately Placed Bonds,NAIC 2,0,6020887572
+VRIAC,2023Q4,Total Privately Placed Bonds,NAIC 3,0,461591401
+VRIAC,2023Q4,Total Privately Placed Bonds,NAIC 4,0,120405005
+VRIAC,2023Q4,Total Privately Placed Bonds,NAIC 5,0,18356468
+VRIAC,2023Q4,Total Privately Placed Bonds,NAIC 6,0,11290545
+VRIAC,2024Q2,BONDS,NAIC 1,0,11014983011
+VRIAC,2024Q2,BONDS,NAIC 2,0,9784328545
+VRIAC,2024Q2,BONDS,NAIC 3,0,729831112
+VRIAC,2024Q2,BONDS,NAIC 4,0,170511986
+VRIAC,2024Q2,BONDS,NAIC 5,0,38341644
+VRIAC,2024Q2,BONDS,NAIC 6,0,8162757
+VRIAC,2024Q2,BONDS,NAIC 1,0,63018328
+VRIAC,2024Q2,BONDS,NAIC 2,0,64539573
+VRIAC,2024Q2,BONDS,NAIC 3,0,0
+VRIAC,2024Q2,BONDS,NAIC 4,0,0
+VRIAC,2024Q2,BONDS,NAIC 5,0,0
+VRIAC,2024Q2,BONDS,NAIC 6,0,16200
+VRIAC,2024Q3,BONDS,NAIC 1,11220638091,11014983011
+VRIAC,2024Q3,BONDS,NAIC 2,9068917773,9784328545
+VRIAC,2024Q3,BONDS,NAIC 3,753642154,729831112
+VRIAC,2024Q3,BONDS,NAIC 4,163711810,170511986
+VRIAC,2024Q3,BONDS,NAIC 5,98243119,38341644
+VRIAC,2024Q3,BONDS,NAIC 6,7548103,8162757
+VRIAC,2024Q3,BONDS,NAIC 1,75617388,63018328
+VRIAC,2024Q3,BONDS,NAIC 2,65330870,64539573
+VRIAC,2024Q3,BONDS,NAIC 3,0,0
+VRIAC,2024Q3,BONDS,NAIC 4,0,0
+VRIAC,2024Q3,BONDS,NAIC 5,0,0
+VRIAC,2024Q3,BONDS,NAIC 6,0,16200
+VRIAC,2025Q1,BONDS,NAIC 1,0,5535586076
+VRIAC,2025Q1,BONDS,NAIC 2,0,8688136584
+VRIAC,2025Q1,BONDS,NAIC 3,0,633378570
+VRIAC,2025Q1,BONDS,NAIC 4,0,122338347
+VRIAC,2025Q1,BONDS,NAIC 5,0,73561481
+VRIAC,2025Q1,BONDS,NAIC 6,0,162678
+VRIAC,2025Q1,BONDS,NAIC 2,0,464550539
+VRIAC,2025Q1,BONDS,NAIC 3,0,102443076
+VRIAC,2025Q1,BONDS,NAIC 4,0,53985869
+VRIAC,2025Q1,BONDS,NAIC 5,0,40417411
+VRIAC,2025Q1,BONDS,NAIC 6,0,1209881
+VRIAC,2025Q1,BONDS,NAIC 1,0,74393115
+VRIAC,2025Q1,BONDS,NAIC 2,0,62992200
+VRIAC,2025Q1,BONDS,NAIC 3,0,0
+VRIAC,2025Q1,BONDS,NAIC 4,0,0
+VRIAC,2025Q1,BONDS,NAIC 5,0,0
+VRIAC,2025Q1,BONDS,NAIC 6,0,272
+VRIAC,2025Q2,BONDS,NAIC 1,0,5535586076
+VRIAC,2025Q2,BONDS,NAIC 2,0,8688136584
+VRIAC,2025Q2,BONDS,NAIC 3,0,633378570
+VRIAC,2025Q2,BONDS,NAIC 4,0,122338347
+VRIAC,2025Q2,BONDS,NAIC 5,0,73561481
+VRIAC,2025Q2,BONDS,NAIC 6,0,162678
+VRIAC,2025Q2,BONDS,NAIC 2,0,464550539
+VRIAC,2025Q2,BONDS,NAIC 3,0,102443076
+VRIAC,2025Q2,BONDS,NAIC 4,0,53985869
+VRIAC,2025Q2,BONDS,NAIC 5,0,40417411
+VRIAC,2025Q2,BONDS,NAIC 6,0,1209881
+VRIAC,2025Q2,BONDS,NAIC 1,0,74393115
+VRIAC,2025Q2,BONDS,NAIC 2,0,62992200
+VRIAC,2025Q2,BONDS,NAIC 3,0,0
+VRIAC,2025Q2,BONDS,NAIC 4,0,0
+VRIAC,2025Q2,BONDS,NAIC 5,0,0
+VRIAC,2025Q2,BONDS,NAIC 6,0,272

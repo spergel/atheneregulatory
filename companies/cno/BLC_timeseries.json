@@ -1,0 +1,122 @@
+[
+  {
+    "period": "2018Q3",
+    "entity": "BLC",
+    "bonds": 15596611833.0,
+    "mortgages": 1077543434.0,
+    "alts": 491115729.0,
+    "cash": 138911929.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 17304182925.0
+  },
+  {
+    "period": "2019Q2",
+    "entity": "BLC",
+    "bonds": 13240278150.0,
+    "mortgages": 1050787817.0,
+    "alts": 654861135.0,
+    "cash": 57196746.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 15003123848.0
+  },
+  {
+    "period": "2021Q1",
+    "entity": "BLC",
+    "bonds": 14072414472,
+    "mortgages": 919335169,
+    "alts": 0.0,
+    "cash": 0.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 14991749641.0
+  },
+  {
+    "period": "2021Q2",
+    "entity": "BLC",
+    "bonds": 14585390344.0,
+    "mortgages": 973595548.0,
+    "alts": 803329703.0,
+    "cash": 107992075.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 16470307670.0
+  },
+  {
+    "period": "2021Q3",
+    "entity": "BLC",
+    "bonds": 15031317189.0,
+    "mortgages": 973595548.0,
+    "alts": 806611845.0,
+    "cash": 109039760.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 16920564342.0
+  },
+  {
+    "period": "2022Q1",
+    "entity": "BLC",
+    "bonds": 16800296694.0,
+    "mortgages": 893631124.0,
+    "alts": 791373766.0,
+    "cash": 85341344.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 18570642928.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "BLC",
+    "bonds": 17312515819.0,
+    "mortgages": 983503266.0,
+    "alts": 755590344.0,
+    "cash": 157988752.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 1584345322.0,
+    "life_prem_ytd": 489813338.0,
+    "total_invested": 19209598181.0
+  },
+  {
+    "period": "2023Q3",
+    "entity": "BLC",
+    "bonds": 18051670497.0,
+    "mortgages": 1177105645.0,
+    "alts": 734648806.0,
+    "cash": 11974233.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 1123303072.0,
+    "life_prem_ytd": 369809397.0,
+    "total_invested": 19975399181.0
+  },
+  {
+    "period": "2024Q3",
+    "entity": "BLC",
+    "bonds": 18978749033.0,
+    "mortgages": 1308315280.0,
+    "alts": 686022908.0,
+    "cash": 393344280.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 1272622213.0,
+    "life_prem_ytd": 370678850.0,
+    "total_invested": 21366431501.0
+  },
+  {
+    "period": "2024Q4",
+    "entity": "BLC",
+    "bonds": 19330280248.0,
+    "mortgages": 1310311599.0,
+    "alts": 691731275.0,
+    "cash": 222878197.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 1755694826.0,
+    "life_prem_ytd": 493474261.0,
+    "total_invested": 21555201319.0
+  }
+]

@@ -1,0 +1,221 @@
+entity,period,category,naic_designation,total_current_year,total_prior_year
+FUNM,2021Q1,BONDS,NAIC 1,1471493625,1543407820
+FUNM,2021Q1,BONDS,NAIC 2,2052491180,1966533127
+FUNM,2021Q1,BONDS,NAIC 3,3,15262831
+FUNM,2021Q1,BONDS,NAIC 4,177542086,177746596
+FUNM,2021Q1,BONDS,NAIC 5,44428550,51972592
+FUNM,2021Q1,BONDS,NAIC 6,19937274,7196135
+FUNM,2021Q1,BONDS,NAIC 1,4000000,4000000
+FUNM,2021Q1,BONDS,NAIC 2,4000000,4000000
+FUNM,2021Q2,BONDS,NAIC 1,1501778218,1543407820
+FUNM,2021Q2,BONDS,NAIC 2,2067958402,1966533127
+FUNM,2021Q2,BONDS,NAIC 3,3,59069
+FUNM,2021Q2,BONDS,NAIC 4,176978655,177746596
+FUNM,2021Q2,BONDS,NAIC 5,44411461,51972592
+FUNM,2021Q2,BONDS,NAIC 6,19856936,7196135
+FUNM,2021Q2,BONDS,NAIC 1,4000000,4000000
+FUNM,2021Q2,BONDS,NAIC 2,4000000,4000000
+FUNM,2021Q3,BONDS,NAIC 1,1516931674,1543407820
+FUNM,2021Q3,BONDS,NAIC 2,2059264810,1966533127
+FUNM,2021Q3,BONDS,NAIC 3,3,11898434
+FUNM,2021Q3,BONDS,NAIC 4,188751089,177746596
+FUNM,2021Q3,BONDS,NAIC 5,46394156,51972592
+FUNM,2021Q3,BONDS,NAIC 6,19771960,7196135
+FUNM,2021Q3,BONDS,NAIC 1,4000000,4000000
+FUNM,2021Q3,BONDS,NAIC 2,4000000,4000000
+FUNM,2022Q1,BONDS,NAIC 1,1535542965,1518159127
+FUNM,2022Q1,BONDS,NAIC 2,2105120399,2061260755
+FUNM,2022Q1,BONDS,NAIC 3,3,-11588124
+FUNM,2022Q1,BONDS,NAIC 4,166963396,178676120
+FUNM,2022Q1,BONDS,NAIC 5,42345418,46376006
+FUNM,2022Q1,BONDS,NAIC 6,16415770,16501495
+FUNM,2022Q1,BONDS,NAIC 1,4000000,4000000
+FUNM,2022Q1,BONDS,NAIC 2,4000000,4000000
+FUNM,2022Q4,U.S. Governments,NAIC 1,40692734,0
+FUNM,2022Q4,U.S. Governments,NAIC 2,0,0
+FUNM,2022Q4,U.S. Governments,NAIC 3,0,0
+FUNM,2022Q4,U.S. Governments,NAIC 4,0,0
+FUNM,2022Q4,U.S. Governments,NAIC 5,0,0
+FUNM,2022Q4,U.S. Governments,NAIC 6,0,0
+FUNM,2022Q4,All Other Governments,NAIC 1,0,0
+FUNM,2022Q4,All Other Governments,NAIC 2,0,0
+FUNM,2022Q4,All Other Governments,NAIC 3,0,0
+FUNM,2022Q4,All Other Governments,NAIC 4,0,0
+FUNM,2022Q4,All Other Governments,NAIC 5,0,0
+FUNM,2022Q4,All Other Governments,NAIC 6,0,0
+FUNM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,0,0
+FUNM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+FUNM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+FUNM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+FUNM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+FUNM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,83750000,0
+FUNM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+FUNM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+FUNM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+FUNM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+FUNM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+FUNM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 1,570847765,567847697
+FUNM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 2,0,0
+FUNM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+FUNM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+FUNM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+FUNM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+FUNM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,891981317,495727876
+FUNM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,2089010559,1365839930
+FUNM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,119584734,95238313
+FUNM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,13828058,0
+FUNM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+FUNM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+FUNM,2022Q4,Hybrid Securities,NAIC 1,0,0
+FUNM,2022Q4,Hybrid Securities,NAIC 2,0,0
+FUNM,2022Q4,Hybrid Securities,NAIC 3,0,0
+FUNM,2022Q4,Hybrid Securities,NAIC 4,0,0
+FUNM,2022Q4,Hybrid Securities,NAIC 5,0,0
+FUNM,2022Q4,Hybrid Securities,NAIC 6,0,0
+FUNM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+FUNM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+FUNM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+FUNM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+FUNM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+FUNM,2022Q4,SVO Identified Funds,NAIC 1,0,0
+FUNM,2022Q4,SVO Identified Funds,NAIC 2,0,0
+FUNM,2022Q4,SVO Identified Funds,NAIC 3,0,0
+FUNM,2022Q4,SVO Identified Funds,NAIC 4,0,0
+FUNM,2022Q4,SVO Identified Funds,NAIC 5,0,0
+FUNM,2022Q4,SVO Identified Funds,NAIC 6,0,0
+FUNM,2022Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+FUNM,2022Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+FUNM,2022Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+FUNM,2022Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+FUNM,2022Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+FUNM,2022Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+FUNM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+FUNM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+FUNM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+FUNM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+FUNM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+FUNM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+FUNM,2022Q4,Total Bonds Current Year,NAIC 1,1665009803,399253509
+FUNM,2022Q4,Total Bonds Current Year,NAIC 2,2089010559,723170629
+FUNM,2022Q4,Total Bonds Current Year,NAIC 3,119584734,24346421
+FUNM,2022Q4,Total Bonds Current Year,NAIC 4,0,0
+FUNM,2022Q4,Total Bonds Current Year,NAIC 5,0,0
+FUNM,2022Q4,Total Bonds Current Year,NAIC 6,0,0
+FUNM,2022Q4,Total Bonds Prior Year,NAIC 1,1518159127,389414802
+FUNM,2022Q4,Total Bonds Prior Year,NAIC 2,2061260755,666151558
+FUNM,2022Q4,Total Bonds Prior Year,NAIC 3,178676120,55022223
+FUNM,2022Q4,Total Bonds Prior Year,NAIC 4,16798744,0
+FUNM,2022Q4,Total Bonds Prior Year,NAIC 5,0,0
+FUNM,2022Q4,Total Bonds Prior Year,NAIC 6,0,0
+FUNM,2022Q4,Total Publicly Traded Bonds,NAIC 1,1265756295,1265756295
+FUNM,2022Q4,Total Publicly Traded Bonds,NAIC 3,123653897,0
+FUNM,2022Q4,Total Publicly Traded Bonds,NAIC 4,0,0
+FUNM,2022Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+FUNM,2022Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+FUNM,2022Q4,Total Privately Placed Bonds,NAIC 1,399253509,399253509
+FUNM,2022Q4,Total Privately Placed Bonds,NAIC 2,723170629,723170629
+FUNM,2022Q4,Total Privately Placed Bonds,NAIC 3,24346421,0
+FUNM,2022Q4,Total Privately Placed Bonds,NAIC 4,0,0
+FUNM,2022Q4,Total Privately Placed Bonds,NAIC 5,0,0
+FUNM,2022Q4,Total Privately Placed Bonds,NAIC 6,0,0
+FUNM,2023Q1,BONDS,NAIC 1,1710412112,1665009803
+FUNM,2023Q1,BONDS,NAIC 2,2098572521,2089010559
+FUNM,2023Q1,BONDS,NAIC 3,116258516,119584734
+FUNM,2023Q1,BONDS,NAIC 4,54911530,38869646
+FUNM,2023Q1,BONDS,NAIC 5,0,16149506
+FUNM,2023Q1,BONDS,NAIC 1,4000000,4000000
+ULAM,2022Q1,BONDS,NAIC 1,6748578111,6577735088
+ULAM,2022Q1,BONDS,NAIC 2,10697839184,10330971808
+ULAM,2022Q1,BONDS,NAIC 3,1272363483,1413684864
+ULAM,2022Q1,BONDS,NAIC 4,21678491,-31029622
+ULAM,2022Q1,BONDS,NAIC 5,602900798,674650115
+ULAM,2022Q1,BONDS,NAIC 6,57698485,71940705
+ULAM,2022Q1,BONDS,NAIC 4,9932040,9980000
+ULAM,2022Q1,BONDS,NAIC 5,9932040,9980000
+ULAM,2022Q4,U.S. Governments,NAIC 1,44868956,0
+ULAM,2022Q4,U.S. Governments,NAIC 2,0,0
+ULAM,2022Q4,U.S. Governments,NAIC 3,0,0
+ULAM,2022Q4,U.S. Governments,NAIC 4,0,0
+ULAM,2022Q4,U.S. Governments,NAIC 5,0,0
+ULAM,2022Q4,U.S. Governments,NAIC 6,0,0
+ULAM,2022Q4,All Other Governments,NAIC 1,0,0
+ULAM,2022Q4,All Other Governments,NAIC 2,0,0
+ULAM,2022Q4,All Other Governments,NAIC 3,0,0
+ULAM,2022Q4,All Other Governments,NAIC 4,0,0
+ULAM,2022Q4,All Other Governments,NAIC 5,0,0
+ULAM,2022Q4,All Other Governments,NAIC 6,0,0
+ULAM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,42503342,0
+ULAM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+ULAM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+ULAM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+ULAM,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+ULAM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,173371814,0
+ULAM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+ULAM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+ULAM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+ULAM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+ULAM,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+ULAM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 1,2075043851,2048043851
+ULAM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 2,79647130,0
+ULAM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+ULAM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+ULAM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+ULAM,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+ULAM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,4929269646,2956926172
+ULAM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,10774974153,7267156102
+ULAM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,1090854926,446993474
+ULAM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,658919390,473079214
+ULAM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,27669475,0
+ULAM,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+ULAM,2022Q4,Hybrid Securities,NAIC 1,0,0
+ULAM,2022Q4,Hybrid Securities,NAIC 2,28139468,0
+ULAM,2022Q4,Hybrid Securities,NAIC 3,0,0
+ULAM,2022Q4,Hybrid Securities,NAIC 4,0,0
+ULAM,2022Q4,Hybrid Securities,NAIC 5,0,0
+ULAM,2022Q4,Hybrid Securities,NAIC 6,0,0
+ULAM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+ULAM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+ULAM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+ULAM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+ULAM,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+ULAM,2022Q4,SVO Identified Funds,NAIC 1,0,0
+ULAM,2022Q4,SVO Identified Funds,NAIC 2,0,0
+ULAM,2022Q4,SVO Identified Funds,NAIC 3,0,0
+ULAM,2022Q4,SVO Identified Funds,NAIC 4,0,0
+ULAM,2022Q4,SVO Identified Funds,NAIC 5,0,0
+ULAM,2022Q4,SVO Identified Funds,NAIC 6,0,0
+ULAM,2022Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+ULAM,2022Q4,Unaffiliated Bank Loans,NAIC 2,9920287,0
+ULAM,2022Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+ULAM,2022Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+ULAM,2022Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+ULAM,2022Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+ULAM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+ULAM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+ULAM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+ULAM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+ULAM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+ULAM,2022Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+ULAM,2022Q4,Total Bonds Current Year,NAIC 1,7300606029,2006343474
+ULAM,2022Q4,Total Bonds Current Year,NAIC 2,10866996876,3527520059
+ULAM,2022Q4,Total Bonds Current Year,NAIC 3,1090854926,643861452
+ULAM,2022Q4,Total Bonds Current Year,NAIC 4,556617607,473079214
+ULAM,2022Q4,Total Bonds Current Year,NAIC 5,0,0
+ULAM,2022Q4,Total Bonds Current Year,NAIC 6,0,0
+ULAM,2022Q4,Total Bonds Prior Year,NAIC 1,6577735088,1780585811
+ULAM,2022Q4,Total Bonds Prior Year,NAIC 2,10330971808,3520782890
+ULAM,2022Q4,Total Bonds Prior Year,NAIC 3,1413684864,699246666
+ULAM,2022Q4,Total Bonds Prior Year,NAIC 4,674650115,564619338
+ULAM,2022Q4,Total Bonds Prior Year,NAIC 5,62180410,0
+ULAM,2022Q4,Total Bonds Prior Year,NAIC 6,0,0
+ULAM,2022Q4,Total Publicly Traded Bonds,NAIC 1,5294262555,5294262555
+ULAM,2022Q4,Total Publicly Traded Bonds,NAIC 3,446993474,446993474
+ULAM,2022Q4,Total Publicly Traded Bonds,NAIC 4,83538393,83538393
+ULAM,2022Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+ULAM,2022Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+ULAM,2022Q4,Total Privately Placed Bonds,NAIC 1,2006343474,2006343474
+ULAM,2022Q4,Total Privately Placed Bonds,NAIC 2,3527520059,3527520059
+ULAM,2022Q4,Total Privately Placed Bonds,NAIC 3,699246666,0
+ULAM,2022Q4,Total Privately Placed Bonds,NAIC 4,0,0
+ULAM,2022Q4,Total Privately Placed Bonds,NAIC 5,0,0
+ULAM,2022Q4,Total Privately Placed Bonds,NAIC 6,0,0

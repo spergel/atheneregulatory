@@ -1,0 +1,178 @@
+[
+  {
+    "severity": "med",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2019Q2",
+    "metric": "bonds",
+    "issue": "low_vs_q4_median",
+    "ratio": 0.28392125550071745,
+    "baseline": 47312106902.0,
+    "current": 13432912792.0
+  },
+  {
+    "severity": "med",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2019Q2",
+    "metric": "total_invested",
+    "issue": "low_vs_q4_median",
+    "ratio": 0.28392125550071745,
+    "baseline": 47312106902.0,
+    "current": 13432912792.0
+  },
+  {
+    "severity": "med",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2019Q3",
+    "metric": "bonds",
+    "issue": "low_vs_q4_median",
+    "ratio": 0.30621605374728234,
+    "baseline": 47312106902.0,
+    "current": 14487726670.0
+  },
+  {
+    "severity": "med",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2019Q3",
+    "metric": "total_invested",
+    "issue": "low_vs_q4_median",
+    "ratio": 0.30621605374728234,
+    "baseline": 47312106902.0,
+    "current": 14487726670.0
+  },
+  {
+    "severity": "med",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2020Q1",
+    "metric": "mortgages",
+    "issue": "low_vs_q4_median",
+    "ratio": 0.17256761676266347,
+    "baseline": 60294320216.0,
+    "current": 10404847144.0
+  },
+  {
+    "severity": "high",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2020Q2",
+    "metric": "mortgages",
+    "issue": "suspicious_zero",
+    "prev": 10404847144.0,
+    "next": 0.0,
+    "q4_median": 60294320216.0
+  },
+  {
+    "severity": "med",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2022Q2",
+    "metric": "mortgages",
+    "issue": "low_vs_q4_median",
+    "ratio": 0.3208229574643555,
+    "baseline": 60294320216.0,
+    "current": 19343802130.0
+  },
+  {
+    "severity": "high",
+    "company": "athene",
+    "entity": "AAIA",
+    "period": "2022Q3",
+    "metric": "mortgages",
+    "issue": "suspicious_zero",
+    "prev": 19343802130.0,
+    "next": 0.0,
+    "q4_median": 60294320216.0
+  },
+  {
+    "severity": "high",
+    "company": "brighthouse",
+    "entity": "BLICNY",
+    "period": "2022Q1",
+    "metric": "bonds",
+    "issue": "suspicious_zero",
+    "prev": 1863020444.0,
+    "next": 1656064107.0,
+    "q4_median": 1856695151.0
+  },
+  {
+    "severity": "high",
+    "company": "brighthouse",
+    "entity": "BLICNY",
+    "period": "2022Q1",
+    "metric": "mortgages",
+    "issue": "suspicious_zero",
+    "prev": 272003848.0,
+    "next": 262811185.0,
+    "q4_median": 331658419.0
+  },
+  {
+    "severity": "high",
+    "company": "brighthouse",
+    "entity": "BLICNY",
+    "period": "2022Q1",
+    "metric": "total_invested",
+    "issue": "suspicious_zero",
+    "prev": 2169849368.0,
+    "next": 1954143458.0,
+    "q4_median": 2169849368.0
+  },
+  {
+    "severity": "high",
+    "company": "brighthouse",
+    "entity": "NELIC",
+    "period": "2022Q1",
+    "metric": "bonds",
+    "issue": "suspicious_zero",
+    "prev": 956074755.0,
+    "next": 964575264.0,
+    "q4_median": 964737361.0
+  },
+  {
+    "severity": "high",
+    "company": "brighthouse",
+    "entity": "NELIC",
+    "period": "2022Q1",
+    "metric": "mortgages",
+    "issue": "suspicious_zero",
+    "prev": 62718996.0,
+    "next": 59775524.0,
+    "q4_median": 85986447.0
+  },
+  {
+    "severity": "high",
+    "company": "brighthouse",
+    "entity": "NELIC",
+    "period": "2022Q1",
+    "metric": "total_invested",
+    "issue": "suspicious_zero",
+    "prev": 1033545858.0,
+    "next": 1043160598.0,
+    "q4_median": 1049541756.0
+  },
+  {
+    "severity": "high",
+    "company": "cno",
+    "entity": "BLC",
+    "period": "2021Q1",
+    "metric": "bonds",
+    "issue": "suspicious_zero",
+    "prev": 13240278150.0,
+    "next": 14585390344.0,
+    "q4_median": 19330280248.0
+  },
+  {
+    "severity": "high",
+    "company": "cno",
+    "entity": "BLC",
+    "period": "2021Q1",
+    "metric": "total_invested",
+    "issue": "suspicious_zero",
+    "prev": 13952336031.0,
+    "next": 15496712122.0,
+    "q4_median": 21555201319.0
+  }
+]

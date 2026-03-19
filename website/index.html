@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NAIC Statutory Filings</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="topnav">
+  <a class="brand" href="#">NAIC <span>Filings</span></a>
+
+  <div class="nav-selectors">
+    <div class="nav-select-group">
+      <label class="nav-label-sm">COMPANY</label>
+      <select id="sel-company" class="nav-select"></select>
+    </div>
+    <div class="nav-select-group">
+      <label class="nav-label-sm">ENTITY</label>
+      <select id="sel-entity" class="nav-select"></select>
+    </div>
+    <div class="nav-select-group">
+      <label class="nav-label-sm">PERIOD</label>
+      <select id="sel-period" class="nav-select"></select>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+
+  <a href="#" class="active" data-section="sec-overview"><span class="nav-label">Overview</span></a>
+  <a href="#" data-section="sec-premiums"><span class="nav-label">Premiums</span></a>
+  <a href="#" data-section="sec-portfolio"><span class="nav-label">Portfolio</span></a>
+  <a href="#" data-section="sec-mortgages"><span class="nav-label">Mortgages</span></a>
+  <a href="#" data-section="sec-compare"><span class="nav-label">Compare</span></a>
+  <a href="#" data-section="sec-data"><span class="nav-label">Data Room</span></a>
+</nav>
+
+<!-- ===== OVERVIEW ===== -->
+<section id="sec-overview" class="page-section active">
+  <div class="section-header">
+    <div>
+      <div class="section-title" id="ov-title">—</div>
+      <div class="section-sub" id="ov-sub">NAIC Statutory Filing</div>
+    </div>
+    <div id="no-data-notice" class="notice-box" style="display:none">
+      No data available for this selection yet.
+    </div>
+  </div>
+
+  <div class="kpi-grid" id="kpi-grid"></div>
+  <div class="data-gaps-bar" id="data-gaps-bar" style="display:none">
+    <span class="gap-icon">⚠</span>
+    <div>
+      <div class="gap-label">Some data not available for this period</div>
+      <div class="data-gaps-chips" id="data-gaps-chips"></div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Asset Allocation</span>
+        <span class="source-badge">Sch A · B · BA · D · E</span>
+      </div>
+      <div class="panel-body">
+        <div id="chart-donut" class="chart-wrap" style="min-height:260px"></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Bond Quality (NAIC Rating)</span>
+        <span class="source-badge">Sch D Quality</span>
+      </div>
+      <div class="panel-body">
+        <div id="chart-naic-bar" class="chart-wrap"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Total Invested Assets — Historical</span>
+      <span class="panel-hint" id="hist-hint"></span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-hist-total" class="chart-wrap"></div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Asset Mix Over Time</span>
+        <span class="panel-hint">Bonds · Mortgages · Alternatives · Cash</span>
+      </div>
+      <div class="panel-body">
+        <div id="chart-hist-mix" class="chart-wrap"></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Annuity Premiums YTD — Historical</span>
+        <span class="panel-hint">Per filing period</span>
+      </div>
+      <div class="panel-body">
+        <div id="chart-hist-annuity" class="chart-wrap"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== PREMIUMS ===== -->
+<section id="sec-premiums" class="page-section">
+  <div class="section-header">
+    <div>
+      <div class="section-title">Annuity &amp; Life Premiums by State</div>
+      <div class="section-sub" id="prem-sub">Schedule T — Direct Business, Year to Date</div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Annuity Considerations — Choropleth Map</span>
+      <span class="source-badge">Sch T</span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-premiums-map" class="chart-wrap map"></div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Top 20 States by Premium Volume</span>
+        <span class="panel-hint">Annuity + Life stacked</span>
+      </div>
+      <div class="panel-body">
+        <div id="chart-top-states" class="chart-wrap tall"></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">All States — Premium Detail</span>
+        <span class="source-badge">Sch T</span>
+      </div>
+      <div class="panel-body">
+        <div class="table-search">
+          <input id="premiums-search" type="text" placeholder="Filter by state…">
+        </div>
+        <div class="data-table-wrap" style="max-height:460px;overflow-y:auto">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th class="rank">#</th>
+                <th>State</th>
+                <th class="num">Life</th>
+                <th class="num">Annuity</th>
+                <th class="num">Total</th>
+              </tr>
+            </thead>
+            <tbody id="premiums-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== PORTFOLIO ===== -->
+<section id="sec-portfolio" class="page-section">
+  <div class="section-header">
+    <div>
+      <div class="section-title">Bond Portfolio by NAIC Quality</div>
+      <div class="section-sub" id="port-sub">Schedule D Verification — Ending Book Value</div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">NAIC Designation Breakdown</span>
+      <span class="source-badge">Sch D Quality</span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-naic-detail" class="chart-wrap tall"></div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">NAIC Breakdown Table</span>
+    </div>
+    <div class="data-table-wrap panel-body">
+      <table class="data-table" id="naic-table">
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>NAIC</th>
+            <th class="num">Current Year BV</th>
+            <th class="num">Prior Year BV</th>
+          </tr>
+        </thead>
+        <tbody id="naic-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ===== MORTGAGES ===== -->
+<section id="sec-mortgages" class="page-section">
+  <div class="section-header">
+    <div>
+      <div class="section-title">Mortgage Loan Portfolio</div>
+      <div class="section-sub" id="mort-sub">Schedule B — Individual Loan Details</div>
+    </div>
+  </div>
+
+  <div class="kpi-grid" style="grid-template-columns:repeat(3,1fr)" id="mort-kpis"></div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Loans by State — Book Value</span>
+      <span class="source-badge">Sch B</span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-mortgage-map" class="chart-wrap map"></div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Interest Rate Distribution</span>
+        <span class="panel-hint">Coupon rate buckets (0.5% width)</span>
+      </div>
+      <div class="panel-body">
+        <div id="chart-rate-hist" class="chart-wrap"></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Top States by Loan Volume</span>
+        <span class="source-badge">Sch B</span>
+      </div>
+      <div class="panel-body">
+        <div class="data-table-wrap" style="max-height:400px;overflow-y:auto">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th class="rank">#</th>
+                <th>State</th>
+                <th class="num">Count</th>
+                <th class="num">Book Value</th>
+                <th class="num">Avg Rate</th>
+              </tr>
+            </thead>
+            <tbody id="mortgage-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== COMPARE ===== -->
+<section id="sec-compare" class="page-section">
+  <div class="section-header">
+    <div>
+      <div class="section-title">Cross-Firm Comparison</div>
+      <div class="section-sub">All companies — aggregated across entities · Select a metric below</div>
+    </div>
+    <div style="display:flex;gap:8px;align-items:center">
+      <label style="font-size:11px;font-weight:700;color:var(--muted)">METRIC</label>
+      <select id="compare-metric" style="font-size:12px;padding:4px 8px;border:1px solid var(--border);background:#fff">
+        <option value="total_invested">Total Invested Assets</option>
+        <option value="bonds">Bond Portfolio</option>
+        <option value="mortgages">Mortgage Loans</option>
+        <option value="alts">Alternatives (BA)</option>
+        <option value="annuity_ytd">Annuity Premiums YTD</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title" id="compare-chart-title">Total Invested Assets — All Companies</span>
+      <span class="panel-hint">Aggregated across all filing entities · Annual periods shown</span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-compare-lines" class="chart-wrap" style="min-height:380px"></div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title" id="compare-bar-title">Latest Period — Total Invested Assets by Firm</span>
+      <span class="panel-hint">Most recent available data per company</span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-compare-bar" class="chart-wrap"></div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Annuity Premiums YTD — Annual Filings (Q4)</span>
+      <span class="panel-hint">Year-end annuity considerations from Schedule T</span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-compare-annuity" class="chart-wrap"></div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Summary Table — Latest Available Period</span>
+    </div>
+    <div class="data-table-wrap panel-body">
+      <table class="data-table" id="compare-table">
+        <thead>
+          <tr>
+            <th>Company</th>
+            <th>Ticker</th>
+            <th>Latest Period</th>
+            <th class="num">Total Invested</th>
+            <th class="num">Bonds</th>
+            <th class="num">Mortgages</th>
+            <th class="num">Annuity YTD</th>
+          </tr>
+        </thead>
+        <tbody id="compare-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ===== DATA ROOM ===== -->
+<section id="sec-data" class="page-section">
+  <div class="section-header">
+    <div>
+      <div class="section-title">Data Room</div>
+      <div class="section-sub">Full parsed schedule data — browse by company, download as CSV</div>
+    </div>
+  </div>
+
+  <!-- Bulk downloads strip -->
+  <div class="panel" style="margin-bottom:14px">
+    <div class="panel-header">
+      <span class="panel-title">Bulk Downloads — All Companies</span>
+    </div>
+    <div class="panel-body" style="padding:14px 20px;display:flex;gap:10px;flex-wrap:wrap">
+      <a class="download-btn" href="data/download_all_timeseries.csv" download>
+        ↓ All KPI Timeseries (CSV)
+        <span class="download-hint">Bonds · Mortgages · Alts · Annuity YTD</span>
+      </a>
+      <a class="download-btn" href="data/crossfirm.json" download>
+        ↓ Cross-Firm Data (JSON)
+        <span class="download-hint">Company-aggregated timeseries</span>
+      </a>
+      <a class="download-btn" href="data/catalog.json" download>
+        ↓ File Catalog (JSON)
+        <span class="download-hint">Index of all 237+ filing files</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- Company-first browser -->
+  <div class="panel">
+    <div class="panel-header">
+      <span class="panel-title">Browse by Company</span>
+      <div style="display:flex;gap:8px;align-items:center">
+        <select id="dr-company" class="dr-select"></select>
+        <select id="dr-entity"  class="dr-select"></select>
+        <select id="dr-period"  class="dr-select"></select>
+      </div>
+    </div>
+
+    <!-- Schedule type tabs -->
+    <div class="sched-tabs" id="dr-tabs">
+      <button class="sched-tab active" data-sched="t">Schedule T<span class="tab-sub">State Premiums</span></button>
+      <button class="sched-tab" data-sched="dq">Bond Quality<span class="tab-sub">Sch D · NAIC Ratings</span></button>
+      <button class="sched-tab" data-sched="b">Mortgages<span class="tab-sub">Sch B · By State</span></button>
+      <button class="sched-tab" data-sched="ba">Alternatives<span class="tab-sub">Sch BA · Holdings</span></button>
+      <button class="sched-tab" data-sched="kpi">KPI Timeseries<span class="tab-sub">All periods</span></button>
+    </div>
+
+    <!-- Download bar for current schedule -->
+    <div class="dr-dl-bar" id="dr-dl-bar">
+      <span id="dr-row-count" class="dr-row-count"></span>
+      <button id="dr-export-btn" class="tab-pill active" onclick="drExportCSV()">↓ Export current view (CSV)</button>
+      <a id="dr-all-link" class="tab-pill" download>↓ Download all periods (CSV)</a>
+    </div>
+
+    <!-- Table viewer -->
+    <div class="dr-search-bar">
+      <input id="dr-search" type="text" placeholder="Filter rows…">
+    </div>
+    <div class="data-table-wrap" style="max-height:560px;overflow-y:auto">
+      <table class="data-table" id="dr-table">
+        <thead id="dr-thead"></thead>
+        <tbody id="dr-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<script src="js/app.js?v=22"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+[
+  {
+    "period": "2019Q3",
+    "entity": "VRIAC",
+    "bonds": 24356308744.0,
+    "mortgages": 4919001825.0,
+    "alts": 966420619.0,
+    "cash": 679042031.0,
+    "real_estate": 1671955.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 30922445174.0
+  },
+  {
+    "period": "2021Q4",
+    "entity": "VRIAC",
+    "bonds": 25416393817.0,
+    "mortgages": 4693657994.0,
+    "alts": 0.0,
+    "cash": 0.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 30110051811.0
+  },
+  {
+    "period": "2023Q2",
+    "entity": "VRIAC",
+    "bonds": 22877523228.0,
+    "mortgages": 4162046357.0,
+    "alts": 1377752320.0,
+    "cash": 308152983.0,
+    "real_estate": 22850398.0,
+    "annuity_ytd": 6195141072.0,
+    "life_prem_ytd": 34103125.0,
+    "total_invested": 28748325286.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "VRIAC",
+    "bonds": 21900783059.0,
+    "mortgages": 4043855659.0,
+    "alts": 1349887624.0,
+    "cash": 93500000.0,
+    "real_estate": 22850398.0,
+    "annuity_ytd": 12250237076.0,
+    "life_prem_ytd": 68491614.0,
+    "total_invested": 27410876740.0
+  },
+  {
+    "period": "2024Q2",
+    "entity": "VRIAC",
+    "bonds": 21237166630.0,
+    "mortgages": 3871093227.0,
+    "alts": 1427966276.0,
+    "cash": 67667908.0,
+    "real_estate": 22850398.0,
+    "annuity_ytd": 6143525100.0,
+    "life_prem_ytd": 34372377.0,
+    "total_invested": 26626744439.0
+  },
+  {
+    "period": "2024Q3",
+    "entity": "VRIAC",
+    "bonds": 21349413149.0,
+    "mortgages": 3734844027.0,
+    "alts": 1425101172.0,
+    "cash": 315317674.0,
+    "real_estate": 22850398.0,
+    "annuity_ytd": 9268964865.0,
+    "life_prem_ytd": 50706765.0,
+    "total_invested": 26847526420.0
+  },
+  {
+    "period": "2025Q1",
+    "entity": "VRIAC",
+    "bonds": 22838671023.0,
+    "mortgages": 4511100353.0,
+    "alts": 1662031981.0,
+    "cash": 58281736.0,
+    "real_estate": 22850398.0,
+    "annuity_ytd": 3606039709.0,
+    "life_prem_ytd": 15832768.0,
+    "total_invested": 29092935491.0
+  },
+  {
+    "period": "2025Q2",
+    "entity": "VRIAC",
+    "bonds": 22655481961.0,
+    "mortgages": 4477032381.0,
+    "alts": 1693404961.0,
+    "cash": 246328149.0,
+    "real_estate": 22850398.0,
+    "annuity_ytd": 7014709636.0,
+    "life_prem_ytd": 29603328.0,
+    "total_invested": 29095097850.0
+  }
+]

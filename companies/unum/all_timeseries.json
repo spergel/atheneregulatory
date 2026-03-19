@@ -1,0 +1,98 @@
+[
+  {
+    "period": "2021Q1",
+    "entity": "FUNM",
+    "bonds": 3756202899.0,
+    "mortgages": 364488753.0,
+    "alts": 0.0,
+    "cash": 13689818.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 4134381470.0
+  },
+  {
+    "period": "2021Q2",
+    "entity": "FUNM",
+    "bonds": 3805564683.0,
+    "mortgages": 353308332.0,
+    "alts": 0.0,
+    "cash": 9418991.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 4168292006.0
+  },
+  {
+    "period": "2021Q3",
+    "entity": "FUNM",
+    "bonds": 3833023709.0,
+    "mortgages": 374810123.0,
+    "alts": 0.0,
+    "cash": 2089982.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 4209923814.0
+  },
+  {
+    "period": "2022Q1",
+    "entity": "FUNM",
+    "bonds": 3838051216.0,
+    "mortgages": 393988689.0,
+    "alts": 0.0,
+    "cash": 32336733.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 4264376638.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "FUNM",
+    "bonds": 3895159025.0,
+    "mortgages": 384668255.0,
+    "alts": 45620491.0,
+    "cash": 32271764.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 4357719535.0
+  },
+  {
+    "period": "2023Q1",
+    "entity": "FUNM",
+    "bonds": 3952770788.0,
+    "mortgages": 379497411.0,
+    "alts": 45616314.0,
+    "cash": 21680553.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 117282151.0,
+    "life_prem_ytd": 29697406.0,
+    "total_invested": 4399565066.0
+  },
+  {
+    "period": "2022Q1",
+    "entity": "ULAM",
+    "bonds": 19298700878.0,
+    "mortgages": 1175596176.0,
+    "alts": 1101092281.0,
+    "cash": 143788218.0,
+    "real_estate": 82597335.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 21801774888.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "ULAM",
+    "bonds": 19763080787.0,
+    "mortgages": 1138707960.0,
+    "alts": 1217392976.0,
+    "cash": 111652663.0,
+    "real_estate": 77826467.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 22308660853.0
+  }
+]

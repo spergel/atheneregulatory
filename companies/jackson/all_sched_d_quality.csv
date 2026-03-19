@@ -1,0 +1,909 @@
+entity,period,category,naic_designation,total_current_year,total_prior_year
+JNLIC,2020Q1,BONDS,NAIC 1,0,20696655225
+JNLIC,2020Q1,BONDS,NAIC 3,0,787273800
+JNLIC,2020Q1,BONDS,NAIC 5,0,170789502
+JNLIC,2020Q1,BONDS,NAIC 1,0,0
+JNLIC,2020Q1,BONDS,NAIC 3,0,0
+JNLIC,2020Q1,BONDS,NAIC 5,0,0
+JNLIC,2020Q1,BONDS,NAIC 6,0,0
+JNLIC,2020Q3,BONDS,NAIC 1,1479093639,1571001462
+JNLIC,2020Q3,BONDS,NAIC 2,144970471,787273800
+JNLIC,2020Q3,BONDS,NAIC 3,301839308,170789502
+JNLIC,2020Q3,BONDS,NAIC 4,13791987,28425482
+JNLIC,2020Q3,BONDS,NAIC 5,18000699,25494242
+JNLIC,2020Q3,BONDS,NAIC 6,56733077117,51622738742
+JNLIC,2020Q3,BONDS,NAIC 1,0,0
+JNLIC,2020Q3,BONDS,NAIC 2,15000000,0
+JNLIC,2020Q3,BONDS,NAIC 3,0,0
+JNLIC,2020Q3,BONDS,NAIC 4,0,0
+JNLIC,2020Q3,BONDS,NAIC 5,6250000,0
+JNLIC,2020Q3,BONDS,NAIC 6,6250000,0
+JNLIC,2021Q2,BONDS,NAIC 1,0,21535488889
+JNLIC,2021Q2,BONDS,NAIC 2,122336215,-40512172
+JNLIC,2021Q2,BONDS,NAIC 3,0,1362920861
+JNLIC,2021Q2,BONDS,NAIC 4,7472382,10749352
+JNLIC,2021Q2,BONDS,NAIC 5,0,313172391
+JNLIC,2021Q2,BONDS,NAIC 6,-12194742,48027664272
+JNLIC,2021Q2,BONDS,NAIC 1,0,0
+JNLIC,2021Q2,BONDS,NAIC 2,77211275,72833500
+JNLIC,2021Q2,BONDS,NAIC 3,0,8700000
+JNLIC,2021Q2,BONDS,NAIC 4,0,0
+JNLIC,2021Q2,BONDS,NAIC 5,0,0
+JNLIC,2021Q2,BONDS,NAIC 6,0,16625000
+JNLIC,2022Q2,BONDS,NAIC 1,0,20841729742
+JNLIC,2022Q2,BONDS,NAIC 2,17278290,-20693905
+JNLIC,2022Q2,BONDS,NAIC 3,0,1404791018
+JNLIC,2022Q2,BONDS,NAIC 4,25034229,9935000
+JNLIC,2022Q2,BONDS,NAIC 5,0,274697011
+JNLIC,2022Q2,BONDS,NAIC 6,-65467982,46167887889
+JNLIC,2022Q2,BONDS,NAIC 1,0,0
+JNLIC,2022Q2,BONDS,NAIC 2,71352575,62605640
+JNLIC,2022Q2,BONDS,NAIC 3,0,30700000
+JNLIC,2022Q2,BONDS,NAIC 4,0,0
+JNLIC,2022Q2,BONDS,NAIC 5,0,0
+JNLIC,2022Q2,BONDS,NAIC 6,0,0
+JNLIC,2022Q3,BONDS,NAIC 1,1338132439,1404791018
+JNLIC,2022Q3,BONDS,NAIC 2,41259634,7210069
+JNLIC,2022Q3,BONDS,NAIC 3,240181801,274697011
+JNLIC,2022Q3,BONDS,NAIC 4,12139460,14856985
+JNLIC,2022Q3,BONDS,NAIC 5,13004468,75031168
+JNLIC,2022Q3,BONDS,NAIC 6,45642402865,47651847144
+JNLIC,2022Q3,BONDS,NAIC 1,0,0
+JNLIC,2022Q3,BONDS,NAIC 2,61582925,82047200
+JNLIC,2022Q3,BONDS,NAIC 3,0,0
+JNLIC,2022Q3,BONDS,NAIC 4,0,0
+JNLIC,2022Q3,BONDS,NAIC 5,0,0
+JNLIC,2022Q3,BONDS,NAIC 6,0,0
+JNLIC,2022Q4,U.S. Governments,NAIC 1,5681007146,5681007146
+JNLIC,2022Q4,U.S. Governments,NAIC 2,0,0
+JNLIC,2022Q4,U.S. Governments,NAIC 3,0,0
+JNLIC,2022Q4,U.S. Governments,NAIC 4,0,0
+JNLIC,2022Q4,U.S. Governments,NAIC 5,0,0
+JNLIC,2022Q4,U.S. Governments,NAIC 6,0,0
+JNLIC,2022Q4,All Other Governments,NAIC 1,261482805,194677136
+JNLIC,2022Q4,All Other Governments,NAIC 2,445170256,429809574
+JNLIC,2022Q4,All Other Governments,NAIC 3,4027513,4027513
+JNLIC,2022Q4,All Other Governments,NAIC 4,0,0
+JNLIC,2022Q4,All Other Governments,NAIC 5,0,0
+JNLIC,2022Q4,All Other Governments,NAIC 6,735217,735217
+JNLIC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,285657474,146934050
+JNLIC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+JNLIC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+JNLIC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+JNLIC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+JNLIC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,47778574,47778574
+JNLIC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+JNLIC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+JNLIC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+JNLIC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+JNLIC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+JNLIC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 1,868144583,746524574
+JNLIC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 2,768277,768277
+JNLIC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 3,164738,164738
+JNLIC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+JNLIC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 5,1783,1783
+JNLIC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 6,27834,27834
+JNLIC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,18683376284,8256209277
+JNLIC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,17442608660,8641311511
+JNLIC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,1078542465,365274973
+JNLIC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,214459862,47732651
+JNLIC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,26595152,18928455
+JNLIC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,12679494,12018075
+JNLIC,2022Q4,Hybrid Securities,NAIC 1,3616876,0
+JNLIC,2022Q4,Hybrid Securities,NAIC 2,56763017,28703999
+JNLIC,2022Q4,Hybrid Securities,NAIC 3,60593854,38129795
+JNLIC,2022Q4,Hybrid Securities,NAIC 4,0,0
+JNLIC,2022Q4,Hybrid Securities,NAIC 5,0,0
+JNLIC,2022Q4,Hybrid Securities,NAIC 6,0,0
+JNLIC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+JNLIC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+JNLIC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+JNLIC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+JNLIC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+JNLIC,2022Q4,SVO Identified Funds,NAIC 1,0,0
+JNLIC,2022Q4,SVO Identified Funds,NAIC 2,0,0
+JNLIC,2022Q4,SVO Identified Funds,NAIC 3,0,0
+JNLIC,2022Q4,SVO Identified Funds,NAIC 4,0,0
+JNLIC,2022Q4,SVO Identified Funds,NAIC 5,0,0
+JNLIC,2022Q4,SVO Identified Funds,NAIC 6,0,0
+JNLIC,2022Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+JNLIC,2022Q4,Unaffiliated Bank Loans,NAIC 2,132660619,92355221
+JNLIC,2022Q4,Unaffiliated Bank Loans,NAIC 3,22354259,22158746
+JNLIC,2022Q4,Unaffiliated Bank Loans,NAIC 4,7179155,7179155
+JNLIC,2022Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+JNLIC,2022Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+JNLIC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+JNLIC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+JNLIC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+JNLIC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+JNLIC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+JNLIC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+JNLIC,2022Q4,Total Bonds Current Year,NAIC 1,0,15073130757
+JNLIC,2022Q4,Total Bonds Current Year,NAIC 2,0,9192948582
+JNLIC,2022Q4,Total Bonds Current Year,NAIC 3,0,429755765
+JNLIC,2022Q4,Total Bonds Current Year,NAIC 4,0,54911806
+JNLIC,2022Q4,Total Bonds Current Year,NAIC 5,0,18930238
+JNLIC,2022Q4,Total Bonds Current Year,NAIC 6,0,12781126
+JNLIC,2022Q4,Total Bonds Prior Year,NAIC 1,0,13839221611
+JNLIC,2022Q4,Total Bonds Prior Year,NAIC 2,0,10536225979
+JNLIC,2022Q4,Total Bonds Prior Year,NAIC 3,0,650533492
+JNLIC,2022Q4,Total Bonds Prior Year,NAIC 4,0,79569879
+JNLIC,2022Q4,Total Bonds Prior Year,NAIC 5,0,10699110
+JNLIC,2022Q4,Total Bonds Prior Year,NAIC 6,0,16769940
+JNLIC,2022Q4,Total Publicly Traded Bonds,NAIC 1,0,13839221611
+JNLIC,2022Q4,Total Publicly Traded Bonds,NAIC 2,0,10536225979
+JNLIC,2022Q4,Total Publicly Traded Bonds,NAIC 4,0,79569879
+JNLIC,2022Q4,Total Publicly Traded Bonds,NAIC 5,0,10699110
+JNLIC,2022Q4,Total Publicly Traded Bonds,NAIC 6,0,16769940
+JNLIC,2022Q4,Total Privately Placed Bonds,NAIC 1,0,11201519609
+JNLIC,2022Q4,Total Privately Placed Bonds,NAIC 2,0,10305503763
+JNLIC,2022Q4,Total Privately Placed Bonds,NAIC 3,0,754257526
+JNLIC,2022Q4,Total Privately Placed Bonds,NAIC 4,0,195127132
+JNLIC,2022Q4,Total Privately Placed Bonds,NAIC 5,0,4157875
+JNLIC,2022Q4,Total Privately Placed Bonds,NAIC 6,661419,661419
+JNLIC,2023Q1,BONDS,NAIC 1,0,25831063742
+JNLIC,2023Q1,BONDS,NAIC 2,0,18077970829
+JNLIC,2023Q1,BONDS,NAIC 3,0,1165682829
+JNLIC,2023Q1,BONDS,NAIC 4,0,221639017
+JNLIC,2023Q1,BONDS,NAIC 5,0,26596935
+JNLIC,2023Q1,BONDS,NAIC 6,0,13442545
+JNLIC,2023Q1,BONDS,NAIC 1,0,0
+JNLIC,2023Q1,BONDS,NAIC 2,0,73620130
+JNLIC,2023Q1,BONDS,NAIC 3,0,5829000
+JNLIC,2023Q1,BONDS,NAIC 4,0,0
+JNLIC,2023Q1,BONDS,NAIC 5,0,0
+JNLIC,2023Q1,BONDS,NAIC 6,0,0
+JNLIC,2023Q2,BONDS,NAIC 1,0,25831063742
+JNLIC,2023Q2,BONDS,NAIC 2,0,18077970829
+JNLIC,2023Q2,BONDS,NAIC 3,0,1165682829
+JNLIC,2023Q2,BONDS,NAIC 4,0,221639017
+JNLIC,2023Q2,BONDS,NAIC 5,0,26596935
+JNLIC,2023Q2,BONDS,NAIC 6,0,13442545
+JNLIC,2023Q2,BONDS,NAIC 1,0,0
+JNLIC,2023Q2,BONDS,NAIC 2,0,73620130
+JNLIC,2023Q2,BONDS,NAIC 3,0,5829000
+JNLIC,2023Q2,BONDS,NAIC 4,0,0
+JNLIC,2023Q2,BONDS,NAIC 5,0,0
+JNLIC,2023Q2,BONDS,NAIC 6,0,0
+JNLIC,2023Q3,BONDS,NAIC 1,24136187274,25831063742
+JNLIC,2023Q3,BONDS,NAIC 2,16393673969,18077970829
+JNLIC,2023Q3,BONDS,NAIC 3,795727335,1165682829
+JNLIC,2023Q3,BONDS,NAIC 4,170422479,221639017
+JNLIC,2023Q3,BONDS,NAIC 5,5501695,26596935
+JNLIC,2023Q3,BONDS,NAIC 6,7911099,13442545
+JNLIC,2023Q3,BONDS,NAIC 1,3357140,0
+JNLIC,2023Q3,BONDS,NAIC 2,103919171,73620130
+JNLIC,2023Q3,BONDS,NAIC 3,47573481,5829000
+JNLIC,2023Q3,BONDS,NAIC 4,0,0
+JNLIC,2023Q3,BONDS,NAIC 5,0,0
+JNLIC,2023Q3,BONDS,NAIC 6,520753,0
+JNLIC,2023Q4,U.S. Governments,NAIC 1,5087973160,5087973159
+JNLIC,2023Q4,U.S. Governments,NAIC 2,0,0
+JNLIC,2023Q4,U.S. Governments,NAIC 3,0,0
+JNLIC,2023Q4,U.S. Governments,NAIC 4,0,0
+JNLIC,2023Q4,U.S. Governments,NAIC 5,0,0
+JNLIC,2023Q4,U.S. Governments,NAIC 6,0,0
+JNLIC,2023Q4,All Other Governments,NAIC 1,229177491,181565618
+JNLIC,2023Q4,All Other Governments,NAIC 2,420139253,404949195
+JNLIC,2023Q4,All Other Governments,NAIC 3,4025208,4025208
+JNLIC,2023Q4,All Other Governments,NAIC 4,0,0
+JNLIC,2023Q4,All Other Governments,NAIC 5,0,0
+JNLIC,2023Q4,All Other Governments,NAIC 6,0,0
+JNLIC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,277358421,144227446
+JNLIC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+JNLIC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+JNLIC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+JNLIC,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+JNLIC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,52206095,52206095
+JNLIC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+JNLIC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+JNLIC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+JNLIC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+JNLIC,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+JNLIC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 1,828999392,707482913
+JNLIC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 2,633828,633828
+JNLIC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+JNLIC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+JNLIC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 5,1694,1694
+JNLIC,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+JNLIC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,16959217278,7524029425
+JNLIC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,14574715532,7040986698
+JNLIC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,697349713,215957492
+JNLIC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,145485934,28776809
+JNLIC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,6737603,4154918
+JNLIC,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,7436219,5144042
+JNLIC,2023Q4,Hybrid Securities,NAIC 1,0,0
+JNLIC,2023Q4,Hybrid Securities,NAIC 2,4700000,0
+JNLIC,2023Q4,Hybrid Securities,NAIC 3,21754377,3754377
+JNLIC,2023Q4,Hybrid Securities,NAIC 4,0,0
+JNLIC,2023Q4,Hybrid Securities,NAIC 5,0,0
+JNLIC,2023Q4,Hybrid Securities,NAIC 6,0,0
+JNLIC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+JNLIC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+JNLIC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+JNLIC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+JNLIC,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+JNLIC,2023Q4,SVO Identified Funds,NAIC 1,0,0
+JNLIC,2023Q4,SVO Identified Funds,NAIC 2,0,0
+JNLIC,2023Q4,SVO Identified Funds,NAIC 3,0,0
+JNLIC,2023Q4,SVO Identified Funds,NAIC 4,0,0
+JNLIC,2023Q4,SVO Identified Funds,NAIC 5,0,0
+JNLIC,2023Q4,SVO Identified Funds,NAIC 6,0,0
+JNLIC,2023Q4,Unaffiliated Bank Loans,NAIC 1,2557516,2557516
+JNLIC,2023Q4,Unaffiliated Bank Loans,NAIC 2,36961067,1554239
+JNLIC,2023Q4,Unaffiliated Bank Loans,NAIC 3,16707230,16554299
+JNLIC,2023Q4,Unaffiliated Bank Loans,NAIC 4,2054834,2054834
+JNLIC,2023Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+JNLIC,2023Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+JNLIC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+JNLIC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+JNLIC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+JNLIC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+JNLIC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+JNLIC,2023Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+JNLIC,2023Q4,Total Bonds Current Year,NAIC 1,0,13700042172
+JNLIC,2023Q4,Total Bonds Current Year,NAIC 2,0,7448123960
+JNLIC,2023Q4,Total Bonds Current Year,NAIC 3,0,240291376
+JNLIC,2023Q4,Total Bonds Current Year,NAIC 4,0,30831643
+JNLIC,2023Q4,Total Bonds Current Year,NAIC 5,0,4156612
+JNLIC,2023Q4,Total Bonds Current Year,NAIC 6,0,5144042
+JNLIC,2023Q4,Total Bonds Prior Year,NAIC 1,0,15073130757
+JNLIC,2023Q4,Total Bonds Prior Year,NAIC 2,0,9192948582
+JNLIC,2023Q4,Total Bonds Prior Year,NAIC 3,0,429755765
+JNLIC,2023Q4,Total Bonds Prior Year,NAIC 4,0,54911806
+JNLIC,2023Q4,Total Bonds Prior Year,NAIC 5,0,18930238
+JNLIC,2023Q4,Total Bonds Prior Year,NAIC 6,0,12781126
+JNLIC,2023Q4,Total Publicly Traded Bonds,NAIC 1,0,15073130757
+JNLIC,2023Q4,Total Publicly Traded Bonds,NAIC 2,0,9192948582
+JNLIC,2023Q4,Total Publicly Traded Bonds,NAIC 4,0,54911806
+JNLIC,2023Q4,Total Publicly Traded Bonds,NAIC 5,0,18930238
+JNLIC,2023Q4,Total Publicly Traded Bonds,NAIC 6,0,12781126
+JNLIC,2023Q4,Total Privately Placed Bonds,NAIC 1,0,10757932985
+JNLIC,2023Q4,Total Privately Placed Bonds,NAIC 2,0,8885022247
+JNLIC,2023Q4,Total Privately Placed Bonds,NAIC 3,0,735927064
+JNLIC,2023Q4,Total Privately Placed Bonds,NAIC 4,0,166727211
+JNLIC,2023Q4,Total Privately Placed Bonds,NAIC 5,0,7666697
+JNLIC,2023Q4,Total Privately Placed Bonds,NAIC 6,0,661419
+JNLIC,2024Q1,BONDS,NAIC 1,0,23437489353
+JNLIC,2024Q1,BONDS,NAIC 2,0,15037149680
+JNLIC,2024Q1,BONDS,NAIC 3,0,739836528
+JNLIC,2024Q1,BONDS,NAIC 4,0,147540768
+JNLIC,2024Q1,BONDS,NAIC 5,0,6739297
+JNLIC,2024Q1,BONDS,NAIC 6,0,7436219
+JNLIC,2024Q1,BONDS,NAIC 1,0,3539888
+JNLIC,2024Q1,BONDS,NAIC 2,0,118760313
+JNLIC,2024Q1,BONDS,NAIC 3,0,50343430
+JNLIC,2024Q1,BONDS,NAIC 4,0,0
+JNLIC,2024Q1,BONDS,NAIC 5,0,0
+JNLIC,2024Q1,BONDS,NAIC 6,0,168422
+JNLIC,2024Q2,BONDS,NAIC 1,0,23437489353
+JNLIC,2024Q2,BONDS,NAIC 2,0,15037149680
+JNLIC,2024Q2,BONDS,NAIC 3,0,739836528
+JNLIC,2024Q2,BONDS,NAIC 4,0,147540768
+JNLIC,2024Q2,BONDS,NAIC 5,0,6739297
+JNLIC,2024Q2,BONDS,NAIC 6,0,7436219
+JNLIC,2024Q2,BONDS,NAIC 1,0,3539888
+JNLIC,2024Q2,BONDS,NAIC 2,0,118760313
+JNLIC,2024Q2,BONDS,NAIC 3,0,50343430
+JNLIC,2024Q2,BONDS,NAIC 4,0,0
+JNLIC,2024Q2,BONDS,NAIC 5,0,0
+JNLIC,2024Q2,BONDS,NAIC 6,0,168422
+JNLIC,2024Q3,BONDS,NAIC 1,21232283447,23437489353
+JNLIC,2024Q3,BONDS,NAIC 2,13303462750,15037149680
+JNLIC,2024Q3,BONDS,NAIC 3,638113229,739836528
+JNLIC,2024Q3,BONDS,NAIC 4,68022900,147540768
+JNLIC,2024Q3,BONDS,NAIC 5,47216068,6739297
+JNLIC,2024Q3,BONDS,NAIC 6,3431475,7436219
+JNLIC,2024Q3,BONDS,NAIC 1,4307626,3539888
+JNLIC,2024Q3,BONDS,NAIC 2,112743667,118760313
+JNLIC,2024Q3,BONDS,NAIC 3,52351595,50343430
+JNLIC,2024Q3,BONDS,NAIC 4,0,0
+JNLIC,2024Q3,BONDS,NAIC 5,0,0
+JNLIC,2024Q3,BONDS,NAIC 6,34702,168422
+JNLIC,2024Q4,U.S. Governments,NAIC 1,4776723901,4776723901
+JNLIC,2024Q4,U.S. Governments,NAIC 2,0,0
+JNLIC,2024Q4,U.S. Governments,NAIC 3,0,0
+JNLIC,2024Q4,U.S. Governments,NAIC 4,0,0
+JNLIC,2024Q4,U.S. Governments,NAIC 5,0,0
+JNLIC,2024Q4,U.S. Governments,NAIC 6,0,0
+JNLIC,2024Q4,All Other Governments,NAIC 1,226728259,226728259
+JNLIC,2024Q4,All Other Governments,NAIC 2,253628357,253628357
+JNLIC,2024Q4,All Other Governments,NAIC 3,4022792,4022792
+JNLIC,2024Q4,All Other Governments,NAIC 4,0,0
+JNLIC,2024Q4,All Other Governments,NAIC 5,0,0
+JNLIC,2024Q4,All Other Governments,NAIC 6,0,0
+JNLIC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,246193669,129129987
+JNLIC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+JNLIC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+JNLIC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+JNLIC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+JNLIC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,33652758,33652758
+JNLIC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+JNLIC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+JNLIC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+JNLIC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+JNLIC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+JNLIC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 1,760129384,725460180
+JNLIC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 2,6336716,6336716
+JNLIC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+JNLIC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+JNLIC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 5,1257,1257
+JNLIC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+JNLIC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,14694812121,10349880378
+JNLIC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,12854728364,8980604275
+JNLIC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,470923736,420302417
+JNLIC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,50438441,44903950
+JNLIC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,12695468,12695468
+JNLIC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,3653216,3653216
+JNLIC,2024Q4,Hybrid Securities,NAIC 1,0,0
+JNLIC,2024Q4,Hybrid Securities,NAIC 2,6200000,6200000
+JNLIC,2024Q4,Hybrid Securities,NAIC 3,18000000,18000000
+JNLIC,2024Q4,Hybrid Securities,NAIC 4,0,0
+JNLIC,2024Q4,Hybrid Securities,NAIC 5,0,0
+JNLIC,2024Q4,Hybrid Securities,NAIC 6,0,0
+JNLIC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+JNLIC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+JNLIC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+JNLIC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+JNLIC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+JNLIC,2024Q4,SVO Identified Funds,NAIC 1,0,0
+JNLIC,2024Q4,SVO Identified Funds,NAIC 2,0,0
+JNLIC,2024Q4,SVO Identified Funds,NAIC 3,0,0
+JNLIC,2024Q4,SVO Identified Funds,NAIC 4,0,0
+JNLIC,2024Q4,SVO Identified Funds,NAIC 5,0,0
+JNLIC,2024Q4,SVO Identified Funds,NAIC 6,0,0
+JNLIC,2024Q4,Unaffiliated Bank Loans,NAIC 1,2178240,0
+JNLIC,2024Q4,Unaffiliated Bank Loans,NAIC 2,24578925,1633740
+JNLIC,2024Q4,Unaffiliated Bank Loans,NAIC 3,7123770,7123770
+JNLIC,2024Q4,Unaffiliated Bank Loans,NAIC 4,425819,425819
+JNLIC,2024Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+JNLIC,2024Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+JNLIC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+JNLIC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+JNLIC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+JNLIC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+JNLIC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+JNLIC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+JNLIC,2024Q4,Total Bonds Current Year,NAIC 1,0,16241575463
+JNLIC,2024Q4,Total Bonds Current Year,NAIC 2,0,9248403088
+JNLIC,2024Q4,Total Bonds Current Year,NAIC 3,0,449448979
+JNLIC,2024Q4,Total Bonds Current Year,NAIC 4,0,45329769
+JNLIC,2024Q4,Total Bonds Current Year,NAIC 5,0,12696725
+JNLIC,2024Q4,Total Bonds Current Year,NAIC 6,0,3653216
+JNLIC,2024Q4,Total Bonds Prior Year,NAIC 1,0,13700042171
+JNLIC,2024Q4,Total Bonds Prior Year,NAIC 2,0,7448123961
+JNLIC,2024Q4,Total Bonds Prior Year,NAIC 3,0,240291377
+JNLIC,2024Q4,Total Bonds Prior Year,NAIC 4,0,30831644
+JNLIC,2024Q4,Total Bonds Prior Year,NAIC 5,0,4156613
+JNLIC,2024Q4,Total Bonds Prior Year,NAIC 6,0,5144042
+JNLIC,2024Q4,Total Publicly Traded Bonds,NAIC 1,0,13700042171
+JNLIC,2024Q4,Total Publicly Traded Bonds,NAIC 2,0,7448123961
+JNLIC,2024Q4,Total Publicly Traded Bonds,NAIC 4,0,30831644
+JNLIC,2024Q4,Total Publicly Traded Bonds,NAIC 5,0,4156613
+JNLIC,2024Q4,Total Publicly Traded Bonds,NAIC 6,0,5144042
+JNLIC,2024Q4,Total Privately Placed Bonds,NAIC 1,0,9737447182
+JNLIC,2024Q4,Total Privately Placed Bonds,NAIC 2,0,7589025719
+JNLIC,2024Q4,Total Privately Placed Bonds,NAIC 3,0,499545151
+JNLIC,2024Q4,Total Privately Placed Bonds,NAIC 4,0,116709124
+JNLIC,2024Q4,Total Privately Placed Bonds,NAIC 5,0,2582684
+JNLIC,2024Q4,Total Privately Placed Bonds,NAIC 6,0,2292177
+JNLIC,2025Q1,BONDS,NAIC 1,0,16924259551
+JNLIC,2025Q1,BONDS,NAIC 2,0,12395675789
+JNLIC,2025Q1,BONDS,NAIC 3,0,356088430
+JNLIC,2025Q1,BONDS,NAIC 4,0,30139619
+JNLIC,2025Q1,BONDS,NAIC 5,0,11889765
+JNLIC,2025Q1,BONDS,NAIC 6,0,3639397
+JNLIC,2025Q1,BONDS,NAIC 2,0,749796573
+JNLIC,2025Q1,BONDS,NAIC 3,0,143981868
+JNLIC,2025Q1,BONDS,NAIC 4,0,20724641
+JNLIC,2025Q1,BONDS,NAIC 5,0,806960
+JNLIC,2025Q1,BONDS,NAIC 6,0,13819
+JNLIC,2025Q1,BONDS,NAIC 1,0,4287600
+JNLIC,2025Q1,BONDS,NAIC 2,0,106860501
+JNLIC,2025Q1,BONDS,NAIC 3,0,37993125
+JNLIC,2025Q1,BONDS,NAIC 4,0,0
+JNLIC,2025Q1,BONDS,NAIC 5,0,0
+JNLIC,2025Q1,BONDS,NAIC 6,0,22866
+JNLIC,2025Q2,BONDS,NAIC 1,0,16924259551
+JNLIC,2025Q2,BONDS,NAIC 2,0,12395675789
+JNLIC,2025Q2,BONDS,NAIC 3,0,356088430
+JNLIC,2025Q2,BONDS,NAIC 4,0,30139619
+JNLIC,2025Q2,BONDS,NAIC 5,0,11889765
+JNLIC,2025Q2,BONDS,NAIC 6,0,3639397
+JNLIC,2025Q2,BONDS,NAIC 2,0,749796573
+JNLIC,2025Q2,BONDS,NAIC 3,0,143981868
+JNLIC,2025Q2,BONDS,NAIC 4,0,20724641
+JNLIC,2025Q2,BONDS,NAIC 5,0,806960
+JNLIC,2025Q2,BONDS,NAIC 6,0,13819
+JNLIC,2025Q2,BONDS,NAIC 1,0,4287600
+JNLIC,2025Q2,BONDS,NAIC 2,0,106860501
+JNLIC,2025Q2,BONDS,NAIC 3,0,37993125
+JNLIC,2025Q2,BONDS,NAIC 4,0,0
+JNLIC,2025Q2,BONDS,NAIC 5,0,0
+JNLIC,2025Q2,BONDS,NAIC 6,0,22866
+JNLIC,2025Q3,BONDS,NAIC 1,17166806650,16924259551
+JNLIC,2025Q3,BONDS,NAIC 2,11914815572,12395675789
+JNLIC,2025Q3,BONDS,NAIC 3,327751475,356088430
+JNLIC,2025Q3,BONDS,NAIC 4,30607920,30139619
+JNLIC,2025Q3,BONDS,NAIC 5,10863000,11889765
+JNLIC,2025Q3,BONDS,NAIC 6,3099339,3639397
+JNLIC,2025Q3,BONDS,NAIC 2,783821332,749796573
+JNLIC,2025Q3,BONDS,NAIC 3,147532958,143981868
+JNLIC,2025Q3,BONDS,NAIC 4,8763763,20724641
+JNLIC,2025Q3,BONDS,NAIC 5,4457440,806960
+JNLIC,2025Q3,BONDS,NAIC 6,0,13819
+JNLIC,2025Q3,BONDS,NAIC 1,25348287,4287600
+JNLIC,2025Q3,BONDS,NAIC 2,78103513,106860501
+JNLIC,2025Q3,BONDS,NAIC 3,31579485,37993125
+JNLIC,2025Q3,BONDS,NAIC 4,0,0
+JNLIC,2025Q3,BONDS,NAIC 5,0,0
+JNLIC,2025Q3,BONDS,NAIC 6,702000,22866
+JNLICNY,2020Q3,BONDS,NAIC 1,26661172,16755727
+JNLICNY,2020Q3,BONDS,NAIC 2,763359,-975
+JNLICNY,2020Q3,BONDS,NAIC 3,5696918,5977550
+JNLICNY,2020Q3,BONDS,NAIC 4,2,71866
+JNLICNY,2020Q3,BONDS,NAIC 5,0,0
+JNLICNY,2020Q3,BONDS,NAIC 6,6,0
+JNLICNY,2020Q3,BONDS,NAIC 1,0,0
+JNLICNY,2020Q3,BONDS,NAIC 2,0,0
+JNLICNY,2020Q3,BONDS,NAIC 3,0,0
+JNLICNY,2020Q3,BONDS,NAIC 4,0,0
+JNLICNY,2020Q3,BONDS,NAIC 5,0,0
+JNLICNY,2020Q3,BONDS,NAIC 6,0,0
+JNLICNY,2020Q4,"U.S. Governments                                                                                                                                                                                                                          15,975,246                     0",NAIC 1,0,0
+JNLICNY,2020Q4,"U.S. Governments                                                                                                                                                                                                                          15,975,246                     0",NAIC 2,0,0
+JNLICNY,2020Q4,"U.S. Governments                                                                                                                                                                                                                          15,975,246                     0",NAIC 3,0,0
+JNLICNY,2020Q4,"U.S. Governments                                                                                                                                                                                                                          15,975,246                     0",NAIC 4,0,0
+JNLICNY,2020Q4,"U.S. Governments                                                                                                                                                                                                                          15,975,246                     0",NAIC 5,0,0
+JNLICNY,2020Q4,"U.S. Governments                                                                                                                                                                                                                          15,975,246                     0",NAIC 6,0,0
+JNLICNY,2020Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 1,0,0
+JNLICNY,2020Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 2,0,0
+JNLICNY,2020Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 3,0,0
+JNLICNY,2020Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 4,0,0
+JNLICNY,2020Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 5,0,0
+JNLICNY,2020Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 6,0,0
+JNLICNY,2020Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 1,0,0
+JNLICNY,2020Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 2,0,0
+JNLICNY,2020Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 3,0,0
+JNLICNY,2020Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 5,0,0
+JNLICNY,2020Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 6,0,0
+JNLICNY,2020Q4,"U.S. Political Subdivisions of States, Territories and  129,817               594,003         943,839          164,445                       0  XXX          1,832,104                      0.1    1,956,152          0.2                            0                   0",NAIC 1,0,0
+JNLICNY,2020Q4,"U.S. Political Subdivisions of States, Territories and  129,817               594,003         943,839          164,445                       0  XXX          1,832,104                      0.1    1,956,152          0.2                            0                   0",NAIC 2,0,0
+JNLICNY,2020Q4,"U.S. Political Subdivisions of States, Territories and  129,817               594,003         943,839          164,445                       0  XXX          1,832,104                      0.1    1,956,152          0.2                            0                   0",NAIC 3,0,2526911
+JNLICNY,2020Q4,"U.S. Political Subdivisions of States, Territories and  129,817               594,003         943,839          164,445                       0  XXX          1,832,104                      0.1    1,956,152          0.2                            0                   0",NAIC 4,0,0
+JNLICNY,2020Q4,"U.S. Political Subdivisions of States, Territories and  129,817               594,003         943,839          164,445                       0  XXX          1,832,104                      0.1    1,956,152          0.2                            0                   0",NAIC 5,0,0
+JNLICNY,2020Q4,"U.S. Political Subdivisions of States, Territories and  129,817               594,003         943,839          164,445                       0  XXX          1,832,104                      0.1    1,956,152          0.2                            0                   0",NAIC 6,0,0
+JNLICNY,2020Q4,U.S. Special Revenue & Special Assessment                                                                                                    0  XXX             0                           0.0    0                  0.0,NAIC 1,0,0
+JNLICNY,2020Q4,U.S. Special Revenue & Special Assessment                                                                                                    0  XXX             0                           0.0    0                  0.0,NAIC 3,0,0
+JNLICNY,2020Q4,U.S. Special Revenue & Special Assessment                                                                                                    0  XXX             0                           0.0    0                  0.0,NAIC 5,0,0
+JNLICNY,2020Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,0,0
+JNLICNY,2020Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,627301842,12956287
+JNLICNY,2020Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,28484850,1954359
+JNLICNY,2020Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+JNLICNY,2020Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,8659378,0
+JNLICNY,2020Q4,"Hybrid Securities                                             0               0                0                 0                 0  XXX                0                           0.0    71,866             0.0            784,871,404        455,637,872",NAIC 2,0,0
+JNLICNY,2020Q4,"Hybrid Securities                                             0               0                0                 0                 0  XXX                0                           0.0    71,866             0.0            784,871,404        455,637,872",NAIC 4,1240509276,0
+JNLICNY,2020Q4,"Hybrid Securities                                             0               0                0                 0                 0  XXX                0                           0.0    71,866             0.0            784,871,404        455,637,872",NAIC 6,0,0
+JNLICNY,2020Q4,"Parent, Subsidiaries and Affiliates                           0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0",NAIC 2,0,0
+JNLICNY,2020Q4,"Parent, Subsidiaries and Affiliates                           0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0",NAIC 4,0,0
+JNLICNY,2020Q4,"Parent, Subsidiaries and Affiliates                           0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0",NAIC 6,0,0
+JNLICNY,2020Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 2,0,0
+JNLICNY,2020Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 4,0,0
+JNLICNY,2020Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 6,0,0
+JNLICNY,2020Q4,Unaffiliated Bank Loans                                      0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 2,0,0
+JNLICNY,2020Q4,Unaffiliated Bank Loans                                      0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 4,0,0
+JNLICNY,2020Q4,Total Bonds Current Year,NAIC 1,0,358743996
+JNLICNY,2020Q4,Total Bonds Current Year,NAIC 2,0,0
+JNLICNY,2020Q4,Total Bonds Current Year,NAIC 3,197582923,0
+JNLICNY,2020Q4,Total Bonds Current Year,NAIC 4,0,0
+JNLICNY,2020Q4,Total Bonds Current Year,NAIC 5,0,12956287
+JNLICNY,2020Q4,Total Bonds Current Year,NAIC 6,0,0
+JNLICNY,2020Q4,"Total Bonds Prior Year                           46,390,876         219,138,352           336,392,120                9,381,804     261,011                      0      XXX               XXX                    611,564,163                          54.1      390,771,147            220,793,016",NAIC 1,0,0
+JNLICNY,2020Q4,"Total Bonds Prior Year                           46,390,876         219,138,352           336,392,120                9,381,804     261,011                      0      XXX               XXX                    611,564,163                          54.1      390,771,147            220,793,016",NAIC 2,0,0
+JNLICNY,2020Q4,"Total Bonds Prior Year                           46,390,876         219,138,352           336,392,120                9,381,804     261,011                      0      XXX               XXX                    611,564,163                          54.1      390,771,147            220,793,016",NAIC 3,0,0
+JNLICNY,2020Q4,"Total Bonds Prior Year                           46,390,876         219,138,352           336,392,120                9,381,804     261,011                      0      XXX               XXX                    611,564,163                          54.1      390,771,147            220,793,016",NAIC 4,0,7806738
+JNLICNY,2020Q4,"Total Bonds Prior Year                           46,390,876         219,138,352           336,392,120                9,381,804     261,011                      0      XXX               XXX                    611,564,163                          54.1      390,771,147            220,793,016",NAIC 5,0,0
+JNLICNY,2020Q4,"Total Bonds Prior Year                           46,390,876         219,138,352           336,392,120                9,381,804     261,011                      0      XXX               XXX                    611,564,163                          54.1      390,771,147            220,793,016",NAIC 6,0,1216274
+JNLICNY,2020Q4,"Total Publicly Traded Bonds                      19,506,964         156,716,382           178,180,435                 4,268,078     72,137                      0      358,743,996                  28.3        390,771,147                          34.6      358,743,996            XXX",NAIC 1,0,0
+JNLICNY,2020Q4,"Total Publicly Traded Bonds                      19,506,964         156,716,382           178,180,435                 4,268,078     72,137                      0      358,743,996                  28.3        390,771,147                          34.6      358,743,996            XXX",NAIC 2,0,0
+JNLICNY,2020Q4,"Total Publicly Traded Bonds                      19,506,964         156,716,382           178,180,435                 4,268,078     72,137                      0      358,743,996                  28.3        390,771,147                          34.6      358,743,996            XXX",NAIC 3,0,0
+JNLICNY,2020Q4,"Total Publicly Traded Bonds                      19,506,964         156,716,382           178,180,435                 4,268,078     72,137                      0      358,743,996                  28.3        390,771,147                          34.6      358,743,996            XXX",NAIC 4,0,7806738
+JNLICNY,2020Q4,"Total Publicly Traded Bonds                      19,506,964         156,716,382           178,180,435                 4,268,078     72,137                      0      358,743,996                  28.3        390,771,147                          34.6      358,743,996            XXX",NAIC 5,0,0
+JNLICNY,2020Q4,"Total Privately Placed Bonds                     27,551,768         101,276,365           100,426,043                14,773,787    149,755                      0      244,177,718                  19.3        220,793,016                          19.5      XXX                    244,177,718",NAIC 1,197582923,0
+JNLICNY,2020Q4,"Total Privately Placed Bonds                     27,551,768         101,276,365           100,426,043                14,773,787    149,755                      0      244,177,718                  19.3        220,793,016                          19.5      XXX                    244,177,718",NAIC 2,15528563,0
+JNLICNY,2020Q4,"Total Privately Placed Bonds                     27,551,768         101,276,365           100,426,043                14,773,787    149,755                      0      244,177,718                  19.3        220,793,016                          19.5      XXX                    244,177,718",NAIC 3,0,0
+JNLICNY,2020Q4,"Total Privately Placed Bonds                     27,551,768         101,276,365           100,426,043                14,773,787    149,755                      0      244,177,718                  19.3        220,793,016                          19.5      XXX                    244,177,718",NAIC 4,15528563,6705019
+JNLICNY,2020Q4,"Total Privately Placed Bonds                     27,551,768         101,276,365           100,426,043                14,773,787    149,755                      0      244,177,718                  19.3        220,793,016                          19.5      XXX                    244,177,718",NAIC 5,0,0
+JNLICNY,2020Q4,"Total Privately Placed Bonds                     27,551,768         101,276,365           100,426,043                14,773,787    149,755                      0      244,177,718                  19.3        220,793,016                          19.5      XXX                    244,177,718",NAIC 6,0,4761276
+JNLICNY,2021Q1,BONDS,NAIC 1,0,627301842
+JNLICNY,2021Q1,BONDS,NAIC 3,0,28484850
+JNLICNY,2021Q1,BONDS,NAIC 5,0,8659378
+JNLICNY,2021Q1,BONDS,NAIC 1,0,0
+JNLICNY,2021Q1,BONDS,NAIC 3,0,0
+JNLICNY,2021Q1,BONDS,NAIC 5,0,0
+JNLICNY,2021Q1,BONDS,NAIC 6,0,0
+JNLICNY,2021Q3,BONDS,NAIC 1,26907070,28484850
+JNLICNY,2021Q3,BONDS,NAIC 2,2,-4096
+JNLICNY,2021Q3,BONDS,NAIC 3,3239647,8659378
+JNLICNY,2021Q3,BONDS,NAIC 4,0,0
+JNLICNY,2021Q3,BONDS,NAIC 5,0,0
+JNLICNY,2021Q3,BONDS,NAIC 6,3968347,4126611
+JNLICNY,2021Q3,BONDS,NAIC 1,0,0
+JNLICNY,2021Q3,BONDS,NAIC 2,0,0
+JNLICNY,2021Q3,BONDS,NAIC 3,0,0
+JNLICNY,2021Q3,BONDS,NAIC 4,0,0
+JNLICNY,2021Q3,BONDS,NAIC 5,0,0
+JNLICNY,2021Q3,BONDS,NAIC 6,0,0
+JNLICNY,2021Q4,"U.S. Governments                                                                                                                                                                                                                           8,029,655                     0",NAIC 1,0,0
+JNLICNY,2021Q4,"U.S. Governments                                                                                                                                                                                                                           8,029,655                     0",NAIC 2,0,0
+JNLICNY,2021Q4,"U.S. Governments                                                                                                                                                                                                                           8,029,655                     0",NAIC 3,0,0
+JNLICNY,2021Q4,"U.S. Governments                                                                                                                                                                                                                           8,029,655                     0",NAIC 4,0,0
+JNLICNY,2021Q4,"U.S. Governments                                                                                                                                                                                                                           8,029,655                     0",NAIC 5,0,0
+JNLICNY,2021Q4,"U.S. Governments                                                                                                                                                                                                                           8,029,655                     0",NAIC 6,0,0
+JNLICNY,2021Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 1,0,0
+JNLICNY,2021Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 2,0,0
+JNLICNY,2021Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 3,0,0
+JNLICNY,2021Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 4,0,0
+JNLICNY,2021Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 5,0,0
+JNLICNY,2021Q4,All Other Governments                                                                                                                                                                                                                                0                   0,NAIC 6,0,0
+JNLICNY,2021Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 1,0,0
+JNLICNY,2021Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 2,0,0
+JNLICNY,2021Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 3,0,0
+JNLICNY,2021Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 5,0,0
+JNLICNY,2021Q4,"U.S. States, Territories and Possessions etc.,                          0               0                0                 0                 0  XXX             0                           0.0    0                  0.0                            0                   0",NAIC 6,0,0
+JNLICNY,2021Q4,"U.S. Political Subdivisions of States, Territories and  136,827               626,078         938,545                      0                 0  XXX          1,701,450                      0.1    1,832,104          0.1                            0                   0",NAIC 1,0,0
+JNLICNY,2021Q4,"U.S. Political Subdivisions of States, Territories and  136,827               626,078         938,545                      0                 0  XXX          1,701,450                      0.1    1,832,104          0.1                            0                   0",NAIC 3,0,1509440
+JNLICNY,2021Q4,"U.S. Political Subdivisions of States, Territories and  136,827               626,078         938,545                      0                 0  XXX          1,701,450                      0.1    1,832,104          0.1                            0                   0",NAIC 4,0,0
+JNLICNY,2021Q4,"U.S. Political Subdivisions of States, Territories and  136,827               626,078         938,545                      0                 0  XXX          1,701,450                      0.1    1,832,104          0.1                            0                   0",NAIC 5,0,0
+JNLICNY,2021Q4,"U.S. Political Subdivisions of States, Territories and  136,827               626,078         938,545                      0                 0  XXX          1,701,450                      0.1    1,832,104          0.1                            0                   0",NAIC 6,0,0
+JNLICNY,2021Q4,U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX             0                           0.0    0                  0.0,NAIC 1,1701450,0
+JNLICNY,2021Q4,U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX             0                           0.0    0                  0.0,NAIC 3,0,0
+JNLICNY,2021Q4,U.S. Special Revenue & Special Assessment                               0               0                0                 0                 0  XXX             0                           0.0    0                  0.0,NAIC 5,0,0
+JNLICNY,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,0,0
+JNLICNY,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,661767206,10008147
+JNLICNY,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,26492743,1364593
+JNLICNY,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+JNLICNY,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,4499277,0
+JNLICNY,2021Q4,"Hybrid Securities                                             0               0                0                 0                 0  XXX                0                           0.0    0                  0.0            788,590,139        474,837,152",NAIC 2,4075028,0
+JNLICNY,2021Q4,"Hybrid Securities                                             0               0                0                 0                 0  XXX                0                           0.0    0                  0.0            788,590,139        474,837,152",NAIC 4,1263427291,0
+JNLICNY,2021Q4,"Hybrid Securities                                             0               0                0                 0                 0  XXX                0                           0.0    0                  0.0            788,590,139        474,837,152",NAIC 6,0,0
+JNLICNY,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0",NAIC 2,0,0
+JNLICNY,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0",NAIC 4,0,0
+JNLICNY,2021Q4,"Parent, Subsidiaries and Affiliates                           0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0",NAIC 6,0,0
+JNLICNY,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 2,0,0
+JNLICNY,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 4,0,0
+JNLICNY,2021Q4,SVO Identified Funds                                          0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 6,0,0
+JNLICNY,2021Q4,Unaffiliated Bank Loans                                      0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 2,0,0
+JNLICNY,2021Q4,Unaffiliated Bank Loans                                      0               0                0                 0                 0  XXX                0                           0.0    0                  0.0                            0                   0,NAIC 4,0,0
+JNLICNY,2021Q4,Total Bonds Current Year,NAIC 1,0,338208021
+JNLICNY,2021Q4,Total Bonds Current Year,NAIC 2,0,0
+JNLICNY,2021Q4,Total Bonds Current Year,NAIC 3,448548473,0
+JNLICNY,2021Q4,Total Bonds Current Year,NAIC 4,0,0
+JNLICNY,2021Q4,Total Bonds Current Year,NAIC 5,0,10008147
+JNLICNY,2021Q4,Total Bonds Current Year,NAIC 6,0,0
+JNLICNY,2021Q4,"Total Bonds Prior Year                           47,058,732         257,992,747        278,606,478                   19,041,865      221,892                    0      XXX               XXX                    602,921,714                          47.6      358,743,996           244,177,718",NAIC 1,0,0
+JNLICNY,2021Q4,"Total Bonds Prior Year                           47,058,732         257,992,747        278,606,478                   19,041,865      221,892                    0      XXX               XXX                    602,921,714                          47.6      358,743,996           244,177,718",NAIC 2,0,0
+JNLICNY,2021Q4,"Total Bonds Prior Year                           47,058,732         257,992,747        278,606,478                   19,041,865      221,892                    0      XXX               XXX                    602,921,714                          47.6      358,743,996           244,177,718",NAIC 3,0,0
+JNLICNY,2021Q4,"Total Bonds Prior Year                           47,058,732         257,992,747        278,606,478                   19,041,865      221,892                    0      XXX               XXX                    602,921,714                          47.6      358,743,996           244,177,718",NAIC 4,0,12956287
+JNLICNY,2021Q4,"Total Bonds Prior Year                           47,058,732         257,992,747        278,606,478                   19,041,865      221,892                    0      XXX               XXX                    602,921,714                          47.6      358,743,996           244,177,718",NAIC 5,0,0
+JNLICNY,2021Q4,"Total Bonds Prior Year                           47,058,732         257,992,747        278,606,478                   19,041,865      221,892                    0      XXX               XXX                    602,921,714                          47.6      358,743,996           244,177,718",NAIC 6,0,1954359
+JNLICNY,2021Q4,"Total Publicly Traded Bonds                      17,974,390         171,129,497        130,567,982                   18,475,595     60,557                      0      338,208,021                  26.4        358,743,996                          28.3      338,208,021           XXX",NAIC 1,0,0
+JNLICNY,2021Q4,"Total Publicly Traded Bonds                      17,974,390         171,129,497        130,567,982                   18,475,595     60,557                      0      338,208,021                  26.4        358,743,996                          28.3      338,208,021           XXX",NAIC 2,0,0
+JNLICNY,2021Q4,"Total Publicly Traded Bonds                      17,974,390         171,129,497        130,567,982                   18,475,595     60,557                      0      338,208,021                  26.4        358,743,996                          28.3      338,208,021           XXX",NAIC 3,0,0
+JNLICNY,2021Q4,"Total Publicly Traded Bonds                      17,974,390         171,129,497        130,567,982                   18,475,595     60,557                      0      338,208,021                  26.4        358,743,996                          28.3      338,208,021           XXX",NAIC 4,0,12956287
+JNLICNY,2021Q4,"Total Publicly Traded Bonds                      17,974,390         171,129,497        130,567,982                   18,475,595     60,557                      0      338,208,021                  26.4        358,743,996                          28.3      338,208,021           XXX",NAIC 5,0,0
+JNLICNY,2021Q4,"Total Privately Placed Bonds                     24,586,230         109,676,145         84,683,539                   25,245,677    1,955,172                    0      246,146,763                  19.2        244,177,718                          19.3      XXX                   246,146,763",NAIC 1,213218733,0
+JNLICNY,2021Q4,"Total Privately Placed Bonds                     24,586,230         109,676,145         84,683,539                   25,245,677    1,955,172                    0      246,146,763                  19.2        244,177,718                          19.3      XXX                   246,146,763",NAIC 2,197582923,0
+JNLICNY,2021Q4,"Total Privately Placed Bonds                     24,586,230         109,676,145         84,683,539                   25,245,677    1,955,172                    0      246,146,763                  19.2        244,177,718                          19.3      XXX                   246,146,763",NAIC 3,0,0
+JNLICNY,2021Q4,"Total Privately Placed Bonds                     24,586,230         109,676,145         84,683,539                   25,245,677    1,955,172                    0      246,146,763                  19.2        244,177,718                          19.3      XXX                   246,146,763",NAIC 4,0,15528563
+JNLICNY,2021Q4,"Total Privately Placed Bonds                     24,586,230         109,676,145         84,683,539                   25,245,677    1,955,172                    0      246,146,763                  19.2        244,177,718                          19.3      XXX                   246,146,763",NAIC 5,0,0
+JNLICNY,2021Q4,"Total Privately Placed Bonds                     24,586,230         109,676,145         84,683,539                   25,245,677    1,955,172                    0      246,146,763                  19.2        244,177,718                          19.3      XXX                   246,146,763",NAIC 6,6705019,0
+JNLICNY,2022Q3,BONDS,NAIC 1,25329324,26492743
+JNLICNY,2022Q3,BONDS,NAIC 2,524387,-526147
+JNLICNY,2022Q3,BONDS,NAIC 3,7331734,4499277
+JNLICNY,2022Q3,BONDS,NAIC 4,0,0
+JNLICNY,2022Q3,BONDS,NAIC 5,0,0
+JNLICNY,2022Q3,BONDS,NAIC 6,3920293,4075028
+JNLICNY,2022Q3,BONDS,NAIC 1,0,0
+JNLICNY,2022Q3,BONDS,NAIC 2,0,0
+JNLICNY,2022Q3,BONDS,NAIC 3,0,0
+JNLICNY,2022Q3,BONDS,NAIC 4,0,0
+JNLICNY,2022Q3,BONDS,NAIC 5,0,0
+JNLICNY,2022Q3,BONDS,NAIC 6,0,0
+JNLICNY,2022Q4,U.S. Governments,NAIC 1,8021074,7522343
+JNLICNY,2022Q4,U.S. Governments,NAIC 2,0,0
+JNLICNY,2022Q4,U.S. Governments,NAIC 3,0,0
+JNLICNY,2022Q4,U.S. Governments,NAIC 4,0,0
+JNLICNY,2022Q4,U.S. Governments,NAIC 5,0,0
+JNLICNY,2022Q4,U.S. Governments,NAIC 6,0,0
+JNLICNY,2022Q4,All Other Governments,NAIC 1,0,0
+JNLICNY,2022Q4,All Other Governments,NAIC 2,0,0
+JNLICNY,2022Q4,All Other Governments,NAIC 3,0,0
+JNLICNY,2022Q4,All Other Governments,NAIC 4,0,0
+JNLICNY,2022Q4,All Other Governments,NAIC 5,0,0
+JNLICNY,2022Q4,All Other Governments,NAIC 6,0,0
+JNLICNY,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,1563837,0
+JNLICNY,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+JNLICNY,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+JNLICNY,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+JNLICNY,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+JNLICNY,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,0,0
+JNLICNY,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+JNLICNY,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+JNLICNY,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+JNLICNY,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+JNLICNY,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+JNLICNY,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 1,7572885,1053401
+JNLICNY,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 2,0,0
+JNLICNY,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+JNLICNY,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+JNLICNY,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+JNLICNY,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+JNLICNY,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,632945962,354397471
+JNLICNY,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,635440498,431572472
+JNLICNY,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,23446035,10020149
+JNLICNY,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,8400219,241417
+JNLICNY,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+JNLICNY,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+JNLICNY,2022Q4,Hybrid Securities,NAIC 1,0,0
+JNLICNY,2022Q4,Hybrid Securities,NAIC 2,0,0
+JNLICNY,2022Q4,Hybrid Securities,NAIC 3,0,0
+JNLICNY,2022Q4,Hybrid Securities,NAIC 4,0,0
+JNLICNY,2022Q4,Hybrid Securities,NAIC 5,0,0
+JNLICNY,2022Q4,Hybrid Securities,NAIC 6,0,0
+JNLICNY,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+JNLICNY,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+JNLICNY,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+JNLICNY,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+JNLICNY,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+JNLICNY,2022Q4,SVO Identified Funds,NAIC 1,0,0
+JNLICNY,2022Q4,SVO Identified Funds,NAIC 2,0,0
+JNLICNY,2022Q4,SVO Identified Funds,NAIC 3,0,0
+JNLICNY,2022Q4,SVO Identified Funds,NAIC 4,0,0
+JNLICNY,2022Q4,SVO Identified Funds,NAIC 5,0,0
+JNLICNY,2022Q4,SVO Identified Funds,NAIC 6,0,0
+JNLICNY,2022Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+JNLICNY,2022Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+JNLICNY,2022Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+JNLICNY,2022Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+JNLICNY,2022Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+JNLICNY,2022Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+JNLICNY,2022Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+JNLICNY,2022Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+JNLICNY,2022Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+JNLICNY,2022Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+JNLICNY,2022Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+JNLICNY,2022Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+JNLICNY,2022Q4,Total Bonds Current Year,NAIC 1,0,362973215
+JNLICNY,2022Q4,Total Bonds Current Year,NAIC 2,0,431572472
+JNLICNY,2022Q4,Total Bonds Current Year,NAIC 3,0,10020149
+JNLICNY,2022Q4,Total Bonds Current Year,NAIC 4,0,241417
+JNLICNY,2022Q4,Total Bonds Current Year,NAIC 5,0,0
+JNLICNY,2022Q4,Total Bonds Current Year,NAIC 6,0,0
+JNLICNY,2022Q4,Total Bonds Prior Year,NAIC 1,0,338208021
+JNLICNY,2022Q4,Total Bonds Prior Year,NAIC 2,0,448548473
+JNLICNY,2022Q4,Total Bonds Prior Year,NAIC 3,0,10008147
+JNLICNY,2022Q4,Total Bonds Prior Year,NAIC 4,0,1364593
+JNLICNY,2022Q4,Total Bonds Prior Year,NAIC 5,0,0
+JNLICNY,2022Q4,Total Bonds Prior Year,NAIC 6,0,0
+JNLICNY,2022Q4,Total Publicly Traded Bonds,NAIC 1,0,338208021
+JNLICNY,2022Q4,Total Publicly Traded Bonds,NAIC 2,0,448548473
+JNLICNY,2022Q4,Total Publicly Traded Bonds,NAIC 4,0,1364593
+JNLICNY,2022Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+JNLICNY,2022Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+JNLICNY,2022Q4,Total Privately Placed Bonds,NAIC 1,0,246146763
+JNLICNY,2022Q4,Total Privately Placed Bonds,NAIC 2,0,213218733
+JNLICNY,2022Q4,Total Privately Placed Bonds,NAIC 3,0,16484596
+JNLICNY,2022Q4,Total Privately Placed Bonds,NAIC 4,0,3134684
+JNLICNY,2022Q4,Total Privately Placed Bonds,NAIC 5,0,0
+JNLICNY,2022Q4,Total Privately Placed Bonds,NAIC 6,0,4075028
+JNLICNY,2023Q1,BONDS,NAIC 1,0,650103758
+JNLICNY,2023Q1,BONDS,NAIC 2,0,635440498
+JNLICNY,2023Q1,BONDS,NAIC 3,0,23446035
+JNLICNY,2023Q1,BONDS,NAIC 4,0,8400219
+JNLICNY,2023Q1,BONDS,NAIC 5,0,0
+JNLICNY,2023Q1,BONDS,NAIC 6,0,0
+JNLICNY,2023Q1,BONDS,NAIC 1,0,0
+JNLICNY,2023Q1,BONDS,NAIC 2,0,0
+JNLICNY,2023Q1,BONDS,NAIC 3,0,0
+JNLICNY,2023Q1,BONDS,NAIC 4,0,0
+JNLICNY,2023Q1,BONDS,NAIC 5,0,0
+JNLICNY,2023Q1,BONDS,NAIC 6,0,0
+JNLICNY,2023Q2,BONDS,NAIC 1,0,650103758
+JNLICNY,2023Q2,BONDS,NAIC 2,0,635440498
+JNLICNY,2023Q2,BONDS,NAIC 3,0,23446035
+JNLICNY,2023Q2,BONDS,NAIC 4,0,8400219
+JNLICNY,2023Q2,BONDS,NAIC 5,0,0
+JNLICNY,2023Q2,BONDS,NAIC 6,0,0
+JNLICNY,2023Q2,BONDS,NAIC 1,0,0
+JNLICNY,2023Q2,BONDS,NAIC 2,0,0
+JNLICNY,2023Q2,BONDS,NAIC 3,0,0
+JNLICNY,2023Q2,BONDS,NAIC 4,0,0
+JNLICNY,2023Q2,BONDS,NAIC 5,0,0
+JNLICNY,2023Q2,BONDS,NAIC 6,0,0
+JNLICNY,2023Q3,BONDS,NAIC 1,650865734,650103758
+JNLICNY,2023Q3,BONDS,NAIC 2,606916665,635440498
+JNLICNY,2023Q3,BONDS,NAIC 3,15086084,23446035
+JNLICNY,2023Q3,BONDS,NAIC 4,8903808,8400219
+JNLICNY,2023Q3,BONDS,NAIC 5,0,0
+JNLICNY,2023Q3,BONDS,NAIC 6,0,0
+JNLICNY,2023Q3,BONDS,NAIC 1,0,0
+JNLICNY,2023Q3,BONDS,NAIC 2,0,0
+JNLICNY,2023Q3,BONDS,NAIC 3,0,0
+JNLICNY,2023Q3,BONDS,NAIC 4,0,0
+JNLICNY,2023Q3,BONDS,NAIC 5,0,0
+JNLICNY,2023Q3,BONDS,NAIC 6,0,0
+JNLICNY,2023Q4,U.S. Governments,NAIC 1,8020887,8020887
+JNLICNY,2023Q4,U.S. Governments,NAIC 2,0,0
+JNLICNY,2023Q4,U.S. Governments,NAIC 3,0,0
+JNLICNY,2023Q4,U.S. Governments,NAIC 4,0,0
+JNLICNY,2023Q4,U.S. Governments,NAIC 5,0,0
+JNLICNY,2023Q4,U.S. Governments,NAIC 6,0,0
+JNLICNY,2023Q4,All Other Governments,NAIC 1,0,0
+JNLICNY,2023Q4,All Other Governments,NAIC 2,0,0
+JNLICNY,2023Q4,All Other Governments,NAIC 3,0,0
+JNLICNY,2023Q4,All Other Governments,NAIC 4,0,0
+JNLICNY,2023Q4,All Other Governments,NAIC 5,0,0
+JNLICNY,2023Q4,All Other Governments,NAIC 6,0,0
+JNLICNY,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,1418897,0
+JNLICNY,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+JNLICNY,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+JNLICNY,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+JNLICNY,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+JNLICNY,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,0,0
+JNLICNY,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+JNLICNY,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+JNLICNY,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+JNLICNY,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+JNLICNY,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+JNLICNY,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 1,7334940,819267
+JNLICNY,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 2,0,0
+JNLICNY,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+JNLICNY,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+JNLICNY,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+JNLICNY,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+JNLICNY,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,652902907,353544381
+JNLICNY,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,608105893,408457077
+JNLICNY,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,13361240,5631706
+JNLICNY,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,7661439,0
+JNLICNY,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,691926,0
+JNLICNY,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+JNLICNY,2023Q4,Hybrid Securities,NAIC 1,0,0
+JNLICNY,2023Q4,Hybrid Securities,NAIC 2,0,0
+JNLICNY,2023Q4,Hybrid Securities,NAIC 3,0,0
+JNLICNY,2023Q4,Hybrid Securities,NAIC 4,0,0
+JNLICNY,2023Q4,Hybrid Securities,NAIC 5,0,0
+JNLICNY,2023Q4,Hybrid Securities,NAIC 6,0,0
+JNLICNY,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+JNLICNY,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+JNLICNY,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+JNLICNY,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+JNLICNY,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+JNLICNY,2023Q4,SVO Identified Funds,NAIC 1,0,0
+JNLICNY,2023Q4,SVO Identified Funds,NAIC 2,0,0
+JNLICNY,2023Q4,SVO Identified Funds,NAIC 3,0,0
+JNLICNY,2023Q4,SVO Identified Funds,NAIC 4,0,0
+JNLICNY,2023Q4,SVO Identified Funds,NAIC 5,0,0
+JNLICNY,2023Q4,SVO Identified Funds,NAIC 6,0,0
+JNLICNY,2023Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+JNLICNY,2023Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+JNLICNY,2023Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+JNLICNY,2023Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+JNLICNY,2023Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+JNLICNY,2023Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+JNLICNY,2023Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+JNLICNY,2023Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+JNLICNY,2023Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+JNLICNY,2023Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+JNLICNY,2023Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+JNLICNY,2023Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+JNLICNY,2023Q4,Total Bonds Current Year,NAIC 1,0,362384535
+JNLICNY,2023Q4,Total Bonds Current Year,NAIC 2,0,408457077
+JNLICNY,2023Q4,Total Bonds Current Year,NAIC 3,0,5631706
+JNLICNY,2023Q4,Total Bonds Current Year,NAIC 4,0,0
+JNLICNY,2023Q4,Total Bonds Current Year,NAIC 5,0,0
+JNLICNY,2023Q4,Total Bonds Current Year,NAIC 6,0,0
+JNLICNY,2023Q4,Total Bonds Prior Year,NAIC 1,0,362973215
+JNLICNY,2023Q4,Total Bonds Prior Year,NAIC 2,0,431572472
+JNLICNY,2023Q4,Total Bonds Prior Year,NAIC 3,0,10020149
+JNLICNY,2023Q4,Total Bonds Prior Year,NAIC 4,0,241417
+JNLICNY,2023Q4,Total Bonds Prior Year,NAIC 5,0,0
+JNLICNY,2023Q4,Total Bonds Prior Year,NAIC 6,0,0
+JNLICNY,2023Q4,Total Publicly Traded Bonds,NAIC 1,0,362973215
+JNLICNY,2023Q4,Total Publicly Traded Bonds,NAIC 2,0,431572472
+JNLICNY,2023Q4,Total Publicly Traded Bonds,NAIC 4,0,241417
+JNLICNY,2023Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+JNLICNY,2023Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+JNLICNY,2023Q4,Total Privately Placed Bonds,NAIC 1,0,287130543
+JNLICNY,2023Q4,Total Privately Placed Bonds,NAIC 2,0,203868026
+JNLICNY,2023Q4,Total Privately Placed Bonds,NAIC 3,0,13425886
+JNLICNY,2023Q4,Total Privately Placed Bonds,NAIC 4,0,8158802
+JNLICNY,2023Q4,Total Privately Placed Bonds,NAIC 5,0,0
+JNLICNY,2023Q4,Total Privately Placed Bonds,NAIC 6,0,0
+JNLICNY,2024Q1,BONDS,NAIC 1,0,669677631
+JNLICNY,2024Q1,BONDS,NAIC 2,0,608105893
+JNLICNY,2024Q1,BONDS,NAIC 3,0,13361240
+JNLICNY,2024Q1,BONDS,NAIC 4,0,7661439
+JNLICNY,2024Q1,BONDS,NAIC 5,0,691926
+JNLICNY,2024Q1,BONDS,NAIC 6,0,0
+JNLICNY,2024Q1,BONDS,NAIC 1,0,0
+JNLICNY,2024Q1,BONDS,NAIC 2,0,0
+JNLICNY,2024Q1,BONDS,NAIC 3,0,0
+JNLICNY,2024Q1,BONDS,NAIC 4,0,0
+JNLICNY,2024Q1,BONDS,NAIC 5,0,0
+JNLICNY,2024Q1,BONDS,NAIC 6,0,0
+JNLICNY,2024Q2,BONDS,NAIC 1,0,669677631
+JNLICNY,2024Q2,BONDS,NAIC 2,0,608105893
+JNLICNY,2024Q2,BONDS,NAIC 3,0,13361240
+JNLICNY,2024Q2,BONDS,NAIC 4,0,7661439
+JNLICNY,2024Q2,BONDS,NAIC 5,0,691926
+JNLICNY,2024Q2,BONDS,NAIC 6,0,0
+JNLICNY,2024Q2,BONDS,NAIC 1,0,0
+JNLICNY,2024Q2,BONDS,NAIC 2,0,0
+JNLICNY,2024Q2,BONDS,NAIC 3,0,0
+JNLICNY,2024Q2,BONDS,NAIC 4,0,0
+JNLICNY,2024Q2,BONDS,NAIC 5,0,0
+JNLICNY,2024Q2,BONDS,NAIC 6,0,0
+JNLICNY,2024Q3,BONDS,NAIC 1,715852546,669677631
+JNLICNY,2024Q3,BONDS,NAIC 2,572238593,608105893
+JNLICNY,2024Q3,BONDS,NAIC 3,16526844,13361240
+JNLICNY,2024Q3,BONDS,NAIC 4,1665761,7661439
+JNLICNY,2024Q3,BONDS,NAIC 5,502831,691926
+JNLICNY,2024Q3,BONDS,NAIC 6,0,0
+JNLICNY,2024Q3,BONDS,NAIC 1,0,0
+JNLICNY,2024Q3,BONDS,NAIC 2,0,0
+JNLICNY,2024Q3,BONDS,NAIC 3,0,0
+JNLICNY,2024Q3,BONDS,NAIC 4,0,0
+JNLICNY,2024Q3,BONDS,NAIC 5,0,0
+JNLICNY,2024Q3,BONDS,NAIC 6,0,0
+JNLICNY,2025Q1,BONDS,NAIC 1,0,453920807
+JNLICNY,2025Q1,BONDS,NAIC 2,0,574727806
+JNLICNY,2025Q1,BONDS,NAIC 3,0,11878530
+JNLICNY,2025Q1,BONDS,NAIC 4,0,1667266
+JNLICNY,2025Q1,BONDS,NAIC 5,0,502747
+JNLICNY,2025Q1,BONDS,NAIC 6,0,0
+JNLICNY,2025Q1,BONDS,NAIC 2,0,17921943
+JNLICNY,2025Q1,BONDS,NAIC 3,0,0
+JNLICNY,2025Q1,BONDS,NAIC 4,0,0
+JNLICNY,2025Q1,BONDS,NAIC 5,0,0
+JNLICNY,2025Q1,BONDS,NAIC 6,0,0
+JNLICNY,2025Q1,BONDS,NAIC 1,0,0
+JNLICNY,2025Q1,BONDS,NAIC 2,0,0
+JNLICNY,2025Q1,BONDS,NAIC 3,0,0
+JNLICNY,2025Q1,BONDS,NAIC 4,0,0
+JNLICNY,2025Q1,BONDS,NAIC 5,0,0
+JNLICNY,2025Q1,BONDS,NAIC 6,0,0
+JNLICNY,2025Q2,BONDS,NAIC 1,0,453920807
+JNLICNY,2025Q2,BONDS,NAIC 2,0,574727806
+JNLICNY,2025Q2,BONDS,NAIC 3,0,11878530
+JNLICNY,2025Q2,BONDS,NAIC 4,0,1667266
+JNLICNY,2025Q2,BONDS,NAIC 5,0,502747
+JNLICNY,2025Q2,BONDS,NAIC 6,0,0
+JNLICNY,2025Q2,BONDS,NAIC 2,0,17921943
+JNLICNY,2025Q2,BONDS,NAIC 3,0,0
+JNLICNY,2025Q2,BONDS,NAIC 4,0,0
+JNLICNY,2025Q2,BONDS,NAIC 5,0,0
+JNLICNY,2025Q2,BONDS,NAIC 6,0,0
+JNLICNY,2025Q2,BONDS,NAIC 1,0,0
+JNLICNY,2025Q2,BONDS,NAIC 2,0,0
+JNLICNY,2025Q2,BONDS,NAIC 3,0,0
+JNLICNY,2025Q2,BONDS,NAIC 4,0,0
+JNLICNY,2025Q2,BONDS,NAIC 5,0,0
+JNLICNY,2025Q2,BONDS,NAIC 6,0,0
+JNLICNY,2025Q3,BONDS,NAIC 1,465705455,453920807
+JNLICNY,2025Q3,BONDS,NAIC 2,616063815,574727806
+JNLICNY,2025Q3,BONDS,NAIC 3,27276252,11878530
+JNLICNY,2025Q3,BONDS,NAIC 4,3467013,1667266
+JNLICNY,2025Q3,BONDS,NAIC 5,502491,502747
+JNLICNY,2025Q3,BONDS,NAIC 6,0,0
+JNLICNY,2025Q3,BONDS,NAIC 2,52383502,17921943
+JNLICNY,2025Q3,BONDS,NAIC 3,5848906,0
+JNLICNY,2025Q3,BONDS,NAIC 4,0,0
+JNLICNY,2025Q3,BONDS,NAIC 5,0,0
+JNLICNY,2025Q3,BONDS,NAIC 6,0,0
+JNLICNY,2025Q3,BONDS,NAIC 1,0,0
+JNLICNY,2025Q3,BONDS,NAIC 2,0,0
+JNLICNY,2025Q3,BONDS,NAIC 3,0,0
+JNLICNY,2025Q3,BONDS,NAIC 4,0,0
+JNLICNY,2025Q3,BONDS,NAIC 5,0,0
+JNLICNY,2025Q3,BONDS,NAIC 6,0,0

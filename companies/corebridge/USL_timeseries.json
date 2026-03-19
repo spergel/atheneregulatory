@@ -1,0 +1,62 @@
+[
+  {
+    "period": "2021Q4",
+    "entity": "USL",
+    "bonds": 19862548199.0,
+    "mortgages": 3188986951.0,
+    "alts": 0.0,
+    "cash": 164556401.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 23216091551.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "USL",
+    "bonds": 19052847009.0,
+    "mortgages": 3945800007.0,
+    "alts": 1902096775.0,
+    "cash": 71215534.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 2000433394.0,
+    "life_prem_ytd": 257230190.0,
+    "total_invested": 24971959325.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "USL",
+    "bonds": 19453201646.0,
+    "mortgages": 3925253261.0,
+    "alts": 1648000038.0,
+    "cash": 247302257.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 2235872747.0,
+    "life_prem_ytd": 252549846.0,
+    "total_invested": 25273757202.0
+  },
+  {
+    "period": "2024Q4",
+    "entity": "USL",
+    "bonds": 20350430980.0,
+    "mortgages": 3735966251.0,
+    "alts": 2059553412.0,
+    "cash": 26003685.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 3540988112.0,
+    "life_prem_ytd": 251048650.0,
+    "total_invested": 26171954328.0
+  },
+  {
+    "period": "2025Q4",
+    "entity": "USL",
+    "bonds": 22114615908.0,
+    "mortgages": 3755820280.0,
+    "alts": 2015183923.0,
+    "cash": 29070329.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 3519403117.0,
+    "life_prem_ytd": 248673953.0,
+    "total_invested": 27914690440.0
+  }
+]

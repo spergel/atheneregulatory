@@ -1,0 +1,86 @@
+[
+  {
+    "period": "2021Q4",
+    "entity": "CPL",
+    "bonds": 717629352.0,
+    "mortgages": 520070.0,
+    "alts": 19074983.0,
+    "cash": 10916579.0,
+    "real_estate": 5350341.0,
+    "annuity_ytd": 0.0,
+    "life_prem_ytd": 0.0,
+    "total_invested": 753491325.0
+  },
+  {
+    "period": "2022Q4",
+    "entity": "CPL",
+    "bonds": 718718617.0,
+    "mortgages": 478100.0,
+    "alts": 18625706.0,
+    "cash": 26421706.0,
+    "real_estate": 4958670.0,
+    "annuity_ytd": 462973679.0,
+    "life_prem_ytd": 340884975.0,
+    "total_invested": 769202799.0
+  },
+  {
+    "period": "2023Q1",
+    "entity": "CPL",
+    "bonds": 728860612.0,
+    "mortgages": 467207.0,
+    "alts": 18533210.0,
+    "cash": 28272386.0,
+    "real_estate": 4866385.0,
+    "annuity_ytd": 108949916.0,
+    "life_prem_ytd": 90586456.0,
+    "total_invested": 780999800.0
+  },
+  {
+    "period": "2023Q3",
+    "entity": "CPL",
+    "bonds": 739996397.0,
+    "mortgages": 444925.0,
+    "alts": 18523152.0,
+    "cash": 13958658.0,
+    "real_estate": 4682004.0,
+    "annuity_ytd": 312243056.0,
+    "life_prem_ytd": 271262166.0,
+    "total_invested": 777605136.0
+  },
+  {
+    "period": "2023Q4",
+    "entity": "CPL",
+    "bonds": 737269292.0,
+    "mortgages": 433530.0,
+    "alts": 18517534.0,
+    "cash": 37983521.0,
+    "real_estate": 4590287.0,
+    "annuity_ytd": 415952881.0,
+    "life_prem_ytd": 361390901.0,
+    "total_invested": 798794164.0
+  },
+  {
+    "period": "2024Q1",
+    "entity": "CPL",
+    "bonds": 755114772.0,
+    "mortgages": 421963.0,
+    "alts": 19655709.0,
+    "cash": 31316268.0,
+    "real_estate": 4590287.0,
+    "annuity_ytd": 102068367.0,
+    "life_prem_ytd": 93678274.0,
+    "total_invested": 811098999.0
+  },
+  {
+    "period": "2025Q1",
+    "entity": "CPL",
+    "bonds": 798835178.0,
+    "mortgages": 373914.0,
+    "alts": 21459093.0,
+    "cash": 5350739.0,
+    "real_estate": 0.0,
+    "annuity_ytd": 92748250.0,
+    "life_prem_ytd": 96347296.0,
+    "total_invested": 826018924.0
+  }
+]

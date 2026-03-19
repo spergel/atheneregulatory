@@ -1,0 +1,539 @@
+entity,period,category,naic_designation,total_current_year,total_prior_year
+BLC,2018Q3,BONDS,NAIC 1,1,22065371
+BLC,2018Q3,BONDS,NAIC 2,570444328,506634112
+BLC,2018Q3,BONDS,NAIC 3,228350864,195803124
+BLC,2018Q3,BONDS,NAIC 4,19696178,25742536
+BLC,2018Q3,BONDS,NAIC 6,774584,770127
+BLC,2018Q3,BONDS,NAIC 1,20110000,18933317
+BLC,2018Q3,BONDS,NAIC 2,169383657,189410091
+BLC,2018Q3,BONDS,NAIC 3,58353705,57548343
+BLC,2018Q3,BONDS,NAIC 4,49641889,2795856
+BLC,2018Q3,BONDS,NAIC 5,5886005,5000000
+BLC,2018Q3,BONDS,NAIC 6,302569894,14443065
+BLC,2019Q2,BONDS,NAIC 1,35415073,-20077750
+BLC,2019Q2,BONDS,NAIC 2,499731039,524139666
+BLC,2019Q2,BONDS,NAIC 3,168378153,180742558
+BLC,2019Q2,BONDS,NAIC 4,19729160,19688155
+BLC,2019Q2,BONDS,NAIC 5,5,2000000
+BLC,2019Q2,BONDS,NAIC 6,12743247517,464183
+BLC,2019Q2,BONDS,NAIC 1,17837000,20110000
+BLC,2019Q2,BONDS,NAIC 2,68135680,168668217
+BLC,2019Q2,BONDS,NAIC 3,5000000,47991209
+BLC,2019Q2,BONDS,NAIC 4,4,-23507493
+BLC,2019Q2,BONDS,NAIC 5,120366178,285605821
+BLC,2019Q2,BONDS,NAIC 6,13045478595,12806511458
+BLC,2021Q2,BONDS,NAIC 1,8028291534,7166322835
+BLC,2021Q2,BONDS,NAIC 2,5395942306,5607314662
+BLC,2021Q2,BONDS,NAIC 3,71737660,-15631221
+BLC,2021Q2,BONDS,NAIC 4,596794012,679014024
+BLC,2021Q2,BONDS,NAIC 5,239697513,252513701
+BLC,2021Q2,BONDS,NAIC 6,11873949,10844850
+BLC,2021Q2,BONDS,NAIC 1,7500000,12500000
+BLC,2021Q2,BONDS,NAIC 2,26507493,26507493
+BLC,2021Q2,BONDS,NAIC 3,5887280,5886005
+BLC,2021Q2,BONDS,NAIC 4,14456355797,13894686548
+BLC,2021Q2,BONDS,NAIC 5,5,6
+BLC,2021Q2,BONDS,NAIC 6,6,5882610
+BLC,2021Q3,BONDS,NAIC 1,8312266453,7166322835
+BLC,2021Q3,BONDS,NAIC 2,5495848848,5607314662
+BLC,2021Q3,BONDS,NAIC 3,19886662,12856381
+BLC,2021Q3,BONDS,NAIC 4,638002197,679014024
+BLC,2021Q3,BONDS,NAIC 5,251860264,252513701
+BLC,2021Q3,BONDS,NAIC 6,10844850,19067122
+BLC,2021Q3,BONDS,NAIC 1,7500000,12500000
+BLC,2021Q3,BONDS,NAIC 2,26507493,26507493
+BLC,2021Q3,BONDS,NAIC 3,5887280,5886005
+BLC,2021Q3,BONDS,NAIC 4,14897830041,13894686548
+BLC,2021Q3,BONDS,NAIC 6,6,5887280
+BLC,2022Q1,BONDS,NAIC 1,9380110290,8757775716
+BLC,2022Q1,BONDS,NAIC 2,6167067523,5707721906
+BLC,2022Q1,BONDS,NAIC 3,22404967,-28362820
+BLC,2022Q1,BONDS,NAIC 4,658629613,655355294
+BLC,2022Q1,BONDS,NAIC 5,283915497,267148063
+BLC,2022Q1,BONDS,NAIC 6,21255437,22143938
+BLC,2022Q1,BONDS,NAIC 1,7500000,7500000
+BLC,2022Q1,BONDS,NAIC 2,26507493,26507493
+BLC,2022Q1,BONDS,NAIC 3,150475871,172033871
+BLC,2022Q1,BONDS,NAIC 4,4,-7161619
+BLC,2022Q1,BONDS,NAIC 5,5,6
+BLC,2022Q4,U.S. Governments,NAIC 1,28633067,28633067
+BLC,2022Q4,U.S. Governments,NAIC 2,0,0
+BLC,2022Q4,U.S. Governments,NAIC 3,0,0
+BLC,2022Q4,U.S. Governments,NAIC 4,0,0
+BLC,2022Q4,U.S. Governments,NAIC 5,0,0
+BLC,2022Q4,U.S. Governments,NAIC 6,0,0
+BLC,2022Q4,All Other Governments,NAIC 1,20857521,0
+BLC,2022Q4,All Other Governments,NAIC 2,22097855,10659514
+BLC,2022Q4,All Other Governments,NAIC 3,0,0
+BLC,2022Q4,All Other Governments,NAIC 4,0,0
+BLC,2022Q4,All Other Governments,NAIC 5,0,0
+BLC,2022Q4,All Other Governments,NAIC 6,0,0
+BLC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,0,0
+BLC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,6697475,0
+BLC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+BLC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+BLC,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+BLC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,148001218,148001218
+BLC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+BLC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+BLC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+BLC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+BLC,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+BLC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 1,1629864983,1600125467
+BLC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 2,49880221,49880221
+BLC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+BLC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 4,7240000,0
+BLC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+BLC,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+BLC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,8329854990,4198350739
+BLC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,5794695455,3796541046
+BLC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,495774288,94579402
+BLC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,209261837,99864706
+BLC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+BLC,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+BLC,2022Q4,Hybrid Securities,NAIC 1,0,0
+BLC,2022Q4,Hybrid Securities,NAIC 2,93151251,0
+BLC,2022Q4,Hybrid Securities,NAIC 3,0,0
+BLC,2022Q4,Hybrid Securities,NAIC 4,0,0
+BLC,2022Q4,Hybrid Securities,NAIC 5,0,0
+BLC,2022Q4,Hybrid Securities,NAIC 6,0,0
+BLC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+BLC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+BLC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+BLC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+BLC,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+BLC,2022Q4,SVO Identified Funds,NAIC 1,0,0
+BLC,2022Q4,SVO Identified Funds,NAIC 2,0,0
+BLC,2022Q4,SVO Identified Funds,NAIC 3,0,0
+BLC,2022Q4,SVO Identified Funds,NAIC 4,0,0
+BLC,2022Q4,SVO Identified Funds,NAIC 5,0,0
+BLC,2022Q4,SVO Identified Funds,NAIC 6,0,0
+BLC,2022Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+BLC,2022Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+BLC,2022Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+BLC,2022Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+BLC,2022Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+BLC,2022Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+BLC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+BLC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+BLC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+BLC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+BLC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+BLC,2022Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+BLC,2022Q4,Total Bonds Current Year,NAIC 1,10196532829,4191608404
+BLC,2022Q4,Total Bonds Current Year,NAIC 2,5993904716,2010787609
+BLC,2022Q4,Total Bonds Current Year,NAIC 3,528410459,433831057
+BLC,2022Q4,Total Bonds Current Year,NAIC 4,16372836,0
+BLC,2022Q4,Total Bonds Current Year,NAIC 5,0,0
+BLC,2022Q4,Total Bonds Current Year,NAIC 6,0,0
+BLC,2022Q4,Total Bonds Prior Year,NAIC 1,20681042,5561721563
+BLC,2022Q4,Total Bonds Prior Year,NAIC 2,5707721906,1718654359
+BLC,2022Q4,Total Bonds Prior Year,NAIC 3,655355294,456381360
+BLC,2022Q4,Total Bonds Prior Year,NAIC 4,22042339,0
+BLC,2022Q4,Total Bonds Prior Year,NAIC 5,0,0
+BLC,2022Q4,Total Bonds Prior Year,NAIC 6,0,0
+BLC,2022Q4,Total Bonds Prior Year,NAIC 1,6004924425,6004924425
+BLC,2022Q4,Total Bonds Prior Year,NAIC 2,3983117107,3983117107
+BLC,2022Q4,Total Bonds Prior Year,NAIC 3,94579402,94579402
+BLC,2022Q4,Total Bonds Prior Year,NAIC 4,16372836,0
+BLC,2022Q4,Total Bonds Prior Year,NAIC 5,0,0
+BLC,2022Q4,Total Bonds Prior Year,NAIC 6,0,0
+BLC,2022Q4,Total Privately Placed Bonds,NAIC 1,4191608404,4191608404
+BLC,2022Q4,Total Privately Placed Bonds,NAIC 2,2010787609,2010787609
+BLC,2022Q4,Total Privately Placed Bonds,NAIC 3,433831057,433831057
+BLC,2022Q4,Total Privately Placed Bonds,NAIC 4,245105724,0
+BLC,2022Q4,Total Privately Placed Bonds,NAIC 5,0,0
+BLC,2022Q4,Total Privately Placed Bonds,NAIC 6,0,0
+BLC,2023Q3,BONDS,NAIC 1,10903415421,10196532829
+BLC,2023Q3,BONDS,NAIC 2,5730531906,5993904716
+BLC,2023Q3,BONDS,NAIC 3,482793036,528410459
+BLC,2023Q3,BONDS,NAIC 4,126278135,146769136
+BLC,2023Q3,BONDS,NAIC 5,6565888,11288358
+BLC,2023Q3,BONDS,NAIC 6,2500000,2500000
+BLC,2023Q3,BONDS,NAIC 1,7500000,7500000
+BLC,2023Q3,BONDS,NAIC 2,104007500,104259500
+BLC,2023Q3,BONDS,NAIC 3,23507493,23507493
+BLC,2024Q3,BONDS,NAIC 1,11378283971,10727048714
+BLC,2024Q3,BONDS,NAIC 2,6091126080,5637084838
+BLC,2024Q3,BONDS,NAIC 3,577354870,484301877
+BLC,2024Q3,BONDS,NAIC 4,137886054,140405500
+BLC,2024Q3,BONDS,NAIC 5,19617322,29747486
+BLC,2024Q3,BONDS,NAIC 6,2500000,2500000
+BLC,2024Q3,BONDS,NAIC 1,7500000,7500000
+BLC,2024Q3,BONDS,NAIC 2,101247500,103240325
+BLC,2024Q3,BONDS,NAIC 3,23507493,23507493
+BLC,2024Q4,U.S. Governments,NAIC 1,386928942,386928942
+BLC,2024Q4,U.S. Governments,NAIC 2,0,0
+BLC,2024Q4,U.S. Governments,NAIC 3,0,0
+BLC,2024Q4,U.S. Governments,NAIC 4,0,0
+BLC,2024Q4,U.S. Governments,NAIC 5,0,0
+BLC,2024Q4,U.S. Governments,NAIC 6,0,0
+BLC,2024Q4,All Other Governments,NAIC 1,20521567,0
+BLC,2024Q4,All Other Governments,NAIC 2,36047590,24100900
+BLC,2024Q4,All Other Governments,NAIC 3,0,0
+BLC,2024Q4,All Other Governments,NAIC 4,0,0
+BLC,2024Q4,All Other Governments,NAIC 5,0,0
+BLC,2024Q4,All Other Governments,NAIC 6,0,0
+BLC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,17594371,0
+BLC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+BLC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+BLC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+BLC,2024Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+BLC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,148045288,148045288
+BLC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+BLC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+BLC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+BLC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+BLC,2024Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+BLC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 1,2054592140,1968932159
+BLC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 2,60973451,60973451
+BLC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+BLC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 4,5790000,0
+BLC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+BLC,2024Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+BLC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,8505131651,3788466831
+BLC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,5761730512,3692062683
+BLC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,527121521,132190777
+BLC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,97937746,90239478
+BLC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,3492085,0
+BLC,2024Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+BLC,2024Q4,Hybrid Securities,NAIC 1,0,0
+BLC,2024Q4,Hybrid Securities,NAIC 2,0,0
+BLC,2024Q4,Hybrid Securities,NAIC 3,0,0
+BLC,2024Q4,Hybrid Securities,NAIC 4,0,0
+BLC,2024Q4,Hybrid Securities,NAIC 5,0,0
+BLC,2024Q4,Hybrid Securities,NAIC 6,0,0
+BLC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+BLC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+BLC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+BLC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+BLC,2024Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+BLC,2024Q4,SVO Identified Funds,NAIC 1,0,0
+BLC,2024Q4,SVO Identified Funds,NAIC 2,0,0
+BLC,2024Q4,SVO Identified Funds,NAIC 3,0,0
+BLC,2024Q4,SVO Identified Funds,NAIC 4,0,0
+BLC,2024Q4,SVO Identified Funds,NAIC 5,0,0
+BLC,2024Q4,SVO Identified Funds,NAIC 6,0,0
+BLC,2024Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+BLC,2024Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+BLC,2024Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+BLC,2024Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+BLC,2024Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+BLC,2024Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+BLC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+BLC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+BLC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+BLC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+BLC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+BLC,2024Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+BLC,2024Q4,Total Bonds Current Year,NAIC 1,11314881165,4939973695
+BLC,2024Q4,Total Bonds Current Year,NAIC 2,5981882967,2102416344
+BLC,2024Q4,Total Bonds Current Year,NAIC 3,584474095,452283318
+BLC,2024Q4,Total Bonds Current Year,NAIC 4,230549151,160477903
+BLC,2024Q4,Total Bonds Current Year,NAIC 5,15624158,5043410
+BLC,2024Q4,Total Bonds Current Year,NAIC 6,0,0
+BLC,2024Q4,Total Bonds Prior Year,NAIC 1,10727048714,4710466767
+BLC,2024Q4,Total Bonds Prior Year,NAIC 2,5637084838,1965697521
+BLC,2024Q4,Total Bonds Prior Year,NAIC 3,484301877,382844544
+BLC,2024Q4,Total Bonds Prior Year,NAIC 4,17119215,0
+BLC,2024Q4,Total Bonds Prior Year,NAIC 5,29747486,0
+BLC,2024Q4,Total Bonds Prior Year,NAIC 6,0,0
+BLC,2024Q4,Total Publicly Traded Bonds,NAIC 1,6374907470,6374907470
+BLC,2024Q4,Total Publicly Traded Bonds,NAIC 3,132190777,132190777
+BLC,2024Q4,Total Publicly Traded Bonds,NAIC 4,17119215,0
+BLC,2024Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+BLC,2024Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+BLC,2024Q4,Total Privately Placed Bonds,NAIC 1,4939973695,4939973695
+BLC,2024Q4,Total Privately Placed Bonds,NAIC 2,2102416344,2102416344
+BLC,2024Q4,Total Privately Placed Bonds,NAIC 3,452283318,452283318
+BLC,2024Q4,Total Privately Placed Bonds,NAIC 4,123286285,0
+BLC,2024Q4,Total Privately Placed Bonds,NAIC 5,5043410,0
+BLC,2024Q4,Total Privately Placed Bonds,NAIC 6,0,0
+CPL,2021Q4,U.S. Governments,NAIC 1,0,0
+CPL,2021Q4,U.S. Governments,NAIC 2,0,0
+CPL,2021Q4,U.S. Governments,NAIC 3,0,0
+CPL,2021Q4,U.S. Governments,NAIC 4,0,0
+CPL,2021Q4,U.S. Governments,NAIC 5,0,0
+CPL,2021Q4,U.S. Governments,NAIC 6,0,0
+CPL,2021Q4,All Other Governments,NAIC 1,0,0
+CPL,2021Q4,All Other Governments,NAIC 2,0,0
+CPL,2021Q4,All Other Governments,NAIC 3,0,0
+CPL,2021Q4,All Other Governments,NAIC 4,0,0
+CPL,2021Q4,All Other Governments,NAIC 5,0,0
+CPL,2021Q4,All Other Governments,NAIC 6,0,0
+CPL,2021Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,0,0
+CPL,2021Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+CPL,2021Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+CPL,2021Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+CPL,2021Q4,"U.S. States, Territories and Possessions etc.,",NAIC 5,0,0
+CPL,2021Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+CPL,2021Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,5000449,0
+CPL,2021Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+CPL,2021Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+CPL,2021Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+CPL,2021Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+CPL,2021Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+CPL,2021Q4,U.S. Special Revenue & Special Assessment,NAIC 1,141511013,138886837
+CPL,2021Q4,U.S. Special Revenue & Special Assessment,NAIC 2,6664793,5630231
+CPL,2021Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+CPL,2021Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+CPL,2021Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+CPL,2021Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+CPL,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,259571665,167161966
+CPL,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,261298342,218893905
+CPL,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,16629148,10978391
+CPL,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,504588,0
+CPL,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+CPL,2021Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+CPL,2021Q4,Hybrid Securities,NAIC 1,0,0
+CPL,2021Q4,Hybrid Securities,NAIC 2,0,0
+CPL,2021Q4,Hybrid Securities,NAIC 3,0,0
+CPL,2021Q4,Hybrid Securities,NAIC 4,0,0
+CPL,2021Q4,Hybrid Securities,NAIC 5,0,0
+CPL,2021Q4,Hybrid Securities,NAIC 6,0,0
+CPL,2021Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+CPL,2021Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+CPL,2021Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+CPL,2021Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+CPL,2021Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+CPL,2021Q4,"Parent, Subsidiaries and Affiliates",NAIC 6,0,0
+CPL,2021Q4,SVO Identified Funds,NAIC 1,0,0
+CPL,2021Q4,SVO Identified Funds,NAIC 2,0,0
+CPL,2021Q4,SVO Identified Funds,NAIC 3,0,0
+CPL,2021Q4,SVO Identified Funds,NAIC 4,0,0
+CPL,2021Q4,SVO Identified Funds,NAIC 5,0,0
+CPL,2021Q4,SVO Identified Funds,NAIC 6,0,0
+CPL,2021Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+CPL,2021Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+CPL,2021Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+CPL,2021Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+CPL,2021Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+CPL,2021Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+CPL,2021Q4,Total Bonds Current Year,NAIC 1,421323300,95033875
+CPL,2021Q4,Total Bonds Current Year,NAIC 2,274103137,43438999
+CPL,2021Q4,Total Bonds Current Year,NAIC 3,16629148,5650757
+CPL,2021Q4,Total Bonds Current Year,NAIC 4,0,0
+CPL,2021Q4,Total Bonds Current Year,NAIC 5,0,0
+CPL,2021Q4,Total Bonds Current Year,NAIC 6,0,0
+CPL,2021Q4,Total Bonds Prior Year,NAIC 1,374933265,91679607
+CPL,2021Q4,Total Bonds Prior Year,NAIC 2,324064399,57793035
+CPL,2021Q4,Total Bonds Prior Year,NAIC 3,23347194,7562479
+CPL,2021Q4,Total Bonds Prior Year,NAIC 4,0,0
+CPL,2021Q4,Total Bonds Prior Year,NAIC 5,0,0
+CPL,2021Q4,Total Bonds Prior Year,NAIC 6,0,0
+CPL,2021Q4,Total Publicly Traded Bonds,NAIC 1,326289425,326289425
+CPL,2021Q4,Total Publicly Traded Bonds,NAIC 2,230664138,230664138
+CPL,2021Q4,Total Publicly Traded Bonds,NAIC 3,15784715,0
+CPL,2021Q4,Total Publicly Traded Bonds,NAIC 4,0,0
+CPL,2021Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+CPL,2021Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+CPL,2021Q4,Total Privately Placed Bonds,NAIC 1,95033875,95033875
+CPL,2021Q4,Total Privately Placed Bonds,NAIC 2,43438999,43438999
+CPL,2021Q4,Total Privately Placed Bonds,NAIC 3,5650757,5650757
+CPL,2021Q4,Total Privately Placed Bonds,NAIC 4,0,0
+CPL,2021Q4,Total Privately Placed Bonds,NAIC 5,0,0
+CPL,2021Q4,Total Privately Placed Bonds,NAIC 6,0,0
+CPL,2022Q4,U.S. Governments,NAIC 1,0,0
+CPL,2022Q4,U.S. Governments,NAIC 2,0,0
+CPL,2022Q4,U.S. Governments,NAIC 3,0,0
+CPL,2022Q4,U.S. Governments,NAIC 4,0,0
+CPL,2022Q4,U.S. Governments,NAIC 5,0,0
+CPL,2022Q4,U.S. Governments,NAIC 6,0,0
+CPL,2022Q4,All Other Governments,NAIC 1,0,0
+CPL,2022Q4,All Other Governments,NAIC 2,0,0
+CPL,2022Q4,All Other Governments,NAIC 3,0,0
+CPL,2022Q4,All Other Governments,NAIC 4,0,0
+CPL,2022Q4,All Other Governments,NAIC 5,0,0
+CPL,2022Q4,All Other Governments,NAIC 6,0,0
+CPL,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,0,0
+CPL,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+CPL,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+CPL,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+CPL,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 5,0,0
+CPL,2022Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+CPL,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,9290483,0
+CPL,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+CPL,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+CPL,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+CPL,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+CPL,2022Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+CPL,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 1,159497257,156921009
+CPL,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 2,2726589,2726589
+CPL,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+CPL,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+CPL,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+CPL,2022Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+CPL,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,273036496,151257832
+CPL,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,231838392,182802184
+CPL,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,11388761,7768302
+CPL,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,0,0
+CPL,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+CPL,2022Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+CPL,2022Q4,Hybrid Securities,NAIC 1,0,0
+CPL,2022Q4,Hybrid Securities,NAIC 2,0,0
+CPL,2022Q4,Hybrid Securities,NAIC 3,0,0
+CPL,2022Q4,Hybrid Securities,NAIC 4,0,0
+CPL,2022Q4,Hybrid Securities,NAIC 5,0,0
+CPL,2022Q4,Hybrid Securities,NAIC 6,0,0
+CPL,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+CPL,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+CPL,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+CPL,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+CPL,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+CPL,2022Q4,"Parent, Subsidiaries and Affiliates",NAIC 6,0,0
+CPL,2022Q4,SVO Identified Funds,NAIC 1,0,0
+CPL,2022Q4,SVO Identified Funds,NAIC 2,0,0
+CPL,2022Q4,SVO Identified Funds,NAIC 3,0,0
+CPL,2022Q4,SVO Identified Funds,NAIC 4,0,0
+CPL,2022Q4,SVO Identified Funds,NAIC 5,0,0
+CPL,2022Q4,SVO Identified Funds,NAIC 6,0,0
+CPL,2022Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+CPL,2022Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+CPL,2022Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+CPL,2022Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+CPL,2022Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+CPL,2022Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+CPL,2022Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+CPL,2022Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+CPL,2022Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+CPL,2022Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+CPL,2022Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+CPL,2022Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+CPL,2022Q4,Total Bonds Current Year,NAIC 1,459676062,124354912
+CPL,2022Q4,Total Bonds Current Year,NAIC 2,243571543,49036208
+CPL,2022Q4,Total Bonds Current Year,NAIC 3,11388761,3620459
+CPL,2022Q4,Total Bonds Current Year,NAIC 4,0,0
+CPL,2022Q4,Total Bonds Current Year,NAIC 5,0,0
+CPL,2022Q4,Total Bonds Current Year,NAIC 6,0,0
+CPL,2022Q4,Total Bonds Prior Year,NAIC 1,421323300,95033875
+CPL,2022Q4,Total Bonds Prior Year,NAIC 2,274103137,43438999
+CPL,2022Q4,Total Bonds Prior Year,NAIC 3,16629148,5650757
+CPL,2022Q4,Total Bonds Prior Year,NAIC 4,0,0
+CPL,2022Q4,Total Bonds Prior Year,NAIC 5,0,0
+CPL,2022Q4,Total Bonds Prior Year,NAIC 6,0,0
+CPL,2022Q4,Total Publicly Traded Bonds,NAIC 1,335321150,335321150
+CPL,2022Q4,Total Publicly Traded Bonds,NAIC 2,194535335,194535335
+CPL,2022Q4,Total Publicly Traded Bonds,NAIC 3,7768302,0
+CPL,2022Q4,Total Publicly Traded Bonds,NAIC 4,0,0
+CPL,2022Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+CPL,2022Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+CPL,2022Q4,Total Privately Placed Bonds,NAIC 1,124354912,124354912
+CPL,2022Q4,Total Privately Placed Bonds,NAIC 2,49036208,49036208
+CPL,2022Q4,Total Privately Placed Bonds,NAIC 3,5650757,0
+CPL,2022Q4,Total Privately Placed Bonds,NAIC 4,0,0
+CPL,2022Q4,Total Privately Placed Bonds,NAIC 5,0,0
+CPL,2022Q4,Total Privately Placed Bonds,NAIC 6,0,0
+CPL,2023Q1,BONDS,NAIC 1,472758654,459676062
+CPL,2023Q1,BONDS,NAIC 2,239793676,243571543
+CPL,2023Q1,BONDS,NAIC 3,10417461,11388761
+CPL,2023Q1,BONDS,NAIC 4,2820230,1011649
+CPL,2023Q1,BONDS,NAIC 2,1000000,1000000
+CPL,2023Q3,BONDS,NAIC 1,494130486,459676062
+CPL,2023Q3,BONDS,NAIC 2,231241046,243571543
+CPL,2023Q3,BONDS,NAIC 3,10173655,11388761
+CPL,2023Q3,BONDS,NAIC 4,1373419,1011649
+CPL,2023Q3,BONDS,NAIC 2,1000000,1000000
+CPL,2023Q4,U.S. Governments,NAIC 1,15119337,0
+CPL,2023Q4,U.S. Governments,NAIC 2,0,0
+CPL,2023Q4,U.S. Governments,NAIC 3,0,0
+CPL,2023Q4,U.S. Governments,NAIC 4,0,0
+CPL,2023Q4,U.S. Governments,NAIC 5,0,0
+CPL,2023Q4,U.S. Governments,NAIC 6,0,0
+CPL,2023Q4,All Other Governments,NAIC 1,0,0
+CPL,2023Q4,All Other Governments,NAIC 2,0,0
+CPL,2023Q4,All Other Governments,NAIC 3,0,0
+CPL,2023Q4,All Other Governments,NAIC 4,0,0
+CPL,2023Q4,All Other Governments,NAIC 5,0,0
+CPL,2023Q4,All Other Governments,NAIC 6,0,0
+CPL,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 1,2732489,0
+CPL,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 2,0,0
+CPL,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 3,0,0
+CPL,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 4,0,0
+CPL,2023Q4,"U.S. States, Territories and Possessions etc.,",NAIC 6,0,0
+CPL,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 1,9339582,0
+CPL,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 2,0,0
+CPL,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 3,0,0
+CPL,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 4,0,0
+CPL,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 5,0,0
+CPL,2023Q4,"U.S. Political Subdivisions of States, Territories and",NAIC 6,0,0
+CPL,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 1,166906388,162546917
+CPL,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 2,2726589,0
+CPL,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 3,0,0
+CPL,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 4,0,0
+CPL,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 5,0,0
+CPL,2023Q4,U.S. Special Revenue & Special Assessment,NAIC 6,0,0
+CPL,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 1,298925710,171198651
+CPL,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 2,214716987,173439013
+CPL,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 3,8677445,4428948
+CPL,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 4,0,0
+CPL,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 5,0,0
+CPL,2023Q4,Industrial & Miscellaneous (Unaffiliated),NAIC 6,0,0
+CPL,2023Q4,Hybrid Securities,NAIC 1,0,0
+CPL,2023Q4,Hybrid Securities,NAIC 2,0,0
+CPL,2023Q4,Hybrid Securities,NAIC 3,0,0
+CPL,2023Q4,Hybrid Securities,NAIC 4,0,0
+CPL,2023Q4,Hybrid Securities,NAIC 5,0,0
+CPL,2023Q4,Hybrid Securities,NAIC 6,0,0
+CPL,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 1,0,0
+CPL,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 2,0,0
+CPL,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 3,0,0
+CPL,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 4,0,0
+CPL,2023Q4,"Parent, Subsidiaries and Affiliates",NAIC 5,0,0
+CPL,2023Q4,SVO Identified Funds,NAIC 1,0,0
+CPL,2023Q4,SVO Identified Funds,NAIC 2,0,0
+CPL,2023Q4,SVO Identified Funds,NAIC 3,0,0
+CPL,2023Q4,SVO Identified Funds,NAIC 4,0,0
+CPL,2023Q4,SVO Identified Funds,NAIC 5,0,0
+CPL,2023Q4,SVO Identified Funds,NAIC 6,0,0
+CPL,2023Q4,Unaffiliated Bank Loans,NAIC 1,0,0
+CPL,2023Q4,Unaffiliated Bank Loans,NAIC 2,0,0
+CPL,2023Q4,Unaffiliated Bank Loans,NAIC 3,0,0
+CPL,2023Q4,Unaffiliated Bank Loans,NAIC 4,0,0
+CPL,2023Q4,Unaffiliated Bank Loans,NAIC 5,0,0
+CPL,2023Q4,Unaffiliated Bank Loans,NAIC 6,0,0
+CPL,2023Q4,Unaffiliated Certificates of Deposit,NAIC 1,0,0
+CPL,2023Q4,Unaffiliated Certificates of Deposit,NAIC 2,0,0
+CPL,2023Q4,Unaffiliated Certificates of Deposit,NAIC 3,0,0
+CPL,2023Q4,Unaffiliated Certificates of Deposit,NAIC 4,0,0
+CPL,2023Q4,Unaffiliated Certificates of Deposit,NAIC 5,0,0
+CPL,2023Q4,Unaffiliated Certificates of Deposit,NAIC 6,0,0
+CPL,2023Q4,Total Bonds Current Year,NAIC 1,498167978,132086530
+CPL,2023Q4,Total Bonds Current Year,NAIC 2,225490716,41277974
+CPL,2023Q4,Total Bonds Current Year,NAIC 3,8677445,4248497
+CPL,2023Q4,Total Bonds Current Year,NAIC 4,0,0
+CPL,2023Q4,Total Bonds Current Year,NAIC 5,0,0
+CPL,2023Q4,Total Bonds Current Year,NAIC 6,0,0
+CPL,2023Q4,Total Bonds Prior Year,NAIC 1,459676062,124354912
+CPL,2023Q4,Total Bonds Prior Year,NAIC 2,243571543,49036208
+CPL,2023Q4,Total Bonds Prior Year,NAIC 3,11388761,3620459
+CPL,2023Q4,Total Bonds Prior Year,NAIC 4,0,0
+CPL,2023Q4,Total Bonds Prior Year,NAIC 5,0,0
+CPL,2023Q4,Total Bonds Prior Year,NAIC 6,0,0
+CPL,2023Q4,Total Publicly Traded Bonds,NAIC 1,366081447,366081447
+CPL,2023Q4,Total Publicly Traded Bonds,NAIC 3,0,0
+CPL,2023Q4,Total Publicly Traded Bonds,NAIC 4,0,0
+CPL,2023Q4,Total Publicly Traded Bonds,NAIC 5,0,0
+CPL,2023Q4,Total Publicly Traded Bonds,NAIC 6,0,0
+CPL,2023Q4,Total Privately Placed Bonds,NAIC 1,132086531,132086531
+CPL,2023Q4,Total Privately Placed Bonds,NAIC 2,41277973,41277973
+CPL,2023Q4,Total Privately Placed Bonds,NAIC 3,3620459,0
+CPL,2023Q4,Total Privately Placed Bonds,NAIC 4,0,0
+CPL,2023Q4,Total Privately Placed Bonds,NAIC 5,0,0
+CPL,2023Q4,Total Privately Placed Bonds,NAIC 6,0,0
+CPL,2024Q1,BONDS,NAIC 1,510685192,498167978
+CPL,2024Q1,BONDS,NAIC 2,231502023,225490716
+CPL,2024Q1,BONDS,NAIC 3,8479833,8677445
+CPL,2024Q1,BONDS,NAIC 4,1369934,1371712
+CPL,2024Q1,BONDS,NAIC 5,368,483651
+CPL,2024Q1,BONDS,NAIC 2,1000000,1000000
+CPL,2025Q1,BONDS,NAIC 1,420661697,401970595
+CPL,2025Q1,BONDS,NAIC 2,254938759,256319243
+CPL,2025Q1,BONDS,NAIC 3,5633099,7660364
+CPL,2025Q1,BONDS,NAIC 4,2205729,2205966
+CPL,2025Q1,BONDS,NAIC 5,736168,734349
+CPL,2025Q1,BONDS,NAIC 1,95096092,101443168
+CPL,2025Q1,BONDS,NAIC 2,9217187,9279182
+CPL,2025Q1,BONDS,NAIC 3,1000000,1000000
+CPL,2025Q1,BONDS,NAIC 4,995394,1095432
+CPL,2025Q1,BONDS,NAIC 5,99329,91352
+CPL,2025Q1,BONDS,NAIC 2,6175917,1000000

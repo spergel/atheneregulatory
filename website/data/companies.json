@@ -1,0 +1,96 @@
+{
+  "athene": {
+    "name": "Athene",
+    "ticker": "ATH",
+    "entities": [
+      "AAIA"
+    ]
+  },
+  "brighthouse": {
+    "name": "Brighthouse Financial",
+    "ticker": "BHF",
+    "entities": [
+      "BLIC",
+      "NELIC",
+      "BLICNY"
+    ]
+  },
+  "cno": {
+    "name": "CNO Financial",
+    "ticker": "CNO",
+    "entities": [
+      "BLC",
+      "CPL"
+    ]
+  },
+  "corebridge": {
+    "name": "Corebridge Financial",
+    "ticker": "CRBG",
+    "entities": [
+      "AGL",
+      "VALIC",
+      "USL"
+    ]
+  },
+  "equitable": {
+    "name": "Equitable Holdings",
+    "ticker": "EQH",
+    "entities": [
+      "EFLIC",
+      "EFLOA"
+    ]
+  },
+  "jackson": {
+    "name": "Jackson Financial",
+    "ticker": "JXN",
+    "entities": [
+      "JNLIC",
+      "JNLICNY"
+    ]
+  },
+  "lincoln": {
+    "name": "Lincoln National",
+    "ticker": "LNC",
+    "entities": [
+      "LNL",
+      "LLANY"
+    ]
+  },
+  "metlife": {
+    "name": "MetLife",
+    "ticker": "MET",
+    "entities": [
+      "MLIC",
+      "MTL"
+    ]
+  },
+  "principal": {
+    "name": "Principal Financial",
+    "ticker": "PFG",
+    "entities": [
+      "PLIC"
+    ]
+  },
+  "prudential": {
+    "name": "Prudential Financial",
+    "ticker": "PRU",
+    "entities": [
+      "PICA"
+    ]
+  },
+  "unum": {
+    "name": "Unum Group",
+    "ticker": "UNM",
+    "entities": [
+      "FUNM",
+      "ULAM"
+    ]
+  },
+  "voya": {
+    "name": "Voya Financial",
+    "ticker": "VOYA",
+    "entities": [
+      "VRIAC"
+    ]
+  }
+}
