@@ -1,0 +1,5 @@
+loan_number,city,state,date_acquired,interest_rate,book_value
+1858,Plainfield,IN,04/14/2021,3.5,6586019
+1859,Anaheim,CA,04/15/2021,3.0,7350000
+1860,Corona,CA,04/15/2021,3.0,7500000
+1861,San Diego,CA,04/15/2021,3.0,60300000

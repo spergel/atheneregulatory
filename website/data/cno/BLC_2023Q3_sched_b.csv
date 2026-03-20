@@ -1,0 +1,8 @@
+loan_number,city,state,date_acquired,interest_rate,book_value
+1899,San Ramon,CA,09/01/2023,5.05,9500000
+1900,Huntington Station,NY,08/11/2023,5.46,19500000
+1902,Navarre,FL,08/01/2023,5.24,12875000
+1903,Las Vegas,NV,08/03/2023,5.3,6000000
+1904,Tempe,AZ,08/11/2023,5.28,16250000
+1906,West Jordan,UT,09/01/2023,5.59,13000000
+1907,West Valley City,UT,09/01/2023,5.59,5000000

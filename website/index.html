@@ -32,6 +32,7 @@
   <a href="#" data-section="sec-premiums"><span class="nav-label">Premiums</span></a>
   <a href="#" data-section="sec-portfolio"><span class="nav-label">Portfolio</span></a>
   <a href="#" data-section="sec-mortgages"><span class="nav-label">Mortgages</span></a>
+  <a href="#" data-section="sec-alts"><span class="nav-label">Alternatives</span></a>
   <a href="#" data-section="sec-compare"><span class="nav-label">Compare</span></a>
   <a href="#" data-section="sec-data"><span class="nav-label">Data Room</span></a>
 </nav>
@@ -108,6 +109,72 @@
       </div>
     </div>
   </div>
+
+  <!-- Quick-look atomic data panels -->
+  <div class="grid-2">
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Top 10 States — Annuity Premiums</span>
+        <span class="source-badge">Sch T</span>
+      </div>
+      <div class="data-table-wrap panel-body">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th class="rank">#</th>
+              <th>State</th>
+              <th class="num">Life</th>
+              <th class="num">Annuity</th>
+              <th class="num">Total</th>
+            </tr>
+          </thead>
+          <tbody id="ov-top-states-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-header">
+        <span class="panel-title">Top 10 Largest Mortgage Loans</span>
+        <span class="source-badge">Sch B</span>
+      </div>
+      <div class="data-table-wrap panel-body">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th class="rank">#</th>
+              <th>City</th>
+              <th>State</th>
+              <th class="num">Book Value</th>
+              <th class="num">Rate</th>
+            </tr>
+          </thead>
+          <tbody id="ov-top-loans-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Top 10 Alternative Holdings</span>
+      <span class="source-badge">Sch BA</span>
+    </div>
+    <div class="data-table-wrap panel-body">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th class="rank">#</th>
+            <th>Name / Identifier</th>
+            <th>State</th>
+            <th class="num">Book Value</th>
+            <th class="num">Inv. Income</th>
+            <th class="num">Yield</th>
+          </tr>
+        </thead>
+        <tbody id="ov-top-ba-tbody"></tbody>
+      </table>
+    </div>
+  </div>
 </section>
 
 <!-- ===== PREMIUMS ===== -->
@@ -148,7 +215,7 @@
         <div class="table-search">
           <input id="premiums-search" type="text" placeholder="Filter by state…">
         </div>
-        <div class="data-table-wrap" style="max-height:460px;overflow-y:auto">
+        <div class="data-table-wrap" style="max-height:520px;overflow-y:auto">
           <table class="data-table">
             <thead>
               <tr>
@@ -157,6 +224,7 @@
                 <th class="num">Life</th>
                 <th class="num">Annuity</th>
                 <th class="num">Total</th>
+                <th class="num">% of Total</th>
               </tr>
             </thead>
             <tbody id="premiums-tbody"></tbody>
@@ -198,6 +266,8 @@
             <th>NAIC</th>
             <th class="num">Current Year BV</th>
             <th class="num">Prior Year BV</th>
+            <th class="num">Change</th>
+            <th class="num">Change %</th>
           </tr>
         </thead>
         <tbody id="naic-tbody"></tbody>
@@ -215,7 +285,7 @@
     </div>
   </div>
 
-  <div class="kpi-grid" style="grid-template-columns:repeat(3,1fr)" id="mort-kpis"></div>
+  <div class="kpi-grid" style="grid-template-columns:repeat(4,1fr)" id="mort-kpis"></div>
 
   <div class="full-width panel">
     <div class="panel-header">
@@ -239,11 +309,14 @@
     </div>
     <div class="panel">
       <div class="panel-header">
-        <span class="panel-title">Top States by Loan Volume</span>
+        <span class="panel-title">All States — Loan Detail</span>
         <span class="source-badge">Sch B</span>
       </div>
       <div class="panel-body">
-        <div class="data-table-wrap" style="max-height:400px;overflow-y:auto">
+        <div class="table-search">
+          <input id="mortgage-state-search" type="text" placeholder="Filter by state…">
+        </div>
+        <div class="data-table-wrap" style="max-height:460px;overflow-y:auto">
           <table class="data-table">
             <thead>
               <tr>
@@ -252,6 +325,7 @@
                 <th class="num">Count</th>
                 <th class="num">Book Value</th>
                 <th class="num">Avg Rate</th>
+                <th class="num">% of Total</th>
               </tr>
             </thead>
             <tbody id="mortgage-tbody"></tbody>
@@ -259,6 +333,78 @@
         </div>
       </div>
     </div>
+  </div>
+
+  <!-- Full individual loan data — Schedule B -->
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Individual Loan Portfolio — Full Schedule B</span>
+      <span class="source-badge">Sch B</span>
+      <span class="panel-hint" id="full-loans-hint"></span>
+    </div>
+    <div id="full-loans-load-bar" class="load-bar">
+      <span class="load-bar-info" id="full-loans-count-info"></span>
+      <button id="full-loans-load-btn" class="load-full-btn" onclick="triggerLoadFullLoans()">↓ Load All Loans</button>
+    </div>
+    <div class="table-search" id="full-loans-search-bar" style="display:none">
+      <input id="full-loans-search" type="text" placeholder="Filter by city, state, loan number…">
+    </div>
+    <div class="data-table-wrap" style="max-height:620px;overflow-y:auto">
+      <table class="data-table">
+        <thead id="full-loans-thead"></thead>
+        <tbody id="full-loans-tbody">
+          <tr><td colspan="6" style="text-align:center;color:#999;padding:20px">Select an annual (Q4) filing then click Load All Loans</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pagination-bar" id="full-loans-pagination" style="display:none"></div>
+  </div>
+</section>
+
+<!-- ===== ALTERNATIVES ===== -->
+<section id="sec-alts" class="page-section">
+  <div class="section-header">
+    <div>
+      <div class="section-title">Alternative Investments</div>
+      <div class="section-sub" id="alts-sub">Schedule BA — Other Long-Term Assets</div>
+    </div>
+  </div>
+
+  <div class="kpi-grid" style="grid-template-columns:repeat(3,1fr)" id="alts-kpis"></div>
+
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">Top 20 Holdings — Book Value</span>
+      <span class="source-badge">Sch BA</span>
+    </div>
+    <div class="panel-body">
+      <div id="chart-ba-bar" class="chart-wrap tall"></div>
+    </div>
+  </div>
+
+  <!-- Full alternatives data — Schedule BA -->
+  <div class="full-width panel">
+    <div class="panel-header">
+      <span class="panel-title">All Holdings — Full Schedule BA</span>
+      <span class="source-badge">Sch BA</span>
+      <span class="panel-hint" id="full-ba-hint"></span>
+    </div>
+    <div id="full-ba-load-bar" class="load-bar">
+      <span class="load-bar-info" id="full-ba-count-info"></span>
+      <button id="full-ba-load-btn" class="load-full-btn" onclick="triggerLoadFullBA()">↓ Load All Holdings</button>
+    </div>
+    <div class="table-search" id="full-ba-search-bar" style="display:none">
+      <input id="full-ba-search" type="text" placeholder="Filter by name, state…">
+    </div>
+    <div class="data-table-wrap" style="max-height:680px;overflow-y:auto">
+      <table class="data-table">
+        <thead id="full-ba-thead"></thead>
+        <tbody id="full-ba-tbody">
+          <tr><td colspan="6" style="text-align:center;color:#999;padding:20px">Select an annual (Q4) filing then click Load All Holdings</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pagination-bar" id="full-ba-pagination" style="display:none"></div>
   </div>
 </section>
 
@@ -380,6 +526,7 @@
       <button class="sched-tab active" data-sched="t">Schedule T<span class="tab-sub">State Premiums</span></button>
       <button class="sched-tab" data-sched="dq">Bond Quality<span class="tab-sub">Sch D · NAIC Ratings</span></button>
       <button class="sched-tab" data-sched="b">Mortgages<span class="tab-sub">Sch B · By State</span></button>
+      <button class="sched-tab" data-sched="b_loans">Top Loans<span class="tab-sub">Sch B · Individual</span></button>
       <button class="sched-tab" data-sched="ba">Alternatives<span class="tab-sub">Sch BA · Holdings</span></button>
       <button class="sched-tab" data-sched="kpi">KPI Timeseries<span class="tab-sub">All periods</span></button>
     </div>
@@ -401,10 +548,11 @@
         <tbody id="dr-tbody"></tbody>
       </table>
     </div>
+    <div class="pagination-bar" id="dr-pagination" style="display:none"></div>
   </div>
 </section>
 
 <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
-<script src="js/app.js?v=22"></script>
+<script src="js/app.js?v=23"></script>
 </body>
 </html>

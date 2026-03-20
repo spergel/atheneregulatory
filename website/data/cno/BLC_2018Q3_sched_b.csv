@@ -1,0 +1,5 @@
+loan_number,city,state,date_acquired,interest_rate,book_value
+1814,Arlington,TX,07/19/2018,4.31,21000000
+1815,Melville,NY,07/31/2018,4.33,7500000
+1816,Virginia Beach,VA,08/29/2018,4.3,26500000
+1819,Jessup,MD,09/12/2018,4.08,77515000

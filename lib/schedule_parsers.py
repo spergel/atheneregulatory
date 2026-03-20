@@ -37,6 +37,70 @@ def _to_float(s: str) -> float:
 
 DATE_RE = re.compile(r'\d{2}/\d{2}/\d{4}')
 
+# All valid USPS state and territory codes.
+# Used to distinguish real state fields from city-name words that happen to be
+# 2-3 uppercase letters (e.g. "SAN" in "San Francisco", "NEW" in "New York").
+_US_STATE_CODES = {
+    "AL","AK","AZ","AR","CA","CO","CT","DE","DC","FL","GA","HI","ID","IL","IN","IA",
+    "KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM",
+    "NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA",
+    "WV","WI","WY","PR","VI","GU","MP","AS",
+}
+
+# Country / jurisdiction codes used in NAIC Schedule BA filings.
+# 2-char: FE = "Foreign Entity" (NAIC catch-all for foreign domicile).
+# 3-char: ISO/FIPS codes commonly seen in Schedule BA state-of-domicile columns.
+_BA_COUNTRY_CODES = {
+    "FE",
+    "CYM","LUX","GBR","CAN","IRL","NLD","DEU","FRA","GGY","JEY",
+    "BMU","VGB","CHE","AUS","JPN","SGP","KOR","BRA","ISR","SWE",
+    "DNK","NOR","FIN","AUT","BEL","ITA","ESP","PRT","NZL","HKG",
+    "TWN","CHN","IND","ZAF","MEX","ARG","COL","CHL","CRI",
+    "PAN","MUS","MLT","LIE","MCO","GIB","IMN","ABW","BHS",
+}
+
+# Combined set used to validate state/country codes in Schedule BA rows.
+_BA_STATE_CODES = _US_STATE_CODES | _BA_COUNTRY_CODES
+
+# Embedded NAIC reference numbers: pure-digit 5-9 chars, or private-placement
+# IDs that start with "1B" (e.g. "1BA466452", "1BAN0PGV7").
+_BA_REF_NUM_RE = re.compile(r'^(\d{5,9}|1B[A-Z0-9]{5,9})$')
+
+# CUSIP identifier pattern as it appears in the filing's first column.
+# CUSIPs always contain at least one hyphen (e.g. "74983M-AE-7", "1BA466-45-2").
+_BA_CUSIP_RE = re.compile(r'^[A-Z0-9#@]{2,9}-[A-Z0-9]{1,3}(-[A-Z0-9]+)?$')
+
+
+def _extract_city_state(tokens: list[str], date_acq_idx: int) -> tuple[str, str]:
+    """
+    Extract (city, state) from the token slice between loan-number and date-acquired.
+
+    Strategy: scan BACKWARDS from the date — the rightmost token that is a valid
+    US state/territory code is the state; everything before it (after token[0])
+    is the city.  This correctly handles multi-word cities like:
+        SAN FRANCISCO CA → city='San Francisco', state='CA'
+        GREEN BAY WI     → city='Green Bay',     state='WI'
+        NEW YORK NY      → city='New York',       state='NY'
+
+    For non-US entries (e.g. 'GBR', 'CAN') that aren't in the state-code set,
+    fall back to the original forwards scan so those rows still parse.
+    """
+    # Backwards scan: prefer a valid US state code closest to the date
+    for i in range(date_acq_idx - 1, 0, -1):
+        t = tokens[i]
+        if t in _US_STATE_CODES:
+            city = ' '.join(tokens[1:i]).title()
+            return city, t
+
+    # Fallback (non-US / foreign loans): forwards scan for any 2-3 letter code
+    for i in range(1, date_acq_idx):
+        t = tokens[i]
+        if re.match(r'^[A-Z]{2,3}$', t) and not t.isdigit():
+            city = ' '.join(tokens[1:i]).title()
+            return city, t
+
+    return '', ''
+
 
 def _header_to_regex(header: str) -> re.Pattern[str]:
     """
@@ -232,17 +296,8 @@ def parse_schedule_b(text: str) -> list[dict[str, Any]]:
             if date_acq_idx is None:
                 continue
 
-            # State: the 2-3 letter code immediately before or near the date
-            state = ''
-            city_parts: list[str] = []
-            for i in range(1, date_acq_idx):
-                t = tokens[i]
-                if re.match(r'^[A-Z]{2,3}$', t) and not t.isdigit():
-                    state = t
-                    city_parts = tokens[1:i]
-                    break
-
-            city = ' '.join(city_parts).title() if city_parts else ''
+            # State and city — scan backwards so multi-word city names parse correctly
+            city, state = _extract_city_state(tokens, date_acq_idx)
 
             # Interest rate: first float token after the date
             rate = 0.0
@@ -323,16 +378,8 @@ def parse_schedule_b(text: str) -> list[dict[str, Any]]:
                 continue
             date_acquired = tokens[date_acq_idx]
 
-            # State near the acquired date
-            state = ''
-            city_parts: list[str] = []
-            for i in range(1, date_acq_idx):
-                t = tokens[i]
-                if re.match(r'^[A-Z]{2,3}$', t) and not t.isdigit():
-                    state = t
-                    city_parts = tokens[1:i]
-                    break
-            city = ' '.join(city_parts).title() if city_parts else ''
+            # State and city — scan backwards so multi-word city names parse correctly
+            city, state = _extract_city_state(tokens, date_acq_idx)
 
             # Book value: first numeric-like value after the date
             post_date = tokens[date_acq_idx + 1:]
@@ -383,14 +430,51 @@ def parse_schedule_b(text: str) -> list[dict[str, Any]]:
 # Schedule BA Part 1 — Other Long-Term Invested Assets (Alternatives)
 # ---------------------------------------------------------------------------
 
+def _ba_clean_pending(raw: str) -> str:
+    """
+    Clean a BA pending-name string:
+      1. Strip leading section/row codes like "E07", "2.A", "1.B".
+      2. Strip trailing all-caps GP names that leaked from the adjacent column.
+         Heuristic: if we see ≥ 2 consecutive all-caps words (each ≥ 4 letters)
+         after at least 2 title-case (mixed-case) words, truncate there.
+    """
+    # 1 – strip leading section codes
+    s = re.sub(r'^[A-Z]?\d+(?:\.\d+)?[A-Z]?\s+', '', raw).strip()
+
+    # 2 – strip trailing all-caps GP name block
+    tokens = s.split()
+    title_seen = 0
+    for i, t in enumerate(tokens):
+        alpha = re.sub(r'[^A-Za-z]', '', t)
+        if alpha:
+            if not alpha.isupper():
+                title_seen += 1
+            elif alpha.isupper() and len(alpha) >= 4 and title_seen >= 2:
+                # All-caps word (≥ 4 letters) after ≥ 2 title-case words →
+                # the rest is probably the GP / vendor name column.
+                s = ' '.join(tokens[:i]).strip()
+                break
+    return s
+
+
 def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
     """
     Parse Schedule BA Part 1 (Other Long-Term Invested Assets).
 
     Returns list of dicts:
-      cusip, name, city, state, gp_name, date_acquired,
+      name, state, date_acquired,
       actual_cost, fair_value, book_value, investment_income, ownership_pct
+
+    Name-parsing improvements:
+    - Uses _BA_STATE_CODES (US states + FE + country codes) to validate the
+      state/country token; entity-type suffixes like LP, SA, TL, II, AP, AG
+      are NOT in the set and will never be mis-identified as a state.
+    - Handles multi-line fund names: when a line has no date it is buffered as
+      a "pending name"; the following data line uses that name if its first
+      meaningful token is an embedded reference number.
+    - Strips embedded NAIC reference numbers and GP names from the name field.
     """
+
     def parse_ba_part(part_no: int) -> list[dict[str, Any]]:
         section = _all_section_pages(text, f'SCHEDULE BA - PART {part_no}')
         if not section:
@@ -399,72 +483,135 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
         # Subtotals match patterns like "1799999." or "1899999."
         subtotal_re = re.compile(r'^\s*[0-9]+9{3,}\.')
 
+        # Header keywords that should never be treated as pending fund names
+        _SKIP_KEYWORDS = ('SCHEDULE', 'Showing', 'NAIC', 'fication', 'strative',
+                          'Symbol', 'Partner', 'Identi', 'Strategy', 'Encum',
+                          'Unrealized', 'Carrying', 'Valuation', 'Impairment',
+                          'Temporary', 'Adjusted', 'Amortization', 'Contractual',
+                          'Effective', 'stricted', 'stration', 'Stated')
+
         rows: list[dict[str, Any]] = []
+        pending_name = ''
+
         for line in section.splitlines():
             stripped = line.strip()
             if not stripped:
-                continue
+                continue   # blank lines do NOT clear pending_name
             if subtotal_re.match(stripped):
+                pending_name = ''
                 continue
             if 'SCHEDULE BA' in stripped or 'Showing' in stripped:
                 continue
 
-            # BA rows: contain a date and (typically) an ownership percentage.
             tokens = _strip_dots(line)
-            if len(tokens) < 8:
+            if len(tokens) < 4:
                 continue
 
+            # Locate the first date token (4-digit year required)
             date_acq_idx = None
             for i, t in enumerate(tokens):
                 if DATE_RE.match(t):
                     date_acq_idx = i
                     break
+
             if date_acq_idx is None:
+                # No date → potential name-only continuation line; buffer it.
+                candidate = ' '.join(tokens).strip()
+                # Reject obvious column-header fragments
+                if any(kw in candidate for kw in _SKIP_KEYWORDS):
+                    continue
+                # Reject lines that look like wrapped numeric data (>50% digits/punct)
+                alpha_chars = sum(c.isalpha() for c in candidate)
+                if alpha_chars < len(candidate) * 0.35:
+                    continue
+                pending_name = candidate
                 continue
 
-            # Look for state code immediately before the date.
+            # ----------------------------------------------------------------
+            # Find state/country code using the validated code set.
+            # Scan backwards from the date so LP, SA, TL, II etc. that appear
+            # in fund names are never mistaken for state/country codes.
+            # ----------------------------------------------------------------
             state = ''
             name_end = date_acq_idx
             for i in range(date_acq_idx - 1, 0, -1):
                 t = tokens[i]
-                if re.match(r'^[A-Z]{2}$', t):
+                if t in _BA_STATE_CODES:
                     state = t
                     name_end = i
                     break
 
-            name = ' '.join(tokens[1:name_end]) if name_end > 1 else ''
+            # Determine whether tokens[0] is a CUSIP or part of the fund name.
+            # CUSIPs always have hyphens; when the CUSIP column is blank the
+            # first fund-name word becomes tokens[0] and must be included.
+            name_start = 1 if (tokens and _BA_CUSIP_RE.match(tokens[0])) else 0
 
+            # Raw slice between name-start and the state/country code.
+            raw_name_tokens = tokens[name_start:name_end]
+
+            # Truncate at the first embedded NAIC reference number; everything
+            # after it (city tokens, etc.) is location/GP data, not the name.
+            refnum_stop = len(raw_name_tokens)
+            for _i, _t in enumerate(raw_name_tokens):
+                if _BA_REF_NUM_RE.match(_t):
+                    refnum_stop = _i
+                    break
+            name_tokens = raw_name_tokens[:refnum_stop]
+            extracted_name = ' '.join(name_tokens).strip()
+
+            # ----------------------------------------------------------------
+            # Resolve final name, handling the multi-line case.
+            # ----------------------------------------------------------------
+            if pending_name:
+                clean_pending = _ba_clean_pending(pending_name)
+                first_token = tokens[0] if tokens else ''
+                if _BA_REF_NUM_RE.match(first_token):
+                    # Data line begins with a reference number → the full fund
+                    # name was on the previous (pending) line.
+                    name = clean_pending
+                elif extracted_name:
+                    # Data line has additional name tokens → combine.
+                    name = (clean_pending + ' ' + extracted_name).strip()
+                else:
+                    name = clean_pending
+            else:
+                name = extracted_name
+
+            pending_name = ''
+
+            # ----------------------------------------------------------------
+            # Parse numeric values after the date.
+            # ----------------------------------------------------------------
             post_date = tokens[date_acq_idx + 1:]
             numeric_vals: list[int] = []
             ownership = 0.0
             for t in post_date:
-                if re.match(r'^\d+\.\d{3}$', t):  # ownership% has 3 decimal places
+                if re.match(r'^\d+\.\d{3}$', t):   # ownership% has 3 decimal places
                     ownership = _to_float(t)
                 elif re.match(r'^[\d,()]+$', t):
                     numeric_vals.append(_to_int(t))
 
             actual_cost = numeric_vals[0] if len(numeric_vals) > 0 else 0
-            fair_value = numeric_vals[1] if len(numeric_vals) > 1 else 0
-            book_value = numeric_vals[2] if len(numeric_vals) > 2 else 0
-            income = numeric_vals[-2] if len(numeric_vals) > 4 else 0
+            fair_value  = numeric_vals[1] if len(numeric_vals) > 1 else 0
+            book_value  = numeric_vals[2] if len(numeric_vals) > 2 else 0
+            income      = numeric_vals[-2] if len(numeric_vals) > 4 else 0
 
             if not name:
                 continue
 
-            # For parts other than 1, the numeric columns often don't align to
-            # fair_value/book_value/investment_income. Keep best-effort rows, but
-            # only populate those columns for Part 1.
-            if part_no == 1:
-                fair_out = fair_value
-                book_out = book_value
-                income_out = income
-            else:
-                fair_out = 0
-                book_out = 0
-                income_out = 0
-
             if actual_cost == 0 and ownership == 0.0:
                 continue
+
+            # For parts other than 1, numeric column layout differs; zero out
+            # the columns we can't reliably map.
+            if part_no == 1:
+                fair_out   = fair_value
+                book_out   = book_value
+                income_out = income
+            else:
+                fair_out   = 0
+                book_out   = 0
+                income_out = 0
 
             rows.append({
                 'name': name,

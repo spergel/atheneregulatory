@@ -1,0 +1,9 @@
+loan_number,city,state,date_acquired,interest_rate,book_value
+30241,Coconut Creek,FL,05/23/2023,6.37,5300000
+30236,Rincon (Savannah),GA,04/04/2023,7.5,3196026
+30242,Canton,GA,05/23/2023,6.29,4300000
+30249,Roseville,MN,06/27/2023,5.76,14600000
+30243,Houston,TX,04/21/2023,5.75,47200000
+30244,Garland,TX,06/27/2023,6.43,47700000
+30246,Garland,TX,06/16/2023,5.93,4425000
+30247,Lorton,VA,06/21/2023,5.29,3400000

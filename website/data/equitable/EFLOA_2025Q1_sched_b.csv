@@ -1,0 +1,128 @@
+loan_number,city,state,date_acquired,interest_rate,book_value
+GSRP,Portfolio,II,03/31/2025,0.0,12306
+MERCK,&,CO,02/10/2025,0.0,1000000
+BVABS,23Car3 B -,ABS,03/25/2025,0.0,199762
+BLAST,2024-2 A2 -,ABS,03/13/2025,0.0,7181665
+BXGNT,2023-A A -,ABS,03/15/2025,0.0,1352216
+SDART,2023-5 A2 -,ABS,03/10/2025,0.0,10589863
+Collar,,,04/19/2024,0.0,112
+Collar,,,04/19/2024,0.0,112
+Collar,,,04/19/2024,0.0,112
+Collar,,,04/19/2024,0.0,112
+Collar,,,04/19/2024,0.0,112
+Collar,,,04/19/2024,0.0,112
+Collar,180-S&P500 Life Hedge N/A Equity/Index,WFC,04/19/2024,0.0,1243
+Collar,180-S&P500 Life Hedge N/A Equity/Index,WFC,04/19/2024,0.0,1243
+Collar,180-S&P500 Life Hedge N/A Equity/Index,WFC,04/19/2024,0.0,1243
+Collar,181-S&P500 Life Hedge N/A Equity/Index,WFC,04/19/2024,0.0,119
+Collar,181-S&P500 Life Hedge N/A Equity/Index,WFC,04/19/2024,0.0,119
+Collar,181-S&P500 Life Hedge N/A Equity/Index,WFC,04/19/2024,0.0,119
+Collar,,,05/17/2024,0.0,804
+Collar,,,05/17/2024,0.0,804
+Collar,,,05/17/2024,0.0,804
+Collar,,,05/17/2024,0.0,191
+Collar,,,05/17/2024,0.0,191
+Collar,,,05/17/2024,0.0,191
+Collar,,,05/17/2024,0.0,228
+Collar,,,05/17/2024,0.0,228
+Collar,,,05/17/2024,0.0,228
+Collar,,,05/17/2024,0.0,228
+Collar,,,05/17/2024,0.0,228
+Collar,,,05/17/2024,0.0,228
+Collar,185-S&P500 Life Hedge N/A Equity/Index,BBI,05/17/2024,0.0,113
+Collar,185-S&P500 Life Hedge N/A Equity/Index,BBI,05/17/2024,0.0,113
+Collar,186-S&P500 Life Hedge N/A Equity/Index,WFC,06/21/2024,0.0,1100
+Collar,186-S&P500 Life Hedge N/A Equity/Index,WFC,06/21/2024,0.0,1100
+Collar,186-S&P500 Life Hedge N/A Equity/Index,WFC,06/21/2024,0.0,1100
+Collar,187-S&P500 Life Hedge N/A Equity/Index,WFC,06/21/2024,0.0,110
+Collar,187-S&P500 Life Hedge N/A Equity/Index,WFC,06/21/2024,0.0,110
+Collar,187-S&P500 Life Hedge N/A Equity/Index,WFC,06/21/2024,0.0,110
+Collar,188-S&P500 Life Hedge N/A Equity/Index,BBI,07/19/2024,0.0,844
+Collar,188-S&P500 Life Hedge N/A Equity/Index,BBI,07/19/2024,0.0,844
+Collar,188-S&P500 Life Hedge N/A Equity/Index,BBI,07/19/2024,0.0,844
+Collar,189-S&P500 Life Hedge N/A Equity/Index,WFC,08/16/2024,0.0,915
+Collar,189-S&P500 Life Hedge N/A Equity/Index,WFC,08/16/2024,0.0,915
+Collar,189-S&P500 Life Hedge N/A Equity/Index,WFC,08/16/2024,0.0,915
+Collar,190-S&P500 Life Hedge N/A Equity/Index,WFC,08/16/2024,0.0,115
+Collar,190-S&P500 Life Hedge N/A Equity/Index,WFC,08/16/2024,0.0,115
+Collar,190-S&P500 Life Hedge N/A Equity/Index,WFC,08/16/2024,0.0,115
+Collar,,,09/20/2024,0.0,92
+Collar,,,09/20/2024,0.0,92
+Collar,,,09/20/2024,0.0,92
+Collar,,,09/20/2024,0.0,92
+Collar,,,09/20/2024,0.0,92
+Collar,,,09/20/2024,0.0,92
+Collar,192-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,867
+Collar,192-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,867
+Collar,192-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,867
+Collar,193-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,250
+Collar,193-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,250
+Collar,193-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,250
+Collar,194-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,122
+Collar,194-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,122
+Collar,194-S&P500 Life Hedge N/A Equity/Index,BOA,09/20/2024,0.0,122
+Collar,,,10/18/2024,0.0,1173
+Collar,,,10/18/2024,0.0,1173
+Collar,,,10/18/2024,0.0,1173
+Collar,,,10/18/2024,0.0,203
+Collar,,,10/18/2024,0.0,203
+Collar,,,10/18/2024,0.0,203
+Collar,,,10/18/2024,0.0,143
+Collar,,,10/18/2024,0.0,143
+Collar,,,10/18/2024,0.0,143
+Collar,198-S&P500 Life Hedge N/A Equity/Index,WFC,11/15/2024,0.0,903
+Collar,198-S&P500 Life Hedge N/A Equity/Index,WFC,11/15/2024,0.0,903
+Collar,198-S&P500 Life Hedge N/A Equity/Index,WFC,11/15/2024,0.0,903
+Collar,199-S&P500 Life Hedge N/A Equity/Index,WFC,11/15/2024,0.0,1965
+Collar,199-S&P500 Life Hedge N/A Equity/Index,WFC,11/15/2024,0.0,1965
+Collar,199-S&P500 Life Hedge N/A Equity/Index,WFC,11/15/2024,0.0,1965
+Collar,200-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,975
+Collar,200-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,975
+Collar,200-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,975
+Collar,201-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,214
+Collar,201-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,214
+Collar,201-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,214
+Collar,202-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,108
+Collar,202-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,108
+Collar,202-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,108
+Collar,203-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,126
+Collar,203-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,126
+Collar,203-S&P500 Life Hedge N/A Equity/Index,WFC,12/20/2024,0.0,126
+Collar,204-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,1709
+Collar,204-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,1709
+Collar,204-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,1709
+Collar,205-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,91
+Collar,205-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,91
+Collar,205-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,91
+Collar,206-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,217
+Collar,206-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,217
+Collar,206-S&P500 Life Hedge N/A Equity/Index,WFC,01/17/2025,0.0,217
+Collar,207-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,172
+Collar,207-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,172
+Collar,207-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,172
+Collar,207-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,172
+Collar,207-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,172
+Collar,207-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,172
+Collar,208-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,96
+Collar,208-S&P500 Life Hedge N/A Equity/Index,BBI,01/17/2025,0.0,96
+Collar,209-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,1161
+Collar,209-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,1161
+Collar,209-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,1161
+Collar,210-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,103
+Collar,210-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,103
+Collar,210-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,103
+Collar,211-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,130
+Collar,211-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,130
+Collar,211-S&P500 Life Hedge N/A Equity/Index,WFC,02/21/2025,0.0,130
+Collar,212-S&P500 Life Hedge N/A Equity/Index,BPA,03/21/2025,0.0,1871
+Collar,212-S&P500 Life Hedge N/A Equity/Index,BPA,03/21/2025,0.0,1871
+Collar,212-S&P500 Life Hedge N/A Equity/Index,BPA,03/21/2025,0.0,1871
+Collar,,,03/21/2025,0.0,109
+Collar,,,03/21/2025,0.0,109
+Collar,,,03/21/2025,0.0,109
+Collar,,,03/21/2025,0.0,211
+Collar,,,03/21/2025,0.0,211
+Collar,,,03/21/2025,0.0,211
+Collar,001-S&P500,VA,08/15/2024,0.0,128
+Collar,001-S&P500,VA,08/15/2024,0.0,128
+Collar,001-S&P500,VA,08/15/2024,0.0,128

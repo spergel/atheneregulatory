@@ -177,7 +177,7 @@ def parse_sched_ba(path: Path) -> dict:
 # Per-period detail file: website/data/{co}/{entity}_{period}.json
 # ---------------------------------------------------------------------------
 
-def build_period_file(co_key: str, entity: str, period: str, sched_dir: Path) -> dict | None:
+def build_period_file(co_key: str, entity: str, period: str, sched_dir: Path, out_dir: Path) -> dict | None:
     stem = f"{entity}_{period}"
     t_path  = sched_dir / f"{stem}_sched_t.csv"
     dq_path = sched_dir / f"{stem}_sched_d_quality.csv"
@@ -194,9 +194,26 @@ def build_period_file(co_key: str, entity: str, period: str, sched_dir: Path) ->
         out["sched_d_quality"] = parse_sched_d_quality(dq_path)
     if b_path.exists():
         out["sched_b"] = parse_sched_b(b_path)
+        _write_sched_b_full(b_path, out_dir / f"{stem}_sched_b.csv")
     if ba_path.exists():
         out["sched_ba"] = parse_sched_ba(ba_path)
+        _write_sched_ba_full(ba_path, out_dir / f"{stem}_sched_ba.csv")
     return out
+
+
+def _write_sched_b_full(src: Path, dest: Path) -> None:
+    """Copy Schedule B trimmed to display columns."""
+    rows = read_csv(src)
+    fields = ["loan_number", "city", "state", "date_acquired", "interest_rate", "book_value"]
+    write_csv_file(dest, fields, rows)
+
+
+def _write_sched_ba_full(src: Path, dest: Path) -> None:
+    """Copy Schedule BA trimmed to display columns, sorted by book value desc."""
+    rows = read_csv(src)
+    rows.sort(key=lambda r: pn(r.get("book_value", "")), reverse=True)
+    fields = ["name", "state", "date_acquired", "book_value", "investment_income", "ownership_pct"]
+    write_csv_file(dest, fields, rows)
 
 
 # ---------------------------------------------------------------------------
@@ -271,7 +288,7 @@ def build_company(co_key: str):
     built = 0
     for entity, periods in ep.items():
         for period in periods:
-            data = build_period_file(co_key, entity, period, sched_dir)
+            data = build_period_file(co_key, entity, period, sched_dir, out_dir)
             if data:
                 fname = f"{entity}_{period}.json"
                 (out_dir / fname).write_text(json.dumps(data, separators=(",", ":")), encoding="utf-8")
