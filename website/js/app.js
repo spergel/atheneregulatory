@@ -779,11 +779,16 @@ async function loadFullBA(co, entity, period) {
       { key: 'book_value',         label: 'Book Value',    num: true, fmt: v => fmtAuto(parseFloat(v)||0) },
       { key: 'investment_income',  label: 'Inv. Income',   num: true,
         fmt: v => parseFloat(v) ? fmtAuto(parseFloat(v)) : '—' },
-      { key: 'ownership_pct',      label: 'Ownership %',   num: true,
+      { key: 'ownership_pct',      label: 'Own / Yield',   num: true,
         fmt: (v, r) => {
-          const bv = parseFloat(r.book_value||0), inc = parseFloat(r.investment_income||0);
-          const yld = bv ? ((inc/bv)*100).toFixed(2)+'%' : (v ? v+'%' : '—');
-          return yld;
+          const own = parseFloat(v||0);
+          const bv  = parseFloat(r.book_value||0);
+          const inc = parseFloat(r.investment_income||0);
+          // Show ownership% if it's a meaningful equity stake (> 0.01%)
+          if (own > 0.01) return own.toFixed(3) + '%';
+          // Otherwise show income yield for bond-type entries
+          if (bv && inc) return ((inc/bv)*100).toFixed(2) + '%';
+          return '—';
         }},
     ];
     pgCreate('full-ba', headers, rows);

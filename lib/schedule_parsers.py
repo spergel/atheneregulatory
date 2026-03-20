@@ -139,10 +139,14 @@ def _find_section(text: str, header: str, stop_headers: list[str]) -> str:
     return text[start:end]
 
 
-def _all_section_pages(text: str, header: str) -> str:
+def _all_section_pages(text: str, header: str,
+                        stop_headers: list[str] | None = None) -> str:
     """
     Return concatenated content of ALL occurrences of `header` in the text.
     Used when a schedule spans multiple printed pages (each with the same header).
+
+    stop_headers: for the last page only (which would otherwise extend to EOF),
+    limit it to the first occurrence of any stop header after the last match.
     """
     header_re = _header_to_regex(header)
     matches = list(header_re.finditer(text))
@@ -152,7 +156,17 @@ def _all_section_pages(text: str, header: str) -> str:
     parts: list[str] = []
     for i, m in enumerate(matches):
         start = m.start()
+        # Default end: start of next same-header occurrence, or EOF
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        # Further limit by stop_headers on every page (not just the last).
+        # This prevents a single large page from bleeding into other schedules
+        # when the next same-header occurrence is far away.
+        if stop_headers:
+            for stop in stop_headers:
+                stop_re = _header_to_regex(stop)
+                sm = stop_re.search(text, m.end())
+                if sm and sm.start() < end:
+                    end = sm.start()
         parts.append(text[start:end])
     return '\n'.join(parts)
 
@@ -476,7 +490,19 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
     """
 
     def parse_ba_part(part_no: int) -> list[dict[str, Any]]:
-        section = _all_section_pages(text, f'SCHEDULE BA - PART {part_no}')
+        # Stop headers prevent the last page from bleeding into subsequent
+        # schedules (e.g. Schedule D Part 4 paydown rows look enough like BA
+        # rows that the parser would pick them up without this guard).
+        _BA_STOP_HEADERS = [
+            f'SCHEDULE BA - PART {part_no + 1}',
+            'SCHEDULE D -',
+            'SCHEDULE C',
+            'SCHEDULE E -',
+            'SCHEDULE S',
+            'SCHEDULE T',
+        ]
+        section = _all_section_pages(text, f'SCHEDULE BA - PART {part_no}',
+                                     stop_headers=_BA_STOP_HEADERS)
         if not section:
             return []
 
@@ -594,7 +620,17 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
             actual_cost = numeric_vals[0] if len(numeric_vals) > 0 else 0
             fair_value  = numeric_vals[1] if len(numeric_vals) > 1 else 0
             book_value  = numeric_vals[2] if len(numeric_vals) > 2 else 0
-            income      = numeric_vals[-2] if len(numeric_vals) > 4 else 0
+            # Column layout after [cost, fair, book]:
+            #   …[change cols]… | Investment Income (col 19) | [Additional Investment (col 20)]
+            # When col 20 is present (len ≥ 6): income = second-to-last.
+            # When col 20 is absent  (len == 5): income = last (not second-to-last, which
+            #   would be the total-change column and can be large and negative).
+            if len(numeric_vals) >= 6:
+                income = numeric_vals[-2]
+            elif len(numeric_vals) == 5:
+                income = numeric_vals[-1]
+            else:
+                income = 0
 
             if not name:
                 continue
