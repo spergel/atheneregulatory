@@ -14,7 +14,7 @@ Accel London VII L.P. London,GBR,06/15/2021,0,0,0.49
 "Accel London VIII, L.P. London",GBR,05/01/2024,0,0,0.2
 "Accel XIV, L.P. Palo Alto",CA,03/01/2019,0,0,0.9
 "Accel XVI, L.P. Palo Alto",CA,12/08/2023,0,0,0.29
-"E03 Accomplice Fund IV, L.P. Boston",MA,04/11/2022,0,0,1.96
+"Accomplice Fund IV, L.P. Boston",MA,04/11/2022,0,0,1.96
 Affinity Asia Pacific Fund IV (NO.2) L.P. Singapore,SGP,03/20/2013,0,0,2.3
 "Airtree Ventures Core Fund V Partnership, LP Sydney",AUS,05/29/2025,0,0,2.11
 "Airtree Ventures Opportunity Fund V Partnership, LP Sydney",AUS,05/29/2025,0,0,3.52
@@ -60,7 +60,7 @@ Bridgepoint Development Capital IV London,GBR,03/27/2020,0,0,1.08
 "CHRYSCAPITAL IX, LLC Mumbai",IND,06/03/2022,0,0,0.36
 "CRV XIX, L.P. Palo Alto",CA,01/27/2022,0,0,0.55
 "CRV XVII, L.P. Cambridge",MA,07/11/2017,0,0,0.81
-"E03.1 CRV XX, LP Palo Alto",CA,07/18/2025,0,0,1.42
+"CRV XX, LP Palo Alto",CA,07/18/2025,0,0,1.42
 "CSC ADS Holdings, L.P. Miami",FL,07/12/2021,0,0,3.4
 "Capital International Private Equity Fund VI, L.P. Los Angeles",CA,03/24/2011,0,0,0.37
 "Carlyle Europe Technology Partners IV, S.C.Sp London",GBR,11/29/2018,0,0,0.94
@@ -107,7 +107,7 @@ GSO Capital Opportunities Fund II L.P. New York,NY,05/09/2011,0,0,0.21
 "Global Infrastructure Partners III-A/B, L.P. New York",NY,12/16/2015,0,0,0.13
 "Global Infrastructure Partners IV, L.P. New York",NY,07/01/2019,0,0,0.13
 "Graham Partners VI, L.P. Philadelphia",PA,05/03/2023,0,0,0.63
-"E03.2 Great Hill Equity Partners IX, L.P. Boston",MA,07/10/2025,0,0,0.45
+"Great Hill Equity Partners IX, L.P. Boston",MA,07/10/2025,0,0,0.45
 "Great Hill Equity Partners VII, L.P. Boston",MA,06/26/2019,0,0,1.12
 "Great Hill Equity Partners VIII, L.P. Boston",MA,01/31/2022,0,0,0.41
 "Green Equity Investors IX, L.P. Los Angeles",CA,04/15/2022,0,0,0.15
@@ -155,7 +155,7 @@ Medicxi III LP London,GBR,04/09/2019,0,0,5.21
 "Menlo Ventures XVI, L.P. Menlo Park",CA,02/27/2023,0,0,1.59
 Meritech Capital Partners VIII L.P. Palo Alto,CA,07/01/2022,0,0,0.42
 Meritech Capital Sidecar III L.P. Palo Alto,CA,07/01/2022,0,0,1.24
-E03.3 Meritech Franchise Fund L.P. Palo Alto,CA,05/06/2021,0,0,1.53
+Meritech Franchise Fund L.P. Palo Alto,CA,05/06/2021,0,0,1.53
 Mid Europa Fund IV LP London,GBR,04/07/2014,0,0,2.72
 "Moelis Asset Catalyst (Master) Fund I, LP New York",NY,05/16/2024,0,0,5.44
 "Mosaic General Fund I, L.P. (fka Mastry Fund I, L.P.) San Francisco",CA,10/14/2021,0,0,4.34
@@ -202,7 +202,7 @@ Tailwater Energy Fund IV LP Dallas,TX,06/24/2019,0,0,3.89
 "Tower Square Capital Partners III, L.P. Springfield",MA,09/29/2008,0,0,0.98
 Trace Energy Resources Fund II LP (fka Denham Energy Resources Fund II LP) Boston,MA,10/30/2019,0,0,9.64
 "Trident VIII, L.P. Greenwich",CT,05/03/2019,0,0,0.41
-E03.4 Trilantic Energy Partners II (North America) L.P. Austin,TX,12/14/2018,0,0,15.49
+Trilantic Energy Partners II (North America) L.P. Austin,TX,12/14/2018,0,0,15.49
 "Trivest Growth Investment Fund II, LP Coral Gables",FL,12/19/2019,0,0,3.11
 "Trivest Recognition Fund, L.P. Coral Gables",FL,01/13/2023,0,0,0.55
 VIP IV LP London,GBR,05/13/2020,0,0,0.48
@@ -246,7 +246,7 @@ p001089 Entity,DE,09/11/2014,0,0,100.0
 p002064 ML Armature Member LLC Washington,DC,08/30/2019,0,0,87.01
 p002093 ML 1065 Hotel LLC Atlanta,GA,09/30/2019,0,0,100.0
 "p002115 MMP Owners III, LLC Whippany",NJ,11/25/2019,0,0,100.0
-E03.5 p002140 ML 300 Third Member LLC Waltham,MA,12/19/2019,0,0,100.0
+p002140 ML 300 Third Member LLC Waltham,MA,12/19/2019,0,0,100.0
 p002245 Entity,NJ,04/01/2020,0,0,100.0
 "p002379 MetLife Single Family Rental Fund, LP Whippany",NJ,03/01/2022,0,0,20.0
 p002479 ML Terminal 106 Member LLC Seattle,WA,10/24/2022,0,0,87.45
@@ -261,14 +261,14 @@ p002910 TREA 99 High Street LLC New York,NY,06/25/2025,0,0,3.9
 p002910 TREA 99 High Street LLC New York,NY,06/25/2025,0,0,9.09
 MetLIfe Credit Suisse - First & NEW YORK LIFE INS CO 5.875% 05/15/33 New York,NY,04/12/2005,0,0,0.0
 PACIFIC LIFE INSURANCE COMPANY 5.9500 2055-09-15 OMAHA NE WELLS FARGO &,CO,09/03/2025,0,0,0.0
-0000703867 ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK,NY,06/06/2024,0,0,0.0
-0000703876 LOANCORE CREDIT REIT LLC GREENWICH,CT,07/11/2024,0,0,0.0
-0000703949 ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK,NY,01/10/2025,0,0,0.0
-0000703962 MESA WEST REAL ESTATE FUND V NEW YORK,NY,04/04/2025,0,0,0.0
+ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK,NY,06/06/2024,0,0,0.0
+LOANCORE CREDIT REIT LLC GREENWICH,CT,07/11/2024,0,0,0.0
+ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK,NY,01/10/2025,0,0,0.0
+MESA WEST REAL ESTATE FUND V NEW YORK,NY,04/04/2025,0,0,0.0
 "CREA Corporate Tax Credit Fund 39, LLC Indianapolis",IN,06/25/2014,0,0,33.44
 "CREA Corporate Tax Credit Fund 43, LLC Indianapolis",IN,06/10/2015,0,0,16.59
 "CREA Corporate Tax Credit Fund XXIV, LLC Indianapolis",IN,09/28/2011,0,0,99.9
-R4 SAN FRANCISCO HOUSING PARTNERS LP New York,NY,06/19/2025,0,0,50.97
+SAN FRANCISCO HOUSING PARTNERS LP New York,NY,06/19/2025,0,0,50.97
 "USB LIHTC Fund 87, LLC St. Louis",MO,05/29/2025,0,0,40.22
 73758*-AG-6 POTENTIA LUDIS SPV LLC OCTL_2 Wilimington,DE,03/28/2025,0,0,0.0
 "STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY MetLife Senior Direct Lending Fund II, LP Whippany",NJ,12/18/2023,0,0,28.57

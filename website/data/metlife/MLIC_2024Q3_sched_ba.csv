@@ -1,8 +1,8 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-0000703678 MESA WEST REAL ESTATE FUND V NEW YORK CITY,NY,04/18/2022,0,0,0.0
-0000703694 ARGENTIC REAL ESTATE II LLC NEW YORK,NY,05/12/2022,0,0,0.0
-"0000703850 MWCLF MLRS SPE, LLC NEW YORK",NY,01/26/2024,0,0,0.0
-0000703876 LOANCORE CREDIT REIT LLC GREENWICH,CT,07/11/2024,0,0,0.0
+MESA WEST REAL ESTATE FUND V NEW YORK CITY,NY,04/18/2022,0,0,0.0
+ARGENTIC REAL ESTATE II LLC NEW YORK,NY,05/12/2022,0,0,0.0
+"MWCLF MLRS SPE, LLC NEW YORK",NY,01/26/2024,0,0,0.0
+LOANCORE CREDIT REIT LLC GREENWICH,CT,07/11/2024,0,0,0.0
 p002348 Entity,NY,09/03/2021,0,0,98.42
 p002599 Entity,WA,10/01/2023,0,0,99.07
 p002646 Entity,NY,12/10/2023,0,0,100.0
@@ -13,7 +13,7 @@ Polish Enterprise Fund VII L.P. Warsaw POL Enterprise Investors,,05/17/2012,0,0,
 "Carlyle Partners VI, L.P. Washington",DC,02/19/2013,0,0,0.11
 Affinity Asia Pacific Fund IV (NO.2) L.P. Singapore,SGP,03/20/2013,0,0,2.36
 "Brentwood Associates Private Equity V, L.P. Los Angeles",CA,06/12/2013,0,0,5.8
-E03 CVC Capital Partners VI (A) L.P. London,GBR,06/28/2013,0,0,0.36
+CVC Capital Partners VI (A) L.P. London,GBR,06/28/2013,0,0,0.36
 "Trident VI, L.P. Greenwich",CT,12/20/2013,0,0,0.75
 "CVC Capital Partners Asia Pacific IV L.P. George Town, Grand Cayman",CYM,05/13/2014,0,0,0.86
 "Odyssey Investment Partners Fund V, LP New York",NY,06/24/2014,0,0,0.97
@@ -58,7 +58,7 @@ Tailwater Energy Fund III LP Dallas,TX,07/20/2018,0,0,3.33
 Trilantic Energy Partners II (North America) L.P. Austin,TX,12/14/2018,0,0,15.49
 Altor Fund V (No. 1) AB Stockholm,SWE,12/17/2018,0,0,1.31
 "Gryphon Mezzanine Partners II, L.P. San Francisco",CA,12/12/2018,0,0,6.9
-"E03.1 Spark Capital VI, L.P. Boston",MA,02/12/2019,0,0,2.82
+"Spark Capital VI, L.P. Boston",MA,02/12/2019,0,0,2.82
 Blue Sea Capital Fund II LP Palm Beach,FL,02/04/2019,0,0,4.31
 "Genstar Capital Partners IX, L.P. San Francisco",CA,02/19/2019,0,0,0.46
 Seventh Cinven Fund (No.1) L.P. London,GBR,02/27/2019,0,0,0.28
@@ -105,7 +105,7 @@ GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,0,0,0.8
 "Bond Capital Fund II, LP San Francisco",CA,01/15/2021,0,0,0.8
 "WestCap Strategic Operator US Feeder Fund, L.P. New York",NY,01/19/2021,0,0,1.2
 "Monomoy Capital Partners IV, L.P. New York",NY,01/25/2021,0,0,1.38
-"E03.2 Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19/2021,0,0,0.69
+"Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19/2021,0,0,0.69
 "Spire Capital IV, L.P. New York",NY,04/01/2021,0,0,4.4
 "CRV Select Fund I, L.P. Palo Alto",CA,04/28/2021,0,0,1.9
 Primavera Capital Fund IV L.P. Hong Kong,CHN,05/20/2021,0,0,0.29
@@ -153,7 +153,7 @@ MED Platform II SLP Lyon,FRA,12/10/2021,0,0,0.29
 "Lightspeed Venture Partners XIV-A (Inception), L.P. Menlo Park",CA,02/28/2022,0,0,0.23
 "Battery Ventures XIV, L.P. Boston",MA,05/01/2022,0,0,0.3
 "CHRYSCAPITAL IX, LLC Mumbai",IND,06/03/2022,0,0,0.4
-"E03.3 Construct Capital II, L.P. Washington",DC,06/01/2022,0,0,2.97
+"Construct Capital II, L.P. Washington",DC,06/01/2022,0,0,2.97
 "Jade Equity Investors II, L.P. Los Angeles",CA,04/15/2022,0,0,0.18
 "The Veritas Capital Fund VIII, L.P. New York",NY,03/15/2022,0,0,0.09
 Hg Saturn 3 A L.P. London,GBR,03/01/2022,0,0,0.06
@@ -201,10 +201,10 @@ Savory Co-Invest SCSp Vienna,AUT,05/31/2023,0,0,1.26
 "American Industrial Partners Capital Fund VIII, L.P. New York",NY,05/31/2023,0,0,0.23
 Inflexion Partnership Capital Fund III (No.1) Limited Partnership London,GBR,05/16/2023,0,0,0.21
 Hahn & Company IV L.P. Seoul,KOR,06/27/2023,0,0,0.42
-"E03.4 Wing Four, L.P. Palo Alto",CA,06/29/2023,0,0,1.05
+"Wing Four, L.P. Palo Alto",CA,06/29/2023,0,0,1.05
 "CIVC Partners Fund VII, L.P. Chicago",IL,09/29/2023,0,0,1.49
 "Kohlberg Investors X, L.P. Mt. Kisco",NY,10/11/2023,0,0,0.13
-"J2 Ventures Argonne Fund, L.P. Boston",MA,11/06/2023,0,0,1.9
+"Ventures Argonne Fund, L.P. Boston",MA,11/06/2023,0,0,1.9
 "ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0,0,9.91
 "Wynnchurch Capital Partners VI, L.P. Chicago",IL,01/18/2024,0,0,0.15
 "Anthemis Venture Fund III LP St. Peter Port, Guernsey",GBR,01/09/2024,0,0,0.45
@@ -243,10 +243,10 @@ p000987 Entity,GA,08/01/2012,0,0,100.0
 p001875 ML Port Chester SC Member LLC Port Chester,NY,02/06/2019,0,0,60.0
 p002064 ML Armature Member LLC Washington,DC,08/30/2019,0,0,87.01
 p002140 ML 300 Third Member LLC Waltham,MA,12/19/2019,0,0,100.0
-"p002199 ML-AI MetLife Member 5, LLC Chula Vista",CA,02/28/2020,0,0,100.0
+"MetLife Member 5, LLC Chula Vista",CA,02/28/2020,0,0,100.0
 "p002200 Metlife CLAL Member, LLC Whippany",NJ,02/28/2020,0,0,50.1
 "p002334 ML OMD Member, LLC Cambridge",MA,08/25/2021,0,0,100.0
-E03.5 p002380 MetLife Water Tower Place LLC - MLIC Whippany,NJ,04/08/2022,0,0,100.0
+p002380 MetLife Water Tower Place LLC - MLIC Whippany,NJ,04/08/2022,0,0,100.0
 p002453 ML HS Member LLC Whippany,NJ,08/25/2022,0,0,95.918
 p002479 ML Terminal 106 Member LLC Seattle,WA,10/24/2022,0,0,87.45
 "p002536 ML 610 Zane Member, LLC Minneapolis",MN,03/23/2023,0,0,100.0

@@ -1,7 +1,7 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
 "SVO 2,157,615 0 Commitment AA Pencil Holdings, L.P. Wilmington",DE,03/04/2021,0,0,3.03
-"000000-00-0 AEA Investors Small Business Fund II, L.P. (1,136,302) 0 43,565,120 18.670 AOP Finance Partners, L.P. New York",NY,12/23/2009,0,0,0.08
-"000000-00-0 Apollo Investment Fund IX, L.P. 143,640 0 0.340 Apollo Investment Fund VIII, L.P. El Segundo",CA,04/17/2021,0,0,0.71
+"AEA Investors Small Business Fund II, L.P. (1,136,302) 0 43,565,120 18.670 AOP Finance Partners, L.P. New York",NY,12/23/2009,0,0,0.08
+"Apollo Investment Fund IX, L.P. 143,640 0 0.340 Apollo Investment Fund VIII, L.P. El Segundo",CA,04/17/2021,0,0,0.71
 "Apollo Royalties Fund I, L.P. Purchase",NY,03/14/2019,0,0,1.37
 "Arlington Capital Partners V, L.P. Purchase",NY,12/10/2013,0,0,2.36
 "Aterian Investment Partners II, L.P. New York",NY,09/28/2016,0,0,2.09
@@ -9,23 +9,28 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Birch Hill Equity Partners IV, L.P. Chevy Chase",MD,12/16/2016,0,0,1.08
 "Birch Hill Equity Partners VI, L.P. Chevy Chase",MD,08/23/2019,0,0,2.36
 "Catterton Latin America II, L.P. New York",NY,04/25/2012,0,0,3.2
-"000000-00-0 Catterton Latin America III, L.P. 1,459,715 0 0.670 Catterton Partners IX, L.P. New York",NY,02/07/2014,0,0,0.267
+"Catterton Latin America III, L.P. 1,459,715 0 0.670 Catterton Partners IX, L.P. New York",NY,02/07/2014,0,0,0.267
 "Centre Capital Investors IV, L.P. Los Angeles",CA,06/14/2011,0,0,37.71
-"000000-00-0 Centre Capital Investors V, L.P. 2,005 0 10,028,909 6.030 Clairvest Equity Partners VI-A, L.P. Los Angeles",CA,06/09/2016,0,0,0.28
-"000000-00-0 Clayton, Dubilier & Rice Fund IX, L.P. 2,470,068 0 147,612 0.055 Clayton, Dubilier & Rice Fund X, L.P. Los Angeles",CA,04/22/2021,0,0,0.83
+"Centre Capital Investors V, L.P. 2,005 0 10,028,909 6.030 Clairvest Equity Partners VI-A, L.P. Los Angeles",CA,06/09/2016,0,0,0.28
+"Clayton, Dubilier & Rice Fund IX, L.P. 2,470,068 0 147,612 0.055 Clayton, Dubilier & Rice Fund X, L.P. Los Angeles",CA,04/22/2021,0,0,0.83
 "Frazier Healthcare Growth Buyout Fund X, L.P. Toronto",CAN,11/30/2010,0,0,0.036
-"000000-00-0 Green Equity Investors VII, L.P. 35,468 0 0 0.050 Green Equity Investors VIII, L.P. Toronto",CAN,11/25/2015,0,0,0.63
+"Green Equity Investors VII, L.P. 35,468 0 0 0.050 Green Equity Investors VIII, L.P. Toronto",CAN,11/25/2015,0,0,0.63
 "IPI Partners II-A, L.P. Toronto",CAN,12/16/2020,0,0,0.2
 "JFL Equity Investors IV, L.P. Houston",TX,01/21/2015,0,0,3.51
-"E03 000000-00-0 Littlejohn Fund V, L.P. Greenwich",CT,03/30/2020,0,0,5.95
+"K3 Private Investors, L.P. Greenwich",CT,07/18/2016,0,0,0.0
+"Littlejohn Fund V, L.P. Greenwich",CT,03/30/2020,0,0,5.95
 "Lovell Minnick Equity Partners V, L.P. Greenwich",CT,05/21/2020,0,0,0.37
 "Madison Dearborn Capital Partners VII, L.P. Greenwich",CT,03/18/2013,0,0,0.79
 "Marlin Heritage II, L.P. New York",NY,09/27/2004,0,0,1.78
-"000000-00-0 Mason Wells Leveraged Buyout Fund III, L.P. 445,741 3,284,934 0.790 Mason Wells Leveraged Buyout Fund IV, L.P. New York",NY,11/23/2007,0,0,1.91
-"000000-00-0 NOVA Infrastructure Fund I, L.P. 73,600 0 0.000 NOVA Infrastructure GP I, L.P. New York",NY,11/20/2013,0,0,2.16
+"Mason Wells Leveraged Buyout Fund III, L.P. 445,741 3,284,934 0.790 Mason Wells Leveraged Buyout Fund IV, L.P. New York",NY,11/23/2007,0,0,1.91
+"NewSpring Growth Capital IV, L.P. Toronto",CAN,07/02/2020,0,0,0.0
+"NOVA Infrastructure Fund I, L.P. 73,600 0 0.000 NOVA Infrastructure GP I, L.P. New York",NY,11/20/2013,0,0,2.16
 "ONCAP III, L.P. New York",NY,03/26/2018,0,0,29.85
-"000000-00-0 Pretium Olympus JV, L.P. 0 2.090 Revelstoke Capital Partners Fund II, L.P. Chicago",IL,04/10/2015,0,0,1.3
+"Pretium Olympus JV, L.P. 0 2.090 Revelstoke Capital Partners Fund II, L.P. Chicago",IL,04/10/2015,0,0,1.3
 "Seidler Equity Partners V, L.P. Seattle",WA,06/11/2021,0,0,0.0
+Los Angeles,CA,05/11/2017,0,0,0.0
+Los Angeles,CA,10/20/2020,0,0,0.0
+New York,NY,11/26/2019,0,0,0.0
 Chicago,IL,04/28/2021,0,0,0.0
 El Segundo,CA,06/28/2021,0,0,0.0
 El Segundo,CA,04/20/2021,0,0,0.0
@@ -50,5 +55,5 @@ El Segundo,CA,05/13/2021,0,0,0.0
 "Veritas Capital Fund IV, L.P. Chicago",NY,11/08/2010,0,0,0.0
 "Veritas Capital Fund V, L.P. Wilmington",NY,06/08/2015,0,0,4.04
 "Veritas Capital Fund VII, L.P.",NY,04/14/2020,0,0,42.0
-"E03.1 000000-00-0 Vortus Investments II, L.P.",TX,06/09/2017,0,0,0.0
+"Vortus Investments II, L.P.",TX,06/09/2017,0,0,0.0
 "Wind Point Partners IX-A, L.P.",IL,09/05/2019,0,0,0.0

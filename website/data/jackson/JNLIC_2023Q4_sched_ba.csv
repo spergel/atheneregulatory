@@ -2,7 +2,7 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 ". PPM America Private Equity Fund VIII-A, L.P. O Chicago",IL,06/08/2022,209053153,3007843,57.0
 ". SFR Delos Partners, L.P. O New York",NY,04/30/2021,145187296,0,29.87
 "Thoma Bravo Discover Fund II, L.P. O El Segundo",CA,05/13/2021,116332424,0,29.85
-"000000-00-0 . NOVA Infrastructure Fund I, L.P. O NOVA Infrastructure GP I, L.P. O Wilmington",DE,08/06/2021,79434243,0,21.5
+". NOVA Infrastructure Fund I, L.P. O NOVA Infrastructure GP I, L.P. O Wilmington",DE,08/06/2021,79434243,0,21.5
 "Investor Apollo Insurance Soltions . AOP Finance Partners, L.P. O El Segundo",CA,04/30/2021,56738825,1614847,18.67
 ". JNAM, LLC O Chicago",IL,05/31/2005,52591276,607000000,100.0
 ". AA GP Solutions Fund, L.P. O Wilmington",DE,07/29/2021,52513965,5277279,33.98
@@ -19,7 +19,7 @@ Marina Del Rey,CA,11/12/2020,32051040,874939,5.0
 "Designation Book/ Years Other- Foreign . Thoma Bravo Discover Fund III, L.P. O Chicago",IL,06/30/2021,20848473,0,0.53
 "PPM Loan Management Company 2, LLC, Retention . Series 6 O Chicago",IL,12/21/2023,19927575,0,100.0
 "Madison Dearborn Capital Partners VIII, L.P. O Radnor",PA,10/24/2019,18988438,3266158,2.52
-"000000-00-0 . NewSpring Growth Capital V, L.P. O . North Castle Partners V, L.P. O New York",NY,05/21/2018,18671245,0,1.25
+". NewSpring Growth Capital V, L.P. O . North Castle Partners V, L.P. O New York",NY,05/21/2018,18671245,0,1.25
 ". Cortec Group Fund VII, L.P. O New York",NY,12/10/2019,18621498,8403212,1.7
 ". Apollo Investment Fund IX, L.P. O Purchase",NY,03/14/2019,18258672,861733,0.08
 ". Arlington Capital Partners V, L.P. O Chevy Chase",MD,08/23/2019,17522579,0,0.66
@@ -31,7 +31,7 @@ El Segundo,CA,11/14/2018,16959281,0,0.53
 Marina Del Rey,CA,05/23/2018,16464839,358650,2.43
 ". JNLD, LLC O Franklin",TN,07/01/2006,16427378,0,100.0
 "Harvest Partners IX, L.P. O New York",NY,08/14/2020,15907621,0,3.51
-"000000-00-0 . Marlin Equity V, L.P. O . Marlin Heritage II, L.P. O Chicago",IL,11/19/2020,15205803,1364153,0.79
+". Marlin Equity V, L.P. O . Marlin Heritage II, L.P. O Chicago",IL,11/19/2020,15205803,1364153,0.79
 ". Squire Reassurance Company, LLC O Lansing",MI,09/15/2008,15156472,0,100.0
 New York,NY,11/26/2019,14846321,1226744,1.26
 ". Veritas Capital Fund VIII, L.P. O New York",NY,07/01/2022,14306482,5472,0.34
@@ -46,10 +46,10 @@ Marina Del Rey,CA,04/28/2015,12620459,1531324,1.96
 "PPM Loan Management Company 2, LLC, Retention . Series 3 O Chicago",IL,03/11/2022,12041965,0,100.0
 ". Aurora Equity Partners V, L.P. O Los Angeles",CA,06/09/2016,11687656,21961,1.59
 ". Clairvest Equity Partners VI-A, L.P. O Toronto",CAN,07/02/2020,11154215,0,6.03
-"E07.2 Riverside Fund V, L.P. O Radnor",PA,08/04/2020,11070493,0,14.86
+"Riverside Fund V, L.P. O Radnor",PA,08/04/2020,11070493,0,14.86
 New York,NY,09/07/2021,10853376,0,1.18
 "Principal Real Estate Debt Fund III GP, . Principal Real Estate Debt Fund III, L.P. O Chicago",IL,05/27/2020,10744830,591450,4.04
-"E07.3 000000-00-0 . Veritas Capital Fund VI, L.P. O New York",NY,06/14/2017,10741541,1752014,0.47
+". Veritas Capital Fund VI, L.P. O New York",NY,06/14/2017,10741541,1752014,0.47
 ". Thoma Bravo XV, L.P. O Chicago",IL,06/09/2022,9721603,0,0.149
 ". Aurora Equity Partners VI, L.P. O Los Angeles",CA,04/30/2021,9569672,0,1.0
 ". Carlyle Infrastructure Credit Fund, L.P. O Washington",DC,04/19/2022,9295328,4897523,12.9
@@ -74,7 +74,7 @@ San Francisco,CA,11/15/2017,8154228,484873,1.88
 ". Birch Hill Equity Partners V, L.P. O Toronto",CAN,11/25/2015,7152436,2752747,1.08
 "PPM Loan Management Company 2, LLC, Retention . Series 1 O Chicago",IL,03/11/2022,6826465,0,100.0
 ". Core Senior Lending Fund II Feeder, L.P. O New York",NY,12/23/2021,6807267,613965,0.63
-"000000-00-0 . Novacap TMT VI, L.P. O . Radnor",PA,03/02/2012,6742990,0,3.57
+". Novacap TMT VI, L.P. O . Radnor",PA,03/02/2012,6742990,0,3.57
 ". Clayton, Dubilier & Rice Fund X, L.P. O New York",NY,03/26/2018,6729730,1102412,0.11
 Boca Raton,FL,08/15/2013,6665137,0,0.64
 Boston,MA,06/13/2019,6480660,50467,3.0
@@ -82,9 +82,9 @@ Boston,MA,06/13/2019,6480660,50467,3.0
 ". Wind Point Partners X-A, L.P. O Chicago",IL,09/05/2019,6205510,0,1.13
 "Graham Partners VI, L.P. O New York",NY,08/31/2022,6053619,18544,1.96
 ". AA MMF 1 HOLDCO, L.P. O Wilmington DE Apollo Principal Holdings",VI,12/13/2021,6026567,1100849,10.0
-"000000-00-0 . Pretium Olympus JV, L.P. O . Revelstoke Capital Partners Fund II, L.P. O Radnor",PA,03/14/2016,6012253,0,1.68
+". Pretium Olympus JV, L.P. O . Revelstoke Capital Partners Fund II, L.P. O Radnor",PA,03/14/2016,6012253,0,1.68
 Chicago,IL,12/07/2018,5967365,597583,0.54
-"E07 000000-00-0 . Apollo Natural Resources Partners II, L.P. O New York",NY,09/28/2016,5896284,0,0.71
+". Apollo Natural Resources Partners II, L.P. O New York",NY,09/28/2016,5896284,0,0.71
 ". TSG7-A, L.P. O San Francisco",CA,03/29/2016,5800888,668594,0.31
 ". Birch Hill Equity Partners VI, L.P. O Toronto",CAN,12/16/2020,5760475,700618,1.09
 ". Torquest Partners Fund (U.S.) V, L.P. O Toronto",CAN,07/09/2021,5725095,183022,0.77
@@ -95,7 +95,7 @@ Los Angeles,CA,10/20/2020,5586328,0,0.05
 Los Angeles,CA,04/14/2020,5430724,0,0.2
 ". Aterian Investment Partners II, L.P. O New York",NY,02/07/2014,5376121,7525265,2.07
 Denver,CO,12/23/2021,5123872,55936,0.67
-"000000-00-0 . NewSpring Growth Capital III, L.P. O . NewSpring Growth Capital IV, L.P. O Milwaukee",WI,07/26/2021,4991335,0,2.07
+". NewSpring Growth Capital III, L.P. O . NewSpring Growth Capital IV, L.P. O Milwaukee",WI,07/26/2021,4991335,0,2.07
 "JFL Equity Investors III, L.P. O Greenwich",CT,07/02/2014,4909605,0,0.49
 Marina Del Rey,CA,03/23/2010,4881101,1394378,7.94
 ". Clearlake Capital Partners VII, L.P. O Santa Monica",CA,04/25/2022,4824143,8656,0.6
@@ -103,7 +103,7 @@ Marina Del Rey,CA,03/23/2010,4881101,1394378,7.94
 Greenwich,CT,12/16/2015,4715771,0,1.53
 "Sun Capital Partners III, L.P. O Longueuil",CAN,10/05/2017,4606371,0,2.16
 ". Birch Hill Equity Partners IV, L.P. O Toronto",CAN,11/30/2010,4602059,108881,2.52
-"000000-00-0 . Lovell Minnick Equity Advisors IV, LLC . Lovell Minnick Equity Partners IV, L.P. O Radnor",PA,03/26/2015,4533268,92903,1.16
+". Lovell Minnick Equity Advisors IV, LLC . Lovell Minnick Equity Partners IV, L.P. O Radnor",PA,03/26/2015,4533268,92903,1.16
 ". Clairvest Equity Partners V-A, L.P. O Toronto",CAN,03/13/2015,4516740,0,7.16
 New York,NY,03/28/2016,4496399,0,1.03
 "Principal Real Estate Debt Fund II GP, . Principal Real Estate Debt Fund II, L.P. O Chicago",IL,12/13/2017,4432404,442262,3.09
@@ -117,7 +117,7 @@ Boston,MA,02/27/2013,3944464,0,1.3
 ". Calera Capital Partners VI, L.P. O San Francisco",CA,11/02/2022,3776286,0,2.68
 ". Clairvest Equity Partners IV-A, L.P. O Toronto",CAN,12/21/2010,3719127,102788,12.56
 ". Vortus Investments II, L.P. O Fort Worth",TX,06/19/2017,3718305,191855,0.69
-"000000-00-0 . Marlin Heritage III, L.P. O . Mason Wells Leveraged Buyout Fund V, L.P. O Hermosa Beach",CA,02/20/2018,3645214,292553,0.17
+". Marlin Heritage III, L.P. O . Mason Wells Leveraged Buyout Fund V, L.P. O Hermosa Beach",CA,02/20/2018,3645214,292553,0.17
 "Riverside Fund VI-A, L.P. O Seidler Equity Partners IV, L.P. O Greenwich",CT,11/23/2012,3553748,0,3.52
 "Insight Partners XII Buyout Annex Fund, L.P. O New York",NY,06/01/2017,3435516,507035,1.2
 ". AA WH HoldCo, L.P. O Wilmington DE Apollo Principal Holdings",VI,09/01/2021,3421763,894178,20.0
@@ -149,9 +149,9 @@ New York,NY,08/24/2021,1637563,3597,0.07
 ". Yorktown Energy Partners VIII, L.P. O New York",NY,09/29/2008,1608043,393811,0.99
 ". AEA Investors Small Business Fund V, L.P. O New York",NY,12/12/2023,1541946,0,0.14
 Boca Raton,FL,05/21/2007,1421249,0,0.54
-"000000-00-0 . Lovell Minnick Equity Advisors III, LLC . Lovell Minnick Equity Partners III, L.P. O Rolling Hills Estates",CA,10/21/2008,1376398,176047,5.95
+". Lovell Minnick Equity Advisors III, LLC . Lovell Minnick Equity Partners III, L.P. O Rolling Hills Estates",CA,10/21/2008,1376398,176047,5.95
 San Francisco,CA,04/25/2008,1263623,0,2.95
-"000000-00-0 . Designation Book/ Years Other- Foreign . Centre Capital Investors V, L.P. O New York",NY,11/23/2007,1163087,0,37.71
+". Designation Book/ Years Other- Foreign . Centre Capital Investors V, L.P. O New York",NY,11/23/2007,1163087,0,37.71
 "SPC Partners VI, L.P. O Wilmington",DE,05/31/2021,1084371,18936,2.2
 "Graham Partners IV, L.P. O Newtown Square",PA,09/20/2023,869817,0,0.9
 ". MidOcean Partners VI, L.P. O Hermosa Beach",CA,10/23/2017,761130,100691,0.13
@@ -162,7 +162,7 @@ San Francisco,CA,04/25/2008,1263623,0,2.95
 ". Vortus Investments, L.P. O Fort Worth",TX,06/03/2014,516069,0,1.16
 ". National Planning Holdings, LLC O Lansing",MI,12/31/2018,468417,0,100.0
 ". Arsenal Capital Partners Growth, L.P. O New York",NY,05/20/2022,391496,1113,0.29
-"000000-00-0 . Motive Capital Fund II-A, L.P. O . NewSpring Growth Capital II, L.P. O Hermosa Beach",CA,12/28/2022,379022,0,0.33
+". Motive Capital Fund II-A, L.P. O . NewSpring Growth Capital II, L.P. O Hermosa Beach",CA,12/28/2022,379022,0,0.33
 ". Aurora Equity Partners IV, L.P. O Los Angeles",CA,06/14/2011,366337,0,2.09
 Marina Del Rey,CA,10/12/2023,300000,0,1.6
 San Francisco,CA,02/06/2023,267676,0,1.0
@@ -178,13 +178,13 @@ Boca Raton,FL,01/29/2003,145808,0,0.65
 Los Angeles,CA,08/14/2023,73647,0,0.04
 Wilmington,DE,03/31/2021,73143,0,3.32
 Beverly Hills,CA,08/29/2023,65067,0,0.5
-"000000-00-0 . NOVA Infrastructure Holdings, L.P. O . Novacap TMT V, L.P. O Radnor",PA,10/04/2007,43589,0,3.69
+". NOVA Infrastructure Holdings, L.P. O . Novacap TMT V, L.P. O Radnor",PA,10/04/2007,43589,0,3.69
 ". Cortec Group Fund V, L.P. O New York",NY,04/18/2011,42458,243507,2.56
 ". B2B Solutions, LLC O Stamford",CT,12/31/2018,42283,0,79.4
 ". AEA Investors Small Business Fund II, L.P. O New York",NY,12/23/2009,29226,2102305,3.03
 ". Water Street Capital Partners, L.P. O Chicago",IL,03/06/2006,18950,0,2.21
 ". Cressey & Co. Fund IV, L.P. O Chicago",IL,05/19/2009,18367,0,1.67
-"E07.1 First Reserve Fund XII, L.P. O Greenwich",CT,08/25/2008,15512,0,0.26
+"First Reserve Fund XII, L.P. O Greenwich",CT,08/25/2008,15512,0,0.26
 ". Harbert Real Estate Fund V, L.P. O Birmingham",AL,12/07/2012,12651,0,1.0
 ". Brockway Moran & Partners Fund III, L.P. O Boca Raton",FL,10/25/2006,7638,0,2.14
 . Jackson Financial Inc. Line of Credit Wilmington,DE,12/14/2011,0,0,100.0

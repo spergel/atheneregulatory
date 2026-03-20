@@ -2,7 +2,7 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Prudential Commercial Property Holding Company, LLC Atlanta",GA,03/31/2010,0,0,100.0
 "8A HP SCF Investor, LP - PICA New York",NY,01/24/2020,0,0,5.369
 Accel Leaders 3 L.P. - PICA Palo Alto,CA,02/17/2021,0,0,0.261
-"E03 000000-00-0 Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0,0,4.313
+"Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0,0,4.313
 "Advent International GPE IX, LP - PICA Boston",MA,10/21/2019,0,0,0.501
 Advent International GPE VIII-B LP - PICA Boston,MA,09/26/2016,0,0,0.788
 Advent International GPE X Limited Partnership - PICA Boston,MA,09/26/2022,0,0,0.12
@@ -63,7 +63,7 @@ Catalyst Fund Limited Partnership IV - PICA Toronto,CAN,07/13/2012,0,0,2.331
 "Clearlake Capital Partners VI, L.P. - PICA Santa Monica CA Clearlake Capital Partners",VI,05/22/2020,0,0,0.51
 "Clearlake Flagship Plus Partners, L.P. - PICA Santa Monica",CA,02/05/2021,0,0,0.587
 "Coller International Partners VII, L.P. St Peters Port",GGY,01/21/2016,0,0,0.345
-E03.1 000000-00-0 Community Outcomes Fund LP Brooklyn,NY,03/30/2018,0,0,9.418
+Community Outcomes Fund LP Brooklyn,NY,03/30/2018,0,0,9.418
 "Consonance Private Equity II, L.P. - PICA New York",NY,12/17/2020,0,0,1.629
 "Consonance Private Equity, LP New York",NY,08/07/2014,0,0,3.755
 "Cortec Group Fund VI, LP New York",NY,07/10/2015,0,0,2.827
@@ -119,7 +119,7 @@ GTCR Fund XIII/A LP and GTCR Fund XIII/B LP - PICA Chicago,IL,09/07/2021,0,0,0.8
 "Hellman & Friedman Capital Partners IX, LP - PICA San Francisco",CA,04/07/2020,0,0,0.255
 "Hellman & Friedman Capital Partners X, L.P. - PICA San Francisco",CA,11/24/2021,0,0,0.045
 "HGGC Fund III, L.P. - PICA Palo Alto",CA,07/28/2017,0,0,5.591
-"E03.2 000000-00-0 Highstar Capital IV, LP - PICA New York",NY,02/09/2011,0,0,4.396
+"Highstar Capital IV, LP - PICA New York",NY,02/09/2011,0,0,4.396
 "HPS Mezzanine Partners 2019, L.P. - PICA New York",NY,10/28/2019,0,0,1.048
 Icebox Co-Invest L.P. GA,GGY,06/12/2017,0,0,24.077
 "ICG Europe Fund V No.1, LP - PICA St. Helier",JEY,04/27/2012,0,0,0.561
@@ -173,7 +173,7 @@ Montagu VI L.P. - PICA London,GBR,04/01/2021,0,0,0.896
 "One Rock Capital Partners II, LP - PICA New York",NY,10/30/2017,0,0,2.839
 "One Rock Capital Partners III, LP - PICA New York",NY,06/21/2021,0,0,1.009
 "PA Direct Credit Opportunities Fund III, L.P. - PICA Darien",CT,02/08/2021,0,0,3.612
-"E03.3 000000-00-0 PCCP Equity IX, LP - PICA Los Angeles",CA,01/12/2022,0,0,3.134
+"PCCP Equity IX, LP - PICA Los Angeles",CA,01/12/2022,0,0,3.134
 "PCP Master Hamburger Holding Company, LLC - PICA Chicago",IL,12/31/2017,0,0,2.221
 "Peak Rock Capital Credit Fund II, LP - PICA Austin",TX,11/16/2017,0,0,4.092
 "Peak Rock Capital Fund II, LP - PICA Austin",TX,09/06/2017,0,0,3.233
@@ -205,6 +205,7 @@ PRECap IV -PICA MADISON,NJ,01/01/2015,0,0,2.42
 Senior Housing Partnership Fund VI LP - PICA Newark NJ Senior Housing Partnership Fund,VI,04/26/2023,0,0,1.857
 "Sentinel Capital Partners IV, L.P (VZ) New York",NY,12/10/2012,0,0,3.789
 "Sentinel Capital Partners VI, L.P. New York",NY,07/11/2019,0,0,1.088
+Seventh Cinven Fund (No. 1) Limited Partnership - PICA St Peter Port,GGY,04/07/2020,0,0,0.0
 "Silver Lake Partners VI, L.P. - PICA Menlo Park",CA,01/06/2021,0,0,0.271
 "Silver Lake Alpine, L.P. -PICA New York",NY,09/11/2018,0,0,1.029
 "Silver Lake Partners V, LP - PICA Menlo Park",CA,06/12/2018,0,0,4.051
@@ -224,7 +225,7 @@ TDR Capital IV A L.P. -PICA London,GBR,11/19/2018,0,0,1.382
 "Thoma Bravo Discover Fund III, L.P. - PICA Chicago",IL,06/11/2021,0,0,2.191
 "Thoma Bravo Fund XII, LP - PICA Chicago",IL,05/31/2016,0,0,2.198
 "Thoma Bravo Fund XIII, L.P. - PICA Dover",DE,02/14/2019,0,0,0.982
-"Thoma Bravo Fund XIV, L.P. and Thoma Bravo Fund E03.4 000000-00-0 Chicago",IL,04/15/2021,0,0,0.979
+"Thoma Bravo Fund XIV, L.P. and Thoma Bravo Fund Chicago",IL,04/15/2021,0,0,0.979
 PICA Chicago,IL,06/10/2022,0,0,0.193
 "Thoma Bravo Special Opportunities Fund II, LP -PICA Chicago",IL,04/29/2015,0,0,4.073
 "Thompson Street Capital Partners V, LP -PICA St. Louis",MO,07/27/2018,0,0,3.493
@@ -256,6 +257,7 @@ Prudential Impact Investments Private Equity LLC Newark,NJ,06/12/2015,0,0,100.0
 Curzon Capital Partners 5 Long-Life LP-PICA London,GBR,09/24/2020,0,0,2.799
 "DRA Growth and Income Fund X, LLC - PICA New York",NY,03/25/2020,0,0,1.247
 "STATEMENT AS OF JUNE 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA 333 Hennepin Investor LLC - STAT Saint Paul",MN,12/31/2017,0,0,90.0
+E.22nd Street Apartment Holdings LLC NEW JV - STAT New York,NY,06/30/2020,0,0,0.0
 Menlo Park Investor LLC - STAT Menlo Park,CA,03/19/2018,0,0,50.0
 Triton Investor LLC - STAT Foster City,CA,03/19/2018,0,0,50.0
 Prudential Impact Investments Mortgage Loans LLC Newark,NJ,01/27/2016,0,0,100.0
@@ -270,6 +272,7 @@ First National Center - PICA 3 Oklahoma City,OK,10/25/2022,0,0,55.072
 The member from time to time holding the largest number of NNE Holding LLC Charleston,WV,04/24/2015,0,0,4.595
 "Pirlo Energy Holdings, LLC East Brunswick",NJ,09/12/2016,0,0,10.802
 RES Battery Storage Holding LLC - PICA Broomfield,CO,10/22/2015,0,0,33.35
+"Riesel HoldCo, LLC - PICA Dallas",TX,12/31/2022,0,0,0.0
 "Member selected by the Board of Representatives from time San Jacinto Carroll Holdings, LLC Boston",MA,04/07/2015,0,0,80.0
 Warwick Partners II LLC Oklahoma City,OK,03/25/2014,0,0,12.536
 PRAMERICA BSN HOLDINGS SDN BHD GIB LIF Wilmington,DE,01/02/2014,0,0,100.0

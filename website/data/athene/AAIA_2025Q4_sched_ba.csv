@@ -9,10 +9,10 @@ Bank of Montreal Junior Subordinated 6.875% . 11/26/85,CAN,07/21/2025,139070728,
 Access Point Financial LLC APF Term Loan Facility 6.340% 07/24/29 Atlanta,GA,07/24/2025,128863919,3796739,0.0
 Chesterfield Reinsurance Co Subordinated 7.125% 03/23/43 Chesterfield,VA,03/23/2023,127500000,0,0.0
 Royal Bank of Canada Junior Subordinated,CAN,01/01/2025,117558317,2606004,0.0
-5 Times Square New York,NY,10/31/2024,106059758,0,50.0
-5 Times Square New York,NY,10/31/2024,106059758,0,70.0
+Times Square New York,NY,10/31/2024,106059758,0,50.0
+Times Square New York,NY,10/31/2024,106059758,0,70.0
 Swedbank AB Junior Subordinated 7.750%,SWE,09/13/2024,101581293,5684829,0.0
-5 Times Square Equity New York,NY,10/31/2024,99132431,90867569,70.0
+Times Square Equity New York,NY,10/31/2024,99132431,90867569,70.0
 BNP Paribas SA Junior Subordinated 8.000%,FRA,01/01/2025,98646192,0,0.0
 ING Groep NV Junior Subordinated 7.000%,NLD,09/02/2025,92036556,1020475,0.0
 Bank of Montreal Unsecured 7.700% 05/26/84,CAN,04/07/2025,88515292,2102131,0.0
@@ -56,19 +56,19 @@ Vontobel Holding AG Subordinated 9.480% Perpet.,CHE,01/01/2025,35620919,1549053,
 Toronto-Dominion Bank/The TORONTO-DOMINION,CAN,09/12/2025,35027139,302509,0.0
 UBS Group AG Junior Subordinated 7.750% Perpet.,CHE,01/01/2025,33993200,0,0.0
 Credit Agricole SA CREDIT AGRICOLE SA 5.875%,FRA,04/07/2025,32520946,1474965,0.0
-"A-A SPN-22 (AIOFIII-AAA), L.P. AltsCo LT Addition 70,083,826 5,707,240 124,146,844 0.000 A-A SPN-7 (RRH - IAFAMD), L.P.",CYM,06/16/2025,32475460,2282787,1.107
+"A-A SPN-22 (AIOFIII-AAA), L.P. AltsCo LT Addition 70,083,826 5,707,240 124,146,844 0.000 (RRH - IAFAMD), L.P.",CYM,06/16/2025,32475460,2282787,1.107
 Lloyds Banking Group PLC LLOYDS BANKING GROUP,GBR,04/07/2025,32090625,0,0.0
 AIB Group PLC AIB GROUP PLC 7.125% Perpetual 7.125% Perpet.,IRL,09/12/2025,31790332,40221,0.0
 Aqua AssetCo Alt Trust II R 0.000% 11/12/55 Wausau,WI,10/29/2025,31783310,0,0.0
 National Life Insurance Co Subordinated 5.250% 07/19/68 Springfield,VT,07/10/2018,30877455,285104,0.0
 Designation Book/ Years Other- Foreign Bank of Nova Scotia/The Junior Subordinated,CAN,01/01/2025,30500000,0,0.0
 Achmea BV Junior Subordinated 6.125% Perpet. NLD Bank of America 3.A,,10/17/2025,30342034,164893,0.0
-E07.7 Nordea Bank Abp Junior Subordinated 6.300%,FIN,09/19/2024,30000000,0,0.0
+Nordea Bank Abp Junior Subordinated 6.300%,FIN,09/19/2024,30000000,0,0.0
 Legal & General Group PLC Junior Subordinated,GBR,01/01/2025,29470622,1063737,0.0
 Teachers Insurance & Annuity A Subordinated 4.270% 05/15/47 New York,NY,05/03/2017,28208226,648106,0.0
 "Apollo Asia Real Estate AAC Fund, L.P. AltsCo LT Addition 14,761,294 (2,568,476) 10,932,247 0.000 Apollo Asia Real Estate Fund, L.P.",CYM,12/27/2022,27934046,985983,22.659
-53944Y-BB-8 PLC 6.750% Perpet. Nationwide Building Society Junior,GBR,10/08/2025,27029601,179563,0.0
-E07.6 Cooperatieve Rabobank UA Junior Subordinated,NLD,01/01/2025,26801213,330102,0.0
+PLC 6.750% Perpet. Nationwide Building Society Junior,GBR,10/08/2025,27029601,179563,0.0
+Cooperatieve Rabobank UA Junior Subordinated,NLD,01/01/2025,26801213,330102,0.0
 Royal Bank of Canada Junior Subordinated,CAN,09/15/2025,26733856,236152,0.0
 "Apollo Asset-Backed Finance Lending Company, L.P. Wilmington",DE,06/28/2024,26323703,0,0.0
 Nordea Bank Abp Junior Subordinated 6.413%,FIN,09/12/2025,25301371,250074,0.0
@@ -83,7 +83,7 @@ Northwestern Mutual Life Insur Subordinated 3.625% 09/30/59 Milwaukee,WI,09/12/2
 Northwestern Mutual Life Insur Subordinated . 3.850% 09/30/47 Milwaukee,WI,09/21/2017,21576793,252656,0.0
 Toronto-Dominion Bank/The Junior Subordinated,CAN,01/01/2025,21447203,391446,0.0
 Phoenix Group Holdings PLC Junior Subordinated,GBR,04/09/2025,20133735,464105,0.0
-"A-A SPN-2 (ANRP III - AAA), L.P. AltsCo LT Addition 24,418,722 8,185,883 1,769,612 0.000 A-A SPN-20 (AIFX- IAGEMD1PR6), L.P. Wilmington",DE,12/27/2024,19078456,431012,0.192
+"A-A SPN-2 (ANRP III - AAA), L.P. AltsCo LT Addition 24,418,722 8,185,883 1,769,612 0.000 (AIFX- IAGEMD1PR6), L.P. Wilmington",DE,12/27/2024,19078456,431012,0.192
 Lloyds Banking Group PLC Junior Subordinated,GBR,10/08/2025,18981457,110303,0.0
 Massachusetts Mutual Life Insu Subordinated 5.672% 12/01/52 Springfield,MA,09/09/2025,18105598,309861,0.0
 Massachusetts Mutual Life Insu 5.077% 02/15/69 Springfield,MA,03/26/2021,18000000,0,0.0
@@ -100,7 +100,7 @@ Deutsche Bank AG Junior Subordinated 10.000%,DEU,06/24/2025,15397381,184841,0.0
 Banco de Sabadell SA Junior Subordinated 5.000% Perpet.,ESP,06/24/2025,14155526,114507,0.0
 Danske Bank A/S Junior Subordinated 4.375%,DNK,05/19/2025,14049860,0,0.0
 Commerzbank AG Junior Subordinated 4.250%,DEU,06/24/2025,13783946,307813,0.0
-G7091M-AA-7 . 5.750% Perpet. Phoenix Group Holdings PLC Junior Subordinated,GBR,09/13/2024,13415135,752686,0.0
+. 5.750% Perpet. Phoenix Group Holdings PLC Junior Subordinated,GBR,09/13/2024,13415135,752686,0.0
 UBS Group AG Junior Subordinated 9.250% Perpet.,CHE,04/29/2025,13392296,255395,0.0
 "Cibus Fund L.P,",GGY,12/27/2022,13374158,408353,5.87
 Australia & New Zealand Bankin Junior Subordinated 6.750% Perpet.,AUS,01/01/2025,12564401,417371,0.0
@@ -117,7 +117,7 @@ Teachers Insurance & Annuity A Subordinated 4.900% 09/15/44 New York,NY,01/10/20
 "Haveli VC Gaming Fund I AltsCo LT Addition 10,578,042 2,333,096 11,497,682 0.000 Hollyport Secondary Opportunities VI, L.P. Saint Helier",JEY,06/27/2023,9501313,2687475,4.1
 Employers Mutual Casualty Co SUB 5.750% 08/20/39 Des Moines,IA,05/17/2023,9401252,163875,0.0
 Warwick European Opportunities Fund III (USD) Warwick European Opportunities Fund II Limited,CYM,12/27/2022,9368624,4765904,8.63
-Warwick European Opportunities Fund II (USD) Warwick European Opportunities Fund II E07.1 LP,CYM,12/27/2022,9055691,0,15.57
+Warwick European Opportunities Fund II (USD) Warwick European Opportunities Fund II LP,CYM,12/27/2022,9055691,0,15.57
 Apollo Asia Hurstville Co-Investment Fund Apollo Asia Hurstville Co-Investment L.P. Wilmington,DE,09/04/2018,8897836,1145185,100.0
 "Sofinnova Digital Medicine I AltsCo LT Addition 5,584,291 461,808 6,284,888 0.000 Spiritus Aggregator, LP Wilmington",DE,09/17/2025,8776573,41520283,0.0
 "BSI, LLC AltsCo LT Addition 84,081 145,079 0.000 CD&R Friends & Family Feeder Fund X L.P.",CYM,06/27/2023,8030544,158047,9.15
@@ -150,7 +150,7 @@ Guardian Life Insurance Co of Subordinated 7.375% 09/30/39 New York,NY,03/07/201
 Massachusetts Mutual Life Insu Subordinated 3.729% 10/15/70 Springfield,MA,10/10/2019,3801171,54692,0.0
 Deutsche Bank AG Junior Subordinated 4.500%,DEU,10/29/2025,3751651,28499,0.0
 Farmers Exchange Capital III Subordinated 5.454% 10/15/54 Los Angeles,CA,08/30/2016,3696885,142940,0.0
-"72132H-AL-6 PIPK 2022-10A A1R AltsCo LT Addition 6,825,507 0.000 . Red Cloud Royalties Karnes",TX,09/15/2014,3674292,2032004,100.0
+"PIPK 2022-10A A1R AltsCo LT Addition 6,825,507 0.000 . Red Cloud Royalties Karnes",TX,09/15/2014,3674292,2032004,100.0
 Massachusetts Mutual Life Insu Subordinated 3.200% 12/01/61 Springfield,MA,11/18/2021,3632231,144000,0.0
 Mutual of Omaha Insurance Co Subordinated 6.800% 06/15/36 Omaha,NE,03/15/2019,3523849,680000,0.0
 "CSHC Co-Invest Unblocked, LLC AltsCo LT Addition 8,345,326 298,518 0.000 GNVA Debt Holdco, LLC Wilmington",DE,11/12/2013,2692269,0,4.19
@@ -159,20 +159,20 @@ NB Secondary Opportunities Offshore Fund IV LP NB Secondary Opportunities Associ
 "Apollo Credit Secondaries Fund I (A), L.P. AltsCo LT Addition 35,249,040 2,035,582 20,974,684 0.000 Apollo Credit Secondaries Fund I (A), L.P.",CYM,02/02/2022,2272199,33985,0.956
 "AP VCI Aggregator A, L.P. VCI Asset Equity Wilmington",DE,11/20/2025,2141680,0,0.0
 "NNN Investor 2 (Auto), L.P. Wilmington",DE,07/11/2019,1695473,112773,1.0
-"050931-AA-2 AUDAX 2024-9A A1 AltsCo LT Addition 2,847,165 0.000 Aven Gas & Oil, Inc. Royalties Hemphill",TX,05/01/2015,1560606,50002,100.0
+"AUDAX 2024-9A A1 AltsCo LT Addition 2,847,165 0.000 Aven Gas & Oil, Inc. Royalties Hemphill",TX,05/01/2015,1560606,50002,100.0
 Turbin Finance Trust 2024-1 G1 11.544% 10/23/66,AUS,07/31/2025,1520860,0,0.0
 Genesis Financial Gnfl 20 . 18.960% 01/15/31 Wilmington,DE,06/13/2023,1484423,0,0.0
 Massachusetts Mutual Life Insu Subordinated 4.500% 04/15/65 Springfield,MA,08/14/2024,1415857,78930,0.0
 "A-A Offshore (AAA), L.P. (""A A AltsCo - Core (AAA Aggregator) Cayman Island",CYM,10/06/2025,1028691,0,67.86
 "AA Net Lease, L.P. AltsCo LT Addition 389,327,724 27,183,974 0.000 A-A Offshore Java 2021-1 L.P.",CYM,03/25/2021,881392,0,80.538
-IRMT-DE1 DESIGNATED ACTIVITY C IRMT-DE1 SUB 1.000% 09/30/49,IRL,09/30/2019,854459,0,0.0
+DESIGNATED ACTIVITY C IRMT-DE1 SUB 1.000% 09/30/49,IRL,09/30/2019,854459,0,0.0
 Lloyds Banking Group PLC Junior Subordinated,GBR,10/27/2025,800000,0,0.0
 Leann Sellers Grady County (Woodford- Scoop) Royalties Chickasha,OK,11/30/2016,463274,52919,100.0
 "Bluewater Investment Holdings, LLC Wilmington",DE,11/21/2017,263648,0,4.0
 New York Life Insurance Co Subordinated 6.750% 11/15/39 SD New York,NY,03/07/2018,253292,13500,0.0
-"82809X-AA-6 SPCLO 2025-11A A1 AltsCo LT Addition 7,048,719 0.000 Sprout Pref Equity Wilmington",DE,12/17/2021,162898,0,0.0
-IRMT-DE1 DESIGNATED ACTIVITY C IRMT-DE1 SUB 10.000% 06/21/49,IRL,06/21/2019,154491,0,0.0
-IRMT-DE1 DESIGNATED ACTIVITY C IRMT-DE1 SUB 10.000% 06/21/49,IRL,06/21/2019,130220,0,0.0
+"SPCLO 2025-11A A1 AltsCo LT Addition 7,048,719 0.000 Sprout Pref Equity Wilmington",DE,12/17/2021,162898,0,0.0
+DESIGNATED ACTIVITY C IRMT-DE1 SUB 10.000% 06/21/49,IRL,06/21/2019,154491,0,0.0
+DESIGNATED ACTIVITY C IRMT-DE1 SUB 10.000% 06/21/49,IRL,06/21/2019,130220,0,0.0
 AP Chia Issuer LLC AP Chia 0.000% 04/14/25,CYM,05/29/2025,111779,9118,0.0
 Turbin Finance Trust 2024-1 B1-X 3.000% 10/23/66,AUS,07/31/2025,30994,0,0.0
 Turbin Finance Trust 2024-1 C1-X 3.000% 10/23/66,AUS,07/31/2025,13674,0,0.0
@@ -180,8 +180,7 @@ Turbin Finance Trust 2024-1 D1-X 3.000% 10/23/66,AUS,07/31/2025,10028,0,0.0
 Turbin Finance Trust 2024-1 E1-X 3.000% 10/23/66,AUS,07/31/2025,9116,0,0.0
 Turbin Finance Trust 2024-1 G1-X 3.000% 10/23/66,AUS,07/31/2025,4559,0,0.0
 Turbin Finance Trust 2024-1 F1-X 3.000% 10/23/66,AUS,07/31/2025,4558,0,0.0
-Turbin Finance Trust 2025-1 Turbin Finance Trust 2025-1 A1 2.500% 02/12/67,AUS,06/02/2025,0,0,0.0
-Turbin Finance Trust 2025-1 Turbin Finance Trust 2025-1 X- 2.500% 02/12/67,AUS,06/02/2025,0,0,0.0
-Turbin Finance Trust 2024-1 A1-X 3.000% 10/23/66,AUS,07/31/2025,0,0,0.0
-"55821Y-AA-4 MDPK 2024-67A A1 AltsCo LT Addition 7,657,903 0.000 Mp - Waters Edge Mezzanine LLC Mp - Waters Edge Mezzanine LLC",,01/23/2013,0,0,0.0
-"87264A-DA-0 TMUS 4.8 07/15/28 AltsCo LT Addition 3,353,109 0.000 Trenwick America LLC Wilmington",DE,04/27/2011,0,0,0.0
+Turbin Finance Trust 2025-1 Turbin Finance A1 2.500% 02/12/67,AUS,06/02/2025,0,0,0.0
+Turbin Finance Trust 2025-1 Turbin Finance X- 2.500% 02/12/67,AUS,06/02/2025,0,0,0.0
+"MDPK 2024-67A A1 AltsCo LT Addition 7,657,903 0.000 Mp - Waters Edge Mezzanine LLC Mp - Waters Edge Mezzanine LLC",,01/23/2013,0,0,0.0
+"TMUS 4.8 07/15/28 AltsCo LT Addition 3,353,109 0.000 Trenwick America LLC Wilmington",DE,04/27/2011,0,0,0.0

@@ -14,7 +14,7 @@ AXA SA Paris,FRA,01/01/2025,0,0,0.0
 ComEd Fin III Chicago,IL,01/01/2025,0,0,0.0
 KYOBO LIFE INSURANCE CO LTD Seoul,KOR,01/01/2025,0,0,0.0
 LAND OLAKES CAPITAL TRUST I Arden Hills,MN,01/01/2025,0,0,0.0
-E03 G65040-AD-2 NGG FINANCE PLC London,GBR,01/01/2025,0,0,0.0
+NGG FINANCE PLC London,GBR,01/01/2025,0,0,0.0
 ORANGE SA Paris,FRA,01/01/2025,0,0,0.0
 PECO EGY TR IV Philadelphia,PA,01/01/2025,0,0,0.0
 SUMMARY ADJUSTMENT New York,NY,03/31/2025,0,0,0.0
@@ -57,7 +57,7 @@ Altor Fund VI (No. 1) AB Stockholm,SWE,09/30/2022,0,0,0.92
 "Andreessen Horowitz LSV Fund III, L.P. Menlo Park",CA,11/30/2021,0,0,0.17
 "Andreessen Horowitz LSV Fund IV, L.P. Menlo Park",CA,04/12/2024,0,0,0.08
 "Anthemis Venture Fund III LP St. Peter Port, Guernsey",GBR,01/09/2024,0,0,3.56
-"E03.1 APOLLO IMPACT MISSION FUND, L.P. New York",NY,07/08/2021,0,0,3.02
+"APOLLO IMPACT MISSION FUND, L.P. New York",NY,07/08/2021,0,0,3.02
 "Apollo Infrastructure Opportunities Fund III, L.P. New York",NY,10/24/2024,0,0,0.42
 "Arbor Venture Fund III, L.P. Singapore",SGP,06/24/2021,0,0,3.15
 "Arctos Sports Partners Fund I, LP New York",NY,08/05/2021,0,0,0.34
@@ -152,13 +152,13 @@ Hg Saturn L.P. London,GBR,03/07/2018,0,0,1.06
 "INDEX ORIGIN I (JERSEY), L.P. London",GBR,02/02/2021,0,0,0.6
 INDEX ORIGIN II (JERSEY) L.P. London,GBR,11/17/2022,0,0,0.33
 "INDEX VENTURES GROWTH VI (JERSEY), L.P. London",GBR,06/07/2021,0,0,0.66
-E03.3 Inflexion Buyout Fund V Limited Partnership London,GBR,04/09/2018,0,0,0.46
+Inflexion Buyout Fund V Limited Partnership London,GBR,04/09/2018,0,0,0.46
 Inflexion Buyout Fund VI (No. 1) London,GBR,06/30/2021,0,0,0.21
 Inflexion Enterprise Fund VI (No.1) Limited Partnership London,GBR,06/26/2024,0,0,0.2
 Inflexion Partnership Capital Fund II Limited Partnership London,GBR,04/09/2018,0,0,0.55
 Inflexion Supplemental Fund V London,GBR,04/04/2019,0,0,1.88
 Investindustrial VII L.P. London,GBR,03/25/2019,0,0,0.19
-"J2 Ventures Argonne Fund, L.P. Boston",MA,11/06/2023,0,0,1.32
+"Ventures Argonne Fund, L.P. Boston",MA,11/06/2023,0,0,1.32
 "Jade Equity Investors II, L.P. Los Angeles",CA,04/15/2022,0,0,0.18
 KKR Dislocation Opportunities (Domestic) Fund L.P. New York,NY,04/09/2020,0,0,8.81
 KKR Opportunities (Domestic) Fund II SCSp New York,NY,10/29/2021,0,0,2.51
@@ -199,7 +199,7 @@ Polish Enterprise Fund VII L.P. Warsaw POL Enterprise Investors,,05/17/2012,0,0,
 "Polish Enterprise Fund VIII, L.P. Warsaw POL Enterprise Investors",,09/08/2017,0,0,1.02
 Primavera Capital Fund III L.P. Hong Kong,CHN,02/14/2018,0,0,0.8
 Primavera Capital Fund IV L.P. Hong Kong,CHN,05/20/2021,0,0,0.29
-"E03.4 Public Pension Capital, LLC New York",NY,07/10/2014,0,0,2.97
+"Public Pension Capital, LLC New York",NY,07/10/2014,0,0,2.97
 "Quantum Energy Partners VI, L.P. Houston",TX,08/07/2014,0,0,1.29
 "Quantum Energy Partners VII, L.P. Houston",TX,09/01/2017,0,0,1.41
 "Quona Accion Inclusion Fund III, L.P. Washington",DC,07/28/2021,0,0,4.95
@@ -245,7 +245,7 @@ VIP IV LP London,GBR,05/13/2020,0,0,0.48
 "Wing Four, L.P. Palo Alto",CA,06/29/2023,0,0,1.03
 "Wing Three, L.P. Menlo Park",CA,05/29/2020,0,0,1.71
 "MetLife Next Gen Ventures, LLC Wilmington",DE,06/27/2022,0,0,100.0
-"E03.5 p001033 Republic Plaza, LLC San Francisco",CA,05/01/2014,0,0,47.5
+"p001033 Republic Plaza, LLC San Francisco",CA,05/01/2014,0,0,47.5
 p001876 ML District NOHO Maseter Member LLC North Hollywood,CA,02/15/2019,0,0,80.0
 "p002017 Studebaker Industrial, LLC Long Beach",CA,07/19/2019,0,0,95.0
 "p002138 MetWest International Venture, LLC Tampa",FL,12/16/2019,0,0,50.0
@@ -272,10 +272,10 @@ p002453 ML HS Member LLC Whippany,NJ,08/25/2022,0,0,95.918
 p002348 Entity,NY,09/03/2021,0,0,98.01
 p002599 Entity,WA,10/01/2023,0,0,97.96
 p002719 Entity,CA,01/24/2024,0,0,100.0
-0000703678 MESA WEST REAL ESTATE FUND V NEW YORK CITY,NY,04/18/2022,0,0,0.0
-"0000703850 MWCLF MLRS SPE, LLC NEW YORK",NY,01/26/2024,0,0,0.0
-"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY 0000703876 LOANCORE CREDIT REIT LLC GREENWICH",CT,07/11/2024,0,0,0.0
-0000703949 ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK CITY,NY,01/10/2025,0,0,0.0
+MESA WEST REAL ESTATE FUND V NEW YORK CITY,NY,04/18/2022,0,0,0.0
+"MWCLF MLRS SPE, LLC NEW YORK",NY,01/26/2024,0,0,0.0
+"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY LOANCORE CREDIT REIT LLC GREENWICH",CT,07/11/2024,0,0,0.0
+ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK CITY,NY,01/10/2025,0,0,0.0
 MetLife Investment Private Equity Partners II Acquisition Co Whippany,NJ,03/29/2024,0,0,37.29
 "Alden Capital Partners Tax Credit Fund 17, LP Sherman Oaks",CA,03/30/2015,0,0,46.74
 "Alliant Tax Credit Fund 59, Ltd. Palm Beach",FL,08/13/2010,0,0,1.0
@@ -286,7 +286,7 @@ MetLife Investment Private Equity Partners II Acquisition Co Whippany,NJ,03/29/2
 "Alliant Tax Credit Fund 85, Ltd. Los Angeles",CA,06/22/2016,0,0,44.38
 Boston,MA,11/11/2014,0,0,27.93
 "Boston Financial National Tax Credit Fund 2012, LP Boston",MA,11/15/2012,0,0,99.9
-E03.6 Community Equity Fund XX Limited Partnership Raleigh,NC,03/12/2015,0,0,26.67
+Community Equity Fund XX Limited Partnership Raleigh,NC,03/12/2015,0,0,26.67
 "CREA Corporate Tax Credit Fund 39, LLC Indianapolis",IN,06/25/2014,0,0,33.44
 "CREA Corporate Tax Credit Fund 43, LLC Indianapolis",IN,06/10/2015,0,0,16.59
 "CREA Corporate Tax Credit Fund XXIV, LLC Indianapolis",IN,09/28/2011,0,0,99.9
@@ -300,8 +300,8 @@ MHEG Fund 2017 LP Omaha,NE,08/03/2017,0,0,32.53
 "MHEG Fund 46, LP Omaha",NE,10/05/2016,0,0,28.05
 "MLI Investment Fund II, LP Chicago",IL,05/15/2008,0,0,99.9
 North Carolina Equity Fund IV Limited Partnership Raleigh,NC,08/20/2010,0,0,99.9
-R4 HOUSING PARTNERS XXI LP New York,NY,03/27/2024,0,0,14.0
-R4 SAN BRUNO HOUSING PARTNERS LP New York,NY,12/04/2024,0,0,23.0
+HOUSING PARTNERS XXI LP New York,NY,03/27/2024,0,0,14.0
+SAN BRUNO HOUSING PARTNERS LP New York,NY,12/04/2024,0,0,23.0
 Raymond James Tax Credit Fund 40 L.L.C. St. Petersburg,FL,09/12/2013,0,0,17.95
 "Raymond James Tax Credit Fund 41, L.L.C. St. Petersburg",FL,08/05/2015,0,0,17.6
 RBC Tax Credit Equity Fund-66 Limited Partnership Cleveland,OH,09/30/2009,0,0,99.9

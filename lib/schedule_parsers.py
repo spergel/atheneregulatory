@@ -452,8 +452,11 @@ def _ba_clean_pending(raw: str) -> str:
          Heuristic: if we see ≥ 2 consecutive all-caps words (each ≥ 4 letters)
          after at least 2 title-case (mixed-case) words, truncate there.
     """
-    # 1 – strip leading section codes
+    # 1 – strip leading section codes (e.g. "E03 ", "8A ", "2.A ")
     s = re.sub(r'^[A-Z]?\d+(?:\.\d+)?[A-Z]?\s+', '', raw).strip()
+    # 1b – strip leading CUSIP placeholder "000000-00-0 " that appears on
+    #      name-only lines in Part 2/3 when the CUSIP column is blank
+    s = re.sub(r'^[A-Z0-9#@]{2,9}-[A-Z0-9]{1,3}(?:-[A-Z0-9]+)?\s+', '', s).strip()
 
     # 2 – strip trailing all-caps GP name block
     tokens = s.split()
@@ -506,8 +509,9 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
         if not section:
             return []
 
-        # Subtotals match patterns like "1799999." or "1899999."
-        subtotal_re = re.compile(r'^\s*[0-9]+9{3,}\.')
+        # Subtotals match patterns like "1799999." or "E03 2699999."
+        # Allow an optional leading section code (e.g. "E03 ") before the number.
+        subtotal_re = re.compile(r'^\s*(?:[A-Z]\d+(?:\.\d+)?\s+)?[0-9]+9{3,}\.')
 
         # Header keywords that should never be treated as pending fund names
         _SKIP_KEYWORDS = ('SCHEDULE', 'Showing', 'NAIC', 'fication', 'strative',
@@ -568,10 +572,19 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
                     name_end = i
                     break
 
-            # Determine whether tokens[0] is a CUSIP or part of the fund name.
-            # CUSIPs always have hyphens; when the CUSIP column is blank the
-            # first fund-name word becomes tokens[0] and must be included.
-            name_start = 1 if (tokens and _BA_CUSIP_RE.match(tokens[0])) else 0
+            # Determine where the fund name starts within the token list.
+            # CUSIPs always have hyphens; some lines begin with a section
+            # classification code (e.g. "E03", "E03.1", "8A") optionally
+            # followed by a CUSIP, before the actual fund name tokens.
+            _SECTION_CODE_RE = re.compile(r'^[A-Z]?\d+(?:\.\d+)?[A-Z]?$')
+            if tokens and _BA_CUSIP_RE.match(tokens[0]):
+                name_start = 1  # tokens[0] is the CUSIP
+            elif len(tokens) > 1 and _BA_CUSIP_RE.match(tokens[1]):
+                name_start = 2  # tokens[0] is section code, tokens[1] is CUSIP
+            elif tokens and _SECTION_CODE_RE.match(tokens[0]):
+                name_start = 1  # tokens[0] is a section code; fund name starts at 1
+            else:
+                name_start = 0  # CUSIP absent; first token is part of the name
 
             # Raw slice between name-start and the state/country code.
             raw_name_tokens = tokens[name_start:name_end]
@@ -616,14 +629,18 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
             for t in post_date:
                 if re.match(r'^\d+\.\d{3}$', t):   # ownership% has 3 decimal places
                     ownership = _to_float(t)
-                elif re.match(r'^[1-9]$', t) and not _type_skipped and not numeric_vals:
-                    # First single-digit token before any monetary values is the
-                    # Type/Strategy column code used in BA Part 2/3 (1=VC, 2=LBO, etc.)
+                elif re.match(r'^\d{1,2}$', t) and not _type_skipped and not numeric_vals:
+                    # First 1-2 digit integer before any monetary values is the
+                    # Type/Strategy column code (1-10+) used in BA Part 2/3.
                     _type_skipped = True
                 elif re.match(r'^[\d,()]+$', t):
                     numeric_vals.append(_to_int(t))
 
             actual_cost = numeric_vals[0] if len(numeric_vals) > 0 else 0
+            # For Part 2/3, col 9 (actual_cost at acquisition) is often 0
+            # and col 10 (additional investment this period) holds the value.
+            if part_no != 1 and actual_cost == 0 and len(numeric_vals) > 1:
+                actual_cost = numeric_vals[1]
             fair_value  = numeric_vals[1] if len(numeric_vals) > 1 else 0
             book_value  = numeric_vals[2] if len(numeric_vals) > 2 else 0
             # Column layout after [cost, fair, book]:

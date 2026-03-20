@@ -12,14 +12,14 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 ". NNN AGP Opportunities Fund II, L.P. O Wilmington",DE,05/27/2021,49263101,63641,42.0
 ". Thoma Bravo XIV, L.P. O Chicago",IL,04/30/2021,48337587,2627550,0.56
 TEACHERS INSURANCE AND ANNUITY New York,NY,12/01/2024,46863423,0,2.0
-"E07.2 000000-00-0 . NOVA Infrastructure Fund I, L.P. O Wilmington",DE,05/26/2021,42845505,1357975,21.89
+". NOVA Infrastructure Fund I, L.P. O Wilmington",DE,05/26/2021,42845505,1357975,21.89
 ". Veritas Capital Fund VII, L.P. O New York",NY,04/14/2020,36107412,0,0.44
 Marina Del Rey,CA,11/12/2020,34526602,-65306,5.0
 ". Veritas Capital Fund VIII, L.P. O New York",NY,07/01/2022,25285693,1211,0.34
 Chicago,IL,06/30/2021,23933114,689875,0.53
 PPMC 2022-6RA O 6.,,12/01/2023,21441898,0,95.0
 "PPM Loan Management Company 2, LLC, Retention . Series 6 O Chicago",IL,12/21/2023,19723741,0,100.0
-"000000-00-0 . Designation Book/ Years Other- Foreign . Madison Dearborn Capital Partners VIII, L.P. O Chicago",IL,11/19/2020,19572924,688016,0.79
+". Designation Book/ Years Other- Foreign . Madison Dearborn Capital Partners VIII, L.P. O Chicago",IL,11/19/2020,19572924,688016,0.79
 ". MidOcean Partners V, L.P. O New York",NY,05/21/2018,19564351,0,1.25
 "JFL Equity Investors VI, L.P. O Radnor",PA,10/24/2019,19496875,2146552,2.52
 "Designation Book/ Years Other- Foreign . Thoma Bravo Discover Fund IV, L.P. O Chicago",IL,12/07/2022,19261989,0,0.597
@@ -29,14 +29,14 @@ PPMC 2022-6RA O 6.,,12/01/2023,21441898,0,95.0
 ". Cortec Group Fund VII, L.P. O New York",NY,12/10/2019,18622306,126389,1.7
 "PPM Loan Management Company 2, LLC, Retention . Series 7 O Chicago",IL,03/20/2024,18197333,882347,100.0
 New York,NY,08/14/2020,17989509,23282,3.51
-"E07 000000-00-0 . Arlington Capital Partners V, L.P. O Chevy Chase",MD,08/23/2019,17596780,2122165,0.66
+". Arlington Capital Partners V, L.P. O Chevy Chase",MD,08/23/2019,17596780,2122165,0.66
 ". Apollo Investment Fund IX, L.P. O Purchase",NY,03/14/2019,17309556,1943321,0.08
 ". JNLD, LLC O Franklin",TN,07/01/2006,17212558,0,100.0
 "Riverside Fund V, L.P. O Denver",CO,07/19/2018,17171395,1368896,2.09
 ". TSG8, L.P. O San Francisco",CA,01/07/2019,17047652,0,0.88
 . Island NYC Recovery Fund I L.P. O New York,NY,10/28/2021,17000388,0,6.28
 . Newtown Square,PA,11/05/2019,16253297,3959511,2.43
-E07.4 638671-AN-7 NATIONWIDE MUTUAL INSURANCE Columbus,OH,12/01/2024,16184440,0,1.11
+NATIONWIDE MUTUAL INSURANCE Columbus,OH,12/01/2024,16184440,0,1.11
 New York,NY,09/07/2021,15377254,0,1.18
 ". AG Essential Housing Fund II, L.P. O Wilmington",DE,12/23/2021,15289558,33840,2.37
 DOCTORS CO INTERINSURANCE Napa CA DOCTORS,CO,12/01/2024,15000000,0,3.0
@@ -91,7 +91,7 @@ Marina Del Rey,CA,10/12/2023,7160302,0,1.6
 ". Arlington Capital Partners VI, L.P. O Chevy Chase",MD,05/24/2023,7059934,0,0.34
 Los Angeles,CA,04/14/2020,6952350,0,0.2
 ". NewSpring Growth Capital III, L.P. O Radnor",PA,03/02/2012,6845690,0,3.57
-"E07.1 Green Equity Investors VII, L.P. O New York",NY,08/26/2021,6824037,0,0.06
+"Green Equity Investors VII, L.P. O New York",NY,08/26/2021,6824037,0,0.06
 PACIFIC LIFE INSURANCE Newport Beach,CA,12/01/2024,6690363,0,0.0
 ". Calera Capital Partners VI, L.P. O San Francisco",CA,11/02/2022,6553453,142120,2.68
 Los Angeles,CA,10/20/2020,6432872,209419,0.05
@@ -102,11 +102,11 @@ Boca Raton,FL,08/15/2013,6363704,0,0.64
 MUTUAL OF OMAHA Omaha,NE,12/01/2024,6053798,170000,1.67
 ". Clearlake Capital Partners VII, L.P. O Santa Monica",CA,04/25/2022,5982417,0,0.6
 ". AA MMF 1 HOLDCO, L.P. O Wilmington DE Apollo Principal Holdings",VI,12/13/2021,5956348,1386235,10.0
-"000000-00-0 . Frazier Healthcare Growth Buyout Fund X, L.P. . O Seattle",WA,06/10/2021,5915101,0,0.43
+". Frazier Healthcare Growth Buyout Fund X, L.P. . O Seattle",WA,06/10/2021,5915101,0,0.43
 Boca Raton,FL,12/27/2022,5912160,12939,1.42
 . AA Euro Investment Fund (Lux) SCSP O Luxembourg,LUX,09/02/2021,5874454,0,5.0
 LIBERTY MUTUAL INSURANCE Boston,MA,12/01/2024,5848161,0,2.02
-"E07.3 000000-00-0 . Veritas Capital Fund VI, L.P. O New York",NY,06/14/2017,5704131,1554430,0.47
+". Veritas Capital Fund VI, L.P. O New York",NY,06/14/2017,5704131,1554430,0.47
 ". Apollo Natural Resources Partners II, L.P. O New York",NY,09/28/2016,5604185,0,0.71
 ". Yorktown Energy Partners XI, L.P. O New York",NY,04/22/2016,5581709,0,0.58
 ". TSG9, L.P. O San Francisco",CA,01/03/2023,5351553,0,0.3
@@ -114,7 +114,7 @@ LIBERTY MUTUAL INSURANCE Boston,MA,12/01/2024,5848161,0,2.02
 ". Aterian Investment Partners II, L.P. O New York",NY,02/07/2014,5339333,1935075,2.07
 ". Birch Hill Equity Partners IV, L.P. O Toronto",CAN,11/30/2010,5286635,916086,2.52
 NORTHWESTERN MUT Milwaukee,WI,12/01/2024,5259811,0,0.0
-"000000-00-0 . Designation Book/ Years Other- Foreign . Clayton, Dubilier & Rice Fund X, L.P. O New York",NY,03/26/2018,5251521,1410925,0.11
+". Designation Book/ Years Other- Foreign . Clayton, Dubilier & Rice Fund X, L.P. O New York",NY,03/26/2018,5251521,1410925,0.11
 ". Graham Partners IV, L.P. O Newtown Square",PA,09/20/2023,5202395,0,0.9
 Chicago,IL,12/07/2018,5107982,1408392,0.54
 NEW YORK LIFE New York,NY,12/01/2024,5104084,0,0.0
@@ -160,7 +160,7 @@ San Francisco,CA,02/06/2023,2466388,0,1.0
 MASS MUTUAL LIFE Springfield,MA,12/01/2024,1975796,0,0.0
 ". AEA Investors Small Business Fund III, L.P. . O New York",NY,03/24/2016,1830105,0,0.67
 "NOVA Infrastructure GP I, L.P. O Wilmington",DE,05/31/2021,1751567,4710,2.2
-"Private Investors, L.P. O Lovell Minnick Equity Advisors VI, LLC K4 Private Investors, L.P. O Radnor",PA,01/12/2024,1663974,6011,3.0
+"Private Investors, L.P. O Lovell Minnick Equity Advisors VI, LLC Private Investors, L.P. O Radnor",PA,01/12/2024,1663974,6011,3.0
 "Haveli VC Gaming Fund I, L.P. O New York",NY,03/28/2016,1606636,618124,1.03
 "Jade Equity Investors, L.P. O New York",NY,03/25/2010,1539261,709799,0.59
 ". Catterton Partners VII, L.P. O Greenwich",CT,03/18/2013,1508365,0,0.89
@@ -187,6 +187,7 @@ NATIONWIDE MUTUAL INSURANCE Columbus,OH,12/01/2024,659237,0,0.06
 ". Arlington Capital Partners III, L.P. O Chevy Chase",MD,02/14/2011,624710,0,3.61
 ". Vortus Investments, L.P. O Fort Worth",TX,06/03/2014,553125,0,1.16
 ". Wind Point Partners VII, L.P. O Chicago",IL,04/08/2009,421514,0,1.66
+". National Planning Holdings, LLC O Lansing",MI,12/31/2018,419178,0,100.0
 ". Graham Partners III, L.P. O Newtown Square",PA,04/20/2016,414026,0,1.63
 ". Aurora Equity Partners IV, L.P. O Los Angeles",CA,06/14/2011,361190,0,2.09
 ". Apollo Investment Fund VI, L.P. O Purchase",NY,05/09/2006,255392,0,0.24
@@ -206,4 +207,3 @@ Green Equity Investors New York,NY,09/12/2024,244855,0,0.29
 ". First Reserve Fund XII, L.P. O Greenwich",CT,08/25/2008,7286,0,0.26
 "NOVA Infrastructure Holdings, L.P. O Wilmington",DE,03/31/2021,1,0,3.32
 ". Harbert Real Estate Fund V, L.P. O Birmingham",AL,12/07/2012,1,0,1.0
-". National Planning Holdings, LLC O Lansing",MI,12/31/2018,0,0,100.0

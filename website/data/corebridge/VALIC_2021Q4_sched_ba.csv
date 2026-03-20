@@ -1,17 +1,16 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
 "Colony Capital, LLC",,03/28/2006,1121581653,0,0.0
 "AIG DECO Fund I, LP New York",NY,07/22/2020,669475850,-52600,0.001
-E07.2 2399999. Joint Venture Interests - Mortgage Loans - Unaffiliated AMBAC ASSURANCE CORP,,01/14/2020,247493164,6435000,0.0
 "CT AIG Global Real Estate Investment Corp AIG Home Loan 3, LLC Wilmington Selkirk",,02/12/2018,247337576,6435000,0.99
 "AIGGRE U.S. Real Estate Fund III, LP New York AIG Global Real Estate Investment Corp",,02/01/2019,104768746,0,0.16
 "AIGGRE U.S. Real Estate Fund IV, LP New York City AIG Global Real Estate Investment Corp",,07/01/2021,65633096,0,0.248
 "AIGGRE Europe Real Estate Fund II LR Feeder, LLC New York AIG Global Real Estate Investment Corp",,03/06/2019,57425751,2678181,0.276
-"E07.1 MW Eureka Fund, LP New York",GBR,12/13/2019,51186469,0,0.0
+"MW Eureka Fund, LP New York",GBR,12/13/2019,51186469,0,0.0
 "AIG Equity Alpha Fund, LLC New York",NY,11/30/2020,43717791,0,0.006
 "Platinum Equity Capital Partners V, L.P. Beverly Hills LS Polaris",,03/12/2021,43631946,-484545,0.004
 "AIG DECO Fund I, LP New York",NY,07/22/2020,41385059,0,0.056
 East One Commodity Fund Limited London NATIONWIDE MUTUAL INSURANCE,CO,06/30/2021,34521580,0,0.028
-1105 West Peachtree Atlanta,GA,09/03/2020,34130127,0,0.002
+West Peachtree Atlanta,GA,09/03/2020,34130127,0,0.002
 "GRESHAMQUANT - ACAR FUND, L.L.C. New York City",NY,08/30/2019,33986226,0,0.001
 CUSIP Date Type (Amorti- ment Crimson - VALIC,,10/06/2020,25482096,0,0.0
 --- 1.G,FE,12/22/2020,24309815,0,0.0
@@ -54,7 +53,6 @@ Two Creeks Capital Partners LP New York AIG Global Real Estate Investment Corp,,
 MASSACHUSETTS MUTUAL LIFE INSURANCE CO --- 1.G,FE,12/22/2020,2311558,52728,0.0
 or Impair- Deferred Book/ for 0.060 Project Bard BRED Repo Loan (AIG) Various,GBR,03/30/2021,2032901,-28017,0.002
 "Agent Capital Fund II, L.P. Waltham",MA,05/14/2021,2000747,0,0.0
-GABRIEL CAPITAL LP New York J. Ezra Merkin,,12/31/1998,1961258,4873908,0.001
 "Carlyle Asia PE Alternative Opportunities Fund, L.P. Washington, DC",DC,12/31/2018,1644652,36023,0.0
 GS VINTAGE FUND IV New York,IL,01/23/2007,1635033,280970,0.0
 "Five Elms V Q, L.P. Kansas City",TX,07/01/2021,1628464,-310515,0.029
@@ -68,7 +66,7 @@ S.C.Sp. Bitbourg,LUX,12/21/2018,1356646,-118086,0.0
 "Jade Equity Investors, L.P. Los Angeles",NY,11/05/2019,1046244,134936,0.0
 GS VINTAGE FUND V Los Angeles,FL,08/22/2008,941276,127085,0.0
 "Carlyle Europe Partners V, S.C.Sp. Bitbourg",LUX,02/21/2019,920781,0,0.0
-2461 Broadway NEW YORK,NY,01/21/2021,853779,0,0.037
+Broadway NEW YORK,NY,01/21/2021,853779,0,0.037
 The Hanley NEW YORK,NY,04/05/2019,740572,1480846,0.005
 "Carlyle Global Partners II, L.P. Washington, DC",DC,01/25/2019,668181,-56683,0.0
 "III, L.P. Washington, DC",DC,01/28/2019,622769,157536,0.0
@@ -83,14 +81,23 @@ AP Tundra Holdings LLC St. Louis,MO,12/29/2020,308825,0,0.0
 AIGGRE US Real Estate Fund IV Development MA Sidecar LP New York City,OH,09/01/2021,302107,0,0.275
 "ALPINVEST SECONDARIES FUND (ONSHORE) VII, L.P. Washington, DC",DC,03/06/2020,268853,-17791,0.0
 "Hillhouse Capital Healthcare Fund, L.P. Beijing",CT,05/14/2021,264426,-90029,0.0
+"BALMORAL INVESTMENTS II, LP Los Angeles",CA,08/26/2011,246395,2939318,0.0
 GSO Special Situations Fund L.P. New York Blackstone Group,,12/31/2007,172233,0,0.0
 LLC Wilmington,CT,09/24/2014,155588,0,0.01
-STARK INVESTMENTS LP ST. FRANCIS Two Sigma Investments,,06/30/2021,92186,0,0.004
 LS POWER EQUITY PARTNERS II New York,CA,02/02/2007,40843,981,0.0
 "AMERICAN SECURITIES PARTNERS V, LP New York",NY,10/02/2008,17126,5763,0.0
 "Clayton, Dubilier & Rice Fund VI, LP Wilmington",DE,01/02/2002,2282,0,0.0
+ARIAS HOLDINGS LLC_J3 Atlanta,GA,12/31/2010,0,0,0.0
+ARIAS HOLDINGS LLC_T1 Atlanta,GA,12/31/2010,0,0,0.0
 "Cornell Capital Partners II LP New York City Fir Tree, LLC",,12/31/2010,0,0,0.003
 AIG Global Real Estate Investment Corp,,12/30/2018,0,0,0.0
 "MMA RE II PARTNERS, LLC Medford",ESP,06/17/2014,0,0,0.441
-NORTHWESTERN MUTUAL LIFE INSURANCE CO Selkirk No. 3V Investments Los Angeles NORTHWESTERN MUTUAL LIFE INSURANCE,CO,05/22/2013,0,3483392,1.0
+AXA EARLY SECONDARY FUND III St. Helier,JEY,10/31/2005,-2154,0,0.0
+STARK INVESTMENTS LP ST. FRANCIS Two Sigma Investments,,06/30/2021,-5027,0,0.004
+COLLER INTERNATIONAL PARTNERS V-A St Peter Port,GGY,12/21/2006,-88926,0,0.0
 "AIGGRE U.S. Real Estate Fund I, LP New York",GBR,12/30/2018,-329966,0,0.03
+GS CAPITAL PARTNERS VI New York,CA,02/20/2007,-558776,792349,0.0
+NORTHWESTERN MUTUAL LIFE INSURANCE CO Selkirk No. 3V Investments Los Angeles NORTHWESTERN MUTUAL LIFE INSURANCE,CO,05/22/2013,-650124,3483392,1.0
+"King Street Capital, L.P New York",TX,04/01/2008,-789505,0,0.0
+GABRIEL CAPITAL LP New York J. Ezra Merkin,,12/31/1998,-5256444,4873908,0.001
+"Coatue Qualified Partners, LP New York",NY,09/28/2012,-6765721,0,0.0

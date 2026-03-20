@@ -25,7 +25,7 @@ BLC,2019Q2,PPC Fund II LP New York,IL,04/26/2018,0.0,0,2.576
 BLC,2019Q2,"TCP Direct Lending Fund VIII, LLC New York",CA,12/30/2016,0.0,0,2.188
 BLC,2019Q2,"Tennenbaum Special Situations Fund IX-A, LLC Cincinnati",CA,12/30/2016,0.0,0,0.817
 BLC,2019Q2,New York Life Insurance Company,NY,04/04/2019,0.0,0,0.0
-BLC,2019Q2,E03 95765P-AA-7 Western & Southern Life Insurance Company,OH,01/23/2019,0.0,0,0.0
+BLC,2019Q2,Western & Southern Life Insurance Company,OH,01/23/2019,0.0,0,0.0
 BLC,2021Q2,"Goode Partners Consumer Fund III, LP San Francisco",CA,10/01/2015,0.0,0,3.384
 BLC,2021Q2,NY Goode Partners LLC,,12/30/2015,0.0,0,0.0
 BLC,2021Q2,"Horizon Environment & Climate Solutions Partners I, LP Dallas",NY,06/23/2021,0.0,0,1.32
@@ -93,7 +93,7 @@ BLC,2022Q4,National Life Insurance Company Montpelier VT NLV Financial Corporati
 BLC,2022Q4,Bridge Workforce and Affordable Housing Fund Bridge Workforce and Affordable Hou,UT,02/08/2022,8316052.0,6892493,1.31
 BLC,2022Q4,Mutual of Omaha Insurance Company Omaha NE Mutual of Omaha Insurance Company 1.G,FE,02/28/2019,7833364.0,336971,2.614
 BLC,2022Q4,. IIF LP New York,NY,01/26/2016,7822290.0,170232,0.044
-BLC,2022Q4,E07 000000-00-0 . NB Select Opportunities Fund LP Dallas,TX,01/16/2018,7719480.0,2100000,2.061
+BLC,2022Q4,. NB Select Opportunities Fund LP Dallas,TX,01/16/2018,7719480.0,2100000,2.061
 BLC,2022Q4,". SP Technology Payments I, LLC New York",NY,11/05/2021,7279735.0,0,14.877
 BLC,2022Q4,. NB Private Equity Impact Fund LP Dallas,TX,05/24/2021,6808516.0,150000,8.98
 BLC,2022Q4,. Dyal III US Investors LP Dover,DE,10/28/2016,6432018.0,877222,0.398
@@ -102,7 +102,7 @@ BLC,2022Q4,. PPC Fund II LP Chicago,IL,04/26/2018,5843544.0,1707412,0.728
 BLC,2022Q4,". Kinderhook Capital Fund V, LP and V-B, LP New York",NY,12/19/2017,5490410.0,1401803,0.589
 BLC,2022Q4,". Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,5078894.0,353594,3.384
 BLC,2022Q4,Northwestern Mutual Life Insurance . Northwestern Mutual Life Insurance Company ,FE,03/15/2021,4983036.0,172500,0.556
-BLC,2022Q4,E07.1 000000-00-0 . NB Specialty Finance Fund LP New York,NY,03/03/2020,4963989.0,1003345,3.296
+BLC,2022Q4,. NB Specialty Finance Fund LP New York,NY,03/03/2020,4963989.0,1003345,3.296
 BLC,2022Q4,". Genstar Capital Partners VII, LP San Francisco",CA,10/01/2015,4900119.0,48140,0.448
 BLC,2022Q4,". Great Hill Equity Partners V, LP Boston",MA,04/30/2015,4506012.0,0,0.525
 BLC,2022Q4,". Centerfield Capital Partners IV, LP Indianapolis",IN,11/21/2017,4504118.0,1367476,14.023
@@ -147,7 +147,7 @@ BLC,2023Q3,"Centerfield Capital Partners V, LP Indianapolis",IN,05/26/2022,0.0,0
 BLC,2023Q3,"Centre Lane Credit Partners III, LP New York",NY,09/19/2022,0.0,0,6.559
 BLC,2023Q3,Global Credit Opportunities II Fund A Master SCSp Luxembourg,LUX,01/21/2022,0.0,0,1.115
 BLC,2023Q3,"West Street Mezzanine Partners VIII, LP New York",NY,07/01/2022,0.0,0,0.315
-BLC,2023Q3,"E03 00840C-10-7 AG ABC Structured Note, LP - Limited Partner Interest New York",NY,06/28/2022,0.0,0,8.639
+BLC,2023Q3,"AG ABC Structured Note, LP - Limited Partner Interest New York",NY,06/28/2022,0.0,0,8.639
 BLC,2023Q3,"AG Direct Lending Fund V (Levered) Structured Note, LP - Limited Partner Interes",NY,09/22/2023,0.0,0,75.0
 BLC,2023Q3,Atalaya Asset Income Fund Parallel 345 Feeder LLC - Class C Membership Interests,NY,02/21/2023,0.0,0,8.654
 BLC,2023Q3,"GDLC Feeder Fund, LP - Limited Partner Interest Chicago",IL,06/22/2023,0.0,0,25.568
@@ -167,7 +167,7 @@ BLC,2024Q3,"Warburg Pincus Global Growth 14, LP New York",NY,10/17/2023,0.0,0,0.
 BLC,2024Q3,"CrossHarbor Strategic Debt Fund, LP Boston",MA,10/01/2021,0.0,0,5.112
 BLC,2024Q3,"Hines Rialto Credit Partners, LP Miami",FL,09/13/2024,0.0,0,4.0
 BLC,2024Q3,"Pearlmark Mezzanine Realty Partners V, LP Chicago",IL,02/08/2021,0.0,0,4.529
-BLC,2024Q3,"2399999. Joint Venture Interests - Mortgage Loans - Unaffiliated 561,115 4,220,2",NY,09/19/2022,0.0,0,5.924
+BLC,2024Q3,"Centre Lane Credit Partners III, LP New York",NY,09/19/2022,0.0,0,5.924
 BLC,2024Q3,Global Credit Opportunities II Fund A Master SCSp Luxembourg,LUX,01/21/2022,0.0,0,0.694
 BLC,2024Q3,"West Street Mezzanine Partners VIII, LP New York",NY,07/01/2022,0.0,0,0.282
 BLC,2024Q3,"AG Direct Lending Fund V (Levered) Structured Note, LP - Limited Partner Interes",NY,09/22/2023,0.0,0,75.0
@@ -178,7 +178,7 @@ BLC,2024Q3,Global Infrastructure Debt II Issuer LP - LP Interest New York,NY,09/
 BLC,2024Q3,Equity Los Angeles,CA,02/26/2024,0.0,0,8.325
 BLC,2024Q3,"RREF V Debt DD RNF, LP - Equity Miami",FL,12/07/2023,0.0,0,75.0
 BLC,2024Q4,". Creeksource LLC, Class A Wilmington",DE,03/10/2015,43533010.0,367180,75.0
-BLC,2024Q4,"E07.1 000000-00-0 . TCP Direct Lending Fund VIII, LLC Santa Monica",CA,12/30/2016,36161102.0,1666975,31.555
+BLC,2024Q4,". TCP Direct Lending Fund VIII, LLC Santa Monica",CA,12/30/2016,36161102.0,1666975,31.555
 BLC,2024Q4,New York Life Insurance Company New York NY New York Life Insurance Company 1.C,FE,04/01/2019,29713981.0,1312750,2.95
 BLC,2024Q4,". JDM Partners TXFL, LLC Phoenix",AZ,07/01/2019,24615315.0,2392148,18.519
 BLC,2024Q4,Western & Southern Life Insurance Western & Southern Life Insurance Company Cinc,FE,01/23/2019,23991084.0,1184500,4.6
@@ -210,7 +210,7 @@ BLC,2024Q4,National Life Insurance Company Montpelier VT NLV Financial Corporati
 BLC,2024Q4,. PPC Fund II LP Chicago,IL,04/26/2018,8305885.0,627534,0.734
 BLC,2024Q4,". SP Technology Payments I, LLC New York",NY,11/05/2021,8020895.0,218067,14.316
 BLC,2024Q4,"J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,7689104.0,0,0.797
-BLC,2024Q4,E07 000000-00-0 . NB Select Opportunities Fund VI LP Dallas TX NB Select Opportu,VI,10/03/2023,7399989.0,2160000,0.94
+BLC,2024Q4,. NB Select Opportunities Fund VI LP Dallas TX NB Select Opportunities,VI,10/03/2023,7399989.0,2160000,0.94
 BLC,2024Q4,. Blue Owl GP Stakes III US Investors LP Dover,DE,10/28/2016,7273000.0,1141672,0.397
 BLC,2024Q4,". (Parallel) (ICI), LP - Equity Los Angeles",CA,02/26/2024,6412500.0,0,8.325
 BLC,2024Q4,. NB Select Opportunities Fund LP Dallas,TX,01/16/2018,6207186.0,865521,2.164

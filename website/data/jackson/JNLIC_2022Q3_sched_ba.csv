@@ -1,4 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
+"SVO 156,651 0 Commitment GENESIS FINANCIAL 2020 F Genesis Financial 6.",,12/30/2020,0,0,0.0
 "AA GP Solutions Fund, L.P. Wilmington",DE,07/29/2021,0,0,3.03
 "AA WH HoldCo, L.P. Wilmington DE Apollo Principal Holdings",VI,09/01/2021,0,0,11.19
 "AEA Investors Small Business Fund II, L.P. New York",NY,12/23/2009,0,0,0.08
@@ -15,7 +16,7 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Aurora Equity Partners VI, L.P. Los Angeles",CA,04/30/2021,0,0,0.625
 "Birch Hill Equity Partners IV, L.P. Toronto",CAN,11/30/2010,0,0,1.08
 "Birch Hill Equity Partners V, L.P. Toronto",CAN,11/25/2015,0,0,0.43
-"E03 000000-00-0 Birch Hill Equity Partners VI, L.P. Toronto",CAN,12/16/2020,0,0,0.09
+"Birch Hill Equity Partners VI, L.P. Toronto",CAN,12/16/2020,0,0,0.09
 "Calera Capital Partners V, L.P. San Francisco",CA,10/31/2017,0,0,1.958
 "CapStreet V, L.P. Houston",TX,12/18/2019,0,0,0.142
 "Carlyle Infrastructure Credit Fund, L.P. Washington",DC,04/19/2022,0,0,1.31
@@ -25,6 +26,7 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Centre Capital Investors VII, L.P. New York",NY,05/29/2018,0,0,1.16
 "Clairvest Equity Partners V-A, L.P. Toronto",CAN,03/13/2015,0,0,0.79
 "Clairvest Equity Partners VI-A, L.P. Toronto",CAN,07/02/2020,0,0,1.91
+"Clearlake Capital Partners VII, L.P. Santa Monica",CA,04/25/2022,0,0,0.0
 "Harvest Partners IX, L.P. New York",NY,08/31/2022,0,0,0.0
 "SVO 26,092 0 Commitment MidOcean Partners VI, L.P. New York",NY,08/23/2022,0,0,21.5
 "Motive Capital Fund II-A, L.P. Radnor",DE,08/06/2021,0,0,14.86
@@ -42,8 +44,9 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Sun Capital Partners VI, L.P. New York",FL,08/15/2013,0,0,0.34
 "Thoma Bravo Discover Fund III, L.P. New York",IL,06/30/2021,0,0,1.08
 "Thoma Bravo XII, L.P. Bala Synwyd",IL,05/27/2016,0,0,0.58
+"Thoma Bravo XIII, L.P.",IL,02/13/2019,0,0,0.0
 "Thoma Bravo XV, L.P. Chicago",IL,06/09/2022,0,0,49.88
-"E03.1 000000-00-0 Torquest Partners Fund (U.S.) IV, L.P. Chicago",CAN,08/31/2016,0,0,47.89
+"Torquest Partners Fund (U.S.) IV, L.P. Chicago",CAN,08/31/2016,0,0,47.89
 "Torquest Partners Fund (U.S.) V, L.P. Chicago",CAN,07/09/2021,0,0,57.0
 "TSG6, L.P.",CA,07/03/2012,0,0,0.0
 "New York 265,712,233 XXX TSG7-A, L.P. Birmingham",CA,03/29/2016,0,0,13.74

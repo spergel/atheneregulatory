@@ -15,7 +15,7 @@ Accel London VII L.P. London,GBR,06/15/2021,0,0,0.5
 "Accel London VIII, L.P. London",GBR,05/01/2024,0,0,0.2
 Accel XV L.P. Palo Alto,CA,06/15/2021,0,0,0.5
 "Accel XVI, L.P. Palo Alto",CA,12/08/2023,0,0,0.29
-E03 Affinity Asia Pacific Fund V L.P. Hong Kong,CHN,01/15/2018,0,0,0.19
+Affinity Asia Pacific Fund V L.P. Hong Kong,CHN,01/15/2018,0,0,0.19
 "Airtree Ventures Opportunity Fund V Partnership, LP Sydney",AUS,05/29/2025,0,0,3.52
 "Allied Industrial Partners I-A, L.P. Houston",TX,04/25/2025,0,0,0.1
 Altor Fund V (No. 1) AB Stockholm,SWE,12/17/2018,0,0,0.65
@@ -62,7 +62,7 @@ Bridges Ventures U.S. Sustainable Growth Fund L.P. New York,NY,06/12/2015,0,0,8.
 "CIVC Partners Fund VII, L.P. Chicago",IL,09/29/2023,0,0,1.49
 "CRV XIX, L.P. Palo Alto",CA,01/27/2022,0,0,0.56
 "CRV XVII, L.P. Cambridge",MA,07/11/2017,0,0,0.8
-"E03.1 CRV XVIII, L.P. Cambridge",MA,06/24/2020,0,0,1.95
+"CRV XVIII, L.P. Cambridge",MA,06/24/2020,0,0,1.95
 "CVC Capital Partners Asia Pacific IV L.P. George Town, Grand Cayman",CYM,05/13/2014,0,0,0.85
 "Citation Fund I, L.P. Dallas",TX,11/06/2024,0,0,2.11
 "Clearlake Capital Partners VII, L.P. Santa Monica",CA,02/11/2022,0,0,0.07
@@ -108,7 +108,7 @@ GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,0,0,0.79
 "Gryphon VI Top-Up Co-Investment Partners, L.P. San Francisco",CA,09/27/2024,0,0,1.18
 HX One L.P. Salt Lake City,UT,03/28/2025,0,0,0.75
 Hg Genesis 10 A L.P. London,GBR,04/14/2022,0,0,0.08
-E03.2 Hg Genesis 9 L.P. London,GBR,02/07/2020,0,0,0.33
+Hg Genesis 9 L.P. London,GBR,02/07/2020,0,0,0.33
 Hg Mercury 3 L.P. London,GBR,02/07/2020,0,0,1.47
 Hg Mercury 4 A L.P. London,GBR,01/12/2023,0,0,0.45
 Hg Vardos Co-Invest L.P. Oslo,NOR,06/05/2020,0,0,1.32
@@ -126,7 +126,7 @@ Inflexion Partnership Capital Fund II Limited Partnership London,GBR,04/09/2018,
 Inflexion Partnership Capital Fund III (No.1) Limited Partnership London,GBR,05/16/2023,0,0,0.2
 Inflexion Supplemental Fund V London,GBR,04/04/2019,0,0,1.88
 Investindustrial VII L.P. London,GBR,03/25/2019,0,0,0.19
-"J2 Ventures Argonne Fund, L.P. Boston",MA,11/06/2023,0,0,1.32
+"Ventures Argonne Fund, L.P. Boston",MA,11/06/2023,0,0,1.32
 KKR Dislocation Opportunities (Domestic) Fund L.P. New York,NY,04/09/2020,0,0,8.8
 KKR Opportunities (Domestic) Fund II SCSp New York,NY,10/29/2021,0,0,2.51
 "KPS Special Situations Fund IV, LP New York",NY,04/02/2013,0,0,0.53
@@ -156,7 +156,7 @@ Medicxi Secondary I LP London,GBR,05/29/2020,0,0,2.75
 "Menlo Inflection III L.P. (F.K.A. Menlo Special Opportunities Fund III, L.P) Menlo Park",CA,08/02/2022,0,0,0.36
 "Menlo Ventures XVI, L.P. Menlo Park",CA,02/27/2023,0,0,1.62
 Meritech Capital Partners VI L.P. Palo Alto,CA,05/07/2018,0,0,1.01
-E03.3 Meritech Capital Partners VIII L.P. Palo Alto,CA,07/01/2022,0,0,0.42
+Meritech Capital Partners VIII L.P. Palo Alto,CA,07/01/2022,0,0,0.42
 Meritech Franchise Fund L.P. Palo Alto,CA,05/06/2021,0,0,1.54
 Mid Europa Fund IV LP London,GBR,04/07/2014,0,0,2.37
 "Moelis Asset Catalyst (Master) Fund I, LP New York",NY,05/16/2024,0,0,6.18
@@ -247,7 +247,7 @@ p000882 Entity,NY,12/09/2009,0,0,100.0
 p000987 Entity,GA,08/01/2012,0,0,100.0
 "p001179 MCPP Owners, LLC Whippany",NJ,10/22/2015,0,0,87.66
 p002064 ML Armature Member LLC Washington,DC,08/30/2019,0,0,87.01
-E03.5 p002140 ML 300 Third Member LLC Waltham,MA,12/19/2019,0,0,100.0
+p002140 ML 300 Third Member LLC Waltham,MA,12/19/2019,0,0,100.0
 p002296 1350 Eye Street LLC Washington,DC,03/10/2021,0,0,92.06
 "p002334 ML OMD Member, LLC Cambridge",MA,08/25/2021,0,0,100.0
 p002380 MetLife Water Tower Place LLC - MLIC Whippany,NJ,04/08/2022,0,0,100.0
@@ -257,15 +257,15 @@ p002453 ML HS Member LLC Whippany,NJ,08/25/2022,0,0,95.91
 "p002595 Metlife Clal Member 2.0, LLC Whippany",NY,07/17/2023,0,0,100.0
 p002833 ML Windmill MF JV LLC New York,NY,03/01/2025,0,0,100.0
 p002719 Entity,CA,01/24/2024,0,0,100.0
-99 High Street Whippany,NJ,06/30/2025,0,0,43.465
+High Street Whippany,NJ,06/30/2025,0,0,43.465
 p002348 Entity,NY,09/03/2021,0,0,98.11
 p002599 Entity,WA,10/01/2023,0,0,97.71
 MASSACHUSETTS MUTUAL LIFE INSU New York,NY,05/21/2025,0,0,0.0
-"0000703492 STARWOOD PROPERTY TRUST, INC. GREENWICH",CT,06/01/2021,0,0,0.0
-0000703678 MESA WEST REAL ESTATE FUND V NEW YORK,NY,04/18/2022,0,0,0.0
-0000703949 ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK,NY,01/10/2025,0,0,0.0
-0000703962 MESA WEST REAL ESTATE FUND V NEW YORK,NY,04/04/2025,0,0,0.0
-0000703975 STARWOOD PROPERTY TRUST INC GREENWICH,CT,05/29/2025,0,0,0.0
+"STARWOOD PROPERTY TRUST, INC. GREENWICH",CT,06/01/2021,0,0,0.0
+MESA WEST REAL ESTATE FUND V NEW YORK,NY,04/18/2022,0,0,0.0
+ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK,NY,01/10/2025,0,0,0.0
+MESA WEST REAL ESTATE FUND V NEW YORK,NY,04/04/2025,0,0,0.0
+STARWOOD PROPERTY TRUST INC GREENWICH,CT,05/29/2025,0,0,0.0
 "Alliant Tax Credit Fund 68, Ltd. Palm Beach",FL,06/20/2013,0,0,26.31
 "Alliant Tax Credit Fund 75-A, Ltd. Woodland Hills",CA,09/03/2019,0,0,99.9
 "Alliant Tax Credit Fund 85, Ltd. Los Angeles",CA,06/22/2016,0,0,44.38

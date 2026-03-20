@@ -5,10 +5,9 @@ The Spiral NEW YORK,NY,01/29/2019,92236886,7247704,0.0
 "Corebridge Europe Real Estate Fund II LR Feeder, LLC New York",NY,03/06/2019,76857781,0,34.816
 Silver (BREDS) Various,AUS,06/20/2022,69097140,5482028,0.0
 "Platinum Equity Capital Partners V, L.P. Beverly Hills",CA,01/27/2020,52742279,264014,0.4
-"Corebridge U.S. Real Estate Fund III, LP New York",NY,02/01/2019,48239049,15329582,16.0
 Corebridge U.S. Real Estate Fund IV Development Sidecar LP New York City,NY,09/01/2021,35772661,0,27.45
-1105 West Peachtree Loan-on-Loan Glendale,AZ,12/28/2023,34632010,2370618,0.0
-90 Long Acre London,GBR,03/28/2022,34470427,2852297,0.0
+West Peachtree Loan-on-Loan Glendale,AZ,12/28/2023,34632010,2370618,0.0
+Long Acre London,GBR,03/28/2022,34470427,2852297,0.0
 ATLAS CAPITAL RESOURCES IV LP Greenwich,CT,06/10/2022,33841921,15272,1.488
 "Hillhouse Fund V, L.P. Beijing",CHN,11/30/2020,30169511,-659853,0.338
 "GTCR Fund XIII, L.P. Chicago",IL,09/03/2021,27756750,-1100506,0.494
@@ -44,7 +43,6 @@ Palomino Business Park Norco,CA,03/25/2022,12551539,991055,0.0
 GUARDIAN LIFE INSURANCE COMPANY OF GUARDIAN LIFE INSURANCE COMPANY OF AMERICA NY AMERICA 1.D,FE,01/14/2020,7417917,277500,0.0
 Bayshore PII Company LLC Glendale,WI,09/30/2019,6992296,0,34.0
 "Polaris Innovation Fund II, L.P. Boston",MA,12/20/2021,6943000,-93750,13.659
-CIBANCO SA IBM Fideicomiso CIB/2133 (Mexico Industrial Puebla) Puebla AIG Global Real Estate Investment Corp,,01/16/2015,6874720,2450000,46.55
 Designation Book/ Year’s Other- Foreign Pontifax (Cayman),VI,12/31/2020,6672657,327075,10.208
 "Menlo Ventures XII, L.P. Menlo Park",CA,02/20/2015,6166598,455851,1.29
 "Carlyle Alternative Opportunities Fund, L.P. Washington, DC",DC,12/14/2018,5907751,307775,1.182
@@ -62,7 +60,6 @@ AlpInvest Co-Investment Fund (Onshore) L.P. New York,NY,10/07/2021,3381804,-1129
 "Jade Equity Investors, L.P. Los Angeles",CA,04/14/2020,3279412,754,0.182
 Bitbourg,LUX,03/30/2023,3112177,-346733,0.29
 "Carlyle Property Investors L.P. Washington, DC",DC,07/01/2019,2886212,65424,0.037
-"King Street Capital, L.P New York",NY,04/01/2008,2817774,0,0.079
 NEW YORK LIFE INSURANCE CO NY NEW YORK LIFE INSURANCE CO 1.C,FE,11/19/2013,2750422,103250,0.0
 Cornell Capital Partners II LP New York City,NY,05/25/2022,2465072,23219,0.592
 "Francisco Partners VII, L.P. San Francisco",CA,05/03/2022,2423287,-265688,0.255
@@ -73,20 +70,24 @@ Project Bard BRED Repo Loan (AIG) Various,GBR,03/30/2021,1808475,154639,0.0
 LONGREACH EDITH CO-INVEST George Town,CYM,10/16/2007,1757017,0,12.5
 "Carlyle Global Partners II, L.P. Washington, DC",DC,01/25/2019,1688578,10514,0.12
 "NGP Natural Resources XII, L.P. Irving",TX,01/16/2019,1297842,137209,0.052
-Corebridge Europe Real Estate Fund I S.C.SP London AIG Global Real Estate Investment Corp,,12/30/2018,1116426,3005760,3.0
 "ALPINVEST SECONDARIES FUND (ONSHORE) VII, L.P. Washington, DC",DC,04/13/2021,981961,18596,0.065
 Corebridge Bartlett Investor I LLC New York,NY,08/31/2022,954754,368851,8.616
 Corebridge Papermill Investor I LLC New York,NY,08/31/2022,943679,68239,8.616
 GS VINTAGE FUND IV New York,NY,01/23/2007,742197,30218,1.325
-"Clarus Lifesciences III, L.P. Cambridge",MA,10/02/2014,662385,0,5.58
 Society Nashville NY,NY,04/04/2024,476519,20245,0.0
-HRA Administrator LLC Spokane,WA,07/28/2021,441415,0,100.0
 AP Tundra Holdings LLC St. Louis,MO,12/29/2020,414758,17852,0.079
-GS CAPITAL PARTNERS VI New York,NY,02/20/2007,162372,38492,0.196
+"Clarus Lifesciences III, L.P. Cambridge",MA,10/02/2014,345357,0,5.58
+HRA Administrator LLC Spokane,WA,07/28/2021,128167,0,100.0
 "Corebridge U.S. Real Estate Fund I, LP New York",NY,12/30/2018,68597,0,3.0
 GREEN EQUITY INVESTORS V LP Los Angeles,CA,08/10/2007,46489,0,0.305
-STARK INVESTMENTS LP ST. FRANCIS,WI,03/31/2008,29850,0,1.605
+.PE (NON AEEM) Liquidated Investments - Distribution New York,NY,01/01/2020,2042,574849,0.0
+STARK INVESTMENTS LP ST. FRANCIS,WI,03/31/2008,1669,0,1.605
 "Clayton, Dubilier & Rice Fund VI, LP Wilmington",DE,01/02/2002,561,0,0.1
 "Corebridge Commercial Real Estate Lending AIG Commercial Real Estate Lending Holdings, LLC Wilmington",DE,12/01/2021,-7300,0,1.0
+GS CAPITAL PARTNERS VI New York,NY,02/20/2007,-41008,38492,0.196
+"King Street Capital, L.P New York",NY,04/01/2008,-233271,0,0.079
+Corebridge Europe Real Estate Fund I S.C.SP London AIG Global Real Estate Investment Corp,,12/30/2018,-1275130,3005760,3.0
+CIBANCO SA IBM Fideicomiso CIB/2133 (Mexico Industrial Puebla) Puebla AIG Global Real Estate Investment Corp,,01/16/2015,-2450000,2450000,46.55
 "Branch Retail Partners II, LP New York",NY,08/31/2022,-2765477,2565759,8.65
 Bayshore Shopping Center JV LLC (Realized Loss) Glendale,WI,09/30/2019,-3400000,0,0.0
+"Corebridge U.S. Real Estate Fund III, LP New York",NY,02/01/2019,-22956751,15329582,16.0

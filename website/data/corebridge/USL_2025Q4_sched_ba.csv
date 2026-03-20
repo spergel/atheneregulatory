@@ -4,11 +4,11 @@ AMERICAN GENERAL LIFE INSURANC CORP_BND 5.725% 10/28/27 TX DIRECT 1.G,FE,10/28/2
 "Carlyle Alternative Opportunities Fund, L.P. Washington, DC",DC,12/14/2018,58017893,3321893,11.811
 Silver (BREDS) Various,AUS,06/20/2022,55815345,3637126,0.0
 "Corebridge REI LB Southeast Industrial Joint Corebridge Global Real Estate Investment Venture, LP. Stephenson",VA,07/01/2021,55509780,1426220,19.41
-90 Long Acre London,GBR,03/28/2022,42124317,2974816,0.0
+Long Acre London,GBR,03/28/2022,42124317,2974816,0.0
 "Corebridge Europe Real Estate Fund II LR Corebridge Global Real Estate Investment Feeder, LLC New York",NY,03/06/2019,38358051,0,13.743
 "Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund IV, LP New York City",NY,07/26/2021,38038682,0,7.56
 AlpInvest Co-Investment Fund (Onshore) L.P. New York,NY,10/07/2021,36386723,3220703,2.252
-358 Livingston NY,NY,12/13/2024,36136980,2040995,0.0
+Livingston NY,NY,12/13/2024,36136980,2040995,0.0
 "Trident IX, L.P. Greenwich",CT,06/23/2022,31563436,-60629,0.558
 "Aurelius European Opportunities IV, S.C.A. SICAV-RAIF Munich",DEU,10/18/2021,30266713,2699271,2.364
 EDGE London,GBR,07/26/2022,29232579,1987779,0.0
@@ -43,9 +43,8 @@ L.P. New York,NY,08/27/2018,15248290,-718954,10.936
 TEACHERS INSURANCE AND ANNUITY SUB CORP_BND 144A 4.270% 05/15/47 NY DIRECT 1.D,FE,05/03/2017,14960380,640500,0.0
 MASSACHUSETTS MUTUAL LIFE INSU SUB CORP_BND 144A 4.900% 04/01/77 MA DIRECT 1.D,FE,03/20/2017,14343787,705600,0.0
 "Vista Foundation Fund III, LP Austin",TX,05/29/2016,13882899,-115313,0.548
-"E07.1 Green Equity Investors VIII, L.P. Los Angeles",CA,10/20/2020,13757099,1554998,0.225
+"Green Equity Investors VIII, L.P. Los Angeles",CA,10/20/2020,13757099,1554998,0.225
 "TSG7 B, L.P. San Francisco",CA,11/17/2015,13691463,110352,1.784
-"Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund III, LP New York",NY,02/01/2019,13483658,2368639,6.0
 Corebridge U.S. Real Estate Fund IV Corebridge Global Real Estate Investment Development Sidecar LP New York City,NY,09/01/2021,13227672,0,9.31
 "Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund II, LP New York",NY,11/01/2018,13185507,0,5.0
 "Gemspring Capital Fund II, LP Westport",CT,04/17/2020,12614022,70351,2.321
@@ -89,15 +88,13 @@ Corebridge Global Real Estate Investment Bayshore PII Company LLC Glendale,WI,09
 BCAP LLC TRUST BCAP_11-RR9A MEZZANIN WHOLE_CMO _11-RR9 144 3.640 DIRECT 1.A,,11/29/2016,2350271,176689,0.0
 Society Nashville NY,NY,04/04/2024,2235778,151512,0.0
 SASOF V LP Miami,FL,05/18/2020,2155540,870769,0.434
-200 Douglass NY,NY,12/10/2025,2053574,8603,0.0
+Douglass NY,NY,12/10/2025,2053574,8603,0.0
 AP Tundra Holdings LLC St. Louis,MO,12/29/2020,1935620,73636,0.327
 "VIII, LP New York",NY,04/07/2014,1813539,135479,1.208
 BCAP LLC TRUST BCAP_12-RR1 MEZZANIN WHOLE_CMO _12-RR1 144 4.189% DIRECT 5.B,,09/13/2017,1729580,116681,0.0
 "GA RV (Class B) Continuation, L.P. New York",NY,12/31/2020,1696508,0,3.89
-Corebridge Global Real Estate Investment Corebridge Europe Real Estate Fund I S.C.SP London Corp,,11/02/2018,1602571,0,4.0
 AMERICAN HOME MORTGAGE ASSETS SUPSEN WHOLE_CMO _07-2 3.971% 03/2 DIRECT 3.A,,06/18/2013,1484244,192144,0.0
 Commitment) New York,NY,10/01/2018,1311500,-1523,0.147
-"LUXOR CAPITAL PARTNERS, LP New York",NY,01/31/2012,1222079,0,0.385
 BX TRUST BX_20-VIV3 SUB SUB_CMBS _20-VIV3 144A 3.544% 03/09/44 INTERNAL TRANSFER 1.A,,01/31/2024,1177492,45812,0.0
 NORTHWESTERN MUTUAL LIFE INSUR SUB CORP_BND . 144A 3.450% 03/30/51 WI DIRECT 1.D,FE,03/15/2021,797484,27600,0.0
 MORGAN STANLEY CAPITAL I TRUST SUB_CMBS _21- PLZA 2.810% 11/09/43 DIRECT 2.C,,11/05/2021,622955,21366,0.0
@@ -105,15 +102,20 @@ NUVEEN CPACE LENDING RN FEEDER SUB CORP_BND 67080*-AB-8 . 0.000% 06/20/60 DIRECT
 BANCO MERCANTIL DEL NORTE SA CAPSEC CORP_BND 144A 6.625% PERPET. CYM DIRECT 3.C,FE,11/17/2021,490038,33125,0.0
 CLARUS LIFESCIENCES II Cambridge,MA,05/15/2018,455247,209362,4.02
 "Corebridge Global Real Estate Investment Branch Retail Partners II, LP. New York",NY,08/31/2022,408446,781462,9.9
-"Designation Book/ Year's Other- Foreign COATUE HYBRID FUND I, LP New York",NY,01/31/2013,179377,0,2.267
+"LUXOR CAPITAL PARTNERS, LP New York",NY,01/31/2012,177336,0,0.385
 "Stage One IV Annex Fund, L.P. Herzliya Pituach StageOne Ventures",,10/01/2021,73293,-4868,3.572
 "Ridgemont Equity Partners I, LP Charlotte",NC,06/01/2014,72983,67362,54.561
-"American Capital Equity II, L.P. Bethesda",MD,10/23/2007,71424,0,1.711
 LP New York,NY,05/10/2018,57957,0,7.129
-"Ridgemont Partners Secondary Fund I, LP Charlotte",NC,03/05/2015,45303,0,2.54
 Commitment) Greenwich,CT,09/29/2020,31262,-606,0.0
+"Ridgemont Partners Secondary Fund I, LP Charlotte",NC,03/05/2015,29685,0,2.54
 BAMLL COMMERCIAL MORTGAGE SECU SUB SUB_CMBS _16-ISQ 144A 0.254% 08 DIRECT 4.B,FE,07/27/2016,8697,145415,0.0
-"Sound Point Beacon Fund, LP New York",NY,11/12/2013,7959,0,0.038
+Corebridge Global Real Estate Investment Corebridge Europe Real Estate Fund I S.C.SP London Corp,,11/02/2018,8486,0,4.0
+Commitment) New York,NY,11/06/2018,0,0,0.0
 Park 303 Glendale,AZ,03/09/2022,0,1310376,0.0
+"Sound Point Beacon Fund, LP New York",NY,11/12/2013,-790,0,0.038
+"Designation Book/ Year's Other- Foreign COATUE HYBRID FUND I, LP New York",NY,01/31/2013,-88586,0,2.267
+"American Capital Equity II, L.P. Bethesda",MD,10/23/2007,-88645,0,1.711
 "Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund V (A), LP Jersey City",NJ,01/02/2025,-1004023,0,28.846
+"Schonfeld Strategic Partners Fund, LLC New York City",NY,09/28/2022,-1079523,0,0.0
 Bayshore Shopping Center JV LLC (Realized Corebridge Global Real Estate Investment Loss) Glendale,WI,09/30/2019,-3300000,0,0.0
+"Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund III, LP New York",NY,02/01/2019,-4604219,2368639,6.0

@@ -4,11 +4,10 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Corebridge Europe Real Estate Fund II LR Corebridge Global Real Estate Investment Feeder, LLC New York",NY,03/06/2019,97173726,0,34.816
 Silver (BREDS) Various,AUS,06/20/2022,74420460,4849501,0.0
 ATLAS CAPITAL RESOURCES IV LP Greenwich,CT,06/10/2022,47363425,232311,1.488
-90 Long Acre London,GBR,03/28/2022,42124317,2974816,0.0
+Long Acre London,GBR,03/28/2022,42124317,2974816,0.0
 "Platinum Equity Capital Partners V, L.P. Beverly Hills",CA,01/27/2020,41766980,4507282,0.4
 Corebridge U.S. Real Estate Fund IV Corebridge Global Real Estate Investment Development Sidecar LP New York City,NY,09/01/2021,38986822,0,27.45
 EDGE London,GBR,07/26/2022,38976771,2737610,0.0
-"Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund III, LP New York",NY,02/01/2019,35959934,6316985,16.0
 "Hillhouse Fund V, L.P. Beijing",CHN,11/30/2020,34077816,-508265,0.338
 New York City,NY,03/23/2023,32864503,-790632,0.542
 "Green Equity Investors IX, L.P. Los Angeles",CA,08/14/2023,31476962,602049,0.739
@@ -57,7 +56,6 @@ COMM MORTGAGE TRUST COMM_16-78 SUB SUB_CMBS _16-787S 3.832% 02/1 DIRECT 3.B,,02/
 "Ampersand CF, L.P. Wellesley",MA,11/12/2020,4323990,0,0.826
 TIGER GLOBAL PRIVATE INVESTMENT PARTNERS V New York,NY,01/22/2008,3862790,365930,0.694
 CREDIT SUISSE MORTGAGE CAPITAL SENIOR WHOLE_CMO _09-4R 144A 4.33 DIRECT 5.B,,02/07/2017,3782803,117846,0.0
-"Designation Book/ Year's Other- Foreign King Street Capital, L.P New York",NY,04/01/2008,3167488,0,0.104
 "Agent Capital Fund II, L.P. Waltham",MA,06/04/2021,3105529,720306,10.134
 "CRESTVIEW PARTNERS II, L.P. New York",NY,11/06/2008,3098958,1015619,0.557
 S.C.Sp. Bitbourg,LUX,03/17/2020,3097240,770805,0.38
@@ -68,27 +66,30 @@ TEACHERS INSURANCE AND ANNUITY SUB CORP_BND 144A 6.850% 12/16/39 NY DIRECT 1.D,F
 Cornell Capital Partners II LP New York City,NY,05/25/2022,2349601,0,0.593
 NEW YORK LIFE INSURANCE COMPAN SUB CORP_BND 144A 3.750% 05/15/50 NY DIRECT 1.D,FE,06/30/2021,2214418,73875,0.0
 BCAP LLC TRUST BCAP_11-RR3 MEZZANIN WHOLE_CMO _11-RR3 4.538% 05/ DIRECT 6.,,09/12/2016,2181752,111240,0.0
-200 Douglass NEW YORK,NY,12/10/2025,2053574,8603,0.0
-CIBANCO SA IBM Fideicomiso CIB/2133 (Mexico Corebridge Global Real Estate Investment Industrial Puebla) Puebla Corp,,01/16/2015,2000000,0,46.55
+Douglass NEW YORK,NY,12/10/2025,2053574,8603,0.0
 TEACHERS INSURANCE AND ANNUITY SUB CORP_BND 144A 4.900% 09/15/44 NY DIRECT 1.D,FE,09/15/2014,1998546,98000,0.0
 LONGREACH EDITH CO-INVEST George Town,CYM,10/16/2007,1835298,0,12.5
 Society Nashville NY,NY,04/04/2024,1490519,101008,0.0
 BANCO MERCANTIL DEL NORTE SA CAPSEC CORP_BND 144A 6.625% PERPET. CYM DIRECT 3.C,FE,11/17/2021,1470113,99375,0.0
 MASSACHUSETTS MUTUAL LIFE INSU SUB CORP_BND 144A 3.729% 10/15/70 MA INTERNAL TRANSFER 1.D,FE,10/11/2019,1363967,52728,0.0
-Corebridge Global Real Estate Investment Corebridge Europe Real Estate Fund I S.C.SP London Corp,,12/30/2018,1201927,0,3.0
 Corebridge Global Real Estate Investment Corebridge Papermill Investor I LLC. New York,NY,08/31/2022,1000881,72288,8.62
 Corebridge Global Real Estate Investment Corebridge Bartlett Investor I LLC. New York,NY,08/31/2022,834211,68756,8.62
 AMERICAN HOME MORTGAGE ASSETS SUPSEN WHOLE_CMO _07-2 3.971% 03/2 DIRECT 3.A,,06/16/2014,766600,28600,0.0
-"1999999. Interests in joint ventures, partnerships or limited liability companies (including non-registered private funds) - common stocks - unaffiliated 352,551,624 480,151,226 480,151,226 21,387,728 0 123,809 0 4,330,024 26,620,476 199,814,286 XXX HRA Administrator LLC Spokane",WA,07/28/2021,550011,0,100.0
-"Clarus Lifesciences III, L.P. Cambridge",MA,10/02/2014,532656,175726,5.58
 NEW YORK LIFE INSURANCE COMPAN SUB CORP_BND 144A 5.875% 05/15/33 NY INTERNAL TRANSFER 1.D,FE,11/19/2013,526068,29375,0.0
 AP Tundra Holdings LLC St. Louis,MO,12/29/2020,467990,17804,0.079
+"Designation Book/ Year's Other- Foreign King Street Capital, L.P New York",NY,04/01/2008,349714,0,0.104
 GS VINTAGE FUND IV New York,NY,01/23/2007,133182,60268,1.325
-STARK INVESTMENTS LP ST. FRANCIS,WI,03/31/2008,29850,0,1.605
+HRA Administrator LLC Spokane,WA,07/28/2021,108595,0,100.0
 GREEN EQUITY INVESTORS V LP Los Angeles,CA,08/10/2007,20546,0,0.307
+Corebridge Global Real Estate Investment Corebridge Europe Real Estate Fund I S.C.SP London Corp,,12/30/2018,6364,0,3.0
 "Clayton, Dubilier & Rice Fund VI, LP Wilmington",DE,01/02/2002,153,0,0.052
+STARK INVESTMENTS LP ST. FRANCIS,WI,03/31/2008,0,0,1.605
 "Corebridge Commercial Real Estate Lending AIG Commercial Real Estate Lending Holdings, LLC Wilmington",DE,12/01/2021,0,0,0.0
-Corebridge Global Real Estate Investment 2 North 6th JV LLC Williamsburg,NY,04/01/2014,-112558,2779400,30.0
+Corebridge Global Real Estate Investment North 6th JV LLC Williamsburg,NY,04/01/2014,-112558,2779400,30.0
+"Clarus Lifesciences III, L.P. Cambridge",MA,10/02/2014,-129729,175726,5.58
+"Schonfeld Strategic Partners Fund, LLC New York City",NY,03/30/2022,-1104161,0,0.0
 "Corebridge Global Real Estate Investment Branch Retail Partners II, LP. New York",NY,08/31/2022,-1523637,538790,8.62
 "Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund I, LP New York",NY,12/30/2018,-1954961,0,3.0
+CIBANCO SA IBM Fideicomiso CIB/2133 (Mexico Corebridge Global Real Estate Investment Industrial Puebla) Puebla Corp,,01/16/2015,-4874720,0,46.55
 Bayshore Shopping Center JV LLC (Realized Corebridge Global Real Estate Investment Loss) Glendale,WI,09/30/2019,-7480000,0,0.0
+"Corebridge Global Real Estate Investment Corebridge U.S. Real Estate Fund III, LP New York",NY,02/01/2019,-12279115,6316985,16.0

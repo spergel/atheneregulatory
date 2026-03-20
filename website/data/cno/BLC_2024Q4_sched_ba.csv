@@ -1,6 +1,6 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
 ". Creeksource LLC, Class A Wilmington",DE,03/10/2015,43533010,367180,75.0
-"E07.1 000000-00-0 . TCP Direct Lending Fund VIII, LLC Santa Monica",CA,12/30/2016,36161102,1666975,31.555
+". TCP Direct Lending Fund VIII, LLC Santa Monica",CA,12/30/2016,36161102,1666975,31.555
 New York Life Insurance Company New York NY New York Life Insurance Company 1.C,FE,04/01/2019,29713981,1312750,2.95
 ". JDM Partners TXFL, LLC Phoenix",AZ,07/01/2019,24615315,2392148,18.519
 Western & Southern Life Insurance Western & Southern Life Insurance Company Cincinnati OH Company 1.F,FE,01/23/2019,23991084,1184500,4.6
@@ -32,7 +32,7 @@ National Life Insurance Company Montpelier VT NLV Financial Corporation 1.G,FE,0
 . PPC Fund II LP Chicago,IL,04/26/2018,8305885,627534,0.734
 ". SP Technology Payments I, LLC New York",NY,11/05/2021,8020895,218067,14.316
 "J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,7689104,0,0.797
-E07 000000-00-0 . NB Select Opportunities Fund VI LP Dallas TX NB Select Opportunities,VI,10/03/2023,7399989,2160000,0.94
+. NB Select Opportunities Fund VI LP Dallas TX NB Select Opportunities,VI,10/03/2023,7399989,2160000,0.94
 . Blue Owl GP Stakes III US Investors LP Dover,DE,10/28/2016,7273000,1141672,0.397
 ". (Parallel) (ICI), LP - Equity Los Angeles",CA,02/26/2024,6412500,0,8.325
 . NB Select Opportunities Fund LP Dallas,TX,01/16/2018,6207186,865521,2.164

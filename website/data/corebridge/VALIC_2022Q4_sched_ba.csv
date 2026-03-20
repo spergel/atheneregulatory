@@ -2,7 +2,6 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "AIG DECO Fund II, LP New York",NY,09/28/2021,610344058,630123,64.101
 "AIG DECO Fund II, LP New York",NY,09/28/2021,100876558,0,10.595
 "AIGGRE U.S. Real Estate Fund IV, LP New York City",NY,07/01/2021,92748850,407754,23.19
-"AIGGRE U.S. Real Estate Fund III, LP New York",NY,02/01/2019,92532645,19336657,16.0
 AIGGRE LB Southeast Industrial JV LLC Stephenson,VA,03/19/2021,78435769,0,35.97
 Silver (BREDS) Various,AUS,06/20/2022,74966884,-1351059,0.0
 The Spiral NEW YORK,NY,01/29/2019,61026870,2654065,0.0
@@ -11,7 +10,7 @@ The Spiral NEW YORK,NY,01/29/2019,61026870,2654065,0.0
 Project Arrow USD St Peter Port,GGY,03/01/2022,49817220,2231419,0.0
 "AIGGRE Europe Real Estate Fund II LR Feeder, LLC New York",NY,03/06/2019,48682333,-3676434,37.28
 Marina Various,ESP,10/31/2018,42839531,-3321281,0.0
-1105 West Peachtree Atlanta,GA,09/03/2020,39892018,2034754,0.0
+West Peachtree Atlanta,GA,09/03/2020,39892018,2034754,0.0
 East One Commodity Fund Limited London East Alpha Commodity Fund Limited,,12/30/2020,39213110,0,1.732
 "GRESHAMQUANT - ACAR FUND, L.L.C. New York City",NY,08/30/2019,38292910,0,6.459
 St. Regis Condos Boston,MA,03/25/2022,34040570,1964766,0.0
@@ -27,7 +26,7 @@ Crimson - VALIC Pembroke Crimson - VALIC,,10/06/2020,20000000,0,0.0
 AIGGRE US Real Estate Fund IV Development Sidecar LP New York City,NY,09/01/2021,19778084,0,27.45
 "Carlyle Alternative Opportunities Fund, L.P. Washington, DC",DC,12/14/2018,19161345,344307,3.672
 "Hillhouse Fund V, L.P. Beijing Hillhouse Investment Management, Ltd.",,10/13/2020,17982970,-626448,0.447
-90 Long Acre London,GBR,03/28/2022,17631156,652815,0.0
+Long Acre London,GBR,03/28/2022,17631156,652815,0.0
 CIBANCO SA IBM Fideicomiso CIB/2133 (Mexico Industrial Puebla) Puebla AIG Global Real Estate Investment Corp,,01/16/2015,17164720,0,46.55
 "AIGGRE U.S. Real Estate Fund II, LP New York",NY,12/30/2018,16318496,0,4.0
 Bayshore Shopping Center JV LLC Glendale,WI,09/30/2019,15278575,0,17.0
@@ -43,6 +42,7 @@ Marina 2 Various,ESP,12/13/2018,12181693,-944072,0.0
 "Green Equity Investors VIII, L.P. Los Angeles",CA,11/05/2019,11599812,87587,0.236
 "EIV Capital Fund IV, LP Houston",TX,01/01/2020,11384982,1532275,4.373
 "Branch Retail Partners II, LP New York",NY,08/31/2022,10730119,0,8.65
+"AIGGRE U.S. Real Estate Fund III, LP New York",NY,02/01/2019,10618260,19336657,16.0
 Palomino Business Park Norco,CA,03/25/2022,10523705,351173,0.0
 Atlas Capital Resources IV LP Greenwich,CT,04/01/2021,10335597,-408519,1.488
 "Schonfeld Fundamental Equity Fund, LLC New York City",NY,03/29/2022,10145104,0,0.21
@@ -63,12 +63,10 @@ NORTHWESTERN MUTUAL LIFE INSURANCE CO --- WI NORTHWESTERN MUTUAL LIFE INSURANCE 
 "Tilia Fund II, L.P. Chicago",IL,03/16/2021,5205729,-163012,5.942
 TIGER GLOBAL PRIVATE INVESTMENT PARTNERS V New York,NY,01/22/2008,5078717,0,0.595
 AIG CLO Ltd SER 2019-2ACL SUB Adj % Due AIG CLO Ltd SER 2019-2ACL SUB Adj % Due,,10/25/2032,5032498,509902,0.0
-"BALMORAL INVESTMENTS II, LP Los Angeles",CA,08/26/2011,4920669,0,13.29
 "Carlyle Europe Partners V, S.C.Sp. Bitbourg Carlyle Group",,02/21/2019,4827485,-149224,0.12
 Pontifax (Cayman),VI,12/01/2020,4251177,24700,5.0
 "Oncology Impact Fund 2, L.P. Cambridge",MA,12/01/2020,3865159,-115740,1.822
 "Clarus Lifesciences III, L.P. Cambridge",MA,10/02/2014,3812031,1022482,5.58
-"E07.1 King Street Capital, L.P New York",NY,04/01/2008,3620333,0,0.098
 S.C.Sp. Bitbourg Carlyle Group,,12/21/2018,3486149,430862,0.38
 "Carlyle Property Investors L.P. Washington, DC",DC,07/01/2019,3296762,0,0.093
 "Polaris Innovation Fund II, L.P. Boston",MA,03/12/2021,3265722,-60000,10.0
@@ -76,14 +74,14 @@ S.C.Sp. Bitbourg Carlyle Group,,12/21/2018,3486149,430862,0.38
 "Agent Capital Fund II, L.P. Waltham",MA,05/14/2021,3051889,-222218,4.5
 "Hillhouse Capital Healthcare Fund, L.P. Beijing Hillhouse Investment Management, Ltd.",,05/14/2021,2916163,-178148,0.9
 "Carlyle Credit Opportunities Fund, L.P. Washington, DC",DC,05/01/2019,2828726,200331,0.17
-E07.2 Broadstone Juniper LLC Atlanta,GA,02/03/2015,2812455,0,50.0
+Broadstone Juniper LLC Atlanta,GA,02/03/2015,2812455,0,50.0
 LONGREACH EDITH CO-INVEST George Town Longreach Management Corp.,,10/16/2007,2762512,-327508,12.5
 "Platinum Equity Capital Partners VI, L.P Los Angeles",CA,05/03/2022,2587289,-485384,0.49
 NORTHWESTERN MUTUAL LIFE INSURANCE CO --- WI NORTHWESTERN MUTUAL LIFE INSURANCE CO 1.C,FE,10/17/2013,2479622,0,0.0
 TEACHERS INSURANCE AND ANNUITY ASSOCIATION OF TEACHERS INSURANCE AND ANNUITY AMER --- NY ASSOCIATION OF AMER 1.D,FE,05/22/2013,2414286,0,0.0
-AIGGRE Europe Real Estate Fund I S.C.SP London AIG Global Real Estate Investment Corp,,12/30/2018,2391721,584084,3.0
 NATIONWIDE MUTUAL INSURANCE CO --- OH NATIONWIDE MUTUAL INSURANCE CO 1.G,FE,12/20/2013,2291457,0,0.0
 NEW YORK LIFE INSURANCE CO --- NY NEW YORK LIFE INSURANCE CO 1.C,FE,06/30/2021,2234600,0,0.0
+"BALMORAL INVESTMENTS II, LP Los Angeles",CA,08/26/2011,2221381,0,13.29
 "Aurelius European Opportunities IV, S.C.A. SICAV-RAIF Munich Aurelius Group",,04/27/2021,2068363,-269829,3.71
 TEACHERS INSURANCE AND ANNUITY ASSOCIATION OF TEACHERS INSURANCE AND ANNUITY AMER --- NY ASSOCIATION OF AMER 1.D,FE,09/15/2014,1998677,0,0.0
 "Carlyle Asia PE Alternative Opportunities Fund, L.P. Washington, DC",DC,12/31/2018,1973185,22834,1.496
@@ -118,17 +116,14 @@ NEW YORK LIFE INSURANCE CO --- NY NEW YORK LIFE INSURANCE CO 1.C,FE,11/19/2013,5
 "AAS BidCo, LLC Houston",TX,04/30/2021,402000,0,6.0
 Whale Rock Capital Management LLC Boston,MA,07/01/2021,398314,0,0.0
 AP Tundra Holdings LLC St. Louis,MO,12/29/2020,328502,0,0.079
-GS CAPITAL PARTNERS VI New York,NY,02/20/2007,311641,235025,0.191
 BERTRAM GROWTH CAPITAL I Woodside,CA,01/17/2007,259306,0,3.43
 GREEN EQUITY INVESTORS V LP Los Angeles,CA,08/10/2007,247520,6649,0.262
 GSO Special Situations Fund L.P. New York,NY,12/31/2007,230929,0,0.791
-Designation Book/ Year's Other- Foreign Five Mile Capital Structured Income Fund LP . Stamford,CT,09/30/2003,181814,1170675,3.877
 "Thoma Bravo Credit Fund II LP Tern Investments Investments I, LLC - Series 2022-1A Sub I, LLC - Series 2022-1A Sub Notes Notes",,06/23/2022,104222,0,0.0
-STARK INVESTMENTS LP ST. FRANCIS,WI,03/31/2008,97547,0,1.605
-COLLER INTERNATIONAL PARTNERS V-A St Peter Port Coller Capital,,12/21/2006,53270,310500,0.283
 "AMERICAN SECURITIES PARTNERS V, LP New York",NY,10/02/2008,16019,0,0.537
 MIDOCEAN PARTNERS III New York,NY,12/21/2006,7654,5204674,2.779
 LS POWER EQUITY PARTNERS II New York,NY,02/02/2007,5987,0,1.172
+STARK INVESTMENTS LP ST. FRANCIS,WI,03/31/2008,5360,0,1.605
 "Designation Book/ Year's Other- Foreign Clayton, Dubilier & Rice Fund VI, LP Wilmington",DE,01/02/2002,1605,0,0.215
 New York City,NY,11/30/2022,0,0,0.0
 Blackstone Real Estate Partners X L.P. New York City,NY,07/01/2022,0,0,0.0
@@ -136,5 +131,11 @@ Bitbourg S.C.Sp.,,03/11/2022,0,0,0.0
 "Francisco Partners VII, L.P. San Francisco",CA,05/03/2022,0,0,0.0
 "Green Equity Investors IX, L.P. Los Angeles",CA,03/10/2022,0,0,0.0
 "Branch Retail Partners II, LP New York",NY,08/31/2022,0,0,8.65
+FDOMI I JS - CDO,NY,11/01/2002,0,0,0.0
 "Apollo Investment Fund X, L.P. New York City",NY,08/17/2022,-49602,0,0.06
+AIGGRE Europe Real Estate Fund I S.C.SP London AIG Global Real Estate Investment Corp,,12/30/2018,-340362,584084,3.0
+GS CAPITAL PARTNERS VI New York,NY,02/20/2007,-342236,235025,0.191
+COLLER INTERNATIONAL PARTNERS V-A St Peter Port Coller Capital,,12/21/2006,-469677,310500,0.283
+Designation Book/ Year's Other- Foreign Five Mile Capital Structured Income Fund LP . Stamford,CT,09/30/2003,-755486,1170675,3.877
 "AIGGRE U.S. Real Estate Fund I, LP New York",NY,12/30/2018,-911845,0,3.0
+"King Street Capital, L.P New York",NY,04/01/2008,-1474267,0,0.098
