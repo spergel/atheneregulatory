@@ -1,49 +1,32 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-"Admini- Date Type Actual Cost 1,206,288 0 Accel Leaders 3 L.P. - PICA Palo Alto",CA,02/17/2021,0,0,0.779
-"Accel-KKR Capital Partners VI, LP - PICA Menlo Park Accel-KKR Holdings GP, LLC .",,02/10/2021,0,0,0.0
+"SVO 409,888 0 Commitment Accel Leaders 3 L.P. - PICA Palo Alto",CA,02/17/2021,0,0,0.779
 "DC Accion Frontier Inclusion Fund GP, L.L.C. (General (6,536) 0 Accion Frontier Inclusion Fund, L.P. Washington",MA,11/16/2015,0,0,3.161
 "Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0,0,4.313
-"American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,10/30/2019,0,0,0.0
 "American Securities Partners VIII, L.P. - PICA New York",GGY,03/28/2019,0,0,1.713
 Apax X USD L.P. - PICA St Peter Port,CA,11/10/2020,0,0,2.468
-"Ares US Real Estate Opportunity Fund III, L.P. - PICA Los Angeles",MD,04/15/2021,0,0,0.0
 "Arlington Capital Partners IV, L.P. - PICA Chevy Chase",MD,12/19/2016,0,0,0.425
-"Arlington Capital Partners V, L.P. - PICA Chevy Chase",FL,08/26/2019,0,0,0.0
 "Bayview Opportunity Domestic VI 1, L.P. - PICA Coral Gables",CAN,11/06/2020,0,0,0.47
-"Birch Hill Equity Partners (Global) VI, LP - PICA Toronto",CAN,12/17/2020,0,0,0.0
 "Birch Hill Equity Partners V, LP Toronto",NY,02/05/2016,0,0,0.261
-"Blackstone Capital Partners VIII, LP - PICA New York BMA VIII GP L.P. .",,02/22/2021,0,0,0.0
 New York,CA,09/23/2019,0,0,5.6
-Los Angeles,MA,12/27/2017,0,0,0.0
 Boston,CA,07/20/2020,0,0,1.478
-Menlo Park,NJ,01/03/2018,0,0,0.0
 Menlo Park,GBR,01/05/2021,0,0,44.759
 New York,NY,11/01/2012,0,0,2.242
-New York,NY,05/21/2015,0,0,0.0
 New York,CYM,03/27/2018,0,0,4.868
-Grand Cayman,CA,09/23/2021,0,0,0.0
 Santa Monica CA Clearlake Capital Partners,VI,05/22/2020,0,0,0.102
 Blackstone Real Estate Partners Europe VI SCSp - PICA New York,JEY,08/07/2014,0,0,0.279
 "E03 000000-00-0 Brentwood Associates Private Equity VI, LP - PICA Teaneck",NJ,05/17/2016,0,0,0.274
-"BVIP Fund X, L.P. - PICA Teaneck",LUX,06/05/2019,0,0,0.0
 "Canaan XI, LP - PICA Luxembourg",LUX,06/05/2019,0,0,3.495
-Canaan XII L.P. - PICA Luxembourg,LUX,08/13/2021,0,0,0.0
 "CBPE Capital Fund X, LP - PICA Luxembourg",LUX,02/05/2021,0,0,4.06
-"Centerbridge Capital Partners II, L.P. Luxembourg",CA,12/20/2021,0,0,0.0
 "Centerbridge Capital Partners III, L.P. -PICA San Francisco",NY,01/26/2021,0,0,1.125
-"Clayton, Dubilier & Rice Fund X, LP New York",CA,01/14/2020,0,0,0.0
 "Clayton, Dublier & Rice Fund XI, L.P. - PICA San Francisco",CA,07/03/2019,0,0,0.625
 "Clearlake Flagship Plus Partners, L.P. - PICA San Francisco",CA,10/04/2021,0,0,2.397
 CVC Capital Partners VIII (A) L.P. - PICA San Francisco,CA,10/05/2017,0,0,7.778
-"DFW Capital Partners V, L.P. - PICA Toronto",CAN,06/20/2018,0,0,0.0
 "DFW Capital Partners VI, LP -PICA Toronto",NY,03/09/2020,0,0,2.23
-EQT Infrastructure IV (No.2) USD SCSp - PICA New York,NY,09/12/2019,0,0,0.0
 EQT Infrastructure V (No.2) USD SCSp - PICA Rye,LUX,08/02/2021,0,0,1.114
-EQT IX (No.2) USD SCSp - PICA Senningerberg,NY,07/28/2020,0,0,0.0
 Exeter Europe Logistics Value Fund IV S.C.Sp. - PICA New York,NY,09/09/2020,0,0,0.128
 "General Atlantic Investment Partners 2019, L.P. - PICA New York",NY,09/22/2016,0,0,0.546
 "Genstar Capital Partners VIII, L.P. - PICA Chicago",NY,09/07/2021,0,0,0.835
-"000000-00-0 Admini- Date Type Actual Cost 2,450,518 0 for Harvest Partners Structured Capital Fund II, L.P. - PICA 2 New York",CA,10/25/2018,0,0,3.492
+"000000-00-0 SVO 210,000 0 Commitment Harvest Partners Structured Capital Fund II, L.P. - PICA 2 New York",CA,10/25/2018,0,0,3.492
 "Hellman & Friedman Capital Partners IX, LP - PICA San Francisco",LUX,10/28/2019,0,0,1.073
 "HPS Mezzanine Partners 2019, L.P. - PICA New York",NY,11/27/2019,0,0,1.249
 ICG Europe Fund VII SCSp - PICA Luxembourg,NY,03/25/2020,0,0,0.587
@@ -69,7 +52,7 @@ TX CINVEN UK F6 GP LLP .,,05/24/2017,0,0,2.863
 "Oak HC/FT Partners IV, L.P. - PICA Greenwich",DE,12/10/2018,0,0,1.78
 "Thoma Bravo Partners XIII, L.P. .",,02/14/2019,0,0,0.994
 "MO Thoma Bravo Partners XV[-P]9, L.P. .",,06/10/2022,0,0,0.0
-"Admini- Date Type Actual Cost 1,386,912 0 Whitehorse Liquidity Partners (Offshore) III, L.P. - PICA New Castle, Delaware",DE,10/31/2019,0,0,50.0
+"SVO 1,313,208 0 Commitment Whitehorse Liquidity Partners (Offshore) III, L.P. - PICA New Castle, Delaware",DE,10/31/2019,0,0,50.0
 Bay Area Investor LLC - STAT San Francisco,CA,03/31/2018,0,0,1.247
 Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0,0,0.0
 "PruVen Capital Partners Fund I, LP Newark",NJ,09/21/2020,0,0,50.0

@@ -10,8 +10,6 @@ BLC,2018Q3,NB Select Opportunities Fund LP Chicago,TX,01/16/2018,0.0,0,0.0
 BLC,2018Q3,"Platinum Equity Capital Partners IV, LP",CA,03/21/2017,0.0,0,0.0
 BLC,2018Q3,PPC Fund II LP San Francisco,IL,04/26/2018,0.0,0,0.0
 BLC,2018Q3,"Silver Lake Partners V, LP New York",CA,06/12/2018,0.0,0,0.0
-BLC,2018Q3,"Pearlmark Mezzanine Realty Partners IV, LP",IL,10/28/2015,0.0,0,0.0
-BLC,2018Q3,"Centerfield Capital Partners IV, LP",IN,11/21/2017,0.0,0,0.0
 BLC,2018Q3,"Highbridge Principal Strategies - Mezzanine Partners II, LP",NY,03/11/2013,0.0,0,0.871
 BLC,2018Q3,KKR Revolving Credit Partners II LP,CA,03/15/2018,0.0,0,0.0
 BLC,2018Q3,National Life Insurance Company,VT,07/19/2018,0.0,0,0.0
@@ -26,10 +24,9 @@ BLC,2019Q2,"Platinum Equity Capital Partners IV, LP",CA,03/21/2017,0.0,0,0.0
 BLC,2019Q2,PPC Fund II LP New York,IL,04/26/2018,0.0,0,2.576
 BLC,2019Q2,"TCP Direct Lending Fund VIII, LLC New York",CA,12/30/2016,0.0,0,2.188
 BLC,2019Q2,"Tennenbaum Special Situations Fund IX-A, LLC Cincinnati",CA,12/30/2016,0.0,0,0.817
-BLC,2019Q2,"Pearlmark Mezzanine Realty Partners IV, LP",IL,10/28/2015,0.0,0,0.0
 BLC,2019Q2,New York Life Insurance Company,NY,04/04/2019,0.0,0,0.0
 BLC,2019Q2,E03 95765P-AA-7 Western & Southern Life Insurance Company,OH,01/23/2019,0.0,0,0.0
-BLC,2021Q2,"Admini- Date Type Actual Cost 182,621 Goode Partners Consumer Fund III, LP San F",CA,10/01/2015,0.0,0,3.384
+BLC,2021Q2,"Goode Partners Consumer Fund III, LP San Francisco",CA,10/01/2015,0.0,0,3.384
 BLC,2021Q2,NY Goode Partners LLC,,12/30/2015,0.0,0,0.0
 BLC,2021Q2,"Horizon Environment & Climate Solutions Partners I, LP Dallas",NY,06/23/2021,0.0,0,1.32
 BLC,2021Q2,"Kinderhook Capital Fund IV, LP",NY,04/27/2015,0.0,0,0.667
@@ -41,7 +38,7 @@ BLC,2021Q2,Insurance Private Credit I LLC,NY,06/22/2021,0.0,0,3.3
 BLC,2021Q2,"Mezzanine Partners II, LP",NY,03/11/2013,0.0,0,2.1
 BLC,2021Q2,The Penn Mutual Life Insurance Company PA The Penn Mutual Life Insurance Company,FE,04/22/2021,0.0,0,0.0
 BLC,2021Q2,1.D,FE,01/07/2021,0.0,0,0.0
-BLC,2021Q3,"Admini- Date Type Actual Cost 119,913 Genstar AMBA CV, LP San Francisco",CA,08/03/2021,0.0,0,0.437
+BLC,2021Q3,"Genstar AMBA CV, LP San Francisco",CA,08/03/2021,0.0,0,0.437
 BLC,2021Q3,"San Francisco 1,790,254 3.384 Genstar Capital Partners VII, LP New York",CA,10/01/2015,0.0,0,0.641
 BLC,2021Q3,"Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,0.0,0,0.102
 BLC,2021Q3,"Kinderhook Capital Fund IV, LP Beverly Hills",NY,04/27/2015,0.0,0,0.756
@@ -49,22 +46,16 @@ BLC,2021Q3,"Kinderhook Capital Fund V, LP and V-B, LP",NY,12/19/2017,0.0,0,0.0
 BLC,2021Q3,KKR Global Infrastructure Investors III LP Wilmington,NY,12/03/2018,0.0,0,20.305
 BLC,2021Q3,"Platinum Equity Capital Partners IV, LP New York",CA,03/21/2017,0.0,0,3.311
 BLC,2021Q3,PPC Fund II LP,IL,04/26/2018,0.0,0,0.0
-BLC,2021Q3,"Centerfield Capital Partners IV, LP",IN,11/21/2017,0.0,0,0.0
 BLC,2021Q3,Hercules Private Global Venture Growth Fund I LP,DE,08/06/2021,0.0,0,0.0
-BLC,2021Q3,Insurance Private Credit I LLC,NY,06/22/2021,0.0,0,0.0
-BLC,2022Q1,"Admini- Date Type Actual Cost Goode Partners Consumer Fund III, LP San Francisco",CA,10/01/2015,0.0,0,3.384
+BLC,2022Q1,"Goode Partners Consumer Fund III, LP San Francisco",CA,10/01/2015,0.0,0,3.384
 BLC,2022Q1,NY Goode Partners LLC .,,12/30/2015,0.0,0,0.0
 BLC,2022Q1,"Horizon Environment & Climate Solutions Partners I, LP Menlo Park",NY,06/23/2021,0.0,0,2.536
 BLC,2022Q1,KKR Global Infrastructure Investors III LP,NY,12/03/2018,0.0,0,0.756
 BLC,2022Q1,PPC Fund II LP,IL,04/26/2018,0.0,0,4.86
 BLC,2022Q1,"Silver Lake Partners V, LP Chicago",CA,06/12/2018,0.0,0,0.0
-BLC,2022Q1,"Vestigo Ventures Fund II, LP Luxembourg",MA,12/09/2021,0.0,0,0.0
 BLC,2022Q1,Bridge Workforce and Affordable Housing Fund II LP New York,UT,02/08/2022,0.0,0,0.0
 BLC,2022Q1,"Ares Real Estate Secured Income Fund, LP",CA,02/18/2022,0.0,0,0.887
 BLC,2022Q1,"Pearlmark Mezzanine Realty Partners V, LP",IL,02/08/2021,0.0,0,14.89
-BLC,2022Q1,Global Credit Opportunities II Fund A Master SCSp,LUX,01/21/2022,0.0,0,0.0
-BLC,2022Q1,Hercules Private Global Venture Growth Fund I LP,DE,08/06/2021,0.0,0,0.0
-BLC,2022Q1,"Mezzanine Partners II, LP",NY,03/11/2013,0.0,0,0.0
 BLC,2022Q1,Insurance Private Credit I LLC Subordinated Notes - Residual Tranche New York,NY,10/27/2021,0.0,0,3.75
 BLC,2022Q4,. JDM Partners Tempe Arizona Core Fund IV LLC . Phoenix,AZ,12/01/2017,60395198.0,4524990,13.467
 BLC,2022Q4,". TCP Direct Lending Fund VIII, LLC Santa Monica",CA,12/30/2016,55666786.0,2177644,31.555
@@ -77,17 +68,17 @@ BLC,2022Q4,Massachusetts Mutual Life Insurance Company . Springfield MA MassMutu
 BLC,2022Q4,Pacific Life Insurance Company Newport Beach CA Pacific Life Insurance Company 1,FE,05/09/2019,20370277.0,865375,2.683
 BLC,2022Q4,Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financia,FE,02/28/2019,17629320.0,888475,2.188
 BLC,2022Q4,". CrossHarbor Strategic Debt Fund, LP Boston",MA,10/01/2021,17204307.0,903886,3.983
-BLC,2022Q4,". Creeksource LLC, Class A Wilmington",DE,03/10/2015,16922986.0,-28510182,75.0
+BLC,2022Q4,". Creeksource LLC, Class A Wilmington",DE,03/10/2015,16922986.0,0,75.0
 BLC,2022Q4,The Penn Mutual Life Insurance Company Horsham PA The Penn Mutual Life Insurance,FE,04/22/2021,16631139.0,627000,3.3
 BLC,2022Q4,"Ares Real Estate Secured Income . Ares Real Estate Secured Income Fund, LP Los A",CA,02/18/2022,14855588.0,0,6.122
-BLC,2022Q4,"J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,14482458.0,2090760,0.863
+BLC,2022Q4,"J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,14482458.0,395795,0.863
 BLC,2022Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,01/17/2017,13397229.0,577053,2.054
 BLC,2022Q4,Hercules Private Global Venture Growth Fund I Hercules Private Global Venture Gr,DE,08/06/2021,13303458.0,592401,18.097
-BLC,2022Q4,". Invesco Core Real Estate - U.S.A., LP Atlanta",GA,10/02/2014,12742170.0,1795384,0.088
+BLC,2022Q4,". Invesco Core Real Estate - U.S.A., LP Atlanta",GA,10/02/2014,12742170.0,365622,0.088
 BLC,2022Q4,. Nationwide Mutual Insurance Company Columbus OH Nationwide Mutual Insurance Co,FE,02/28/2019,12211199.0,594000,3.0
 BLC,2022Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,03/07/2017,12208957.0,565013,2.576
 BLC,2022Q4,Farmers Exchange Capital III Newark DE Farmers Exchange Capital III 2.A,FE,12/10/2014,12030402.0,627210,2.3
-BLC,2022Q4,". Prime Property Fund, LLC Atlanta",GA,03/31/2015,11409273.0,1598840,0.031
+BLC,2022Q4,". Prime Property Fund, LLC Atlanta",GA,03/31/2015,11409273.0,447322,0.031
 BLC,2022Q4,". GTCR Fund XI, LP Dover",DE,09/02/2014,11273489.0,168077,0.198
 BLC,2022Q4,. RREEF Core Plus Industrial Fund LP Chicago,IL,01/02/2018,11127030.0,181673,0.496
 BLC,2022Q4,"Silver Lake Technology Associates V, LP . Silver Lake Partners V, LP Menlo Park",CA,06/12/2018,10783136.0,645132,0.06
@@ -99,7 +90,7 @@ BLC,2022Q4,"The Doctors Company, An Interinsurance The Doctors Company, An Inter
 BLC,2022Q4,". Platinum Equity Capital Partners IV, LP Beverly Hills",CA,03/21/2017,8776696.0,355212,0.104
 BLC,2022Q4,". Thoma Bravo Fund XI, LP Dover",DE,06/03/2014,8446876.0,1288145,0.284
 BLC,2022Q4,National Life Insurance Company Montpelier VT NLV Financial Corporation 1.G,FE,07/10/2018,8384082.0,432863,1.649
-BLC,2022Q4,Bridge Workforce and Affordable Housing Fund Bridge Workforce and Affordable Hou,UT,02/08/2022,8316052.0,556823,1.31
+BLC,2022Q4,Bridge Workforce and Affordable Housing Fund Bridge Workforce and Affordable Hou,UT,02/08/2022,8316052.0,6892493,1.31
 BLC,2022Q4,Mutual of Omaha Insurance Company Omaha NE Mutual of Omaha Insurance Company 1.G,FE,02/28/2019,7833364.0,336971,2.614
 BLC,2022Q4,. IIF LP New York,NY,01/26/2016,7822290.0,170232,0.044
 BLC,2022Q4,E07 000000-00-0 . NB Select Opportunities Fund LP Dallas,TX,01/16/2018,7719480.0,2100000,2.061
@@ -113,16 +104,16 @@ BLC,2022Q4,". Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,50788
 BLC,2022Q4,Northwestern Mutual Life Insurance . Northwestern Mutual Life Insurance Company ,FE,03/15/2021,4983036.0,172500,0.556
 BLC,2022Q4,E07.1 000000-00-0 . NB Specialty Finance Fund LP New York,NY,03/03/2020,4963989.0,1003345,3.296
 BLC,2022Q4,". Genstar Capital Partners VII, LP San Francisco",CA,10/01/2015,4900119.0,48140,0.448
-BLC,2022Q4,". Great Hill Equity Partners V, LP Boston",MA,04/30/2015,4506012.0,-231869,0.525
+BLC,2022Q4,". Great Hill Equity Partners V, LP Boston",MA,04/30/2015,4506012.0,0,0.525
 BLC,2022Q4,". Centerfield Capital Partners IV, LP Indianapolis",IN,11/21/2017,4504118.0,1367476,14.023
 BLC,2022Q4,". Kayne Private Energy Income Fund, LP Los Angeles",CA,04/01/2016,4336311.0,4120088,0.656
 BLC,2022Q4,. KKR Global Infrastructure Investors III LP New York,NY,12/03/2018,4323026.0,382886,0.102
 BLC,2022Q4,". SP Technology Payments II, LLC New York",NY,11/14/2022,3880000.0,0,8.0
-BLC,2022Q4,Horizon Environment & Climate Solutions Horizon Environment & Climate Solutions ,NY,06/23/2021,3505654.0,-132758,2.536
+BLC,2022Q4,Horizon Environment & Climate Solutions Horizon Environment & Climate Solutions ,NY,06/23/2021,3505654.0,6300000,2.536
 BLC,2022Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,01/06/2021,3046604.0,101750,0.917
 BLC,2022Q4,". Centre Lane Credit Partners III, LP New York",NY,09/19/2022,3035139.0,12452824,15.0
 BLC,2022Q4,Farmers Insurance Exchange Woodland Hills CA Farmers Insurance Exchange 2.A,FE,10/19/2018,2888105.0,154278,0.813
-BLC,2022Q4,". NXT Capital Senior Loan Fund III, LP Chicago",IL,01/21/2015,2845057.0,165186,3.858
+BLC,2022Q4,". NXT Capital Senior Loan Fund III, LP Chicago",IL,01/21/2015,2845057.0,1740021,3.858
 BLC,2022Q4,". Kinderhook Capital Fund IV, LP New York",NY,04/27/2015,2791267.0,218679,0.6
 BLC,2022Q4,Interest New York,NY,06/28/2022,2700000.0,0,7.5
 BLC,2022Q4,Farmers Exchange Capital Newark DE Farmers Insurance Exchange 2.A,FE,07/01/2014,2666760.0,166028,0.628
@@ -130,20 +121,20 @@ BLC,2022Q4,Insurance Private Credit I LLC Subordinated Notes New York,NY,10/27/2
 BLC,2022Q4,. Vintage Real Estate Partners LP New York,NY,02/09/2016,2372719.0,251268,0.864
 BLC,2022Q4,Global Credit Opportunities II Fund A Master . SCSp Luxembourg,LUX,01/21/2022,2114677.0,45459,1.96
 BLC,2022Q4,Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financia,FE,09/24/2020,2101119.0,74580,0.239
-BLC,2022Q4,". Pearlmark Mezzanine Realty Partners IV, LP Chicago",IL,10/28/2015,2051778.0,108064,4.064
-BLC,2022Q4,". Vestigo Ventures Fund II, LP Cambridge",MA,12/09/2021,1809577.0,-190423,4.789
-BLC,2022Q4,". Pearlmark Mezzanine Realty Partners V, LP Chicago",IL,02/08/2021,1729405.0,-3408,8.743
-BLC,2022Q4,". West Street Mezzanine Partners VIII, LP New York",NY,07/01/2022,917807.0,15307,0.116
+BLC,2022Q4,". Pearlmark Mezzanine Realty Partners IV, LP Chicago",IL,10/28/2015,2051778.0,131094,4.064
+BLC,2022Q4,". Vestigo Ventures Fund II, LP Cambridge",MA,12/09/2021,1809577.0,3000000,4.789
+BLC,2022Q4,". Pearlmark Mezzanine Realty Partners V, LP Chicago",IL,02/08/2021,1729405.0,5486801,8.743
+BLC,2022Q4,". West Street Mezzanine Partners VIII, LP New York",NY,07/01/2022,917807.0,8597500,0.116
 BLC,2022Q4,Nationwide Mutual Insurance Company Columbus OH Nationwide Mutual Insurance Comp,FE,07/01/2014,721164.0,46875,0.071
-BLC,2022Q4,". Sandbox Insurtech Fund II, LP Chicago",IL,09/30/2022,467402.0,-114979,9.07
-BLC,2022Q4,". Genstar AMBA CV, LP San Francisco",CA,08/03/2021,370489.0,117733,0.338
+BLC,2022Q4,". Sandbox Insurtech Fund II, LP Chicago",IL,09/30/2022,467402.0,4417619,9.07
+BLC,2022Q4,". Genstar AMBA CV, LP San Francisco",CA,08/03/2021,370489.0,0,0.338
 BLC,2022Q4,". Mezzanine Partners II, LP New York",NY,03/11/2013,293142.0,38123,0.854
-BLC,2022Q4,". Centerfield Capital Partners V, LP Indianapolis",IN,05/26/2022,252529.0,-60436,19.56
-BLC,2022Q4,"Designation Book/ Year's Other- Foreign . Centerfield Capital Partners II, LP In",IN,01/01/2007,2774.0,-4289,2.093
+BLC,2022Q4,". Centerfield Capital Partners V, LP Indianapolis",IN,05/26/2022,252529.0,6687035,19.56
+BLC,2022Q4,"Designation Book/ Year's Other- Foreign . Centerfield Capital Partners II, LP In",IN,01/01/2007,2774.0,168157,2.093
 BLC,2022Q4,". Creeksource LLC, Series 2017-1 Wilmington",DE,10/10/2017,0.0,0,75.0
 BLC,2022Q4,KKR Wolverine I Ltd. Class S-2 Subordinated . Notes George Town,CYM,12/15/2016,0.0,0,1.5
 BLC,2022Q4,. KKR Revolving Credit Partners II LP San Francisco,CA,03/15/2018,-75871.0,10000000,1.028
-BLC,2023Q3,"Admini- Date Type Actual Cost Additional for Genstar Capital Partners VII, LP Sa",CA,10/01/2015,0.0,0,0.443
+BLC,2023Q3,"Genstar Capital Partners VII, LP San Francisco",CA,10/01/2015,0.0,0,0.443
 BLC,2023Q3,"Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,0.0,0,3.384
 BLC,2023Q3,"Kinderhook Capital Fund V, LP and V-B, LP New York",NY,12/19/2017,0.0,0,0.565
 BLC,2023Q3,KKR Global Infrastructure Investors III LP New York,NY,12/03/2018,0.0,0,0.099
@@ -160,7 +151,7 @@ BLC,2023Q3,"E03 00840C-10-7 AG ABC Structured Note, LP - Limited Partner Interes
 BLC,2023Q3,"AG Direct Lending Fund V (Levered) Structured Note, LP - Limited Partner Interes",NY,09/22/2023,0.0,0,75.0
 BLC,2023Q3,Atalaya Asset Income Fund Parallel 345 Feeder LLC - Class C Membership Interests,NY,02/21/2023,0.0,0,8.654
 BLC,2023Q3,"GDLC Feeder Fund, LP - Limited Partner Interest Chicago",IL,06/22/2023,0.0,0,25.568
-BLC,2024Q3,Admini- Date Type Actual Cost Additional for Blue Owl GP Stakes III US Investors,DE,10/28/2016,0.0,0,0.397
+BLC,2024Q3,Blue Owl GP Stakes III US Investors LP Dover,DE,10/28/2016,0.0,0,0.397
 BLC,2024Q3,"Genstar Capital Partners VII, LP San Francisco",CA,10/01/2015,0.0,0,0.442
 BLC,2024Q3,"Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,0.0,0,3.384
 BLC,2024Q3,"Horizon Environment & Climate Solutions Partners I, LP New York",NY,06/23/2021,0.0,0,2.277
@@ -186,7 +177,7 @@ BLC,2024Q3,"GDLC Feeder Fund, LP - Limited Partner Interest Chicago",IL,06/22/20
 BLC,2024Q3,Global Infrastructure Debt II Issuer LP - LP Interest New York,NY,09/03/2024,0.0,0,1.65
 BLC,2024Q3,Equity Los Angeles,CA,02/26/2024,0.0,0,8.325
 BLC,2024Q3,"RREF V Debt DD RNF, LP - Equity Miami",FL,12/07/2023,0.0,0,75.0
-BLC,2024Q4,". Creeksource LLC, Class A Wilmington",DE,03/10/2015,43533010.0,-2989839,75.0
+BLC,2024Q4,". Creeksource LLC, Class A Wilmington",DE,03/10/2015,43533010.0,367180,75.0
 BLC,2024Q4,"E07.1 000000-00-0 . TCP Direct Lending Fund VIII, LLC Santa Monica",CA,12/30/2016,36161102.0,1666975,31.555
 BLC,2024Q4,New York Life Insurance Company New York NY New York Life Insurance Company 1.C,FE,04/01/2019,29713981.0,1312750,2.95
 BLC,2024Q4,". JDM Partners TXFL, LLC Phoenix",AZ,07/01/2019,24615315.0,2392148,18.519
@@ -195,7 +186,7 @@ BLC,2024Q4,. JDM Partners Tempe Arizona Core Fund IV LLC . Phoenix,AZ,12/01/2017
 BLC,2024Q4,Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financia,FE,04/08/2015,21462588.0,972000,8.365
 BLC,2024Q4,". Tennenbaum Special Situations Fund IX-A, LLC Santa Monica",CA,12/30/2016,21392593.0,64768711,92.429
 BLC,2024Q4,Pacific Life Insurance Company Newport Beach CA Pacific Life Insurance Company 1,FE,05/09/2019,20348828.0,865375,2.683
-BLC,2024Q4,". CrossHarbor Strategic Debt Fund, LP Boston",MA,10/01/2021,20132650.0,-824657,5.112
+BLC,2024Q4,". CrossHarbor Strategic Debt Fund, LP Boston",MA,10/01/2021,20132650.0,7118963,5.112
 BLC,2024Q4,". JDM Partners AMZN KSFL, LLC Phoenix",AZ,07/28/2020,19879680.0,1369612,26.042
 BLC,2024Q4,Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financia,FE,02/28/2019,17625097.0,888475,2.188
 BLC,2024Q4,The Penn Mutual Life Insurance Company Horsham PA The Penn Mutual Life Insurance,FE,04/22/2021,16627944.0,627000,3.3
@@ -204,7 +195,7 @@ BLC,2024Q4,Hercules Private Global Venture Growth Fund I Hercules Private Global
 BLC,2024Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,01/17/2017,13377173.0,577053,2.054
 BLC,2024Q4,. Nationwide Mutual Insurance Company Columbus OH Nationwide Mutual Insurance Co,FE,02/28/2019,12199194.0,594000,3.0
 BLC,2024Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,03/07/2017,12198240.0,565013,2.576
-BLC,2024Q4,Bridge Workforce and Affordable Housing Fund Bridge Workforce and Affordable Hou,UT,02/08/2022,12088596.0,-147933,0.862
+BLC,2024Q4,Bridge Workforce and Affordable Housing Fund Bridge Workforce and Affordable Hou,UT,02/08/2022,12088596.0,1687043,0.862
 BLC,2024Q4,Farmers Exchange Capital III Newark DE Farmers Exchange Capital III 2.A,FE,12/10/2014,11962835.0,627210,2.3
 BLC,2024Q4,"Rialto Credit Opportunities Rated Fund, LP - . Founders Interest Miami",FL,09/01/2022,11255210.0,0,75.0
 BLC,2024Q4,. NB Private Equity Impact Fund LP Dallas,TX,05/24/2021,10808704.0,113123,9.033
@@ -214,34 +205,34 @@ BLC,2024Q4,Castlelake Asset-Based Private Credit III Castlelake Asset-Based Priv
 BLC,2024Q4,. RREEF Core Plus Industrial Fund LP Chicago,IL,01/02/2018,9691584.0,671975,0.368
 BLC,2024Q4,"The Doctors Company, An Interinsurance The Doctors Company, An Interinsurance Ex",FE,01/12/2022,9000000.0,0,1.8
 BLC,2024Q4,. IIF LP New York,NY,01/26/2016,8945033.0,523499,0.024
-BLC,2024Q4,". Invesco Core Real Estate - U.S.A., LP Atlanta",GA,10/02/2014,8905135.0,-1915195,0.091
+BLC,2024Q4,". Invesco Core Real Estate - U.S.A., LP Atlanta",GA,10/02/2014,8905135.0,848346,0.091
 BLC,2024Q4,National Life Insurance Company Montpelier VT NLV Financial Corporation 1.G,FE,07/10/2018,8378736.0,432863,1.649
-BLC,2024Q4,. PPC Fund II LP Chicago,IL,04/26/2018,8305885.0,1089217,0.734
+BLC,2024Q4,. PPC Fund II LP Chicago,IL,04/26/2018,8305885.0,627534,0.734
 BLC,2024Q4,". SP Technology Payments I, LLC New York",NY,11/05/2021,8020895.0,218067,14.316
-BLC,2024Q4,"J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,7689104.0,-1219590,0.797
-BLC,2024Q4,E07 000000-00-0 . NB Select Opportunities Fund VI LP Dallas TX NB Select Opportu,VI,10/03/2023,7399989.0,559989,0.94
+BLC,2024Q4,"J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,7689104.0,0,0.797
+BLC,2024Q4,E07 000000-00-0 . NB Select Opportunities Fund VI LP Dallas TX NB Select Opportu,VI,10/03/2023,7399989.0,2160000,0.94
 BLC,2024Q4,. Blue Owl GP Stakes III US Investors LP Dover,DE,10/28/2016,7273000.0,1141672,0.397
 BLC,2024Q4,". (Parallel) (ICI), LP - Equity Los Angeles",CA,02/26/2024,6412500.0,0,8.325
 BLC,2024Q4,. NB Select Opportunities Fund LP Dallas,TX,01/16/2018,6207186.0,865521,2.164
-BLC,2024Q4,Horizon Environment & Climate Solutions Horizon Environment & Climate Solutions ,NY,06/23/2021,6015575.0,-224913,2.277
-BLC,2024Q4,". Great Hill Equity Partners V, LP Boston",MA,04/30/2015,5942947.0,1126960,0.526
+BLC,2024Q4,Horizon Environment & Climate Solutions Horizon Environment & Climate Solutions ,NY,06/23/2021,6015575.0,4075000,2.277
+BLC,2024Q4,". Great Hill Equity Partners V, LP Boston",MA,04/30/2015,5942947.0,0,0.526
 BLC,2024Q4,". SP Technology Payments II, LLC New York",NY,11/14/2022,5800391.0,0,7.958
-BLC,2024Q4,". Platinum Equity Capital Partners IV, LP Beverly Hills",CA,03/21/2017,5777771.0,-124729,0.105
+BLC,2024Q4,". Platinum Equity Capital Partners IV, LP Beverly Hills",CA,03/21/2017,5777771.0,443778,0.105
 BLC,2024Q4,". Pearlmark Mezzanine Realty Partners V, LP Chicago",IL,02/08/2021,5757032.0,245766,4.529
 BLC,2024Q4,". Warburg Pincus Global Growth 14, LP New York",NY,10/17/2023,5419101.0,219420,0.058
 BLC,2024Q4,". TPG Partners IX, LP Fort Worth",TX,11/06/2023,5029525.0,219920,0.079
-BLC,2024Q4,". Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,5027650.0,1428589,3.384
+BLC,2024Q4,". Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,5027650.0,545513,3.384
 BLC,2024Q4,Northwestern Mutual Life Insurance . Northwestern Mutual Life Insurance Company ,FE,03/15/2021,4983780.0,258750,0.556
 BLC,2024Q4,Designation Book/ Years Other- Foreign Interest New York,NY,06/28/2022,4837500.0,0,6.953
 BLC,2024Q4,". Oaktree Opportunities Fund XII, LP Los Angeles",CA,10/11/2024,4687500.0,0,0.29
 BLC,2024Q4,. KKR Global Infrastructure Investors III LP New York,NY,12/03/2018,4659793.0,1416574,0.096
 BLC,2024Q4,Designation Book/ Years Other- Foreign . ASF IX B LP Edinburgh,GBR,12/30/2024,4396975.0,0,0.459
-BLC,2024Q4,". Genstar Capital Partners VII, LP San Francisco",CA,10/01/2015,4198061.0,-488711,0.442
+BLC,2024Q4,". Genstar Capital Partners VII, LP San Francisco",CA,10/01/2015,4198061.0,40032,0.442
 BLC,2024Q4,Blue Owl Asset Income Fund Parallel 345 Feeder LLC - Class C Membership Interest,NY,02/21/2023,3652116.0,0,8.654
 BLC,2024Q4,". Centerfield Capital Partners IV, LP Indianapolis",IN,11/21/2017,3600341.0,1228312,13.525
-BLC,2024Q4,Global Credit Opportunities II Fund A Master . SCSp Luxembourg,LUX,01/21/2022,3449402.0,456915,0.694
+BLC,2024Q4,Global Credit Opportunities II Fund A Master . SCSp Luxembourg,LUX,01/21/2022,3449402.0,3918937,0.694
 BLC,2024Q4,"AG Direct Lending Fund V (Levered) Structured . Note, LP - Limited Partner Inter",NY,09/22/2023,3194554.0,2953125,75.0
-BLC,2024Q4,". Vestigo Ventures Fund II, LP Cambridge",MA,12/09/2021,3141286.0,-30347,4.225
+BLC,2024Q4,". Vestigo Ventures Fund II, LP Cambridge",MA,12/09/2021,3141286.0,1750000,4.225
 BLC,2024Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,01/06/2021,3040936.0,101750,0.917
 BLC,2024Q4,Farmers Insurance Exchange Woodland Hills CA Farmers Insurance Exchange 2.A,FE,10/19/2018,2906874.0,154278,0.813
 BLC,2024Q4,". Centerfield Capital Partners V, LP Indianapolis",IN,05/26/2022,2854711.0,8690,19.754
@@ -257,21 +248,21 @@ BLC,2024Q4,". RREF V Debt DD RNF, LP - Equity Miami",FL,12/07/2023,1687500.0,581
 BLC,2024Q4,MetLife Commercial Mortgage Income Fund . MetLife Commercial Mortgage Income Fun,NJ,10/02/2017,1671536.0,106266,0.283
 BLC,2024Q4,Northwestern Mutual Life Insurance Northwestern Mutual Life Insurance Company Mi,FE,10/02/2024,1644762.0,0,0.123
 BLC,2024Q4,". SPC Receivables Holdings I, LLC New York",NY,02/12/2021,1460818.0,3326200,16.549
-BLC,2024Q4,". Sandbox Insurtech Fund II, LP Chicago",IL,09/30/2022,1052467.0,-116681,8.305
+BLC,2024Q4,". Sandbox Insurtech Fund II, LP Chicago",IL,09/30/2022,1052467.0,3605637,8.305
 BLC,2024Q4,. BID III Note Issuer LP - Certificates Grand Cayman,CYM,12/18/2023,922533.0,772415,1.839
 BLC,2024Q4,Nationwide Mutual Insurance Company Columbus OH Nationwide Mutual Insurance Comp,FE,07/01/2014,703603.0,46875,0.071
 BLC,2024Q4,Sixth Street Private Asset Based Investment Sixth Street Private Asset Based . F,TX,12/19/2024,586873.0,0,5.003
 BLC,2024Q4,Global Infrastructure Debt II Issuer LP - LP Global Infrastructure Debt Fund II ,NY,09/03/2024,573886.0,6871,1.65
 BLC,2024Q4,". Hines Rialto Credit Partners, LP Miami",FL,09/13/2024,511015.0,15470737,4.0
 BLC,2024Q4,NB Specialty Finance Fund III LP - Subordinated Notes Newark,DE,11/26/2024,506250.0,0,1.607
-BLC,2024Q4,". Genstar AMBA CV, LP San Francisco",CA,08/03/2021,420359.0,37541,0.326
-BLC,2024Q4,". Pearlmark Mezzanine Realty Partners IV, LP Chicago",IL,10/28/2015,353152.0,4446,4.036
-BLC,2024Q4,". Mezzanine Partners II, LP New York",NY,03/11/2013,186632.0,-1747,0.978
+BLC,2024Q4,". Genstar AMBA CV, LP San Francisco",CA,08/03/2021,420359.0,0,0.326
+BLC,2024Q4,". Pearlmark Mezzanine Realty Partners IV, LP Chicago",IL,10/28/2015,353152.0,0,4.036
+BLC,2024Q4,". Mezzanine Partners II, LP New York",NY,03/11/2013,186632.0,563469,0.978
 BLC,2024Q4,. Insurance Private Credit IV LLC New York,NY,12/31/2024,75000.0,0,2.7
 BLC,2024Q4,Blackstone ABF Whole Loan Associates Steam MH Topco A LP - Equity New York,NY,10/29/2024,64029.0,0,1.5
 BLC,2024Q4,. KKR Revolving Credit Partners II LP San Francisco,CA,03/15/2018,50945.0,0,1.028
-BLC,2024Q4,". Kinderhook Capital Fund IV, LP New York",NY,04/27/2015,8170.0,-130408,0.54
-BLC,2024Q4,". Centerfield Capital Partners II, LP Indianapolis",IN,01/01/2007,3201.0,-748,2.57
+BLC,2024Q4,". Kinderhook Capital Fund IV, LP New York",NY,04/27/2015,8170.0,0,0.54
+BLC,2024Q4,". Centerfield Capital Partners II, LP Indianapolis",IN,01/01/2007,3201.0,168157,2.57
 BLC,2024Q4,KKR Wolverine I Ltd. Class S-2 Subordinated Notes George Town,CYM,12/15/2016,0.0,0,1.5
 CPL,2021Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,12/05/2017,5531016.0,218250,0.777
 CPL,2021Q4,New York Life Insurance Company New York NY New York Life Insurance Company 1.C,FE,04/01/2019,2356790.0,104442,0.235
@@ -284,9 +275,9 @@ CPL,2021Q4,Farmers Exchange Capital III Newark DE Farmers Exchange Capital III 2
 CPL,2021Q4,The Savings Bank Mutual Life Insurance Company The Savings Bank Mutual Life Insu,FE,07/21/2017,1000000.0,0,1.745
 CPL,2021Q4,Northwestern Mutual Life Insurance Northwestern Mutual Life Insurance Company Mi,FE,03/15/2021,996537.0,26642,0.111
 CPL,2021Q4,Mutual of Omaha Insurance Company Omaha NE Mutual of Omaha Insurance Company 1.G,FE,03/01/2019,993172.0,42970,0.333
-CPL,2021Q4,"Mezzanine Partners II, LP New York",NY,03/11/2013,511178.0,123123,0.099
+CPL,2021Q4,"Mezzanine Partners II, LP New York",NY,03/11/2013,511178.0,65011,0.099
 CPL,2021Q4,Massachusetts Mutual Life Insurance Company Springfield MA MassMutual Financial ,FE,04/10/2015,300000.0,0,0.116
-CPL,2021Q4,"Designation Book/ Year’s Other- Foreign Centerfield Capital Partners II, LP Indi",IN,01/01/2007,521.0,900,0.177
+CPL,2021Q4,"Designation Book/ Year’s Other- Foreign Centerfield Capital Partners II, LP Indi",IN,01/01/2007,521.0,12229,0.177
 CPL,2021Q4,"New York Life Investment Management Mezzanine Partners II, LP New York",NY,01/16/2007,75.0,0,0.0
 CPL,2022Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,12/05/2017,5525016.0,218250,0.777
 CPL,2022Q4,New York Life Insurance Company New York NY New York Life Insurance Company 1.C,FE,04/01/2019,2356722.0,104442,0.235
@@ -301,7 +292,7 @@ CPL,2022Q4,Northwestern Mutual Life Insurance . Northwestern Mutual Life Insuran
 CPL,2022Q4,Mutual of Omaha Insurance Company Omaha NE Mutual of Omaha Insurance Company 1.G,FE,03/01/2019,993271.0,42970,0.333
 CPL,2022Q4,Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financia,FE,04/10/2015,300000.0,0,0.116
 CPL,2022Q4,". Mezzanine Partners II, LP New York",NY,03/11/2013,32571.0,4237,0.095
-CPL,2022Q4,"Designation Book/ Year’s Other- Foreign . Centerfield Capital Partners II, LP In",IN,01/01/2007,209.0,-312,0.157
+CPL,2022Q4,"Designation Book/ Year’s Other- Foreign . Centerfield Capital Partners II, LP In",IN,01/01/2007,209.0,12229,0.157
 CPL,2023Q4,The Guardian Life Insurance Company of America The Guardian Life Insurance Compa,FE,12/05/2017,5518796.0,218250,0.777
 CPL,2023Q4,New York Life Insurance Company New York NY New York Life Insurance Company 1.C,FE,04/01/2019,2356651.0,104442,0.235
 CPL,2023Q4,Teachers Insurance & Annuity Association of Teachers Insurance & Annuity . Ameri,FE,05/04/2020,1997553.0,66000,0.16
@@ -314,8 +305,8 @@ CPL,2023Q4,The Savings Bank Mutual Life Insurance Company The Savings Bank Mutua
 CPL,2023Q4,Northwestern Mutual Life Insurance . Northwestern Mutual Life Insurance Company ,FE,03/15/2021,996680.0,17250,0.111
 CPL,2023Q4,Mutual of Omaha Insurance Company Omaha NE Mutual of Omaha Insurance Company 1.G,FE,03/01/2019,993374.0,42970,0.333
 CPL,2023Q4,Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financia,FE,04/10/2015,300000.0,0,0.116
-CPL,2023Q4,". Mezzanine Partners II, LP New York",NY,03/11/2013,22974.0,-9597,0.096
-CPL,2023Q4,"Designation Book/ Years Other- Foreign . Centerfield Capital Partners II, LP Ind",IN,01/01/2007,294.0,85,0.188
-CPL,2024Q1,Admini- Date Type Actual Cost Additional for Mutual of Omaha Insurance Company O,FE,01/16/2024,0.0,0,0.5
-CPL,2025Q1,Admini- Date Type Actual Cost Additional for VNDO 2016-350P E New York,NY,04/06/2018,0.0,0,1.75
+CPL,2023Q4,". Mezzanine Partners II, LP New York",NY,03/11/2013,22974.0,62349,0.096
+CPL,2023Q4,"Designation Book/ Years Other- Foreign . Centerfield Capital Partners II, LP Ind",IN,01/01/2007,294.0,12229,0.188
+CPL,2024Q1,Mutual of Omaha Insurance Company Omaha NE Mutual of Omaha Insurance Company 1.G,FE,01/16/2024,0.0,0,0.5
+CPL,2025Q1,VNDO 2016-350P E New York,NY,04/06/2018,0.0,0,1.75
 CPL,2025Q1,Toronto-Dominion Bank Toronto CAN Transfer from Schedule D 2.B,FE,10/06/2022,0.0,0,0.057

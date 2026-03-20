@@ -28,7 +28,7 @@ Western & Southern Life Insura Cincinnati OH 1.F,FE,01/17/2019,17319239,896100,0
 "Apollo Asset-Backed Finance Lending Company, L.P.",DE,06/28/2024,16327982,0,20.0
 "AP Highlands Co-Invest, L.P.",DE,06/27/2023,16300076,1114717,2.0
 Pacific Life Insurance Co Newport Beach CA 1.F,FE,10/17/2017,15947406,794067,0.0
-"Riverside Micro-Cap Fund IV, L.P.",DE,12/27/2022,14648027,1033115,1.54
+"Riverside Micro-Cap Fund IV, L.P.",DE,12/27/2022,14648027,1341940,1.54
 APOLLO INVESTMENT MANAGEMENT EUROPE Italian AIF,LUX,07/05/2022,13589048,-724670,66.34
 "Motive Capital Fund II-B, LP",DE,12/27/2022,13538112,-370926,1.33
 "A-A SPN-20 (AIFX- IAGEMD1PR6), L.P.",DE,12/27/2024,13027956,0,100.0
@@ -42,7 +42,7 @@ Guardian Life Insurance Co of New York NY 1.D,FE,01/26/2017,9938081,482625,0.0
 Teachers Insurance & Annuity A New York NY 1.D,FE,01/10/2017,9727085,441000,0.0
 Employers Mutual Casualty Co Des Moines IA 2.A,FE,08/15/2019,9396637,546250,0.0
 CD&R Friends & Family Feeder Fund X L.P.,CYM,06/27/2023,9170401,2019766,9.15
-Apollo European Principal Finance Fund III CAYMAN ISLAND,CYM,12/27/2022,9160007,-2093098,1.54
+Apollo European Principal Finance Fund III CAYMAN ISLAND,CYM,12/27/2022,9160007,25725,1.54
 Apollo Asia Perth Co-Investment Fund L.P.,DE,08/14/2019,8564703,0,100.0
 Warwick European Opportunities Fund II (USD) LP,CYM,12/27/2022,8186162,-3440158,15.57
 Massachusetts Mutual Life Insu Springfield MA 1.D,FE,01/19/2023,7495697,397040,0.0
@@ -53,7 +53,6 @@ APOLLO INVESTMENT MANAGEMENT EUROPE Italian AIF,LUX,09/07/2022,6318064,-436145,3
 "L Catteron VIII Offshore, L.P.",DE,12/27/2022,5697287,-29167,0.25
 "Apollo Asia Real Estate Fund, L.P.",CYM,12/27/2022,5616933,425833,17.12
 New York Life Insurance Co New York NY 1.C,FE,04/01/2019,5362737,275678,0.0
-A-A Offshore Java 2021-1 L.P.,CYM,03/25/2021,5348761,0,80.54
 "Gryphon Partners IV, L.P.",DE,12/27/2022,5242044,66311,0.95
 . Teachers Insurance & Annuity A New York NY 1.D,FE,05/27/2020,4368258,140250,0.0
 Red Cloud Royalties,TX,09/15/2014,4117712,3223671,100.0
@@ -68,10 +67,10 @@ Mutual of Omaha Insurance Co Omaha NE 1.G,FE,03/15/2019,3561945,204000,0.0
 . Genesis Financial Gnfl 20 WILMINGTON,DE,06/13/2023,2990394,752737,0.0
 "Bluewater Investment Holdings, LLC",DE,11/21/2017,2865262,680000,4.0
 "Apollo Asia Real Estate Fund, L.P.",CYM,12/27/2024,2728820,0,0.018
-"GNVA Debt Holdco, LLC",DE,11/12/2013,2630628,1594813,4.19
+"GNVA Debt Holdco, LLC",DE,11/12/2013,2630628,-2,4.19
 NB Secondary Opportunities Offshore Fund IV LP NB,DE,12/27/2022,2577433,-87161,0.34
 Farmers Exchange Capital Los Angeles CA 2.A,FE,04/12/2017,2183966,141000,0.0
-"A-A Funding Holdco Offshore II, LLC",CYM,02/04/2022,1840371,-1190,0.5
+"A-A Funding Holdco Offshore II, LLC",CYM,02/04/2022,1840371,0,0.5
 APOLLO INVESTMENT MANAGEMENT EUROPE Italian AIF,LUX,12/18/2023,1793112,-113832,0.59
 "Citi - ESG LIHTC Partners I, LLC",DE,02/08/2023,1765087,0,12.06
 "NNN Investor 2 (Auto), L.P.",DE,07/11/2019,1675526,162223,1.0
@@ -83,20 +82,21 @@ Farmers Exchange Capital III Los Angeles CA 2.A,FE,02/01/2018,1044715,27270,0.0
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,03/31/2022,957395,0,0.522
 IRMT-DE1 DESIGNATED ACTIVITY C IRMT-DE1 SUB . DUBLIN,IRL,12/31/2023,541778,0,0.0
 Leann Sellers Grady County (Woodford- Scoop) Royalties,OK,11/30/2016,505028,59931,100.0
+A-A Offshore Java 2021-1 L.P.,CYM,03/25/2021,490208,0,80.54
 IRMT-DE1 DESIGNATED ACTIVITY C IRMT-DE1 SUB . DUBLIN,IRL,12/31/2023,456680,0,0.0
+Fundamental Partners II LP,DE,10/31/2013,326552,0,0.01
 "SONS, LLC AND SON INVESTMENTS AND Highfill Royalties",OK,02/02/2015,309197,13026,100.0
 New York Life Insurance Co New York NY 1.C,FE,03/07/2018,256075,13500,0.0
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,04/01/2022,239908,0,0.522
 Sprout Pref Equity,DE,12/17/2021,162898,0,0.0
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,04/03/2023,142656,0,0.522
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,04/01/2022,10,0,0.522
-TRENWICK AMERICA LLC,,04/27/2011,6,0,0.01
-Mp - Waters Edge Mezzanine LLC,,01/23/2013,1,0,0.01
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,03/31/2022,0,0,0.522
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,04/01/2022,0,0,0.522
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,04/01/2022,0,0,0.522
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,04/01/2022,0,0,0.522
 "A-A OFFSHORE (AAA), L.P. (""A A AltsCo - Core (A-A Offshore AAA)",CYM,04/03/2023,0,0,0.522
 "AADE RML, LLC West Des Moines",IA,01/01/2024,0,0,99.0
+Mp - Waters Edge Mezzanine LLC,,01/23/2013,0,0,0.01
+TRENWICK AMERICA LLC,,04/27/2011,0,0,0.01
 "AAIA RML, LLC West Des Moines",IA,01/01/2024,-7,0,99.0
-Fundamental Partners II LP,DE,10/31/2013,-214917,0,0.01

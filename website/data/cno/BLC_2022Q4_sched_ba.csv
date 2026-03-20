@@ -10,17 +10,17 @@ Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financia
 Pacific Life Insurance Company Newport Beach CA Pacific Life Insurance Company 1.F,FE,05/09/2019,20370277,865375,2.683
 Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financial Group 1.D,FE,02/28/2019,17629320,888475,2.188
 ". CrossHarbor Strategic Debt Fund, LP Boston",MA,10/01/2021,17204307,903886,3.983
-". Creeksource LLC, Class A Wilmington",DE,03/10/2015,16922986,-28510182,75.0
+". Creeksource LLC, Class A Wilmington",DE,03/10/2015,16922986,0,75.0
 The Penn Mutual Life Insurance Company Horsham PA The Penn Mutual Life Insurance Company 1.F,FE,04/22/2021,16631139,627000,3.3
 "Ares Real Estate Secured Income . Ares Real Estate Secured Income Fund, LP Los Angeles",CA,02/18/2022,14855588,0,6.122
-"J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,14482458,2090760,0.863
+"J.P. Morgan U.S. Real Estate Income and Growth . Domestic, LP New York",NY,04/01/2014,14482458,395795,0.863
 The Guardian Life Insurance Company of America The Guardian Life Insurance Company of New York NY America 1.D,FE,01/17/2017,13397229,577053,2.054
 Hercules Private Global Venture Growth Fund I Hercules Private Global Venture Growth . LP Wilmington,DE,08/06/2021,13303458,592401,18.097
-". Invesco Core Real Estate - U.S.A., LP Atlanta",GA,10/02/2014,12742170,1795384,0.088
+". Invesco Core Real Estate - U.S.A., LP Atlanta",GA,10/02/2014,12742170,365622,0.088
 . Nationwide Mutual Insurance Company Columbus OH Nationwide Mutual Insurance Company 1.G,FE,02/28/2019,12211199,594000,3.0
 The Guardian Life Insurance Company of America The Guardian Life Insurance Company of New York NY America 1.D,FE,03/07/2017,12208957,565013,2.576
 Farmers Exchange Capital III Newark DE Farmers Exchange Capital III 2.A,FE,12/10/2014,12030402,627210,2.3
-". Prime Property Fund, LLC Atlanta",GA,03/31/2015,11409273,1598840,0.031
+". Prime Property Fund, LLC Atlanta",GA,03/31/2015,11409273,447322,0.031
 ". GTCR Fund XI, LP Dover",DE,09/02/2014,11273489,168077,0.198
 . RREEF Core Plus Industrial Fund LP Chicago,IL,01/02/2018,11127030,181673,0.496
 "Silver Lake Technology Associates V, LP . Silver Lake Partners V, LP Menlo Park",CA,06/12/2018,10783136,645132,0.06
@@ -32,7 +32,7 @@ Western & Southern Life Insurance Western & Southern Life Insurance Company Cinc
 ". Platinum Equity Capital Partners IV, LP Beverly Hills",CA,03/21/2017,8776696,355212,0.104
 ". Thoma Bravo Fund XI, LP Dover",DE,06/03/2014,8446876,1288145,0.284
 National Life Insurance Company Montpelier VT NLV Financial Corporation 1.G,FE,07/10/2018,8384082,432863,1.649
-Bridge Workforce and Affordable Housing Fund Bridge Workforce and Affordable Housing . II LP Sandy,UT,02/08/2022,8316052,556823,1.31
+Bridge Workforce and Affordable Housing Fund Bridge Workforce and Affordable Housing . II LP Sandy,UT,02/08/2022,8316052,6892493,1.31
 Mutual of Omaha Insurance Company Omaha NE Mutual of Omaha Insurance Company 1.G,FE,02/28/2019,7833364,336971,2.614
 . IIF LP New York,NY,01/26/2016,7822290,170232,0.044
 E07 000000-00-0 . NB Select Opportunities Fund LP Dallas,TX,01/16/2018,7719480,2100000,2.061
@@ -46,16 +46,16 @@ E07 000000-00-0 . NB Select Opportunities Fund LP Dallas,TX,01/16/2018,7719480,2
 Northwestern Mutual Life Insurance . Northwestern Mutual Life Insurance Company Milwaukee WI Company 1.C,FE,03/15/2021,4983036,172500,0.556
 E07.1 000000-00-0 . NB Specialty Finance Fund LP New York,NY,03/03/2020,4963989,1003345,3.296
 ". Genstar Capital Partners VII, LP San Francisco",CA,10/01/2015,4900119,48140,0.448
-". Great Hill Equity Partners V, LP Boston",MA,04/30/2015,4506012,-231869,0.525
+". Great Hill Equity Partners V, LP Boston",MA,04/30/2015,4506012,0,0.525
 ". Centerfield Capital Partners IV, LP Indianapolis",IN,11/21/2017,4504118,1367476,14.023
 ". Kayne Private Energy Income Fund, LP Los Angeles",CA,04/01/2016,4336311,4120088,0.656
 . KKR Global Infrastructure Investors III LP New York,NY,12/03/2018,4323026,382886,0.102
 ". SP Technology Payments II, LLC New York",NY,11/14/2022,3880000,0,8.0
-"Horizon Environment & Climate Solutions Horizon Environment & Climate Solutions . Partners I, LP New York",NY,06/23/2021,3505654,-132758,2.536
+"Horizon Environment & Climate Solutions Horizon Environment & Climate Solutions . Partners I, LP New York",NY,06/23/2021,3505654,6300000,2.536
 The Guardian Life Insurance Company of America The Guardian Life Insurance Company of New York NY America 1.D,FE,01/06/2021,3046604,101750,0.917
 ". Centre Lane Credit Partners III, LP New York",NY,09/19/2022,3035139,12452824,15.0
 Farmers Insurance Exchange Woodland Hills CA Farmers Insurance Exchange 2.A,FE,10/19/2018,2888105,154278,0.813
-". NXT Capital Senior Loan Fund III, LP Chicago",IL,01/21/2015,2845057,165186,3.858
+". NXT Capital Senior Loan Fund III, LP Chicago",IL,01/21/2015,2845057,1740021,3.858
 ". Kinderhook Capital Fund IV, LP New York",NY,04/27/2015,2791267,218679,0.6
 Interest New York,NY,06/28/2022,2700000,0,7.5
 Farmers Exchange Capital Newark DE Farmers Insurance Exchange 2.A,FE,07/01/2014,2666760,166028,0.628
@@ -63,16 +63,16 @@ Insurance Private Credit I LLC Subordinated Notes New York,NY,10/27/2021,2603880
 . Vintage Real Estate Partners LP New York,NY,02/09/2016,2372719,251268,0.864
 Global Credit Opportunities II Fund A Master . SCSp Luxembourg,LUX,01/21/2022,2114677,45459,1.96
 Massachusetts Mutual Life Insurance Company . Springfield MA MassMutual Financial Group 1.D,FE,09/24/2020,2101119,74580,0.239
-". Pearlmark Mezzanine Realty Partners IV, LP Chicago",IL,10/28/2015,2051778,108064,4.064
-". Vestigo Ventures Fund II, LP Cambridge",MA,12/09/2021,1809577,-190423,4.789
-". Pearlmark Mezzanine Realty Partners V, LP Chicago",IL,02/08/2021,1729405,-3408,8.743
-". West Street Mezzanine Partners VIII, LP New York",NY,07/01/2022,917807,15307,0.116
+". Pearlmark Mezzanine Realty Partners IV, LP Chicago",IL,10/28/2015,2051778,131094,4.064
+". Vestigo Ventures Fund II, LP Cambridge",MA,12/09/2021,1809577,3000000,4.789
+". Pearlmark Mezzanine Realty Partners V, LP Chicago",IL,02/08/2021,1729405,5486801,8.743
+". West Street Mezzanine Partners VIII, LP New York",NY,07/01/2022,917807,8597500,0.116
 Nationwide Mutual Insurance Company Columbus OH Nationwide Mutual Insurance Company 1.G,FE,07/01/2014,721164,46875,0.071
-". Sandbox Insurtech Fund II, LP Chicago",IL,09/30/2022,467402,-114979,9.07
-". Genstar AMBA CV, LP San Francisco",CA,08/03/2021,370489,117733,0.338
+". Sandbox Insurtech Fund II, LP Chicago",IL,09/30/2022,467402,4417619,9.07
+". Genstar AMBA CV, LP San Francisco",CA,08/03/2021,370489,0,0.338
 ". Mezzanine Partners II, LP New York",NY,03/11/2013,293142,38123,0.854
-". Centerfield Capital Partners V, LP Indianapolis",IN,05/26/2022,252529,-60436,19.56
-"Designation Book/ Year's Other- Foreign . Centerfield Capital Partners II, LP Indianapolis",IN,01/01/2007,2774,-4289,2.093
+". Centerfield Capital Partners V, LP Indianapolis",IN,05/26/2022,252529,6687035,19.56
+"Designation Book/ Year's Other- Foreign . Centerfield Capital Partners II, LP Indianapolis",IN,01/01/2007,2774,168157,2.093
 ". Creeksource LLC, Series 2017-1 Wilmington",DE,10/10/2017,0,0,75.0
 KKR Wolverine I Ltd. Class S-2 Subordinated . Notes George Town,CYM,12/15/2016,0,0,1.5
 . KKR Revolving Credit Partners II LP San Francisco,CA,03/15/2018,-75871,10000000,1.028

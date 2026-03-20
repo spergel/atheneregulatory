@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-Admini- Date Type Actual Cost Additional for AMERICAN INTERNATIONAL GROUP I New York,NY,01/01/2025,0,0,0.0
+AMERICAN INTERNATIONAL GROUP I New York,NY,01/01/2025,0,0,0.0
 ATHENA TRUST 1 - 1995 TR CERTS Cornwall,GBR,01/01/2025,0,0,0.0
 BAYERISCHE LANDESBANK Munich,DEU,01/01/2025,0,0,0.0
 CHELSEA TRUST London,GBR,01/01/2025,0,0,0.0
@@ -42,7 +42,7 @@ Accel London VII L.P. London,GBR,06/15/2021,0,0,0.51
 "Accel XIII, L.P. Palo Alto",CA,02/19/2016,0,0,1.2
 "Accel XVI, L.P. Palo Alto",CA,12/08/2023,0,0,0.29
 "ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0,0,7.56
-Admini- Date Type Actual Cost Additional for Affinity Asia Pacific Fund IV (NO.2) L.P. Singapore,SGP,03/20/2013,0,0,2.31
+"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Affinity Asia Pacific Fund IV (NO.2) L.P. Singapore",SGP,03/20/2013,0,0,2.31
 Affinity Asia Pacific Fund V L.P. Hong Kong,CHN,01/15/2018,0,0,0.19
 "AH American Dynamism Fund I, L.P. Menlo Park",CA,04/12/2024,0,0,0.14
 Altor Fund V (No. 1) AB Stockholm,SWE,12/17/2018,0,0,1.3
@@ -90,7 +90,7 @@ Blackstar Stability Distressed Debt Fund Washington,DC,04/26/2023,0,0,5.96
 "Carlyle Europe Technology Partners IV, S.C.Sp London",GBR,11/29/2018,0,0,0.94
 "Carlyle Global Partners, L.P. Washington",DC,09/01/2016,0,0,5.46
 "CCMP Capital Investors III, L.P. New York",NY,07/02/2014,0,0,0.35
-"Admini- Date Type Actual Cost Additional for CIVC Partners Fund V, L.P. Chicago",IL,03/31/2017,0,0,10.22
+"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY CIVC Partners Fund V, L.P. Chicago",IL,03/31/2017,0,0,10.22
 "CIVC Partners Fund VII, L.P. Chicago",IL,09/29/2023,0,0,1.49
 Clearlake Capital Partners III Wilmington,DE,11/08/2012,0,0,1.08
 "Cohere Capital Fund II, LP Boston",MA,08/30/2024,0,0,2.4
@@ -137,7 +137,7 @@ GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,0,0,0.8
 "Global Infrastructure Partners II-A, LP New York",NY,09/15/2011,0,0,0.93
 "Global Infrastructure Partners III-A/B, L.P. New York",NY,12/16/2015,0,0,0.13
 "Great Hill Equity Partners VIII, L.P. Boston",MA,01/31/2022,0,0,0.41
-"Admini- Date Type Actual Cost Additional for Green Equity Investors IX, L.P. Los Angeles",CA,04/15/2022,0,0,0.15
+"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Green Equity Investors IX, L.P. Los Angeles",CA,04/15/2022,0,0,0.15
 "Green Equity Investors VII, L.P. Los Angeles",CA,02/16/2016,0,0,0.45
 Hahn & Company IV L.P. Seoul,KOR,06/27/2023,0,0,0.43
 Hahn & Company IV-S L.P. Seoul,KOR,05/04/2023,0,0,0.62
@@ -184,7 +184,7 @@ Meritech Franchise Fund L.P. Palo Alto,CA,05/06/2021,0,0,1.54
 "Nautic Partners VII, L.P. Providence",RI,10/15/2014,0,0,8.67
 "Nautic Partners X, L.P. Providence",RI,06/23/2021,0,0,0.63
 "New Enterprise Associates 17, L.P. Menlo Park",CA,05/20/2019,0,0,0.38
-"Admini- Date Type Actual Cost Additional for New Markets Education Partners III, L.P. Baltimore",MD,09/29/2022,0,0,3.99
+"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY New Markets Education Partners III, L.P. Baltimore",MD,09/29/2022,0,0,3.99
 Oakley Touring Venture B1 SCSP Menlo Park,CA,12/20/2024,0,0,0.07
 "Odyssey Investment Partners Fund V, LP New York",NY,06/24/2014,0,0,0.97
 "OEP IX Ballymore Co Investment Partners, L.P. New York",NY,12/20/2024,0,0,0.1
@@ -232,7 +232,7 @@ Trive Capital Fund V LP Dallas,TX,12/07/2023,0,0,0.41
 "TRIVEST DISCOVERY FUND II, L.P. Coral Gables",FL,04/19/2022,0,0,0.8
 "TRIVEST FUND VII, L.P. Coral Gables",FL,04/19/2022,0,0,0.84
 "Trivest Growth Investment Fund II, LP Coral Gables",FL,12/19/2019,0,0,3.65
-"Admini- Date Type Actual Cost Additional for Trivest Recognition Fund, L.P. Coral Gables",FL,01/13/2023,0,0,0.55
+"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Trivest Recognition Fund, L.P. Coral Gables",FL,01/13/2023,0,0,0.55
 T-VIII Mercury Co-Invest LP Stamford,CT,06/17/2021,0,0,3.17
 "Valspring Capital Fund I, L.P. Boston",MA,06/25/2024,0,0,1.47
 VIP III LP London,GBR,06/20/2017,0,0,0.35
@@ -274,7 +274,7 @@ p002599 Entity,WA,10/01/2023,0,0,97.96
 p002719 Entity,CA,01/24/2024,0,0,100.0
 0000703678 MESA WEST REAL ESTATE FUND V NEW YORK CITY,NY,04/18/2022,0,0,0.0
 "0000703850 MWCLF MLRS SPE, LLC NEW YORK",NY,01/26/2024,0,0,0.0
-Admini- Date Type Actual Cost Additional for 0000703876 LOANCORE CREDIT REIT LLC GREENWICH,CT,07/11/2024,0,0,0.0
+"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY 0000703876 LOANCORE CREDIT REIT LLC GREENWICH",CT,07/11/2024,0,0,0.0
 0000703949 ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK CITY,NY,01/10/2025,0,0,0.0
 MetLife Investment Private Equity Partners II Acquisition Co Whippany,NJ,03/29/2024,0,0,37.29
 "Alden Capital Partners Tax Credit Fund 17, LP Sherman Oaks",CA,03/30/2015,0,0,46.74

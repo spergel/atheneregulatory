@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-"Admini- Date Type Actual Cost 119,913 Genstar AMBA CV, LP San Francisco",CA,08/03/2021,0,0,0.437
+"Genstar AMBA CV, LP San Francisco",CA,08/03/2021,0,0,0.437
 "San Francisco 1,790,254 3.384 Genstar Capital Partners VII, LP New York",CA,10/01/2015,0,0,0.641
 "Goode Partners Consumer Fund III, LP New York",NY,12/30/2015,0,0,0.102
 "Kinderhook Capital Fund IV, LP Beverly Hills",NY,04/27/2015,0,0,0.756
@@ -7,6 +7,4 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 KKR Global Infrastructure Investors III LP Wilmington,NY,12/03/2018,0,0,20.305
 "Platinum Equity Capital Partners IV, LP New York",CA,03/21/2017,0,0,3.311
 PPC Fund II LP,IL,04/26/2018,0,0,0.0
-"Centerfield Capital Partners IV, LP",IN,11/21/2017,0,0,0.0
 Hercules Private Global Venture Growth Fund I LP,DE,08/06/2021,0,0,0.0
-Insurance Private Credit I LLC,NY,06/22/2021,0,0,0.0

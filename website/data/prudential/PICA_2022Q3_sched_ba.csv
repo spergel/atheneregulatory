@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-"Admini- Date Type Actual Cost 1,389,343 0 Accion Frontier Inclusion Fund, L.P. Washington",DC,11/16/2015,0,0,3.161
+"SVO 195,516 0 Commitment Accion Frontier Inclusion Fund, L.P. Washington",DC,11/16/2015,0,0,3.161
 "Advent International GPE IX, LP - PICA Boston",MA,07/22/2019,0,0,4.313
 "Altaris Health Partners IV, L.P. New York City",NY,10/21/2019,0,0,0.251
 "American Industrial Partners Capital Fund VI, LP. New York",NY,09/26/2022,0,0,0.12
@@ -36,7 +36,7 @@ EQT Infrastructure IV (No.2) USD SCSp - PICA,,11/01/2012,0,0,1.64
 000000-00-0 EQT VIII (No. 2) SCSP Equistone Partners Europe Fund,VI,05/22/2020,0,0,0.546
 "Francisco Partners VI, L.P. - PICA",,12/17/2020,0,0,1.657
 "000000-00-0 Frontier Fund V-A LP - General Atlantic Investment Partners 2019, L.P. - PICA",,08/07/2014,0,0,3.755
-"Admini- Date Type Actual Cost 44,478 0 Genstar Capital Partners VIII, L.P. - PICA San Francisco",CA,04/28/2017,0,0,0.063
+"SVO 19,533 0 Commitment Genstar Capital Partners VIII, L.P. - PICA San Francisco",CA,04/28/2017,0,0,0.063
 Genstar IX Opportunities Fund I - PICA San Francisco,CA,10/04/2021,0,0,2.539
 "Global Infrastructure Partners IV-A/B, L.P. - PICA New York",CA,07/08/2019,0,0,0.336
 "000000-00-0 Greenbriar Equity Fund V, L.P. - Greycroft Growth III, L.P. - PICA New York",CA,06/20/2018,0,0,2.055
@@ -53,20 +53,7 @@ ICG Europe Mid-Market Fund SCSp - PICA Luxembourg,NY,08/14/2017,0,0,1.249
 "Linden Structured Capital Fund, LP - PICA Chicago",NY,11/27/2019,0,0,2.673
 "000000-00-0 Linden Structured Capital Fund, LP - Littlejohn Fund VI, L.P. - PICA Greenwich",CA,04/07/2020,0,0,1.927
 "000000-00-0 Livingbridge 7 LP - PICA London 7,044,855 0 0 5.593 M31 Navigator Fund LP - PICA Grand Cayman",CA,07/28/2017,0,0,1.736
-"000000-00-0 Marlin Heritage II, L.P. Hermosa Beach 4,290,164 0 7.350 Metalmark Capital Partners II, L.P. New York",NY,10/28/2019,0,0,0.0
-E03.1 New York,LUX,04/09/2020,0,0,0.0
-Cayman Islands,LUX,11/27/2019,0,0,0.0
-Austin,LUX,02/14/2019,0,0,0.0
-St. Peter Port,NY,03/31/2021,0,0,0.0
-Newark,NY,12/18/2020,0,0,0.0
-Providence,IL,09/27/2018,0,0,0.0
 Chicago,IL,07/19/2022,0,0,0.0
-Boston,IL,02/21/2020,0,0,0.0
-IL Linden SCF Manager LP .,,03/29/2021,0,0,0.0
-GBR Livingbridge 7 General Partner LLP .,,07/07/2021,0,0,0.0
-CYM M31 GP I .,,02/24/2020,0,0,0.0
-"CA Marlin Heritage Partners II, L.P. .",,10/24/2017,0,0,0.0
-"NY Metalmark Capital Partners II GP, LP .",,11/01/2012,0,0,0.0
 "Mezzanine Partners Fund II, LP",NY,05/06/2013,0,0,2.626
 "000000-00-0 Montagu VI L.P. - PICA Oak HC/FT Partners III, L.P. - PICA",GBR,04/01/2021,0,0,0.922
 "Oaktree Opportunities Fund Xb, L.P. - PICA",CYM,11/22/2019,0,0,1.749
@@ -88,7 +75,7 @@ NJ Dickens Avenue Partners,VI,09/22/2021,0,0,28.314
 "IL Lake Street Partners IV, L.P. .",,12/20/2012,0,0,14.413
 "NJ Wabash Avenue Partners V, L.P. .",,04/21/2017,0,0,47.377
 MA Rockpoint Real Estate Fund,VI,05/21/2020,0,0,1.17
-"Admini- Date Type Actual Cost 10,355,422 0 Sentinel Capital Partners VI, L.P. New York",NY,07/11/2019,0,0,0.09
+"SVO (202,112) 0 Commitment Sentinel Capital Partners VI, L.P. New York",NY,07/11/2019,0,0,0.09
 "Silver Lake Partners VI, L.P. - PICA Menlo Park",CA,01/06/2021,0,0,4.051
 "Silver Lake Alpine, L.P. -PICA New York",NY,09/11/2018,0,0,6.136
 "Silver Lake Partners V, LP - PICA Menlo Park",CA,06/12/2018,0,0,1.382
@@ -96,14 +83,7 @@ Silverlands II SCSp Luxembourg,LUX,02/14/2019,0,0,1.075
 "Strategic Value Dislocation Fund, L.P. - PICA Greenwich",CT,09/16/2020,0,0,0.104
 "Summit Subordinated Debt Fund III-A,LP Boston MA Summit Partners",SD,11/01/2012,0,0,0.719
 "TDR Capital IV ""A"" L.P. -PICA London",GBR,11/19/2018,0,0,0.994
-"The Veritas Capital Fund V, L.P. -PICA New York",NY,06/08/2015,0,0,0.0
-"The Veritas Capital Fund VI, LP -PICA New York",NY,06/15/2017,0,0,0.0
-"The Veritas Capital Fund VII, L.P. - PICA New York",NY,04/15/2020,0,0,0.0
 "The Veritas Capital Fund VIII, L.P. - PICA New York",NY,07/01/2022,0,0,0.0
-"Thoma Bravo Discover Fund II, LP -PICA Chicago",IL,12/10/2018,0,0,0.0
-"Thoma Bravo Discover Fund III, L.P. - PICA Chicago",IL,06/11/2021,0,0,0.0
-"Thoma Bravo Fund XII, LP - PICA Chicago",IL,05/31/2016,0,0,0.0
-"Thoma Bravo Fund XIII, L.P. - PICA Dover",DE,02/14/2019,0,0,0.0
 PICA Chicago,IL,06/10/2022,0,0,0.193
 E03.2 000000-00-0 Thomas H. Lee Equity Fund VI Liquidating Trust - PICA Boston,MA,07/31/2022,0,0,0.593
 "Thompson Street Capital Partners V, LP -PICA St. Louis",MO,07/27/2018,0,0,3.493

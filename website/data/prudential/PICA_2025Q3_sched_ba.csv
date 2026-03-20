@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-"Admini- Date Type Actual Cost Additional for 8A HP SCF Investor, LP - PICA New York",NY,01/24/2020,0,0,5.369
+"8A HP SCF Investor, LP - PICA New York",NY,01/24/2020,0,0,5.369
 "Accel-KKR Capital Partners VI, LP - PICA Menlo Park CA AKKR Fund",VI,02/10/2021,0,0,0.739
 "Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0,0,4.375
 Advent International GPE IX Limited Partnership - PICA Boston,MA,10/21/2019,0,0,0.501
@@ -52,7 +52,7 @@ Catalyst Fund Limited Partnership IV - PICA Toronto,CAN,07/13/2012,0,0,2.331
 "Cerberus Levered Loan Opportunities Fund II, LP - PICA New York",NY,05/31/2013,0,0,1.709
 "Charles River Partnership XIII, L.P. (VZ) Cambridge",MA,12/10/2012,0,0,3.266
 "Clayton, Dubilier & Rice Fund X, LP New York",NY,03/27/2018,0,0,2.791
-"Admini- Date Type Actual Cost Additional for Clayton, Dubilier & Rice Fund XI, L.P. - PICA Grand Cayman",CYM,09/23/2021,0,0,0.472
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Clayton, Dubilier & Rice Fund XI, L.P. - PICA Grand Cayman",CYM,09/23/2021,0,0,0.472
 "Clearlake Capital Partners VI, L.P. - PICA Santa Monica CA Clearlake Capital Partners",VI,05/22/2020,0,0,1.276
 "Clearlake Flagship Plus Partners, L.P. - PICA Santa Monica",CA,02/05/2021,0,0,7.297
 "Collagen Holdings, LLC - PICA Oakland",NJ,08/01/2019,0,0,2.67
@@ -106,7 +106,7 @@ GTCR Fund XII/A LP and GTCR XII/B LP - PICA Illinois,IL,05/04/2018,0,0,2.372
 "Harvest Partners VII, LP - PICA New York",NY,09/28/2016,0,0,1.885
 "Harvest Partners VIII, LP - PICA New York",NY,11/27/2019,0,0,1.148
 "Hellman & Friedman Capital Partners IX, LP - PICA San Francisco",CA,04/07/2020,0,0,0.257
-"Admini- Date Type Actual Cost Additional for Hellman & Friedman Capital Partners X, L.P. - PICA San Francisco",CA,11/24/2021,0,0,0.044
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Hellman & Friedman Capital Partners X, L.P. - PICA San Francisco",CA,11/24/2021,0,0,0.044
 "HGGC Fund III, L.P. - PICA Palo Alto",CA,07/28/2017,0,0,5.204
 "E03.2 000000-00-0 Highstar Capital IV, LP - PICA New York",NY,02/09/2011,0,0,0.643
 "HPS Mezzanine Partners 2019, L.P. - PICA New York",NY,10/28/2019,0,0,1.024
@@ -160,7 +160,7 @@ Permira VII L.P. 1 - PICA St. Peter Port,GGY,02/10/2020,0,0,0.179
 "Platinum Equity Capital Partners IV, L.P. - PICA Beverly Hills",CA,03/21/2017,0,0,2.253
 "Platinum Equity Capital Partners V, LP - PICA Beverly Hills",CA,12/27/2019,0,0,1.255
 "Platinum Equity Capital Partners VI, L.P. - PICA Beverly Hills",CA,12/12/2022,0,0,0.072
-Admini- Date Type Actual Cost Additional for Platinum Equity SCRS Co-Investors LLC - PICA Beverly Hills,CA,07/31/2017,0,0,6.0
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Platinum Equity SCRS Co-Investors LLC - PICA Beverly Hills",CA,07/31/2017,0,0,6.0
 "Platinum Equity Small Cap Fund, L.P. Beverly Hills",CA,06/28/2018,0,0,3.363
 "Range Investor Holdings, LLC - PICA Itasca",IL,02/23/2018,0,0,2.497
 "Rockpoint Real Estate Fund VI, L.P. - PICA Boston MA Rockpoint Real Estate Fund",VI,05/21/2020,0,0,1.17
@@ -202,7 +202,6 @@ VIP IV LP - PICA London,GBR,12/23/2020,0,0,0.395
 "Warburg Pincus Global Growth 14, L.P. New York",NY,10/02/2023,0,0,4.316
 "Waterton Residential Property Venture XIV, L.P. - PICA Chicago",IL,12/23/2020,0,0,2.136
 "Wrigley Co-Invest, L.P. - PICA San Francisco",CA,06/19/2018,0,0,3.655
-"Wrigley Co-Invest, L.P. - PICA 2 San Francisco",CA,10/05/2018,0,0,0.0
 "Yorktown Energy Partners X, L.P. New York",NY,05/31/2013,0,0,1.497
 "Newark Venture Partners Fund II, L.P. - PICA Newark",NJ,09/30/2021,0,0,3.404
 Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0,0,15.803

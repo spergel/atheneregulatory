@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-Admini- Date Type Actual Cost Additional for 0000702628 Blackstone Mortgage Trust Inc Warehouse Facility MORRISTOWN,NJ,06/27/2014,0,0,0.0
+0000702628 Blackstone Mortgage Trust Inc Warehouse Facility MORRISTOWN,NJ,06/27/2014,0,0,0.0
 Mesa West Core Lending Fund Warehouse Facility - 2021 Refinance NEW YORK,NY,01/28/2021,0,0,0.0
 p002348 Entity,NY,09/03/2021,0,0,98.14
 "Accel India VI, L.P. Bangalore",IND,11/11/2019,0,0,1.09
@@ -44,7 +44,7 @@ Bessemer Venture Partners X Institutional L.P. Larchmont,NY,10/15/2018,0,0,0.74
 "Brentwood Associates Private Equity V, L.P. Los Angeles",CA,06/12/2013,0,0,5.2
 "Brentwood Associates Private Equity VI, L.P. Los Angeles",CA,12/06/2016,0,0,1.33
 Bridgepoint Development Capital IV London,GBR,03/27/2020,0,0,1.04
-"Admini- Date Type Actual Cost Additional for BVP Forge Institutional, L.P. Larchmont",NY,06/24/2022,0,0,0.26
+"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company BVP Forge Institutional, L.P. Larchmont",NY,06/24/2022,0,0,0.26
 "Capital International Private Equity Fund VI, L.P. Los Angeles",CA,03/24/2011,0,0,0.37
 "Carlyle Europe Technology Partners IV, S.C.Sp London",GBR,11/29/2018,0,0,0.95
 "CARLYLE EUROPE TECHNOLOGY PARTNERS V - EU, S.C.Sp. London",GBR,03/17/2022,0,0,0.18
@@ -92,7 +92,7 @@ Fortress Credit Opportunities Fund IV (A) LP New York,NY,01/28/2015,0,0,0.4
 "Genstar Capital Partners IX, L.P. San Francisco",CA,02/19/2019,0,0,0.46
 "Genstar Capital Partners X, L.P. San Francisco",CA,04/01/2021,0,0,0.31
 "Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,0,0,0.34
-Admini- Date Type Actual Cost Additional for GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,0,0,0.78
+"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company GGV Capital VIII L.P. Menlo Park",CA,10/29/2020,0,0,0.78
 "GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,0,0,0.75
 "Glasswing Ventures II, L.P. Boston",MA,04/15/2021,0,0,5.15
 "Glendower Capital Secondary Opportunities Fund V-P, LP New York",NY,06/28/2021,0,0,1.38
@@ -140,7 +140,7 @@ KKR Opportunities (Domestic) Fund II SCSp New York,NY,10/29/2021,0,0,0.55
 "LSC Select II, L.P. Shanghai",CHN,09/09/2021,0,0,0.73
 "LSC V, L.P. Shanghai",CHN,09/09/2021,0,0,0.71
 MED Platform I SLP Lyon,FRA,07/20/2020,0,0,2.58
-Admini- Date Type Actual Cost Additional for MED Platform II SLP Lyon,FRA,12/10/2021,0,0,0.29
+"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company MED Platform II SLP Lyon",FRA,12/10/2021,0,0,0.29
 Medicxi III LP London,GBR,04/09/2019,0,0,5.29
 Medicxi Secondary I LP London,GBR,05/29/2020,0,0,2.99
 "Menlo Special Opportunities Fund III, L.P. Menlo Park",CA,08/02/2022,0,0,0.36
@@ -188,7 +188,7 @@ Sixth Cinven Fund (No.4) Limited Partnership London,GBR,02/02/2016,0,0,0.21
 "Spark Capital VI, L.P. Boston",MA,02/12/2019,0,0,2.82
 "Spark Capital VII, L.P. Boston",MA,01/25/2022,0,0,0.27
 "Sterling Investment Partners IV, L.P. Westport",CT,12/15/2021,0,0,0.96
-Admini- Date Type Actual Cost Additional for Tailwater Energy Fund IV LP Dallas,TX,06/24/2019,0,0,3.91
+"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company Tailwater Energy Fund IV LP Dallas",TX,06/24/2019,0,0,3.91
 "The Baring Asia Private Equity Fund VI, L.P.1 Hong Kong",CHN,07/25/2014,0,0,0.61
 "The Veritas Capital Fund VII, L.P. New York",NY,08/09/2019,0,0,0.62
 "The Veritas Capital Fund VIII, L.P. New York",NY,03/15/2022,0,0,0.09
@@ -232,7 +232,7 @@ p002479 Terminal 106 Venture LLC Seattle,WA,10/24/2022,0,0,80.891
 p002596 ML BEI Navy Yard Investors LLC Philadelphia,PA,09/21/2023,0,0,63.08
 p000882 Entity,NY,12/09/2009,0,0,100.0
 p000987 Entity,GA,08/01/2012,0,0,100.0
-Admini- Date Type Actual Cost Additional for p001071 Entity,DE,09/30/2013,0,0,100.0
+"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company p001071 Entity",DE,09/30/2013,0,0,100.0
 "p002115 MMP Owners III, LLC Whippany",NJ,11/25/2019,0,0,100.0
 p002296 1350 Eye Street LLC Washington,DC,03/10/2021,0,0,92.06
 "p000983 MetLife Camino Ramon Member, LLC San Francisco",CA,12/20/2013,0,0,99.0

@@ -1,5 +1,5 @@
 entity,period,name,state,date_acquired,book_value,investment_income,ownership_pct
-JNLIC,2020Q1,"Admini- Date Type Actual Cost 489,512 0 AEA Investors Small Business Fund II, L.",NY,12/23/2009,0.0,0,0.68
+JNLIC,2020Q1,"and 395,108 0 Commitment AEA Investors Small Business Fund II, L.P. New York",NY,12/23/2009,0.0,0,0.68
 JNLIC,2020Q1,"000000-00-0 AEA Investors Small Business Fund III, L.P. 13,217 0 4,717,959 1.140",NY,03/24/2016,0.0,0,0.34
 JNLIC,2020Q1,"000000-00-0 Apollo Investment Fund Apollo Natural Resources Partners II, L.P. Ne",NY,10/10/2019,0.0,0,1.19
 JNLIC,2020Q1,"Arsenal Capital Partners IV, L.P. Purchase",NY,12/10/2013,0.0,0,0.76
@@ -29,61 +29,18 @@ JNLIC,2020Q1,"SPC Partners IV, L.P. New York",NY,07/09/2015,0.0,0,2.59
 JNLIC,2020Q1,"Sterling Investment Partners III, L.P. New York",NY,12/10/2019,0.0,0,0.53
 JNLIC,2020Q1,"Sun Capital Partners VI, L.P. Chicago",IL,04/10/2015,0.0,0,1.22
 JNLIC,2020Q1,"Thoma Bravo Special Opportunities Fund II, L.P. Chicago",IL,12/14/2018,0.0,0,0.41
-JNLIC,2020Q1,"Thoma Bravo XIII, L.P. Los Angeles",CA,11/29/2012,0.0,0,0.0
-JNLIC,2020Q1,Los Angeles,CA,05/11/2017,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,11/28/2011,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,09/27/2016,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,11/26/2019,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,02/11/2011,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,03/28/2016,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,03/26/2015,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,06/01/2017,0.0,0,0.0
-JNLIC,2020Q1,Beverly Hills CA LLCP Partners,VI,05/30/2017,0.0,0,0.0
-JNLIC,2020Q1,Greenwich,CT,12/16/2015,0.0,0,0.0
-JNLIC,2020Q1,Greenwich,CT,07/02/2014,0.0,0,0.0
-JNLIC,2020Q1,Rolling Hills Estates,CA,10/21/2008,0.0,0,0.0
-JNLIC,2020Q1,Radnor,PA,03/26/2015,0.0,0,0.0
-JNLIC,2020Q1,Radnor,PA,10/24/2019,0.0,0,0.0
-JNLIC,2020Q1,Chicago,IL,12/16/2015,0.0,0,0.0
-JNLIC,2020Q1,Hermosa Beach,CA,02/20/2018,0.0,0,0.0
-JNLIC,2020Q1,Hermosa Beach,CA,10/23/2017,0.0,0,0.0
-JNLIC,2020Q1,New York,NY,05/21/2018,0.0,0,0.0
-JNLIC,2020Q1,Radnor,PA,03/02/2012,0.0,0,0.0
-JNLIC,2020Q1,Greenwich,CT,12/28/2018,0.0,0,0.0
-JNLIC,2020Q1,Longueuil,CAN,10/05/2017,0.0,0,0.0
-JNLIC,2020Q1,San Francisco,CA,04/25/2008,0.0,0,0.0
-JNLIC,2020Q1,San Francisco,CA,07/02/2012,0.0,0,0.0
-JNLIC,2020Q1,Westport,CT,01/02/2014,0.0,0,0.0
-JNLIC,2020Q1,Boca Raton,FL,05/21/2007,0.0,0,0.0
-JNLIC,2020Q1,Boca Raton,FL,08/15/2013,0.0,0,0.0
-JNLIC,2020Q1,Boca Raton,FL,12/17/2019,0.0,0,0.0
-JNLIC,2020Q1,Chicago,IL,04/28/2015,0.0,0,0.0
-JNLIC,2020Q1,Chicago,IL,05/27/2016,0.0,0,0.0
-JNLIC,2020Q1,Chicago,IL,02/13/2019,0.0,0,0.0
-JNLIC,2020Q1,"Admini- Date Type Actual Cost 35,151 0 Torquest Partners Fund (U.S.) IV, L.P. To",CAN,08/31/2016,0.0,0,1.15
+JNLIC,2020Q1,"and 138,336 0 Commitment Torquest Partners Fund (U.S.) IV, L.P. Toronto",CAN,08/31/2016,0.0,0,1.15
 JNLIC,2020Q1,"San Francisco 38,846 0 0.310 TSG6, L.P. San Francisco",CA,07/03/2012,0.0,0,0.49
 JNLIC,2020Q1,"TSG7-A, L.P. San Francisco",CA,03/29/2016,0.0,0,0.47
 JNLIC,2020Q1,"TSG7-B, L.P. Fort Worth",CA,01/15/2016,0.0,0,1.16
 JNLIC,2020Q1,"TSG8, L.P. Chicago",CA,01/07/2019,0.0,0,0.77
 JNLIC,2020Q1,"Veritas Capital Fund VI, L.P. Bala Synwyd",NY,06/14/2017,0.0,0,0.45
 JNLIC,2020Q1,"Vortus Investments II, L.P. New York",TX,06/09/2017,0.0,0,0.57
-JNLIC,2020Q1,"Vortus Investments, L.P.",TX,06/03/2014,0.0,0,0.0
 JNLIC,2020Q1,"Wind Point Partners IX-A, L.P. Chicago",IL,09/05/2019,0.0,0,49.88
 JNLIC,2020Q1,"Wind Point Partners VIII-A, L.P. Chicago",IL,06/06/2016,0.0,0,47.89
 JNLIC,2020Q1,"Wynnefield Private Equity Partners I, L.P. Chicago",PA,07/13/2000,0.0,0,99.98
-JNLIC,2020Q1,"Yorktown Energy Partners VII, L.P. Birmingham",NY,10/10/2006,0.0,0,0.0
-JNLIC,2020Q1,"Yorktown Energy Partners VIII, L.P. Los Angeles",NY,09/29/2008,0.0,0,0.0
 JNLIC,2020Q1,"Yorktown Energy Partners XI, L.P. New York",NY,04/22/2016,0.0,0,2.3
-JNLIC,2020Q1,"PPM America Private Equity Fund III, L.P.",IL,03/04/2008,0.0,0,0.0
-JNLIC,2020Q1,"PPM America Private Equity Fund IV, L.P.",IL,04/28/2015,0.0,0,0.0
-JNLIC,2020Q1,"PPM America Private Equity Fund V, L.P.",IL,02/11/2014,0.0,0,0.0
-JNLIC,2020Q1,"PPM America Private Equity Fund VI, L.P.",IL,01/20/2016,0.0,0,0.0
-JNLIC,2020Q1,"PPM America Private Equity Fund VII, L.P.",IL,06/27/2018,0.0,0,0.0
-JNLIC,2020Q1,"E03.1 000000-00-0 Harbert Real Estate Fund V, L.P.",AL,12/07/2012,0.0,0,0.0
-JNLIC,2020Q1,"Mesa West Real Estate Income Fund IV, L.P.",CA,03/16/2017,0.0,0,0.0
-JNLIC,2020Q1,"Principal Real Estate Debt Fund II, L.P.",IL,12/13/2017,0.0,0,0.0
-JNLIC,2020Q1,"Square Mile Credit Partners II, L.P.",NY,02/27/2019,0.0,0,0.0
-JNLIC,2020Q3,"Admini- Date Type Actual Cost 0 AEA Investors Small Business Fund IV, L.P. New Y",NY,10/10/2019,0.0,0,14.38
+JNLIC,2020Q3,"and 529,203 0 Commitment AEA Investors Small Business Fund IV, L.P. New York",NY,10/10/2019,0.0,0,14.38
 JNLIC,2020Q3,"000000-00-0 Apollo Infrastructure Opportunities Fund II, L.P. 162,705 0 70,340,9",NY,08/11/2020,0.0,0,29.7
 JNLIC,2020Q3,"Arlington Capital Partners IV, L.P. Purchase",NY,12/10/2013,0.0,0,0.66
 JNLIC,2020Q3,"Arsenal Capital Partners III, L.P. Purchase",NY,09/28/2020,0.0,0,1.18
@@ -113,38 +70,9 @@ JNLIC,2020Q3,"NewSpring Growth Capital V, L.P. New York",NY,07/09/2015,0.0,0,1.9
 JNLIC,2020Q3,"Novacap TMT V, L.P. New York",NY,12/10/2019,0.0,0,2.09
 JNLIC,2020Q3,"Sorenson Capital Partners III, L.P. Chicago",IL,04/10/2015,0.0,0,1.24
 JNLIC,2020Q3,"Sun Capital Partners V, L.P. Chicago",IL,12/14/2018,0.0,0,0.38
-JNLIC,2020Q3,"Thoma Bravo XIII, L.P. Newtown Square",PA,04/20/2016,0.0,0,0.0
-JNLIC,2020Q3,Los Angeles,CA,11/29/2012,0.0,0,0.0
-JNLIC,2020Q3,New York,NY,11/26/2019,0.0,0,0.0
-JNLIC,2020Q3,Los Angeles,CA,04/14/2020,0.0,0,0.0
-JNLIC,2020Q3,New York,NY,02/11/2011,0.0,0,0.0
-JNLIC,2020Q3,New York,NY,03/28/2016,0.0,0,0.0
 JNLIC,2020Q3,New York,NY,08/14/2020,0.0,0,0.0
-JNLIC,2020Q3,El Segundo,CA,07/15/2016,0.0,0,0.0
-JNLIC,2020Q3,El Segundo,CA,11/14/2018,0.0,0,0.0
-JNLIC,2020Q3,New York,NY,06/01/2017,0.0,0,0.0
-JNLIC,2020Q3,Beverly Hills CA LLCP Partners,VI,05/30/2017,0.0,0,0.0
-JNLIC,2020Q3,Greenwich,CT,12/16/2015,0.0,0,0.0
-JNLIC,2020Q3,Greenwich,CT,07/02/2014,0.0,0,0.0
-JNLIC,2020Q3,Rolling Hills Estates,CA,03/10/2006,0.0,0,0.0
-JNLIC,2020Q3,Rolling Hills Estates,CA,10/21/2008,0.0,0,0.0
-JNLIC,2020Q3,Radnor,PA,03/26/2015,0.0,0,0.0
-JNLIC,2020Q3,Radnor,PA,10/24/2019,0.0,0,0.0
-JNLIC,2020Q3,Chicago,IL,05/23/2008,0.0,0,0.0
-JNLIC,2020Q3,Chicago,IL,12/16/2015,0.0,0,0.0
-JNLIC,2020Q3,Hermosa Beach,CA,02/20/2018,0.0,0,0.0
-JNLIC,2020Q3,Hermosa Beach,CA,10/23/2017,0.0,0,0.0
-JNLIC,2020Q3,New York,NY,05/21/2018,0.0,0,0.0
 JNLIC,2020Q3,Radnor,PA,08/04/2020,0.0,0,0.0
-JNLIC,2020Q3,Greenwich,CT,12/28/2018,0.0,0,0.0
-JNLIC,2020Q3,Longueuil,CAN,10/05/2017,0.0,0,0.0
-JNLIC,2020Q3,Denver,CO,07/19/2018,0.0,0,0.0
-JNLIC,2020Q3,Lehi,UT,12/17/2014,0.0,0,0.0
-JNLIC,2020Q3,Westport,CT,01/02/2014,0.0,0,0.0
-JNLIC,2020Q3,Boca Raton,FL,05/21/2007,0.0,0,0.0
-JNLIC,2020Q3,Chicago,IL,05/27/2016,0.0,0,0.0
-JNLIC,2020Q3,Chicago,IL,02/13/2019,0.0,0,0.0
-JNLIC,2020Q3,"Admini- Date Type Actual Cost 34,406 0 Torquest Partners Fund (U.S.) IV, L.P. To",CAN,08/31/2016,0.0,0,1.15
+JNLIC,2020Q3,"and 127,263 0 Commitment Torquest Partners Fund (U.S.) IV, L.P. Toronto",CAN,08/31/2016,0.0,0,1.15
 JNLIC,2020Q3,"San Francisco 257,836 0 0.310 TSG6, L.P. San Francisco",CA,07/03/2012,0.0,0,0.49
 JNLIC,2020Q3,"TSG7-A, L.P. San Francisco",CA,03/29/2016,0.0,0,0.6
 JNLIC,2020Q3,"TSG7-B, L.P. New York",CA,01/15/2016,0.0,0,0.44
@@ -152,22 +80,11 @@ JNLIC,2020Q3,"TSG8, L.P. Fort Worth",CA,01/07/2019,0.0,0,1.16
 JNLIC,2020Q3,"Veritas Capital Fund V, L.P. Chicago",NY,06/08/2015,0.0,0,0.73
 JNLIC,2020Q3,"Veritas Capital Fund VI, L.P. Bala Synwyd",NY,06/14/2017,0.0,0,1.2
 JNLIC,2020Q3,"Veritas Capital Fund VII, L.P. New York",NY,04/14/2020,0.0,0,0.58
-JNLIC,2020Q3,"Vortus Investments II, L.P.",TX,06/09/2017,0.0,0,0.0
 JNLIC,2020Q3,"Vortus Investments, L.P. Chicago",TX,06/03/2014,0.0,0,49.88
 JNLIC,2020Q3,"Wind Point Partners IX-A, L.P. Chicago",IL,09/05/2019,0.0,0,47.89
 JNLIC,2020Q3,"Wind Point Partners VIII-A, L.P. Chicago",IL,06/06/2016,0.0,0,99.98
-JNLIC,2020Q3,"Wynnefield Private Equity Partners I, L.P. Chicago",PA,07/13/2000,0.0,0,0.0
 JNLIC,2020Q3,"Yorktown Energy Partners IX, L.P.",NY,11/12/2010,0.0,0,2.0
-JNLIC,2020Q3,"Yorktown Energy Partners VIII, L.P.",NY,09/29/2008,0.0,0,0.0
-JNLIC,2020Q3,"Yorktown Energy Partners XI, L.P.",NY,04/22/2016,0.0,0,0.0
-JNLIC,2020Q3,"PPM America Private Equity Fund III, L.P.",IL,03/04/2008,0.0,0,0.0
-JNLIC,2020Q3,"PPM America Private Equity Fund IV, L.P.",IL,04/28/2015,0.0,0,0.0
-JNLIC,2020Q3,"PPM America Private Equity Fund V, L.P.",IL,02/11/2014,0.0,0,0.0
-JNLIC,2020Q3,"PPM America Private Equity Fund VI, L.P.",IL,01/20/2016,0.0,0,0.0
-JNLIC,2020Q3,"PPM America Private Equity Fund VII, L.P.",IL,06/27/2018,0.0,0,0.0
-JNLIC,2020Q3,2099999. Joint Venture Interests - Common Stock - Affiliated 0 Principal Real Es,IL,05/27/2020,0.0,0,0.0
-JNLIC,2020Q3,"Square Mile Credit Partners II, L.P.",NY,02/27/2019,0.0,0,0.0
-JNLIC,2021Q2,"Admini- Date Type Actual Cost 265,375 0 AA Pencil Holdings, L.P. Wilmington",DE,03/04/2021,0.0,0,3.03
+JNLIC,2021Q2,"SVO 2,157,615 0 Commitment AA Pencil Holdings, L.P. Wilmington",DE,03/04/2021,0.0,0,3.03
 JNLIC,2021Q2,"000000-00-0 AEA Investors Small Business Fund II, L.P. (1,136,302) 0 43,565,120 ",NY,12/23/2009,0.0,0,0.08
 JNLIC,2021Q2,"000000-00-0 Apollo Investment Fund IX, L.P. 143,640 0 0.340 Apollo Investment Fu",CA,04/17/2021,0.0,0,0.71
 JNLIC,2021Q2,"Apollo Royalties Fund I, L.P. Purchase",NY,03/14/2019,0.0,0,1.37
@@ -185,46 +102,22 @@ JNLIC,2021Q2,"Frazier Healthcare Growth Buyout Fund X, L.P. Toronto",CAN,11/30/2
 JNLIC,2021Q2,"000000-00-0 Green Equity Investors VII, L.P. 35,468 0 0 0.050 Green Equity Inves",CAN,11/25/2015,0.0,0,0.63
 JNLIC,2021Q2,"IPI Partners II-A, L.P. Toronto",CAN,12/16/2020,0.0,0,0.2
 JNLIC,2021Q2,"JFL Equity Investors IV, L.P. Houston",TX,01/21/2015,0.0,0,3.51
-JNLIC,2021Q2,"K3 Private Investors, L.P. Greenwich",CT,07/18/2016,0.0,0,0.0
 JNLIC,2021Q2,"E03 000000-00-0 Littlejohn Fund V, L.P. Greenwich",CT,03/30/2020,0.0,0,5.95
 JNLIC,2021Q2,"Lovell Minnick Equity Partners V, L.P. Greenwich",CT,05/21/2020,0.0,0,0.37
 JNLIC,2021Q2,"Madison Dearborn Capital Partners VII, L.P. Greenwich",CT,03/18/2013,0.0,0,0.79
 JNLIC,2021Q2,"Marlin Heritage II, L.P. New York",NY,09/27/2004,0.0,0,1.78
 JNLIC,2021Q2,"000000-00-0 Mason Wells Leveraged Buyout Fund III, L.P. 445,741 3,284,934 0.790 ",NY,11/23/2007,0.0,0,1.91
-JNLIC,2021Q2,"NewSpring Growth Capital IV, L.P. Toronto",CAN,07/02/2020,0.0,0,0.0
 JNLIC,2021Q2,"000000-00-0 NOVA Infrastructure Fund I, L.P. 73,600 0 0.000 NOVA Infrastructure ",NY,11/20/2013,0.0,0,2.16
 JNLIC,2021Q2,"ONCAP III, L.P. New York",NY,03/26/2018,0.0,0,29.85
 JNLIC,2021Q2,"000000-00-0 Pretium Olympus JV, L.P. 0 2.090 Revelstoke Capital Partners Fund II",IL,04/10/2015,0.0,0,1.3
 JNLIC,2021Q2,"Seidler Equity Partners V, L.P. Seattle",WA,06/11/2021,0.0,0,0.0
-JNLIC,2021Q2,Los Angeles,CA,05/11/2017,0.0,0,0.0
-JNLIC,2021Q2,Los Angeles,CA,10/20/2020,0.0,0,0.0
-JNLIC,2021Q2,New York,NY,11/26/2019,0.0,0,0.0
 JNLIC,2021Q2,Chicago,IL,04/28/2021,0.0,0,0.0
-JNLIC,2021Q2,Los Angeles,CA,04/14/2020,0.0,0,0.0
-JNLIC,2021Q2,New York,NY,03/28/2016,0.0,0,0.0
-JNLIC,2021Q2,New York,NY,08/14/2020,0.0,0,0.0
-JNLIC,2021Q2,El Segundo,CA,07/15/2016,0.0,0,0.0
 JNLIC,2021Q2,El Segundo,CA,06/28/2021,0.0,0,0.0
-JNLIC,2021Q2,Greenwich,CT,07/02/2014,0.0,0,0.0
-JNLIC,2021Q2,Rolling Hills Estates,CA,10/21/2008,0.0,0,0.0
-JNLIC,2021Q2,Radnor,PA,10/24/2019,0.0,0,0.0
-JNLIC,2021Q2,Chicago,IL,05/23/2008,0.0,0,0.0
-JNLIC,2021Q2,Chicago,IL,12/16/2015,0.0,0,0.0
-JNLIC,2021Q2,Chicago,IL,11/19/2020,0.0,0,0.0
-JNLIC,2021Q2,Hermosa Beach,CA,10/23/2017,0.0,0,0.0
-JNLIC,2021Q2,Milwaukee,WI,12/22/2010,0.0,0,0.0
-JNLIC,2021Q2,Milwaukee,WI,05/24/2016,0.0,0,0.0
 JNLIC,2021Q2,El Segundo,CA,04/20/2021,0.0,0,0.0
-JNLIC,2021Q2,Radnor,PA,03/14/2016,0.0,0,0.0
 JNLIC,2021Q2,Wilmington,DE,05/28/2021,0.0,0,0.0
 JNLIC,2021Q2,Wilmington,DE,05/25/2021,0.0,0,0.0
-JNLIC,2021Q2,Longueuil,CAN,10/05/2017,0.0,0,0.0
-JNLIC,2021Q2,Toronto,CAN,07/08/2011,0.0,0,0.0
 JNLIC,2021Q2,El Segundo,CA,05/13/2021,0.0,0,0.0
-JNLIC,2021Q2,Denver,CO,07/19/2018,0.0,0,0.0
-JNLIC,2021Q2,Boston,MA,02/27/2013,0.0,0,0.0
-JNLIC,2021Q2,Marina Del Rey,CA,04/28/2015,0.0,0,0.0
-JNLIC,2021Q2,"Admini- Date Type Actual Cost 542,427 0 Seidler Equity Partners VI, L.P. Marina ",CA,12/03/2018,0.0,0,5.0
+JNLIC,2021Q2,"STATEMENT AS OF JUNE 30, 2021 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY Sei",CA,12/03/2018,0.0,0,5.0
 JNLIC,2021Q2,"Seidler Equity Partners VII, L.P. New York",CA,11/12/2020,0.0,0,1.88
 JNLIC,2021Q2,"San Francisco 0 0 0 0.690 SFR Delos Partners, L.P. Boca Raton",NY,05/17/2021,0.0,0,0.27
 JNLIC,2021Q2,"SPC Partners VI, L.P. Chicago",CA,11/15/2017,0.0,0,0.65
@@ -244,15 +137,6 @@ JNLIC,2021Q2,"Veritas Capital Fund V, L.P. Wilmington",NY,06/08/2015,0.0,0,4.04
 JNLIC,2021Q2,"Veritas Capital Fund VII, L.P.",NY,04/14/2020,0.0,0,42.0
 JNLIC,2021Q2,"E03.1 000000-00-0 Vortus Investments II, L.P.",TX,06/09/2017,0.0,0,0.0
 JNLIC,2021Q2,"Wind Point Partners IX-A, L.P.",IL,09/05/2019,0.0,0,0.0
-JNLIC,2021Q2,"Wynnefield Private Equity Partners I, L.P.",PA,07/13/2000,0.0,0,0.0
-JNLIC,2021Q2,"Yorktown Energy Partners XI, L.P.",NY,04/22/2016,0.0,0,0.0
-JNLIC,2021Q2,"PPM America Private Equity Fund VII, L.P.",IL,06/27/2018,0.0,0,0.0
-JNLIC,2021Q2,"Apollo Asia Real Estate SC Coinvest Fund, L.P.",NY,12/02/2020,0.0,0,0.0
-JNLIC,2021Q2,"Apollo USREF III Royce Holdings, L.P.",NY,01/12/2021,0.0,0,0.0
-JNLIC,2021Q2,"Principal Real Estate Debt Fund II, L.P.",IL,12/13/2017,0.0,0,0.0
-JNLIC,2021Q2,"Principal Real Estate Debt Fund III, L.P.",IL,05/27/2020,0.0,0,0.0
-JNLIC,2021Q2,"Square Mile Credit Partners II, L.P.",NY,02/27/2019,0.0,0,0.0
-JNLIC,2021Q2,"NNN AGP Opportunities Fund II, L.P.",DE,04/08/2021,0.0,0,0.0
 JNLIC,2022Q2,PPMC 2019-2A SUB PPMC 6.,,04/07/2022,0.0,0,0.0
 JNLIC,2022Q2,"AA Freedom Holdings, L.P. Wilmington",DE,03/03/2021,0.0,0,20.0
 JNLIC,2022Q2,"AA GP Solutions Fund, L.P. Wilmington",DE,07/29/2021,0.0,0,1.14
@@ -279,35 +163,10 @@ JNLIC,2022Q2,"Calera Capital Partners IV, L.P. San Francisco",CA,01/22/2008,0.0,
 JNLIC,2022Q2,"Calera Capital Partners V, L.P. San Francisco",CA,10/31/2017,0.0,0,2.52
 JNLIC,2022Q2,"Carlyle Infrastructure Credit Fund, L.P. Washington",DC,04/19/2022,0.0,0,0.17
 JNLIC,2022Q2,"Catterton Latin America III, L.P. Greenwich",CT,03/23/2020,0.0,0,2.07
-JNLIC,2022Q2,"Catterton Partners IX, L.P. Greenwich",CT,05/21/2020,0.0,0,0.0
-JNLIC,2022Q2,"Catterton Partners VIII, L.P. Greenwich",CT,06/12/2017,0.0,0,0.0
-JNLIC,2022Q2,"Centre Capital Investors VII, L.P. New York",NY,05/29/2018,0.0,0,0.0
-JNLIC,2022Q2,"Clayton, Dubilier & Rice Fund XI, L.P. New York",NY,09/22/2021,0.0,0,0.0
 JNLIC,2022Q2,"Clearlake Capital Partners VII, L.P. Santa Monica",CA,04/25/2022,0.0,0,0.0
-JNLIC,2022Q2,"Core Senior Lending Fund II Feeder, L.P. New York",NY,12/23/2021,0.0,0,0.0
 JNLIC,2022Q2,"Haveli VC Gaming Fund I, L.P. Wilmington",DE,04/04/2022,0.0,0,0.0
-JNLIC,2022Q2,"Insight Partners XII Buyout Annex Fund, L.P. New York",NY,08/24/2021,0.0,0,0.0
-JNLIC,2022Q2,"Insight Partners XII, L.P. New York",NY,08/26/2021,0.0,0,0.0
-JNLIC,2022Q2,"IPI Partners II-A, L.P. Chicago",IL,04/30/2021,0.0,0,0.0
-JNLIC,2022Q2,"Jade Equity Investors, L.P. Los Angeles",CA,04/14/2020,0.0,0,0.0
-JNLIC,2022Q2,"JFL Equity Investors III, L.P. New York",NY,02/11/2011,0.0,0,0.0
-JNLIC,2022Q2,"JFL Equity Investors IV, L.P. New York",NY,03/28/2016,0.0,0,0.0
-JNLIC,2022Q2,"JFL Equity Investors V, L.P. New York",NY,08/14/2020,0.0,0,0.0
-JNLIC,2022Q2,"K3 Private Investors, L.P. El Segundo",CA,07/15/2016,0.0,0,0.0
-JNLIC,2022Q2,"K4 Private Investors, L.P. El Segundo",CA,11/14/2018,0.0,0,0.0
 JNLIC,2022Q2,KKR North America Fund XIII SCSp New York,NY,05/04/2022,0.0,0,0.0
-JNLIC,2022Q2,"Leeds Equity Partners VI, L.P. New York",NY,06/01/2017,0.0,0,0.0
-JNLIC,2022Q2,"Leeds Equity Partners VII, L.P. New York",NY,09/07/2021,0.0,0,0.0
-JNLIC,2022Q2,"Levine Leichtman Capital Partners VI, L.P. Beverly Hills CA LLCP Partners",VI,05/30/2017,0.0,0,0.0
-JNLIC,2022Q2,"Lexington Capital Partners VII, L.P. New York",NY,03/25/2010,0.0,0,0.0
-JNLIC,2022Q2,"Littlejohn Fund V, L.P. Greenwich",CT,07/02/2014,0.0,0,0.0
-JNLIC,2022Q2,"Lovell Minnick Equity Partners V, L.P. Radnor",PA,10/24/2019,0.0,0,0.0
-JNLIC,2022Q2,"Madison Dearborn Capital Partners VIII, L.P. Chicago",IL,11/19/2020,0.0,0,0.0
-JNLIC,2022Q2,"Marlin Equity V, L.P. Hermosa Beach",CA,02/20/2018,0.0,0,0.0
-JNLIC,2022Q2,"Marlin Heritage II, L.P. Hermosa Beach",CA,10/23/2017,0.0,0,0.0
-JNLIC,2022Q2,"Mason Wells Leveraged Buyout Fund V, L.P. Milwaukee",WI,07/26/2021,0.0,0,0.0
-JNLIC,2022Q2,"MidCap FinCo Holdings, L.P. El Segundo",CA,04/30/2021,0.0,0,0.0
-JNLIC,2022Q2,"Admini- Date Type Actual Cost 35,000 0 MidOcean Partners V, L.P. New York",NY,05/21/2018,0.0,0,21.5
+JNLIC,2022Q2,"SVO 4,906 0 Commitment MidOcean Partners V, L.P. New York",NY,05/21/2018,0.0,0,21.5
 JNLIC,2022Q2,"Motive Capital Fund II-A, L.P. Greenwich",DE,08/06/2021,0.0,0,21.89
 JNLIC,2022Q2,"Wilmington 0 0 2.200 North Castle Partners VII, L.P. Wilmington",CT,12/28/2018,0.0,0,2.16
 JNLIC,2022Q2,"NOVA Infrastructure Fund I, L.P. Longueuil",DE,05/26/2021,0.0,0,2.09
@@ -333,27 +192,7 @@ JNLIC,2022Q2,"TSG7-A, L.P.",CA,03/29/2016,0.0,0,0.0
 JNLIC,2022Q2,"New York 125,981,927 0 XXX TSG7-B, L.P. Birmingham",CA,01/15/2016,0.0,0,13.74
 JNLIC,2022Q2,"TSG8, L.P. Chicago",CA,01/07/2019,0.0,0,0.0
 JNLIC,2022Q2,"Veritas Capital Fund VII, L.P.",NY,04/14/2020,0.0,0,4.04
-JNLIC,2022Q2,"Veritas Capital Vantage Fund, L.P.",NY,07/01/2021,0.0,0,0.0
-JNLIC,2022Q2,"Vortus Investments II, L.P.",TX,06/19/2017,0.0,0,0.0
 JNLIC,2022Q2,"Wind Point Partners IX-A, L.P.",IL,09/05/2019,0.0,0,0.0
-JNLIC,2022Q2,"Wind Point Partners VII, L.P.",IL,04/08/2009,0.0,0,0.0
-JNLIC,2022Q2,"Wynnefield Private Equity Partners I, L.P.",PA,07/13/2000,0.0,0,0.0
-JNLIC,2022Q2,"Yorktown Energy Partners VII, L.P.",NY,11/12/2010,0.0,0,0.0
-JNLIC,2022Q2,"Yorktown Energy Partners VIII, L.P.",NY,09/29/2008,0.0,0,0.0
-JNLIC,2022Q2,"Yorktown Energy Partners IX, L.P.",NY,11/12/2010,0.0,0,0.0
-JNLIC,2022Q2,"Yorktown Energy Partners X, L.P.",NY,05/23/2013,0.0,0,0.0
-JNLIC,2022Q2,"Yorktown Energy Partners XI, L.P.",NY,04/22/2016,0.0,0,0.0
-JNLIC,2022Q2,"PPM America Private Equity Fund III, L.P.",IL,03/04/2008,0.0,0,0.0
-JNLIC,2022Q2,"PPM America Private Equity Fund IV, L.P.",IL,04/28/2015,0.0,0,0.0
-JNLIC,2022Q2,"PPM America Private Equity Fund V, L.P.",IL,02/11/2014,0.0,0,0.0
-JNLIC,2022Q2,"PPM America Private Equity Fund VI, L.P.",IL,01/20/2016,0.0,0,0.0
-JNLIC,2022Q2,"PPM America Private Equity Fund VII, L.P.",IL,03/11/2022,0.0,0,0.0
-JNLIC,2022Q2,"PPM America Private Equity Fund VIII-A, L.P.",IL,06/08/2022,0.0,0,0.0
-JNLIC,2022Q2,"PPM Loan Management Company 2, LLC",IL,03/11/2022,0.0,0,0.0
-JNLIC,2022Q2,"Apollo USREF III Royce Holdings, L.P.",NY,12/29/2020,0.0,0,0.0
-JNLIC,2022Q2,"Harbert Real Estate Fund V, L.P.",AL,12/07/2012,0.0,0,0.0
-JNLIC,2022Q2,"Principal Real Estate Debt Fund III, L.P.",IL,05/27/2020,0.0,0,0.0
-JNLIC,2022Q2,"Square Mile Credit Partners II, L.P.",NY,02/27/2019,0.0,0,0.0
 JNLIC,2022Q3,"AA GP Solutions Fund, L.P. Wilmington",DE,07/29/2021,0.0,0,3.03
 JNLIC,2022Q3,"AA WH HoldCo, L.P. Wilmington DE Apollo Principal Holdings",VI,09/01/2021,0.0,0,11.19
 JNLIC,2022Q3,"AEA Investors Small Business Fund II, L.P. New York",NY,12/23/2009,0.0,0,0.08
@@ -380,35 +219,8 @@ JNLIC,2022Q3,"Catterton Partners VIII, L.P. Greenwich",CT,06/12/2017,0.0,0,1.2
 JNLIC,2022Q3,"Centre Capital Investors VII, L.P. New York",NY,05/29/2018,0.0,0,1.16
 JNLIC,2022Q3,"Clairvest Equity Partners V-A, L.P. Toronto",CAN,03/13/2015,0.0,0,0.79
 JNLIC,2022Q3,"Clairvest Equity Partners VI-A, L.P. Toronto",CAN,07/02/2020,0.0,0,1.91
-JNLIC,2022Q3,"Clayton, Dubilier & Rice Fund X, L.P. New York",NY,03/26/2018,0.0,0,0.0
-JNLIC,2022Q3,"Clearlake Capital Partners VII, L.P. Santa Monica",CA,04/25/2022,0.0,0,0.0
-JNLIC,2022Q3,"Core Senior Lending Fund II Feeder, L.P. New York",NY,12/23/2021,0.0,0,0.0
-JNLIC,2022Q3,"Cortec Group Fund V, L.P. New York",NY,04/18/2011,0.0,0,0.0
-JNLIC,2022Q3,"Cortec Group Fund VI, L.P. New York",NY,07/09/2015,0.0,0,0.0
-JNLIC,2022Q3,"Cortec Group Fund VII, L.P. New York",NY,12/10/2019,0.0,0,0.0
-JNLIC,2022Q3,"Frazier Healthcare Growth Buyout Fund X, L.P. Seattle",WA,06/10/2021,0.0,0,0.0
-JNLIC,2022Q3,"Graham Partners V, L.P. Newtown Square",PA,11/05/2019,0.0,0,0.0
-JNLIC,2022Q3,"Green Equity Investors VII, L.P. Los Angeles",CA,05/11/2017,0.0,0,0.0
-JNLIC,2022Q3,"Green Equity Investors VIII, L.P. Los Angeles",CA,10/20/2020,0.0,0,0.0
 JNLIC,2022Q3,"Harvest Partners IX, L.P. New York",NY,08/31/2022,0.0,0,0.0
-JNLIC,2022Q3,"Harvest Partners VIII, L.P. New York",NY,11/26/2019,0.0,0,0.0
-JNLIC,2022Q3,"Haveli VC Gaming Fund I, L.P. Wilmington",DE,04/04/2022,0.0,0,0.0
-JNLIC,2022Q3,"Insight Partners XII, L.P. New York",NY,08/26/2021,0.0,0,0.0
-JNLIC,2022Q3,"IPI Partners II-A, L.P. Chicago",IL,04/30/2021,0.0,0,0.0
-JNLIC,2022Q3,Island NYC Recovery Fund I L.P. New York,NY,10/28/2021,0.0,0,0.0
-JNLIC,2022Q3,"JFL Equity Investors V, L.P. New York",NY,08/14/2020,0.0,0,0.0
-JNLIC,2022Q3,"K3 Private Investors, L.P. El Segundo",CA,07/15/2016,0.0,0,0.0
-JNLIC,2022Q3,"K4 Private Investors, L.P. El Segundo",CA,11/14/2018,0.0,0,0.0
-JNLIC,2022Q3,KKR North America Fund XIII SCSp New York,NY,05/04/2022,0.0,0,0.0
-JNLIC,2022Q3,"Leeds Equity Partners VI, L.P. New York",NY,06/01/2017,0.0,0,0.0
-JNLIC,2022Q3,"Levine Leichtman Capital Partners VI, L.P. Beverly Hills CA LLCP Partners",VI,05/30/2017,0.0,0,0.0
-JNLIC,2022Q3,"Lovell Minnick Equity Partners IV, L.P. Radnor",PA,03/26/2015,0.0,0,0.0
-JNLIC,2022Q3,"Lovell Minnick Equity Partners V, L.P. Radnor",PA,10/24/2019,0.0,0,0.0
-JNLIC,2022Q3,"Madison Dearborn Capital Partners VIII, L.P. Chicago",IL,11/19/2020,0.0,0,0.0
-JNLIC,2022Q3,"Marlin Heritage II, L.P. Hermosa Beach",CA,10/23/2017,0.0,0,0.0
-JNLIC,2022Q3,"MidCap FinCo Holdings, L.P. El Segundo",CA,04/30/2021,0.0,0,0.0
-JNLIC,2022Q3,"MidOcean Partners V, L.P. New York",NY,05/21/2018,0.0,0,0.0
-JNLIC,2022Q3,"Admini- Date Type Actual Cost 2,448,591 0 MidOcean Partners VI, L.P. New York",NY,08/23/2022,0.0,0,21.5
+JNLIC,2022Q3,"SVO 26,092 0 Commitment MidOcean Partners VI, L.P. New York",NY,08/23/2022,0.0,0,21.5
 JNLIC,2022Q3,"Motive Capital Fund II-A, L.P. Radnor",DE,08/06/2021,0.0,0,14.86
 JNLIC,2022Q3,"NewSpring Growth Capital III, L.P. Greenwich",PA,03/02/2012,0.0,0,2.2
 JNLIC,2022Q3,"NewSpring Growth Capital V, L.P. Longueuil",PA,08/04/2020,0.0,0,0.38
@@ -424,7 +236,6 @@ JNLIC,2022Q3,"Sterling Investment Partners IV, L.P. New York",CT,07/15/2021,0.0,
 JNLIC,2022Q3,"Sun Capital Partners VI, L.P. New York",FL,08/15/2013,0.0,0,0.34
 JNLIC,2022Q3,"Thoma Bravo Discover Fund III, L.P. New York",IL,06/30/2021,0.0,0,1.08
 JNLIC,2022Q3,"Thoma Bravo XII, L.P. Bala Synwyd",IL,05/27/2016,0.0,0,0.58
-JNLIC,2022Q3,"Thoma Bravo XIII, L.P.",IL,02/13/2019,0.0,0,0.0
 JNLIC,2022Q3,"Thoma Bravo XV, L.P. Chicago",IL,06/09/2022,0.0,0,49.88
 JNLIC,2022Q3,"E03.1 000000-00-0 Torquest Partners Fund (U.S.) IV, L.P. Chicago",CAN,08/31/2016,0.0,0,47.89
 JNLIC,2022Q3,"Torquest Partners Fund (U.S.) V, L.P. Chicago",CAN,07/09/2021,0.0,0,57.0
@@ -432,25 +243,7 @@ JNLIC,2022Q3,"TSG6, L.P.",CA,07/03/2012,0.0,0,0.0
 JNLIC,2022Q3,"New York 265,712,233 XXX TSG7-A, L.P. Birmingham",CA,03/29/2016,0.0,0,13.74
 JNLIC,2022Q3,"TSG7-B, L.P. Chicago",CA,01/15/2016,0.0,0,0.0
 JNLIC,2022Q3,"New York 17,140,910 XXX TSG8, L.P.",CA,01/07/2019,0.0,0,4.04
-JNLIC,2022Q3,"Veritas Capital Fund V, L.P.",NY,06/08/2015,0.0,0,0.0
 JNLIC,2022Q3,"Veritas Capital Fund VI, L.P.",NY,06/14/2017,0.0,0,0.0
-JNLIC,2022Q3,"Veritas Capital Fund VII, L.P.",NY,04/14/2020,0.0,0,0.0
-JNLIC,2022Q3,"Veritas Capital Fund VIII, L.P.",NY,07/01/2022,0.0,0,0.0
-JNLIC,2022Q3,"Veritas Capital Vantage Fund, L.P.",NY,07/01/2021,0.0,0,0.0
-JNLIC,2022Q3,"Wind Point Partners IX-A, L.P.",IL,09/05/2019,0.0,0,0.0
-JNLIC,2022Q3,"Wynnefield Private Equity Partners I, L.P.",PA,07/13/2000,0.0,0,0.0
-JNLIC,2022Q3,"Yorktown Energy Partners XI, L.P.",NY,04/22/2016,0.0,0,0.0
-JNLIC,2022Q3,"PPM America Private Equity Fund III, L.P.",IL,03/04/2008,0.0,0,0.0
-JNLIC,2022Q3,"PPM America Private Equity Fund IV, L.P.",IL,04/28/2015,0.0,0,0.0
-JNLIC,2022Q3,"PPM America Private Equity Fund V, L.P.",IL,02/11/2014,0.0,0,0.0
-JNLIC,2022Q3,"PPM America Private Equity Fund VI, L.P.",IL,01/20/2016,0.0,0,0.0
-JNLIC,2022Q3,"PPM America Private Equity Fund VII, L.P.",IL,03/11/2022,0.0,0,0.0
-JNLIC,2022Q3,"PPM America Private Equity Fund VIII-A, L.P.",IL,06/08/2022,0.0,0,0.0
-JNLIC,2022Q3,"PPM Loan Management Company 2, LLC",IL,03/11/2022,0.0,0,0.0
-JNLIC,2022Q3,"Apollo USREF III Royce Holdings, L.P.",NY,12/29/2020,0.0,0,0.0
-JNLIC,2022Q3,"Harbert Real Estate Fund V, L.P.",AL,12/07/2012,0.0,0,0.0
-JNLIC,2022Q3,"Principal Real Estate Debt Fund III, L.P.",IL,05/27/2020,0.0,0,0.0
-JNLIC,2022Q3,"Square Mile Credit Partners II, L.P.",NY,02/27/2019,0.0,0,0.0
 JNLIC,2022Q4,". PPM America Private Equity Fund VII, L.P. O Chicago",IL,03/11/2022,398859472.0,0,53.24
 JNLIC,2022Q4,New York,NY,04/30/2021,155360056.0,0,29.87
 JNLIC,2022Q4,". PPM America Private Equity Fund VI, L.P. O Chicago",IL,01/20/2016,148470483.0,0,47.89
@@ -647,7 +440,7 @@ JNLIC,2022Q4,Toronto,CAN,12/15/2000,0.0,5179,11.81
 JNLIC,2022Q4,". National Planning Holdings, LLC O Lansing",MI,12/31/2018,0.0,0,100.0
 JNLIC,2022Q4,E07.4 000000-00-0 . Jackson Holdings Line of Credit Wilmington,DE,06/18/2009,0.0,50001,100.0
 JNLIC,2022Q4,. Jackson Financial Inc. Line of Credit Wilmington,DE,12/14/2011,0.0,99999,100.0
-JNLIC,2023Q1,Admini- Date Type Actual Cost Additional for E03 000000-00-0 AA GP Solutions Fun,DE,07/29/2021,0.0,0,33.98
+JNLIC,2023Q1,"E03 000000-00-0 AA GP Solutions Fund, L.P. Wilmington",DE,07/29/2021,0.0,0,33.98
 JNLIC,2023Q1,"AP Tundra Holdings, LLC Wilmington",DE,12/29/2020,0.0,0,11.19
 JNLIC,2023Q1,"Apollo Hybrid Value Fund II, L.P. New York",NY,12/23/2020,0.0,0,6.93
 JNLIC,2023Q1,"Apollo Impact Mission Fund, L.P. Wilmington",DE,12/30/2021,0.0,0,3.92
@@ -704,7 +497,7 @@ JNLIC,2023Q1,"SPC Partners VI, L.P. San Francisco",CA,11/15/2017,0.0,0,1.88
 JNLIC,2023Q1,"SPC Partners VII, L.P. San Francisco",CA,02/06/2023,0.0,0,1.0
 JNLIC,2023Q1,"Thoma Bravo Discover Fund IV, L.P. Chicago",IL,12/07/2022,0.0,0,0.597
 JNLIC,2023Q1,"Thoma Bravo XIV, L.P. Chicago",IL,04/30/2021,0.0,0,0.56
-JNLIC,2023Q1,"Admini- Date Type Actual Cost Additional for Torquest Partners Fund (U.S.) V, L.",CAN,07/09/2021,0.0,0,0.77
+JNLIC,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY To",CAN,07/09/2021,0.0,0,0.77
 JNLIC,2023Q1,"TSG6, L.P. San Francisco",CA,07/03/2012,0.0,0,1.15
 JNLIC,2023Q1,"TSG7-A, L.P. San Francisco",CA,03/29/2016,0.0,0,0.31
 JNLIC,2023Q1,"TSG7-B, L.P. San Francisco",CA,01/15/2016,0.0,0,0.49
@@ -725,7 +518,7 @@ JNLIC,2023Q1,"E03.1 000000-00-0 PPM America Private Equity Fund VIII-A, L.P. Chi
 JNLIC,2023Q1,"Principal Real Estate Debt Fund III, L.P. Chicago",IL,05/27/2020,0.0,0,4.04
 JNLIC,2023Q1,"Square Mile Credit Partners II, L.P. New York",NY,02/27/2019,0.0,0,2.0
 JNLIC,2023Q1,PPMA Line of Credit (Affiliate) Wilmington,DE,12/01/2011,0.0,0,100.0
-JNLIC,2023Q2,Admini- Date Type Actual Cost Additional for E03 000000-00-0 AA Euro Investment ,LUX,09/02/2021,0.0,0,5.0
+JNLIC,2023Q2,E03 000000-00-0 AA Euro Investment Fund (Lux) SCSP Luxembourg,LUX,09/02/2021,0.0,0,5.0
 JNLIC,2023Q2,"AEA Investors Small Business Fund II, L.P. New York",NY,12/23/2009,0.0,0,3.03
 JNLIC,2023Q2,"AEA Investors Small Business Fund III, L.P. New York",NY,03/24/2016,0.0,0,0.67
 JNLIC,2023Q2,"AEA Investors Small Business Fund IV, L.P. New York",NY,10/10/2019,0.0,0,1.14
@@ -782,7 +575,7 @@ JNLIC,2023Q2,"Novacap TMT VI, L.P. Longueuil",CAN,09/27/2021,0.0,0,0.38
 JNLIC,2023Q2,"Revelstoke Capital Partners Fund II, L.P. Denver",CO,07/19/2018,0.0,0,2.09
 JNLIC,2023Q2,"Revelstoke Capital Partners Fund III, L.P. Denver",CO,12/23/2021,0.0,0,0.67
 JNLIC,2023Q2,"Riverside Fund V, L.P. Boston",MA,02/27/2013,0.0,0,1.3
-JNLIC,2023Q2,"Admini- Date Type Actual Cost Additional for Riverside Fund VI-A, L.P. Boston",MA,06/13/2019,0.0,0,3.0
+JNLIC,2023Q2,"STATEMENT AS OF JUNE 30, 2023 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY Riv",MA,06/13/2019,0.0,0,3.0
 JNLIC,2023Q2,"Seidler Equity Partners V, L.P. Marina Del Rey",CA,04/28/2015,0.0,0,1.96
 JNLIC,2023Q2,"Seidler Equity Partners VI, L.P. Marina Del Rey",CA,05/23/2018,0.0,0,2.43
 JNLIC,2023Q2,"Seidler Equity Partners VII, L.P. Marina Del Rey",CA,11/12/2020,0.0,0,5.0
@@ -808,7 +601,7 @@ JNLIC,2023Q2,"PPM America Private Equity Fund VII, L.P. Chicago",IL,03/11/2022,0
 JNLIC,2023Q2,"AG Essential Housing Fund II, L.P. Wilmington",DE,12/23/2021,0.0,0,2.37
 JNLIC,2023Q2,"Square Mile Credit Partners II, L.P. New York",NY,02/27/2019,0.0,0,2.0
 JNLIC,2023Q2,PPMA Line of Credit (Affiliate) Wilmington,DE,12/01/2011,0.0,0,100.0
-JNLIC,2023Q3,Admini- Date Type Actual Cost Additional for E03 000000-00-0 AA GP Solutions Fun,DE,07/29/2021,0.0,0,33.98
+JNLIC,2023Q3,"E03 000000-00-0 AA GP Solutions Fund, L.P. Wilmington",DE,07/29/2021,0.0,0,33.98
 JNLIC,2023Q3,"Access Holdings Fund II, L.P. Baltimore",MD,09/21/2023,0.0,0,1.2
 JNLIC,2023Q3,"AEA Investors Small Business Fund IV, L.P. New York",NY,10/10/2019,0.0,0,1.14
 JNLIC,2023Q3,"AOP Finance Partners, L.P. El Segundo",CA,04/30/2021,0.0,0,18.67
@@ -865,7 +658,7 @@ JNLIC,2023Q3,"NewSpring Growth Capital IV, L.P. Radnor",PA,03/14/2016,0.0,0,1.68
 JNLIC,2023Q3,"NewSpring Growth Capital V, L.P. Radnor",PA,08/04/2020,0.0,0,14.86
 JNLIC,2023Q3,"North Castle Partners VII, L.P. Greenwich",CT,12/28/2018,0.0,0,1.9
 JNLIC,2023Q3,"NOVA Infrastructure Fund I, L.P. Wilmington",DE,05/26/2021,0.0,0,21.89
-JNLIC,2023Q3,Admini- Date Type Actual Cost Additional for E03.1 000000-00-0 NOVA Infrastructu,DE,05/31/2021,0.0,0,2.2
+JNLIC,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE JACKSON NATIONAL LIFE INSURANCE COMPAN",DE,05/31/2021,0.0,0,2.2
 JNLIC,2023Q3,"Novacap TMT V, L.P. Longueuil",CAN,10/05/2017,0.0,0,2.16
 JNLIC,2023Q3,"Novacap TMT VI, L.P. Longueuil",CAN,09/27/2021,0.0,0,0.38
 JNLIC,2023Q3,"Revelstoke Capital Partners Fund III, L.P. Denver",CO,12/23/2021,0.0,0,0.67
@@ -1086,7 +879,7 @@ JNLIC,2023Q4,". Harbert Real Estate Fund V, L.P. O Birmingham",AL,12/07/2012,126
 JNLIC,2023Q4,". Brockway Moran & Partners Fund III, L.P. O Boca Raton",FL,10/25/2006,7638.0,0,2.14
 JNLIC,2023Q4,. Jackson Financial Inc. Line of Credit Wilmington,DE,12/14/2011,0.0,0,100.0
 JNLIC,2023Q4,. PPMA Line of Credit Chicago,IL,09/09/2008,0.0,0,100.0
-JNLIC,2024Q1,Admini- Date Type Actual Cost Additional for AA Euro Investment Fund (Lux) SCSP ,LUX,09/02/2021,0.0,0,5.0
+JNLIC,2024Q1,AA Euro Investment Fund (Lux) SCSP Luxembourg,LUX,09/02/2021,0.0,0,5.0
 JNLIC,2024Q1,"AA GP Solutions Fund, L.P. Wilmington",DE,07/29/2021,0.0,0,33.98
 JNLIC,2024Q1,"AEA Investors Small Business Fund III, L.P. New York",NY,03/24/2016,0.0,0,0.67
 JNLIC,2024Q1,"AP Tundra Holdings, LLC Wilmington",DE,12/29/2020,0.0,0,11.19
@@ -1143,7 +936,7 @@ JNLIC,2024Q1,"NOVA Infrastructure GP I, L.P. Wilmington",DE,05/31/2021,0.0,0,2.2
 JNLIC,2024Q1,"Novacap TMT VI, L.P. Longueuil",CAN,09/27/2021,0.0,0,0.38
 JNLIC,2024Q1,"Revelstoke Capital Partners Fund III, L.P. Denver",CO,12/23/2021,0.0,0,0.67
 JNLIC,2024Q1,"Riverside Fund V, L.P. Boston",MA,02/27/2013,0.0,0,1.3
-JNLIC,2024Q1,"Admini- Date Type Actual Cost Additional for Seidler Equity Partners VII, L.P. M",CA,11/12/2020,0.0,0,5.0
+JNLIC,2024Q1,"STATEMENT AS OF MARCH 31, 2024 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY Se",CA,11/12/2020,0.0,0,5.0
 JNLIC,2024Q1,"SkyKnight Capital Fund IV, L.P. San Francisco",CA,11/13/2023,0.0,0,0.24
 JNLIC,2024Q1,"SPC Partners VI, L.P. San Francisco",CA,11/15/2017,0.0,0,1.88
 JNLIC,2024Q1,"SPC Partners VII, L.P. San Francisco",CA,02/06/2023,0.0,0,1.0
@@ -1173,7 +966,7 @@ JNLIC,2024Q1,PPMA Line of Credit Chicago,IL,09/09/2008,0.0,0,100.0
 JNLIC,2024Q1,"AOP Finance Partners, L.P. El Segundo",CA,04/30/2021,0.0,0,18.67
 JNLIC,2024Q1,"PPM Loan Management Company 2, LLC, Retention Series 7 Chicago",IL,03/20/2024,0.0,0,100.0
 JNLIC,2024Q1,"PPMC 2019-2A SUB Jackson Financial, Inc",,01/16/2024,0.0,0,59.32
-JNLIC,2024Q2,Admini- Date Type Actual Cost Additional for AA Euro Investment Fund (Lux) SCSP ,LUX,09/02/2021,0.0,0,5.0
+JNLIC,2024Q2,AA Euro Investment Fund (Lux) SCSP Luxembourg,LUX,09/02/2021,0.0,0,5.0
 JNLIC,2024Q2,"AEA Investors Small Business Fund III, L.P. New York",NY,03/24/2016,0.0,0,0.67
 JNLIC,2024Q2,"AEA Investors Small Business Fund IV, L.P. New York",NY,10/10/2019,0.0,0,1.14
 JNLIC,2024Q2,"Apollo Natural Resources Partners II, L.P. New York",NY,09/28/2016,0.0,0,0.71
@@ -1230,7 +1023,7 @@ JNLIC,2024Q2,"TSG7-A, L.P. San Francisco",CA,03/29/2016,0.0,0,0.31
 JNLIC,2024Q2,"TSG7-B, L.P. San Francisco",CA,01/15/2016,0.0,0,0.49
 JNLIC,2024Q2,"TSG8, L.P. San Francisco",CA,01/07/2019,0.0,0,0.88
 JNLIC,2024Q2,"TSG9, L.P. San Francisco",CA,01/03/2023,0.0,0,0.3
-JNLIC,2024Q2,"Admini- Date Type Actual Cost Additional for Veritas Capital Fund VIII, L.P. New",NY,07/01/2022,0.0,0,0.34
+JNLIC,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY Ver",NY,07/01/2022,0.0,0,0.34
 JNLIC,2024Q2,"Veritas Capital Vantage Fund, L.P. New York",NY,07/01/2021,0.0,0,0.34
 JNLIC,2024Q2,"Wind Point Partners IX-A, L.P. Chicago",IL,09/05/2019,0.0,0,1.08
 JNLIC,2024Q2,"PPM America Private Equity Fund VIII-A, L.P. Chicago",IL,06/08/2022,0.0,0,57.0
@@ -1240,7 +1033,7 @@ JNLIC,2024Q2,PPMA Line of Credit Chicago,IL,09/09/2008,0.0,0,0.0
 JNLIC,2024Q2,"Core Senior Lending Fund II Feeder, L.P. New York",NY,12/23/2021,0.0,0,0.63
 JNLIC,2024Q2,"PPM Loan Management Company 2, LLC, Retention Series 7 Chicago",IL,03/20/2024,0.0,0,100.0
 JNLIC,2024Q2,PPMC 2024-7A JP Morgan Securities,,05/28/2024,0.0,0,31.9
-JNLIC,2024Q3,"Admini- Date Type Actual Cost Additional for Access Holdings Fund II, L.P. Balti",MD,09/21/2023,0.0,0,1.2
+JNLIC,2024Q3,"Access Holdings Fund II, L.P. Baltimore",MD,09/21/2023,0.0,0,1.2
 JNLIC,2024Q3,"AEA Investors Small Business Fund V, L.P. New York",NY,12/12/2023,0.0,0,0.14
 JNLIC,2024Q3,"AP Tundra Holdings, LLC Wilmington",DE,12/29/2020,0.0,0,11.19
 JNLIC,2024Q3,"Apollo Investment Fund IX, L.P. Purchase",NY,03/14/2019,0.0,0,0.08
@@ -1297,7 +1090,7 @@ JNLIC,2024Q3,"Novacap TMT VI, L.P. Longueuil",CAN,09/27/2021,0.0,0,0.38
 JNLIC,2024Q3,"Seidler Equity Partners Diamond Fund, L.P. Marina Del Rey",CA,06/25/2024,0.0,0,2.0
 JNLIC,2024Q3,"Seidler Equity Partners VI, L.P. Marina Del Rey",CA,05/23/2018,0.0,0,2.43
 JNLIC,2024Q3,"Seidler Equity Partners VIII, L.P. Marina Del Rey",CA,10/12/2023,0.0,0,1.6
-JNLIC,2024Q3,"Admini- Date Type Actual Cost Additional for SkyKnight Capital Fund IV, L.P. San",CA,11/13/2023,0.0,0,0.24
+JNLIC,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE JACKSON NATIONAL LIFE INSURANCE COMPAN",CA,11/13/2023,0.0,0,0.24
 JNLIC,2024Q3,"SPC Partners VI, L.P. San Francisco",CA,11/15/2017,0.0,0,1.88
 JNLIC,2024Q3,"SPC Partners VII, L.P. San Francisco",CA,02/06/2023,0.0,0,1.0
 JNLIC,2024Q3,"Sterling Investment Partners IV, L.P. Westport",CT,07/15/2021,0.0,0,2.54
@@ -1320,17 +1113,17 @@ JNLIC,2024Q4,". PPM America Private Equity Fund VIII-A, L.P. O Chicago",IL,06/08
 JNLIC,2024Q4,". SFR Delos Partners, L.P. O New York",NY,04/30/2021,135130095.0,0,29.87
 JNLIC,2024Q4,"Pretium Olympus JV, L.P. O Pretium Olympus GP, LLC, the General Revelstoke Capit",CA,05/13/2021,110513269.0,0,29.85
 JNLIC,2024Q4,". Motive Capital Fund II-A, L.P. O Wilmington",DE,08/06/2021,93351952.0,88552,21.5
-JNLIC,2024Q4,". AOP Finance Partners, L.P. O El Segundo",CA,04/30/2021,73090225.0,0,18.67
+JNLIC,2024Q4,". AOP Finance Partners, L.P. O El Segundo",CA,04/30/2021,73090229.0,0,18.67
 JNLIC,2024Q4,". JNAM, LLC O Chicago",IL,05/31/2005,62233627.0,651500000,100.0
 JNLIC,2024Q4,". IPI Partners II-A, L.P. O Chicago",IL,04/30/2021,61355738.0,0,1.31
 JNLIC,2024Q4,". AA GP Solutions Fund, L.P. O Wilmington",DE,07/29/2021,59008623.0,0,33.98
 JNLIC,2024Q4,". AP Tundra Holdings, LLC O Wilmington",DE,12/29/2020,56005768.0,505381,11.19
 JNLIC,2024Q4,. RGA REINSURANCE Chesterfield,MO,12/01/2024,50000000.0,1000000,10.0
-JNLIC,2024Q4,". NNN AGP Opportunities Fund II, L.P. O Wilmington",DE,05/27/2021,49263102.0,63641,42.0
+JNLIC,2024Q4,". NNN AGP Opportunities Fund II, L.P. O Wilmington",DE,05/27/2021,49263101.0,63641,42.0
 JNLIC,2024Q4,". Thoma Bravo XIV, L.P. O Chicago",IL,04/30/2021,48337587.0,2627550,0.56
 JNLIC,2024Q4,TEACHERS INSURANCE AND ANNUITY New York,NY,12/01/2024,46863423.0,0,2.0
 JNLIC,2024Q4,"E07.2 000000-00-0 . NOVA Infrastructure Fund I, L.P. O Wilmington",DE,05/26/2021,42845505.0,1357975,21.89
-JNLIC,2024Q4,". Veritas Capital Fund VII, L.P. O New York",NY,04/14/2020,36107415.0,0,0.44
+JNLIC,2024Q4,". Veritas Capital Fund VII, L.P. O New York",NY,04/14/2020,36107412.0,0,0.44
 JNLIC,2024Q4,Marina Del Rey,CA,11/12/2020,34526602.0,-65306,5.0
 JNLIC,2024Q4,". Veritas Capital Fund VIII, L.P. O New York",NY,07/01/2022,25285693.0,1211,0.34
 JNLIC,2024Q4,Chicago,IL,06/30/2021,23933114.0,689875,0.53
@@ -1524,7 +1317,7 @@ JNLIC,2024Q4,". First Reserve Fund XII, L.P. O Greenwich",CT,08/25/2008,7286.0,0
 JNLIC,2024Q4,"NOVA Infrastructure Holdings, L.P. O Wilmington",DE,03/31/2021,1.0,0,3.32
 JNLIC,2024Q4,". Harbert Real Estate Fund V, L.P. O Birmingham",AL,12/07/2012,1.0,0,1.0
 JNLIC,2024Q4,". National Planning Holdings, LLC O Lansing",MI,12/31/2018,0.0,0,100.0
-JNLIC,2025Q1,Admini- Date Type Actual Cost Additional for APOLLO CORE INFRASTRUCTURE CLASS B ,,12/22/2021,0.0,0,0.0
+JNLIC,2025Q1,APOLLO CORE INFRASTRUCTURE CLASS B No Broker 4.B,,12/22/2021,0.0,0,0.0
 JNLIC,2025Q1,APOLLO CORE INFRASTRUCTURE CLASS BB No Broker 3.B,,12/22/2021,0.0,0,0.0
 JNLIC,2025Q1,WILTON RE CREDIT SUISSE FIRST BOSTON 3.B,FE,10/15/2020,0.0,0,0.0
 JNLIC,2025Q1,BOP 2019-300M A BOP 4.B,,12/30/2024,0.0,0,0.0
@@ -1576,7 +1369,7 @@ JNLIC,2025Q1,Leeds Equity Partners VII New York,NY,09/07/2021,0.0,0,1.18
 JNLIC,2025Q1,Madison Dearborn Cap Partners VIII Chicago,IL,11/19/2020,0.0,0,0.79
 JNLIC,2025Q1,Mason Wells Lev. Buyout Fund V Milwaukee,WI,07/26/2021,0.0,0,2.07
 JNLIC,2025Q1,Revelstoke Capital Partners II Denver,CO,07/19/2018,0.0,0,2.09
-JNLIC,2025Q1,Admini- Date Type Actual Cost Additional for Revelstoke Capital Partners III Den,CO,12/23/2021,0.0,0,0.67
+JNLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY Re",CO,12/23/2021,0.0,0,0.67
 JNLIC,2025Q1,Sterling Investment Partners IV Westport,CT,07/15/2021,0.0,0,2.54
 JNLIC,2025Q1,Thoma Bravo XIV Chicago,IL,04/30/2021,0.0,0,0.56
 JNLIC,2025Q1,Veritas Capital Fund VIII New York,NY,07/01/2022,0.0,0,0.34
@@ -1624,7 +1417,7 @@ JNLIC,2025Q1,PPM Loan Management Company 2 Retention Series 4 Chicago,IL,03/11/2
 JNLIC,2025Q1,PPM Loan Management Company 2 Retention Series 5 Chicago,IL,03/11/2022,0.0,0,100.0
 JNLIC,2025Q1,PPM Loan Management Company 2 Retention Series 7 Chicago,IL,03/11/2022,0.0,0,100.0
 JNLIC,2025Q1,PPMC 2022-6RA SUB,,12/01/2023,0.0,0,95.0
-JNLIC,2025Q1,Admini- Date Type Actual Cost Additional for PPMC 2024-7A SUB,,05/28/2024,0.0,0,31.942
+JNLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY PP",,05/28/2024,0.0,0,31.942
 JNLIC,2025Q2,AA GP Solutions Fund Wilmington,DE,07/29/2021,0.0,0,33.89
 JNLIC,2025Q2,Access Holdings Fund II Baltimore,MD,09/21/2023,0.0,0,1.2
 JNLIC,2025Q2,Apollo Investment Fund IX Purchase,NY,03/14/2019,0.0,0,0.08
@@ -1650,7 +1443,6 @@ JNLIC,2025Q2,Insight Partners XII New York,NY,08/26/2021,0.0,0,0.06
 JNLIC,2025Q2,Insight Partners XIII New York,NY,09/12/2024,0.0,0,0.08
 JNLIC,2025Q2,Jade Equity Investors Los Angeles,CA,04/14/2020,0.0,0,0.2
 JNLIC,2025Q2,KKR North America Fund XIII New York,NY,05/04/2022,0.0,0,0.03
-JNLIC,2025Q2,LGP Sage PC Coinvest Los Angeles,CA,01/27/2025,0.0,0,0.0
 JNLIC,2025Q2,Leeds Equity Partners VI New York NY Leeds Equity Associates,VI,06/01/2017,0.0,0,1.2
 JNLIC,2025Q2,Leeds Equity Partners VII New York,NY,09/07/2021,0.0,0,1.18
 JNLIC,2025Q2,Leeds Equity Partners VIII New York,NY,05/20/2025,0.0,0,0.74
@@ -1679,7 +1471,7 @@ JNLIC,2025Q2,TSG 8 San Francisco,CA,01/07/2019,0.0,0,0.88
 JNLIC,2025Q2,TSG 9 San Francisco,CA,01/03/2023,0.0,0,0.3
 JNLIC,2025Q2,Thoma Bravo Discover Fund IV Chicago,IL,12/07/2022,0.0,0,0.597
 JNLIC,2025Q2,Thoma Bravo Growth Partners Chicago,IL,09/28/2021,0.0,0,1.22
-JNLIC,2025Q2,Admini- Date Type Actual Cost Additional for Thoma Bravo XV Chicago,IL,06/09/2022,0.0,0,0.149
+JNLIC,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY Tho",IL,06/09/2022,0.0,0,0.149
 JNLIC,2025Q2,Veritas Capital Fund IX New York,NY,12/16/2024,0.0,0,0.002
 JNLIC,2025Q2,Veritas Capital Fund VIII New York,NY,07/01/2022,0.0,0,0.34
 JNLIC,2025Q2,Veritas Capital Vantage Fund New York,NY,07/01/2021,0.0,0,0.34
@@ -1699,7 +1491,7 @@ JNLIC,2025Q2,NORTHWESTERN MUT JP MORGAN SECURITIES 1.D,FE,05/21/2025,0.0,0,0.0
 JNLIC,2025Q2,DANSKE BANK JP MORGAN SECURITIES 2.C,FE,05/19/2025,0.0,0,0.0
 JNLIC,2025Q2,NORDEA BANK ABP JP MORGAN SECURITIES 2.B,FE,05/19/2025,0.0,0,0.0
 JNLIC,2025Q2,Core Senior Lending Fund II Feeder New York,NY,12/23/2021,0.0,0,0.63
-JNLIC,2025Q3,Admini- Date Type Actual Cost Additional for BC Partners DIRECT 1.C,FE,08/14/2025,0.0,0,0.0
+JNLIC,2025Q3,BC Partners DIRECT 1.C,FE,08/14/2025,0.0,0,0.0
 JNLIC,2025Q3,PNMSR 2021-FT1 A ATHENE ANNUITY & LIFE 2.C,FE,07/07/2025,0.0,0,0.0
 JNLIC,2025Q3,AEA Investors Small Bus Fund III New York,NY,03/24/2016,0.0,0,0.67
 JNLIC,2025Q3,AEA Investors Small Bus Fund IV New York,NY,10/10/2019,0.0,0,1.14
@@ -1753,7 +1545,7 @@ JNLIC,2025Q3,NOVA Infrastructure Fund I Wilmington,DE,05/26/2021,0.0,0,21.89
 JNLIC,2025Q3,NOVA Infrastructure GP I Wilmington,DE,05/31/2021,0.0,0,2.2
 JNLIC,2025Q3,NOVA Infrastructure GP II Wilmington,DE,12/23/2024,0.0,0,0.034
 JNLIC,2025Q3,North Castle Partners VII Greenwich,CT,12/28/2018,0.0,0,1.9
-JNLIC,2025Q3,Admini- Date Type Actual Cost Additional for Revelstoke Capital Partners III Den,CO,12/23/2021,0.0,0,0.67
+JNLIC,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE JACKSON NATIONAL LIFE INSURANCE COMPAN",CO,12/23/2021,0.0,0,0.67
 JNLIC,2025Q3,SPC Partners VI San Francisco CA SPC Management,VI,11/15/2017,0.0,0,1.88
 JNLIC,2025Q3,SPC Partners VII San Francisco,CA,02/06/2023,0.0,0,1.0
 JNLIC,2025Q3,Seidler Equity Partners VIII Marina Del Rey,CA,10/12/2023,0.0,0,1.6
@@ -1781,4 +1573,4 @@ JNLIC,2025Q3,PPM America Prv Equity Fund VIII-A Chicago,IL,06/08/2022,0.0,0,57.0
 JNLIC,2025Q3,PPM Strategic Opp Fund I Chicago,IL,06/30/2025,0.0,0,99.75
 JNLIC,2025Q3,Square Mile Credit Partners II New York,NY,02/27/2019,0.0,0,2.0
 JNLIC,2025Q3,Core Senior Lending Fund II Feeder New York,NY,04/02/2025,0.0,0,0.63
-JNLICNY,2025Q1,Admini- Date Type Actual Cost Additional for TYSN 2023-CRNR A McLean,VA,11/29/2023,0.0,0,0.0
+JNLICNY,2025Q1,TYSN 2023-CRNR A McLean,VA,11/29/2023,0.0,0,0.0

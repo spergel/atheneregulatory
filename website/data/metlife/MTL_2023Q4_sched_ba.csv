@@ -9,13 +9,13 @@ LP Austin,TX,03/15/2019,29360863,9242647,1.94
 p000978 MetLife 555 12th Member LLC Washington,DC,01/07/2014,26098621,-11925,10.106
 p001700 150 North Riverside Preferred Equity Member LLC Chicago,IL,08/17/2017,23025623,0,18.55
 p002446 MetLife Galleria Dallas Equity Fund (Mall) LP Dallas,TX,12/15/2022,22121816,-1,15.262
-"Invictus Growth Fund I, L.P. Los Angeles",CA,06/15/2018,19199188,858524,0.54
+"Invictus Growth Fund I, L.P. Los Angeles",CA,06/15/2018,19199188,838966,0.54
 "Private Investors, L.P. KKR Dislocation Opportunities (Domestic) Fund New York",NY,04/09/2020,19012739,5125818,1.6
-Bessemer Venture Partners Century Fund L.P. . Larchmont,NY,01/23/2015,18728666,3157224,1.17
-"INDEX ORIGIN I (JERSEY), L.P. London",GBR,07/02/2018,18686889,-1997291,0.59
+Bessemer Venture Partners Century Fund L.P. . Larchmont,NY,01/23/2015,18728667,3157224,1.17
+"INDEX ORIGIN I (JERSEY), L.P. London",GBR,07/02/2018,18686889,0,0.59
 Los Angeles,CA,02/27/2015,17046323,3750000,0.18
 "Cerberus SFR Opportunistic Partners, L.P. New York",NY,05/17/2021,16936719,0,2.99
-"Andreessen Horowitz LSV Fund III, L.P. Chevy Chase",MD,04/29/2019,16575412,2617834,0.56
+"Andreessen Horowitz LSV Fund III, L.P. Chevy Chase",MD,04/29/2019,16575412,688480,0.56
 Stamford,CT,11/20/2017,13493652,651122,0.24
 "Oaktree Opportunities Fund VIIIb, L.P. Chicago",IL,08/07/2018,13452731,326457,0.53
 Hong Kong,CHN,10/14/2014,13441832,749588,0.54
@@ -24,8 +24,8 @@ Tailwater Energy Fund III LP Dallas,TX,07/20/2018,13128977,1911805,2.22
 "The Baring Asia Private Equity Fund VII, L.P. Hong Kong",CHN,07/10/2018,12617459,1458495,0.27
 AP Tundra Holdings LLC Wilmington,DE,12/14/2020,12172593,600000,2.66
 "p000630 Met II Hotel, LLC Miami",FL,12/21/2006,11954839,-216,11.539
-"Accomplice Fund II, L.P. Cambridge",MA,01/10/2018,11690025,-16006132,1.64
-"Fund IV, L.P. Foster City",CA,06/27/2018,10761952,-2650241,1.32
+"Accomplice Fund II, L.P. Cambridge",MA,01/10/2018,11690026,3342857,1.64
+"Fund IV, L.P. Foster City",CA,06/27/2018,10761952,0,1.32
 London,GBR,03/07/2018,10704440,47580,0.71
 "Designation Book/ Years Other- Foreign Francisco Partners V, L.P. San Francisco",CA,09/29/2017,10593297,854437,0.24
 San Francisco,CA,12/20/2017,10520016,70658,0.59
@@ -34,7 +34,7 @@ p001875 ML Port Chester SC Member LLC Port Chester,NY,02/06/2019,10427244,-640,4
 p002443 MetLife Galleria Dallas Equity Fund (Hotel) LP Dallas,TX,12/15/2022,10298214,905771,15.211
 p002479 ML Terminal 106 Member LLC Seattle,WA,10/24/2022,10192729,0,12.55
 "Designation Book/ Years Other- Foreign One Equity Partners VIII, L.P. Chicago",IL,12/08/2021,9978856,123543,0.66
-New York,NY,08/09/2019,9895481,69152,0.11
+New York,NY,08/09/2019,9895481,376802,0.11
 "p001592 ML Southlands Member, LLC Aurora",CO,02/14/2018,9886199,-16320,40.0
 Permira VII L.P.1 Hong Kong,CHN,02/14/2018,9606431,602870,0.24
 Los Angeles,CA,10/14/2019,9486210,46610,0.16
@@ -47,16 +47,16 @@ Boston,MA,04/30/2020,8153057,346073,0.14
 p002297 1350 Eye Street Owner LLC Washington,DC,03/10/2021,7991311,0,4.38
 Pasubio Co-Invest SCSp London,GBR,05/03/2019,7875437,455405,0.07
 Sao Paulo,BRA,12/18/2017,7752587,49003,0.29
-Los Angeles,CA,10/14/2019,7684986,415061,0.52
+Los Angeles,CA,10/14/2019,7684986,2026957,0.52
 New York,NY,11/30/2018,7563217,1158146,0.15
 "Graham Partners VI, L.P. Los Angeles",CA,02/16/2016,7414634,1900718,0.15
 "Rhodium AveOne Co-Invest 2022, LLC Riverstone Global Energy and Power Fund VI, New York",NY,10/31/2014,7368452,986545,0.32
-Southern Cross Latin America Private Equity Boston,MA,02/12/2019,7345940,-2939340,0.48
+Southern Cross Latin America Private Equity Boston,MA,02/12/2019,7345940,224400,0.48
 London,GBR,04/09/2018,7251391,687657,0.32
 "Patria - Private Equity Fund VI, L.P. Warsaw POL Enterprise Investors",,09/08/2017,7233880,1230079,0.67
-L.P. Menlo Park,CA,03/25/2010,7042252,-1071705,0.22
+L.P. Menlo Park,CA,03/25/2010,7042252,39397,0.22
 "p001671 ML-AI Member 4, LLC Chantilly",VA,06/12/2018,6915529,519000,40.0
-"Dyal Capital Partners IV, L.P) Palm Beach",FL,04/07/2015,6888402,654797,2.77
+"Dyal Capital Partners IV, L.P) Palm Beach",FL,04/07/2015,6888402,590034,2.77
 New York,NY,12/11/2018,6879034,480376,0.3
 "MetLife Middle Market Private Debt Fund II, LP Whippany",NJ,08/16/2021,6784312,41222,18.67
 Audax Private Equity Fund VII (Guidepoint Co- Greenwich,CT,11/06/2009,6607465,1542364,0.5
@@ -64,12 +64,12 @@ Andreessen Horowitz LSV Fund II New York,NY,05/04/2020,6591113,1865586,0.18
 "Clearlake Capital Partners VII, L.P. New York",NY,09/16/2019,6556870,1963357,0.57
 "King Street Capital, L.P. Simsbury",CT,09/22/2017,6539176,132875,0.21
 CPEC 8 Trust B (fka CHAMP IV Trust B) Hong Kong,CHN,01/17/2019,6474984,83467,0.13
-"FVLCRUM Fund, L.P. San Francisco",CA,08/10/2018,6400110,-966867,1.09
+"FVLCRUM Fund, L.P. San Francisco",CA,08/10/2018,6400110,247912,1.09
 "Audax Mezzanine Fund III, L.P. Boston",MA,08/03/2018,6302389,352736,0.13
 ARES PBN FINANCE CO LLC Wilimington DE ARES PBN FINANCE,CO,09/24/2021,6250000,0,0.0
 Boston,MA,02/01/2018,6183715,178812,0.36
 "Accion Quona Inclusion Fund, L.P. Washington",DC,07/26/2018,6169096,-9846,1.82
-Toronto,CAN,06/22/2015,6164271,543989,2.79
+Toronto,CAN,06/22/2015,6164271,820619,2.79
 "Invest), L.P. Melbourne",AUS,05/15/2018,6089049,-147043,0.61
 London,GBR,04/27/2020,6047135,35957,0.1
 Advent Latin American Private Equity Fund VI-B Limited Partnership Boston,MA,09/05/2014,5927346,505313,2.31
@@ -80,49 +80,49 @@ Coral Gables,FL,08/28/2020,5838449,1106362,0.66
 p002064 ML Armature Member LLC Washington,DC,08/30/2019,5692355,-88975,12.66
 Alchemy Special Opportunities Fund IV L.P. London,GBR,01/05/2018,5624160,-2680,0.52
 "WestCap Strategic Operator Fund II, L.P. WestCap Strategic Operator US Feeder Fund, New York",NY,01/19/2021,5553901,43045,0.45
-"KRIV Co-Invest Holdings, L.P. Mount Kisco",NY,12/09/2019,5528750,885094,0.12
+"KRIV Co-Invest Holdings, L.P. Mount Kisco",NY,12/09/2019,5528750,639642,0.12
 London,GBR,02/27/2019,5516728,259284,0.05
 "TowerBrook Investors III, L.P. Greenwich",CT,05/03/2019,5491129,95561,0.1
 Tailwater Energy Fund IV LP Dallas,TX,06/24/2019,5451673,5751,0.69
 ELECTRON CO-INVESTMENT L.P. London,GBR,03/08/2018,5308572,1692115,0.2
-Menlo Park,CA,03/28/2018,5242135,-2177793,0.2
-Blue Sea Capital Fund II LP San Francisco,CA,01/15/2021,5169217,-578128,0.3
+Menlo Park,CA,03/28/2018,5242135,96000,0.2
+Blue Sea Capital Fund II LP San Francisco,CA,01/15/2021,5169217,700065,0.3
 PAI Europe VII-1 SCSp Paris,FRA,11/02/2017,5095933,236638,0.13
 SLP Palo Alto,CA,05/07/2018,5054055,293406,0.68
 "Genstar Capital Partners IX, L.P. San Francisco",CA,02/19/2019,5048273,473760,0.08
-Whitehorse Liquidity Partners Fund III LP Toronto,CAN,05/31/2019,5031381,129006,0.51
-Kuala Lumpur MYS Navis Capital Partners,,09/17/2014,4905914,284744,0.35
+Whitehorse Liquidity Partners Fund III LP Toronto,CAN,05/31/2019,5031381,1440234,0.51
+Kuala Lumpur MYS Navis Capital Partners,,09/17/2014,4905914,336200,0.35
 Greenwich,CT,12/20/2013,4904980,1721453,0.21
 "Genstar Capital Partners X, L.P. San Francisco",CA,04/01/2021,4875257,21728,0.07
 "The Veritas Capital Fund VIII, L.P. Boston",MA,10/30/2019,4868153,248678,1.76
-"Andreessen Horowitz Seed Fund I, L.P. New York",NY,09/03/2015,4837114,-405656,0.43
+"Andreessen Horowitz Seed Fund I, L.P. New York",NY,09/03/2015,4837114,842393,0.43
 "Clearlake Opportunities Partners II, L.P New York",NY,07/03/2018,4778160,79793,0.17
-London,GBR,07/02/2018,4771890,-551492,0.3
+London,GBR,07/02/2018,4771890,32474,0.3
 New York,NY,07/01/2019,4699190,152675,0.1
-"CHRYSCAPITAL IX, LLC New York",NY,02/04/2016,4627273,-1666158,2.46
+"CHRYSCAPITAL IX, LLC New York",NY,02/04/2016,4627273,878032,2.46
 Inflexion Enterprise Fund V Inflexion Partnership Capital Fund II Limited London,GBR,04/09/2018,4615864,21172,0.36
 "p000910 Metlife CC Member , LLC Washington",DC,12/13/2012,4515097,178623,4.878
-Mumbai,IND,10/04/2018,4457546,-168171,0.38
+Mumbai,IND,10/04/2018,4457546,0,0.38
 "Apollo Investment Fund X, L.P. New York",NY,04/01/2019,4445104,652586,0.19
 "p002257 West 44th Street PE, LLC New York",NY,05/14/2020,4376672,0,5.0
 "Oaktree Opportunities Fund VIII, L.P. New York",NY,12/06/2019,4291590,85569,0.13
 ASTORG VIII Paris,FRA,11/11/2021,4194415,-13319,0.23
 Advent International GPE IX-A SCSP Boston,MA,03/13/2019,4166586,59763,0.17
 Designation Book/ Years Other- Foreign Affinity Asia Pacific Fund V L.P. Hong Kong,CHN,01/15/2018,4156473,36531,0.13
-Philadelphia,PA,07/02/2020,4099235,814851,0.31
+Philadelphia,PA,07/02/2020,4099235,364381,0.31
 ASTORG VII Paris,FRA,10/26/2018,4088520,259486,0.07
 "Global Infrastructure Partners IV, L.P. San Diego",CA,04/04/2022,4051190,0,1.8
 L.P. New York,NY,10/29/2021,4028905,11616046,1.43
-"Accomplice Fortuity Pool, L.P. Cambridge",MA,06/11/2020,4024146,-1183684,1.75
-Boston,MA,06/26/2019,3999746,401176,0.21
-New York,NY,01/28/2019,3964931,-261248,0.2
+"Accomplice Fortuity Pool, L.P. Cambridge",MA,06/11/2020,4024146,0,1.75
+Boston,MA,06/26/2019,3999746,120116,0.21
+New York,NY,01/28/2019,3964931,172500,0.2
 "Green Equity Investors VII, L.P. New York",NY,09/29/2021,3959893,23167,0.28
-Accel Growth Fund III L.P. Palo Alto,CA,05/19/2014,3874104,1959336,0.38
-Palm Beach,FL,02/04/2019,3834629,525452,0.8
+Accel Growth Fund III L.P. Palo Alto,CA,05/19/2014,3874105,1959336,0.38
+Palm Beach,FL,02/04/2019,3834629,260023,0.8
 Santiago,CHL,02/26/2015,3824819,82578,0.92
 Trive Capital Fund IV LP Coral Gables,FL,09/19/2017,3801243,753774,0.59
 New York,NY,10/07/2021,3759946,601,0.23
-"Accel Growth V, L.P. Palo Alto",CA,03/01/2019,3758257,-624801,0.16
+"Accel Growth V, L.P. Palo Alto",CA,03/01/2019,3758257,83474,0.16
 "American Industrial Partners Capital Fund VII, New York",NY,03/26/2019,3694823,265215,0.09
 "Wind Point Partners IX, L.P. Chicago",IL,01/17/2020,3628882,630554,0.21
 "Francisco Partners VI, L.P. San Francisco",CA,04/03/2020,3610412,358025,0.09
@@ -133,44 +133,44 @@ L.P. Paris,FRA,06/26/2019,3424331,121553,0.41
 "Wynnchurch Capital Partners V, L.P. Chicago",IL,12/13/2019,3415518,26664,0.17
 PAI Europe VII-1 S.L.P. Paris,FRA,11/02/2017,3357107,263371,0.12
 "BGH Capital Offshore II, LP Boston",MA,04/01/2018,3351211,138497,0.33
-"Accomplice Fund IV, L.P. Boston",MA,04/11/2022,3349649,19950,1.14
+"Accomplice Fund IV, L.P. Boston",MA,04/11/2022,3349649,943338,1.14
 "Linzor Capital Partners III, L.P. Lyon",FRA,07/20/2020,3291353,-7396,0.46
 p002360 ML Hudson River Waterfront - MTL Whippany,NJ,12/01/2021,3287088,0,100.0
 New York,NY,12/16/2015,3285580,193182,0.1
 New York,NY,12/13/2019,3268110,36022,0.75
-London,GBR,02/07/2020,3191071,496574,0.07
+London,GBR,02/07/2020,3191071,958017,0.07
 E07.9 p002369 University Town Center Holdings LLC Charlotte,NC,12/15/2021,3184153,0,12.35
 "Clearhaven Fund II, L.P. Santa Monica",CA,02/11/2022,3169463,14008,0.1
 "Gryphon Partners V, L.P. London",GBR,02/07/2020,3128820,115896,0.26
-"Andreessen Horowitz Fund VIII, L.P. New York",NY,07/22/2022,3118262,-61751,0.21
-San Francisco,CA,04/15/2019,3095816,-635239,0.14
+"Andreessen Horowitz Fund VIII, L.P. New York",NY,07/22/2022,3118262,14636499,0.21
+San Francisco,CA,04/15/2019,3095816,101250,0.14
 Los Angeles,CA,05/31/2019,3088404,1964340,0.36
-Boston,MA,02/12/2019,3036341,779226,0.5
-Menlo Park,CA,11/17/2020,3028927,-613144,0.11
+Boston,MA,02/12/2019,3036341,433500,0.5
+Menlo Park,CA,11/17/2020,3028927,0,0.11
 London,GBR,11/29/2018,3018227,52263,0.17
 London,GBR,02/07/2020,3001566,139675,0.07
 London,GBR,12/14/2021,2990390,1010,0.06
-"Lightspeed Venture Partners XII, L.P. Menlo Park",CA,03/28/2018,2975227,-662758,0.2
+"Lightspeed Venture Partners XII, L.P. Menlo Park",CA,03/28/2018,2975227,45000,0.2
 "Andreessen Horowitz LSV Fund I, L.P. New York",NY,08/05/2021,2973725,-29827,0.13
-"Sequoia Capital US Venture 2010 Fund, LP New York",NY,06/02/2020,2965045,137834,0.1
+"Sequoia Capital US Venture 2010 Fund, LP New York",NY,06/02/2020,2965045,115602,0.1
 "APOLLO IMPACT MISSION FUND, L.P. New York",NY,07/08/2021,2953130,468474,0.64
 Limited Partnership London,GBR,04/04/2019,2938635,13824,0.34
-San Francisco,CA,02/20/2020,2925023,-237601,1.55
-"E07.8 The Veritas Capital Fund IV, L.P. New York",NY,03/15/2022,2923669,-73163,0.05
-L.P. Dallas,TX,04/08/2021,2895878,350425,0.24
-"Accomplice Fund III, L.P. Cambridge",MA,06/11/2020,2855477,-217683,1.0
-American Industrial Partners Capital Fund Menlo Park,CA,04/18/2019,2836620,-432792,0.09
+San Francisco,CA,02/20/2020,2925023,5721,1.55
+"E07.8 The Veritas Capital Fund IV, L.P. New York",NY,03/15/2022,2923669,2451172,0.05
+L.P. Dallas,TX,04/08/2021,2895878,1413879,0.24
+"Accomplice Fund III, L.P. Cambridge",MA,06/11/2020,2855477,0,1.0
+American Industrial Partners Capital Fund Menlo Park,CA,04/18/2019,2836620,0,0.09
 Greenwich,CT,09/13/2021,2817463,3096836,0.11
-New York,NY,12/13/2019,2802705,-358600,1.14
+New York,NY,12/13/2019,2802705,0,1.14
 Advent International GPE IX-D SCSP Boston,MA,03/13/2019,2790447,46800,0.54
 Los Angeles,CA,06/26/2020,2784930,141547,0.11
-"Andreessen Horowitz Fund VII, L.P. Menlo Park",CA,11/30/2021,2772077,-197186,0.1
-Accel Growth Fund L.P. Palo Alto,CA,12/10/2008,2769919,610615,0.7
-Foster City,CA,11/02/2020,2753853,-291185,0.65
+"Andreessen Horowitz Fund VII, L.P. Menlo Park",CA,11/30/2021,2772077,1827360,0.1
+Accel Growth Fund L.P. Palo Alto,CA,12/10/2008,2769919,0,0.7
+Foster City,CA,11/02/2020,2753853,1083452,0.65
 Atlanta,GA,10/04/2021,2743367,0,2.94
 MASSACHUSETTS MUTUAL LIFE INSU 5.625 Springfield,MA,05/14/2004,2718902,150372,0.0
-Medicxi III LP Denver,CO,05/20/2021,2691184,-54400,0.68
-New York,NY,04/01/2021,2679464,373434,1.81
+Medicxi III LP Denver,CO,05/20/2021,2691184,877752,0.68
+New York,NY,04/01/2021,2679464,2933473,1.81
 L.P. Santiago,CHL,07/23/2010,2663654,73562,1.01
 "CIVC Partners Fund VII, L.P. Miami",FL,07/12/2021,2636372,0,0.75
 Altor Fund V (No. 1) AB Stockholm,SWE,12/17/2018,2628573,230977,0.23
@@ -179,9 +179,9 @@ T-VIII Mercury Co-Invest LP Stamford,CT,06/17/2021,2585789,211828,0.7
 Toronto,CAN,06/09/2008,2535081,0,2.63
 "PAG Asia III, L.P. Hong Kong",CHN,09/06/2018,2421735,199188,0.1
 MED Platform I SLP London,GBR,04/09/2019,2416994,3977,0.93
-London,GBR,03/02/2020,2412233,-119099,0.17
+London,GBR,03/02/2020,2412233,86605,0.17
 "The Baring Asia Private Equity Fund VI, L.P.1 Hong Kong",CHN,07/25/2014,2405748,296104,0.2
-"VIII, L.P. Menlo Park",CA,11/17/2020,2403457,-143234,0.13
+"VIII, L.P. Menlo Park",CA,11/17/2020,2403457,302400,0.13
 Mount Kisco,NY,08/21/2023,2400000,0,0.1
 Hong Kong,CHN,05/20/2021,2384619,-3651,0.11
 Boston,MA,04/30/2020,2353120,17853,0.32
@@ -190,38 +190,38 @@ Whitehorse Liquidity Partners Fund IV LP Toronto,CAN,04/21/2020,2301500,703,0.09
 "p001073 ML Mililani Member, LLC Mililani",HI,12/18/2014,2291915,0,5.0
 Boston,MA,09/21/2020,2281975,0,0.46
 L.P. Larchmont,NY,09/13/2019,2247191,81553,0.57
-"Wind Point Partners X-A, L.P. Chicago",IL,08/01/2022,2217383,143010,0.41
+"Wind Point Partners X-A, L.P. Chicago",IL,08/01/2022,2217383,2213525,0.41
 Bengal Co-Invest SCSp Paris,FRA,10/14/2021,2212135,760915,0.23
 "Great Hill Equity Partners VIII, L.P. San Francisco",CA,03/16/2020,2202881,7802,0.21
 Nashville,TN,01/11/2021,2193641,5453,0.38
-"FirstMark Capital OF IV, L.P. San Francisco",CA,04/03/2020,2189555,388872,0.22
+"FirstMark Capital OF IV, L.P. San Francisco",CA,04/03/2020,2189555,448350,0.22
 Permira VIII - 1 SCSp New York,NY,07/10/2014,2182544,11591,0.18
-ASTORG VII CO-INVEST LGC London,GBR,02/14/2020,2169946,69975,0.39
-Palo Alto,CA,03/28/2019,2142093,-121697,0.92
+ASTORG VII CO-INVEST LGC London,GBR,02/14/2020,2169946,133565,0.39
+Palo Alto,CA,03/28/2019,2142093,950000,0.92
 Paris,FRA,07/07/2022,2131424,15572,1.47
-Menlo Park,CA,05/20/2019,2118562,-140275,0.07
+Menlo Park,CA,05/20/2019,2118562,471750,0.07
 "Spark Capital Growth Fund IV, L.P. Westport",CT,12/15/2021,2115606,642875,0.56
-"Andreessen Horowitz Fund VI, L.P. Menlo Park",CA,04/18/2019,2112630,820,0.06
-"Designation Book/ Years Other- Foreign Lightspeed Venture Partners Select IV, L.P. . Menlo Park",CA,02/28/2020,2100653,-98358,0.09
+"Andreessen Horowitz Fund VI, L.P. Menlo Park",CA,04/18/2019,2112630,0,0.06
+"Designation Book/ Years Other- Foreign Lightspeed Venture Partners Select IV, L.P. . Menlo Park",CA,02/28/2020,2100653,90000,0.09
 p002600 ML PE Terminal 106 LLC Seattle,WA,10/01/2023,2099921,0,100.0
 Medicxi IV LP Providence,RI,06/23/2021,2077022,33285,0.24
-Washington,DC,01/15/2021,2053636,-33203,1.18
+Washington,DC,01/15/2021,2053636,468000,1.18
 "Tower Square Capital Partners III, L.P. Greenwich",CT,02/26/2010,2014103,405650,0.18
 Leeds,GBR,10/16/2020,1968445,112344,0.86
 Gibson Holdings I LP Toronto,CAN,10/17/2019,1937097,147398,1.26
-Cambridge,MA,06/24/2020,1916966,-203575,0.35
+Cambridge,MA,06/24/2020,1916966,433125,0.35
 New York,NY,02/17/2023,1912920,0,2.4
 "IMPACT DEVELOPERS FUND, LP Wilmington",DE,04/30/2021,1897125,481846,0.28
-Boston,MA,01/24/2020,1871411,-122165,0.14
+Boston,MA,01/24/2020,1871411,284400,0.14
 Blackstar Stability Distressed Debt Fund Blauwtrust Financial Partners B.V. (fka Rotterdam,NLD,06/18/2021,1845923,79154,0.77
-GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,1810610,-59624,0.17
+GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,1810610,949000,0.17
 Chevy Chase,MD,05/01/2022,1799094,2912,0.17
 JACKSON NATL LIFE INS CO JACKSON NATL LI Lansing,MI,12/01/2005,1794154,112792,0.0
 Mount Kisco,NY,08/12/2021,1791681,0,1.43
 Bessemer Venture Partners X Institutional Larchmont,NY,10/15/2018,1773519,4487,0.13
-INDEX ORIGIN II (JERSEY) L.P. London,GBR,03/02/2020,1716829,-25705,0.11
-"Accel Leaders 3, L.P. Palo Alto",CA,12/07/2020,1708482,-132448,0.1
-Inflexion Supplemental Fund V San Francisco,CA,09/23/2021,1695407,293128,0.79
+INDEX ORIGIN II (JERSEY) L.P. London,GBR,03/02/2020,1716829,148297,0.11
+"Accel Leaders 3, L.P. Palo Alto",CA,12/07/2020,1708482,444000,0.1
+Inflexion Supplemental Fund V San Francisco,CA,09/23/2021,1695407,597546,0.79
 London,GBR,03/27/2020,1683063,3777,0.19
 "Ares Special Opportunities Fund, LP Baltimore",MD,10/12/2020,1675272,0,9.64
 "New Enterprise Associates 17, L.P. North American Essential Services Aggregator Tampa",FL,09/24/2021,1662127,284400,0.3
@@ -231,16 +231,16 @@ New York,NY,01/25/2021,1647403,102182,0.31
 Bridgepoint Development Capital IV Palo Alto,CA,09/13/2021,1638650,0,1.22
 "ASTORG VI, SLP Paris",FRA,09/25/2015,1607299,135073,0.12
 "Audax Private Equity Fund VI, L.P. Boston",MA,10/02/2023,1600000,0,0.05
-"Bessemer Venture Partners XI Institutional, Larchmont",NY,02/19/2021,1570959,-39510,0.15
-Coral Gables,FL,12/19/2019,1556784,74636,0.64
+"Bessemer Venture Partners XI Institutional, Larchmont",NY,02/19/2021,1570959,623905,0.15
+Coral Gables,FL,12/19/2019,1556784,1183387,0.64
 "BDCM Opportunity Fund III, L.P. Boston",MA,11/06/2023,1528500,764250,0.1
 "Gryphon Partners VI, L.P. Atlanta",GA,09/17/2021,1522397,122498,2.31
 "Trivest Growth Investment Fund II, LP Chicago",IL,05/17/2022,1510118,154538,1.33
 Oslo,NOR,09/04/2020,1488647,-43,0.09
-L.P. Beijing,CHN,09/24/2015,1485093,46132,0.11
+L.P. Beijing,CHN,09/24/2015,1485093,182646,0.11
 New York,NY,07/29/2008,1472991,252506,0.1
 "Concrete Rose Fund II, L.P. Miami",FL,05/01/2023,1465818,0,0.53
-Waltham,MA,12/16/2009,1465594,-52537,0.2
+Waltham,MA,12/16/2009,1465594,109946,0.2
 Glendower Capital Secondary Opportunities Fund New York,NY,06/28/2021,1431284,205322,0.28
 OEP VIII Project Laser Co-Investment Chicago,IL,03/29/2023,1406745,0,0.87
 MED III A SLP Stamford,CT,06/12/2023,1406010,-1189,0.69
@@ -249,168 +249,168 @@ Lyon,FRA,10/01/2021,1401796,-2072,1.16
 "Polish Enterprise Fund VIII, L.P. Washington",DC,07/28/2021,1396202,302217,1.09
 Toronto,CAN,10/26/2020,1390143,4422,0.43
 Cleveland,OH,08/30/2023,1385143,214857,10.67
-"BLUE VISTA ACCELERATOR FUND, L.P. Boston",MA,01/24/2020,1383972,-22476,0.14
-Coral Gables,FL,12/19/2019,1370543,181693,0.51
-PAG Growth II L.P. Shanghai,CHN,04/29/2021,1343236,-114302,0.72
-MEI Co-Investor Aggregator LLC Menlo Park,CA,07/22/2020,1333887,29058,0.27
+"BLUE VISTA ACCELERATOR FUND, L.P. Boston",MA,01/24/2020,1383972,201600,0.14
+Coral Gables,FL,12/19/2019,1370543,345242,0.51
+PAG Growth II L.P. Shanghai,CHN,04/29/2021,1343236,1896943,0.72
+MEI Co-Investor Aggregator LLC Menlo Park,CA,07/22/2020,1333887,148500,0.27
 London,GBR,03/25/2019,1333252,70729,0.1
-Blue Sea Capital Fund I LP Palm Beach,FL,07/29/2022,1329644,100428,0.59
-"Lightspeed Venture Partners Select V, L.P. Menlo Park",CA,02/28/2022,1311848,-48226,0.12
+Blue Sea Capital Fund I LP Palm Beach,FL,07/29/2022,1329644,2429699,0.59
+"Lightspeed Venture Partners Select V, L.P. Menlo Park",CA,02/28/2022,1311848,1324251,0.12
 Designation Book/ Years Other- Foreign T-VIII Celestial Co-Invest LP Stamford,CT,04/20/2021,1310558,61968,0.1
-"Accel India VI, L.P. Bangalore",IND,11/11/2019,1307293,-96508,0.19
+"Accel India VI, L.P. Bangalore",IND,11/11/2019,1307293,147000,0.19
 New York,NY,10/21/2021,1280882,20,0.13
 Hahn & Company IV-S L.P. Boston,MA,09/04/2020,1249927,974,0.36
 "Wing Three, L.P. Menlo Park",CA,05/29/2020,1247484,25285,0.31
 MED Platform II SLP London,GBR,05/29/2020,1244080,-1564,0.53
-Shanghai,CHN,12/10/2018,1242324,-63827,0.26
+Shanghai,CHN,12/10/2018,1242324,178500,0.26
 ASTORG CO-INVEST OPUS 2 London,GBR,05/18/2021,1232079,49923,1.14
-Palo Alto,CA,05/07/2020,1211355,-2282,0.22
+Palo Alto,CA,05/07/2020,1211355,660450,0.22
 "Great Hill Equity Partners VII, L.P. San Francisco",CA,03/16/2020,1210099,626379,0.8
 Riverstone/Carlyle Global Energy and Power Vienna,AUT,05/31/2023,1205331,-26852,0.8
-"Accel XIV, L.P. Palo Alto",CA,03/01/2019,1197541,-269457,0.16
-"Lightspeed Venture Partners XIII, L.P. Menlo Park",CA,02/28/2020,1188900,-272683,0.09
+"Accel XIV, L.P. Palo Alto",CA,03/01/2019,1197541,113850,0.16
+"Lightspeed Venture Partners XIII, L.P. Menlo Park",CA,02/28/2020,1188900,72000,0.09
 KKR Opportunities (Domestic) Fund II SCSp Mount Kisco,NY,07/06/2023,1171875,234375,0.1
-Seventh Cinven Fund (No.1) L.P. Southern Cross Latin America Private Equity Toronto,CAN,05/14/2010,1164366,-77213,0.18
-"FirstMark Capital OF III, L.P. Hong Kong",CHN,02/18/2021,1155721,-171590,0.15
-Menlo Park,CA,11/30/2021,1150955,4713,0.1
+Seventh Cinven Fund (No.1) L.P. Southern Cross Latin America Private Equity Toronto,CAN,05/14/2010,1164366,384900,0.18
+"FirstMark Capital OF III, L.P. Hong Kong",CHN,02/18/2021,1155721,2743601,0.15
+Menlo Park,CA,11/30/2021,1150955,1335600,0.1
 MED III B SLP Lyon,FRA,11/11/2022,1149169,749,0.19
-ADVENT INTERNATIONAL GPE X-D SCSP Boston,MA,04/28/2022,1148894,-55934,0.24
-"Fifth Wall Ventures II, L.P. San Francisco",CA,06/07/2021,1141704,-5130,0.36
+ADVENT INTERNATIONAL GPE X-D SCSP Boston,MA,04/28/2022,1148894,2180650,0.24
+"Fifth Wall Ventures II, L.P. San Francisco",CA,06/07/2021,1141704,716599,0.36
 ADVENT INTERNATIONAL GPE X-A SCSP Boston,MA,04/28/2022,1140419,-13418,0.06
 "Accel London VI, L.P. London",GBR,05/06/2019,1137516,57306,0.15
-"Accel Leaders Fund II, L.P. Palo Alto",CA,03/01/2019,1132497,-117244,0.17
-"Kleiner Perkins Caufield & Byers XVIII, LLC . Shanghai",CHN,12/10/2018,1129071,-10119,0.37
+"Accel Leaders Fund II, L.P. Palo Alto",CA,03/01/2019,1132497,0,0.17
+"Kleiner Perkins Caufield & Byers XVIII, LLC . Shanghai",CHN,12/10/2018,1129071,252000,0.37
 "p002502 ML CW Member, LLC Portland",OR,07/18/2023,1117986,0,7.197
-San Francisco,CA,10/14/2021,1113910,-86298,2.53
+San Francisco,CA,10/14/2021,1113910,2319983,2.53
 London,GBR,04/04/2019,1102021,224594,0.24
 "Partners, L.P. Detroit",MI,12/20/2023,1073618,0,0.06
 Bennett Holdings LP Toronto,CAN,05/20/2021,1069169,143910,0.34
 "Hony Capital Fund VIII (Cayman), L.P. Toronto",CAN,07/29/2019,1064079,-40669,1.06
 "Green Equity Investors VIII, L.P. Los Angeles",CA,01/10/2023,1053012,0,0.32
-Hudson Holdings I LP London,GBR,06/07/2021,995928,-173067,0.14
-Accel Growth Fund VI L.P. Palo Alto,CA,06/15/2021,993578,-73443,0.11
+Hudson Holdings I LP London,GBR,06/07/2021,995928,1652064,0.14
+Accel Growth Fund VI L.P. Palo Alto,CA,06/15/2021,993578,840780,0.11
 New York,NY,05/03/2022,992985,2641867,0.16
-New York,NY,07/01/2019,983500,1664651,1.27
 Eight Cinven Fund (NO.1) L.P. Bethesda,MD,07/22/2022,973436,7529,1.67
-Hahn & Company IV L.P. London,GBR,03/01/2022,953978,29905,0.1
-"BVP Forge Institutional, L.P. Boston",MA,05/01/2022,950126,-95655,0.17
+Hahn & Company IV L.P. London,GBR,03/01/2022,953978,2094188,0.1
+"BVP Forge Institutional, L.P. Boston",MA,05/01/2022,950126,4408652,0.17
 Chicago,IL,12/16/2022,939698,-36756,1.22
-ASTORG VIII CO-INVEST LITHIUM London,GBR,01/27/2023,933048,-1490,0.26
+ASTORG VIII CO-INVEST LITHIUM London,GBR,01/27/2023,933049,0,0.26
 p002453 ML HS Member LLC Whippany,NJ,08/25/2022,933004,0,4.082
-"Graham Partners V, LP Boston",MA,01/31/2022,904968,-286472,0.23
-Medicxi Secondary I LP Menlo Park,CA,12/19/2008,892416,-134528,0.13
+"Graham Partners V, LP Boston",MA,01/31/2022,904968,4326272,0.23
+Medicxi Secondary I LP Menlo Park,CA,12/19/2008,892416,430556,0.13
 Toronto,CAN,06/15/2010,890205,0,0.32
 "Menlo Special Opportunities Fund III, L.P. Baltimore",MD,09/29/2022,869761,-34064,2.24
 AFFIRM ASSET SECURITIZATION TRUST AFFRM_22-Z1 AFFIRM ASSET SECURITIZATION TRUST Wilimington,DE,06/16/2022,842045,1023232,0.0
-"CIVC Partners Fund VI, L.P. Palo Alto",CA,01/27/2022,841895,-82406,0.33
-"GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,834826,24446,0.16
-"BGH Capital Offshore Fund I, L.P. Boston",MA,02/08/2021,799586,-70100,0.24
-"CIP Capital Fund III, L.P. Palo Alto",CA,04/28/2021,798564,-92981,0.43
-"Fund V, L.P. Boston",MA,01/25/2022,791594,-57687,0.15
+"CIVC Partners Fund VI, L.P. Palo Alto",CA,01/27/2022,841895,2342270,0.33
+"GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,834826,486000,0.16
+"BGH Capital Offshore Fund I, L.P. Boston",MA,02/08/2021,799586,0,0.24
+"CIP Capital Fund III, L.P. Palo Alto",CA,04/28/2021,798564,92250,0.43
+"Fund V, L.P. Boston",MA,01/25/2022,791594,1313215,0.15
 "Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,768378,3710,0.07
 Chicago,IL,11/18/2022,768293,0,1.85
-S.C.Sp. Mumbai,IND,06/03/2022,760425,-83785,0.29
+S.C.Sp. Mumbai,IND,06/03/2022,760425,2466417,0.29
 Lyon,FRA,12/10/2021,755322,-9564,0.16
-"Falcon Strategic Partners III, LP San Francisco",CA,06/07/2021,743329,89675,0.48
+"Falcon Strategic Partners III, LP San Francisco",CA,06/07/2021,743329,490766,0.48
 PERCIPIENCE CO-INVESTMENT LIMITED PARTNERSHIP London,GBR,02/09/2021,731170,58976,10.44
-"Lightspeed Venture Partners XIV-B (Ignite), Menlo Park",CA,02/28/2022,712791,73330,0.13
-"The Baring Asia Private Equity Fund VIII, Hong Kong",CHN,07/08/2021,693352,91095,0.05
-San Francisco,CA,04/01/2022,686068,21420,0.17
-"Clearlake Capital Partners VI, L.P. Washington",DC,06/01/2022,681465,-52184,1.67
-"Lightspeed Venture Partners XIV-A (Inception), Menlo Park",CA,02/28/2022,668536,-17643,0.14
-L.P. Westlake Village,CA,05/07/2020,662885,-67581,0.24
+"Lightspeed Venture Partners XIV-B (Ignite), Menlo Park",CA,02/28/2022,712791,849728,0.13
+"The Baring Asia Private Equity Fund VIII, Hong Kong",CHN,07/08/2021,693352,3663743,0.05
+San Francisco,CA,04/01/2022,686068,3638704,0.17
+"Clearlake Capital Partners VI, L.P. Washington",DC,06/01/2022,681465,2862000,1.67
+"Lightspeed Venture Partners XIV-A (Inception), Menlo Park",CA,02/28/2022,668536,533838,0.14
+L.P. Westlake Village,CA,05/07/2020,662885,372750,0.24
 New York,NY,10/21/2021,653012,3918615,0.93
 E07.7 Primavera Capital Fund II L.P. Toronto,CAN,09/22/2021,643392,19062,0.15
 "Trivest Recognition Fund, L.P. New York",NY,12/15/2020,614322,247146,1.51
 ASTORG MIDCAP London,GBR,02/16/2021,603378,5294,0.15
-London,GBR,06/07/2021,578985,-45446,0.16
+London,GBR,06/07/2021,578985,777596,0.16
 New York,NY,07/17/2023,565068,0,2.44
-Westlake Village,CA,05/07/2020,557923,-10081,0.73
+Westlake Village,CA,05/07/2020,557923,193108,0.73
 "Gryphon Heritage Partners, L.P. London",GBR,04/14/2022,555761,-9920,0.05
 "p000911 MetLife LHH Member, LLC Hollywood",CA,11/08/2012,516152,-36,1.0
-Accel Leaders 4 L.P. Palo Alto,CA,06/15/2022,511506,-3042,0.09
-"Spark Capital Growth Fund III, L.P. Boston",MA,01/25/2022,505477,-28166,0.15
+Accel Leaders 4 L.P. Palo Alto,CA,06/15/2022,511506,2915771,0.09
+"Spark Capital Growth Fund III, L.P. Boston",MA,01/25/2022,505477,551769,0.15
 Toronto,CAN,07/29/2019,504495,339792,1.08
-"Senator Global Opportunity Fund LP Sequoia Capital U.S. Venture 2010-Seed Fund, Menlo Park",CA,12/01/2012,495651,-276814,0.18
+"Senator Global Opportunity Fund LP Sequoia Capital U.S. Venture 2010-Seed Fund, Menlo Park",CA,12/01/2012,495651,2345,0.18
 "CIP Capital Fund II, L.P. Sydney",AUS,07/24/2015,478154,-6877,1.33
 Boston,MA,10/20/2008,471444,60403,0.44
-Washington,DC,06/01/2022,447026,-3384,2.39
-Designation Book/ Years Other- Foreign Whale Rock Flagship Fund L.P. Boston,MA,07/31/2017,445419,220741,0.1
+Washington,DC,06/01/2022,447026,1355400,2.39
+Designation Book/ Years Other- Foreign Whale Rock Flagship Fund L.P. Boston,MA,07/31/2017,445419,308810,0.1
 Sydney,AUS,06/15/2022,443922,6206,0.44
 "HongShan Capital Venture 2010 Partners Fund, Menlo Park",CA,03/25/2010,438418,71981,0.11
-New York,NY,12/10/2009,398547,-34703,0.63
-"George Town, Grand Cayman",CYM,01/17/2008,393399,-5385,0.23
-Palo Alto,CA,01/27/2022,383895,-41849,0.33
-Singapore,SGP,06/24/2021,382140,-24728,0.79
+New York,NY,12/10/2009,398547,0,0.63
+"George Town, Grand Cayman",CYM,01/17/2008,393399,1521621,0.23
+Palo Alto,CA,01/27/2022,383895,1220792,0.33
+Singapore,SGP,06/24/2021,382140,1350000,0.79
 p002348 Entity 91952 Extell Hudson Waterfront I Mezz LLC New York,NY,09/03/2021,368127,0,0.105
-Larchmont,NY,06/24/2022,356442,-38138,0.16
+Larchmont,NY,06/24/2022,356442,724539,0.16
 "III, L.P. Los Angeles",CA,10/05/2007,351392,276114,1.72
-Menlo Park,CA,08/02/2022,350076,-26505,0.2
-VIP IV LP New York,NY,05/29/2008,349612,-11938,0.12
+Menlo Park,CA,08/02/2022,350076,1176080,0.2
+VIP IV LP New York,NY,05/29/2008,349612,0,0.12
 "INDEX VENTURES GROWTH VI (JERSEY), L.P. London",GBR,06/30/2021,349461,1676,0.05
-WndrCo Holdings II LP Wilmington,DE,04/14/2023,342921,-64238,0.67
-E07.4 Glendower Capital Strategic Partnership 2021 New York,NY,06/28/2021,337586,50185,2.25
+WndrCo Holdings II LP Wilmington,DE,04/14/2023,342921,1467842,0.67
+E07.4 Glendower Capital Strategic Partnership 2021 New York,NY,06/28/2021,337586,872007,2.25
 "Trivest Fund VI, L.P. London",GBR,10/24/2022,336276,848,0.1
-Accel XV L.P. Palo Alto,CA,06/15/2021,336131,-44266,0.11
-Hudson Holdings Cayman I LP London,GBR,02/02/2021,315038,-1829,0.14
+Accel XV L.P. Palo Alto,CA,06/15/2021,336131,357930,0.11
+Hudson Holdings Cayman I LP London,GBR,02/02/2021,315038,30600,0.14
 OWL Co-Invest Opportunity LP Los Angeles,CA,12/24/2009,311664,397089,0.18
-GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,310279,-4453,0.18
-"Glasswing Ventures II, L.P. Boston",MA,04/15/2021,309542,-32562,1.13
+GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,310279,351000,0.18
+"Glasswing Ventures II, L.P. Boston",MA,04/15/2021,309542,1390500,1.13
 New York,NY,03/01/2023,299616,4351,0.24
-Boston,MA,04/15/2022,294017,-27071,0.1
+Boston,MA,04/15/2022,294017,1822861,0.1
 "St. Peter Port, Guernsey",GBR,05/09/2008,293218,35695,0.4
-Accel London VII L.P. London,GBR,06/15/2021,281766,-59659,0.11
-Boston,MA,05/01/2022,272810,-3075,0.21
-Shanghai,CHN,09/09/2021,271002,-2388,0.16
-Menlo Park,CA,07/23/2021,269412,12374,0.08
-"Mastry Fund I, L.P. Palo Alto",CA,05/06/2021,260462,13075,0.34
-"HongShan Capital Growth 2010 Principals Fund, Menlo Park",CA,03/25/2010,260240,-66974,0.12
+Accel London VII L.P. London,GBR,06/15/2021,281766,391140,0.11
+Boston,MA,05/01/2022,272810,827657,0.21
+Shanghai,CHN,09/09/2021,271002,476280,0.16
+Menlo Park,CA,07/23/2021,269412,74844,0.08
+"Mastry Fund I, L.P. Palo Alto",CA,05/06/2021,260462,609120,0.34
+"HongShan Capital Growth 2010 Principals Fund, Menlo Park",CA,03/25/2010,260240,58691,0.12
 BlackFin Financial Services Fund III Washington,DC,04/26/2023,260125,3339875,3.6
-Springfield,MA,09/29/2008,255336,-15932,0.98
+Springfield,MA,09/29/2008,255336,220262,0.98
 "CARLYLE EUROPE TECHNOLOGY PARTNERS V - EU, London",GBR,03/17/2022,241984,29,0.1
-Menlo Park,CA,02/27/2023,237924,-10327,0.39
+Menlo Park,CA,02/27/2023,237924,1212048,0.39
 "Linzor Capital Partners II, L.P. Lyon",FRA,07/07/2021,226662,-996,0.17
 "p000981 ML SOUTHMORE, LLC Houston",TX,10/08/2013,224893,0,1.0
-Advent International GPE VI-A Limited Partnership London,GBR,06/13/2008,218661,-21735,0.09
-"Bessemer Venture Partners Century Fund II, Larchmont",NY,02/19/2021,210686,-18014,0.21
+Advent International GPE VI-A Limited Partnership London,GBR,06/13/2008,218661,312500,0.09
+"Bessemer Venture Partners Century Fund II, Larchmont",NY,02/19/2021,210686,1279680,0.21
 Houston,TX,09/30/2008,204988,1644612,0.53
 Designation Book/ Years Other- Foreign CVC European Equity Partners V (C) L.P. Channel Islands,GBR,04/18/2008,202019,8292,0.06
 "Trivest Discovery Fund, LP Coral Gables",FL,01/13/2023,200942,431,0.31
-"TRIVEST FUND VII, L.P. Coral Gables",FL,04/19/2022,191277,-38722,0.47
-"KWOL Co-Invest, LP Shanghai",CHN,09/09/2021,179733,-5694,0.16
-"Goal Investment Credit Fund, LLC Philadelphia",PA,05/03/2023,169602,-50254,0.39
+"TRIVEST FUND VII, L.P. Coral Gables",FL,04/19/2022,191277,2389447,0.47
+"KWOL Co-Invest, LP Shanghai",CHN,09/09/2021,179733,559440,0.16
+"Goal Investment Credit Fund, LLC Philadelphia",PA,05/03/2023,169602,2509944,0.39
 KMEPS Topco New York,NY,06/01/2008,149332,-33228,0.1
-"Accel India VII, L.P. Bangalore",IND,03/01/2022,144724,-21054,0.08
-Equistone Partners Europe Fund VI SCSp New York,NY,04/15/2022,144058,-18882,0.44
-Chevy Chase,MD,02/02/2010,144018,-29092,0.64
+"Accel India VII, L.P. Bangalore",IND,03/01/2022,144724,375204,0.08
+Equistone Partners Europe Fund VI SCSp New York,NY,04/15/2022,144058,1552219,0.44
+Chevy Chase,MD,02/02/2010,144018,76117,0.64
 "TPG Partners VI, L.P. Fort Worth",TX,03/17/2008,130811,-5258,0.1
-Boston,MA,10/05/2023,128274,1471726,1.33
+Boston,MA,10/05/2023,128274,0,1.33
 "Clearlake Capital Partners V, L.P. Menlo Park",CA,01/06/2023,115493,-5253,1.84
-"Brentwood Associates Private Equity IV, L.P. Los Angeles",CA,08/17/2006,110597,47982,0.27
-FCDE Independent Fund II FPCI New York,NY,04/15/2022,85758,1629401,0.44
+"Brentwood Associates Private Equity IV, L.P. Los Angeles",CA,08/17/2006,110597,126646,0.27
+FCDE Independent Fund II FPCI New York,NY,04/15/2022,85758,0,0.44
 Lyon,FRA,07/07/2021,84439,-44,0.17
-"TRIVEST DISCOVERY FUND II, L.P. Coral Gables",FL,04/19/2022,84212,-21464,0.45
+"TRIVEST DISCOVERY FUND II, L.P. Coral Gables",FL,04/19/2022,84212,774827,0.45
 "Designation Book/ Years Other- Foreign HgCapital 6, L.P. London",GBR,09/30/2008,81416,6752,2.77
-L.P. New York,NY,05/24/2010,79191,-25243,0.44
-Los Angeles,CA,04/15/2022,78906,28879,0.08
+L.P. New York,NY,05/24/2010,79191,83145,0.44
+Los Angeles,CA,04/15/2022,78906,5152419,0.08
 AFFIRM ASSET SECURITIZATION TRUST AFFRM_22-X1 AFFIRM ASSET SECURITIZATION TRUST Wilimington,DE,02/04/2022,74231,686029,0.0
-London,GBR,11/17/2022,71091,-7544,0.19
+London,GBR,11/17/2022,71091,496338,0.19
 PAI Partners VIII-1 SCSp Paris,FRA,11/30/2021,51777,-4616,0.09
 "TPG Asia V, L.P. Fort Worth",TX,12/17/2007,44136,214,0.1
 Altor Fund VI (No. 1) AB Stockholm,SWE,09/30/2022,39014,1571,0.27
-London,GBR,05/11/2022,37873,1665601,0.38
-"Francisco Partners VII, L.P. San Francisco",CA,04/28/2022,35375,4681313,0.12
+London,GBR,05/11/2022,37873,0,0.38
+"Francisco Partners VII, L.P. San Francisco",CA,04/28/2022,35375,0,0.12
 "Scale Venture Partners VI, L.P. New York",NY,03/02/2015,26861,0,0.48
-Catalyst Fund Limited Partnership III Menlo Park,CA,02/20/2009,26213,32872,0.11
+Catalyst Fund Limited Partnership III Menlo Park,CA,02/20/2009,26213,100583,0.11
 "p000983 MetLife Camino Ramon Member, LLC San Francisco",CA,12/20/2013,19658,44575,1.0
 p002599 Entity,WA,10/01/2023,15455,0,12.55
-"Genstar Capital Partners XI, L.P. San Francisco",CA,03/27/2023,10854,2718946,0.1
+"Genstar Capital Partners XI, L.P. San Francisco",CA,03/27/2023,10854,0,0.1
 Los Angeles,CA,12/10/2009,9475,5822,0.06
 "TCW/Crescent Mezzanine Partners V, L.P. Los Angeles",CA,12/14/2007,8863,20546,0.22
 E07.10 St. Louis Equity Fund 1997 L.L.C. St. Louis,MO,07/18/1989,6073,0,0.1
 St. Louis Equity Fund 1998 L.L.C. St. Louis,MO,07/18/1989,5858,0,6.52
 London,GBR,01/12/2023,5036,-143,0.1
-"The Veritas Capital Fund VII, L.P. London",GBR,03/27/2008,3721,-2644,0.1
+New York,NY,07/01/2019,3937,0,1.27
+"The Veritas Capital Fund VII, L.P. London",GBR,03/27/2008,3721,0,0.1
 New York,NY,05/02/2008,1482,69086,0.1
 Designation Book/ Years Other- Foreign p000773 MTL AG Mineral Rights Retained Various,OK,02/03/1942,0,0,50.0
 "ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0,0,2.29

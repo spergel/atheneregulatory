@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-Admini- Date Type Actual Cost Additional for TOTAL SA Paris,FRA,01/01/2025,0,0,0.0
+TOTAL SA Paris,FRA,01/01/2025,0,0,0.0
 "ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0,0,7.54
 ADVENT INTERNATIONAL GPE X-A SCSP Boston,MA,04/28/2022,0,0,0.11
 ADVENT INTERNATIONAL GPE X-D SCSP Boston,MA,04/28/2022,0,0,0.39
@@ -46,7 +46,7 @@ Bennett Holdings LP Toronto,CAN,05/20/2021,0,0,1.62
 "Bessemer Venture Partners Century Fund II, L.P. Larchmont",NY,02/19/2021,0,0,0.9
 "Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19/2021,0,0,0.64
 "Bessemer Venture Partners XII Institutional, L.P. Larchmont",NY,07/01/2022,0,0,0.21
-"Admini- Date Type Actual Cost Additional for BharCap Partners II, L.P. Greenwich",CT,10/15/2024,0,0,0.79
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY BharCap Partners II, L.P. Greenwich",CT,10/15/2024,0,0,0.79
 Blackstar Stability Distressed Debt Fund Washington,DC,04/26/2023,0,0,6.36
 B.V.) Rotterdam,NLD,06/18/2021,0,0,3.52
 Blue Owl GP Stakes III US Investors LP (fka III LP) New York,NY,09/09/2016,0,0,2.61
@@ -92,7 +92,7 @@ Fortress Credit Opportunities Fund IV (A) LP New York,NY,01/28/2015,0,0,0.35
 "Foundation Capital XI, L.P. Palo Alto",CA,03/31/2023,0,0,1.11
 "Francisco Partners Agility III, L.P. San Francisco",CA,04/28/2022,0,0,0.3
 "Francisco Partners VI, L.P. San Francisco",CA,04/03/2020,0,0,0.48
-"Admini- Date Type Actual Cost Additional for Francisco Partners VII, L.P. San Francisco",CA,04/28/2022,0,0,0.15
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Francisco Partners VII, L.P. San Francisco",CA,04/28/2022,0,0,0.15
 GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,0,0,0.8
 GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,0,0,0.79
 "GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,0,0,0.77
@@ -140,7 +140,7 @@ KKR Opportunities (Domestic) Fund II SCSp New York,NY,10/29/2021,0,0,2.51
 "Lightspeed Venture Partners Select IV, L.P. Menlo Park",CA,02/28/2020,0,0,0.56
 "Lightspeed Venture Partners Select V, L.P. Menlo Park",CA,02/28/2022,0,0,0.2
 "Lightspeed Venture Partners Select VI, L.P. Menlo Park",CA,03/27/2025,0,0,0.69
-"Admini- Date Type Actual Cost Additional for Lightspeed Venture Partners XIII, L.P. Menlo Park",CA,02/28/2020,0,0,0.57
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Lightspeed Venture Partners XIII, L.P. Menlo Park",CA,02/28/2020,0,0,0.57
 "Lightspeed Venture Partners XIV-A (Inception), L.P. Menlo Park",CA,02/28/2022,0,0,0.26
 "Lightspeed Venture Partners XIV-B (Ignite), L.P. Menlo Park",CA,02/28/2022,0,0,0.25
 "Lightspeed Venture Partners XV-A (Inception), L.P. Menlo Park",CA,03/31/2025,0,0,0.51
@@ -187,7 +187,7 @@ Secondary Overflow Fund IV L.P. Boston,MA,04/30/2020,0,0,1.77
 "Silver Lake Partners III, L.P. Menlo Park",CA,02/28/2007,0,0,0.1
 "Silver Lake Partners IV, L.P. Menlo Park",CA,09/07/2012,0,0,0.35
 "Silver Lake Partners VI, L.P. New York",NY,06/02/2020,0,0,0.08
-"Admini- Date Type Actual Cost Additional for Spark Capital Growth Fund IV, L.P. Boston",MA,01/25/2022,0,0,0.24
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Spark Capital Growth Fund IV, L.P. Boston",MA,01/25/2022,0,0,0.24
 "Spark Capital Growth Fund V, L.P. Boston",MA,02/29/2024,0,0,0.22
 "Spark Capital VIII, L.P. Boston",MA,02/29/2024,0,0,0.21
 "Sterling Investment Partners IV, L.P. Westport",CT,12/15/2021,0,0,1.0
@@ -232,7 +232,7 @@ p002596 ML Navy Yard Members LLC Philadelphia,PA,09/21/2023,0,0,71.975
 "p002880 Shea Residences Investor JV, LLC Scottsdale",AZ,06/25/2025,0,0,50.0
 "p002881 Founders Investor JV, LLC Columbus",OH,06/25/2025,0,0,0.0
 "p002881 Founders Investor JV, LLC Columbus",OH,06/25/2025,0,0,0.0
-"Admini- Date Type Actual Cost Additional for p002882 ML-PGGM Penrose Southstone Inv JV, LLC Frisco",TX,06/25/2025,0,0,1.0
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY p002882 ML-PGGM Penrose Southstone Inv JV, LLC Frisco",TX,06/25/2025,0,0,1.0
 "p002883 Markham Investor JV, LLC Cupertino",CA,06/25/2025,0,0,8.0
 "p002883 Markham Investor JV, LLC Cupertino",CA,06/25/2025,0,0,42.0
 p000882 Entity,NY,12/09/2009,0,0,100.0
@@ -271,5 +271,5 @@ PACIFIC LIFE INSURANCE COMPANY 5.9500 2055-09-15 OMAHA NE WELLS FARGO &,CO,09/03
 R4 SAN FRANCISCO HOUSING PARTNERS LP New York,NY,06/19/2025,0,0,50.97
 "USB LIHTC Fund 87, LLC St. Louis",MO,05/29/2025,0,0,40.22
 73758*-AG-6 POTENTIA LUDIS SPV LLC OCTL_2 Wilimington,DE,03/28/2025,0,0,0.0
-"Admini- Date Type Actual Cost Additional for MetLife Senior Direct Lending Fund II, LP Whippany",NJ,12/18/2023,0,0,28.57
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY MetLife Senior Direct Lending Fund II, LP Whippany",NJ,12/18/2023,0,0,28.57
 SUNWEALTH PROJECT POOL 60 LLC Cambridge,MA,02/25/2025,0,0,99.9

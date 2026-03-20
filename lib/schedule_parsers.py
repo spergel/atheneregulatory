@@ -514,7 +514,8 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
                           'Symbol', 'Partner', 'Identi', 'Strategy', 'Encum',
                           'Unrealized', 'Carrying', 'Valuation', 'Impairment',
                           'Temporary', 'Adjusted', 'Amortization', 'Contractual',
-                          'Effective', 'stricted', 'stration', 'Stated')
+                          'Effective', 'stricted', 'stration', 'Stated',
+                          'Admini-', 'Admini')
 
         rows: list[dict[str, Any]] = []
         pending_name = ''
@@ -611,9 +612,14 @@ def parse_schedule_ba(text: str) -> list[dict[str, Any]]:
             post_date = tokens[date_acq_idx + 1:]
             numeric_vals: list[int] = []
             ownership = 0.0
+            _type_skipped = False  # skip the single-digit Type/Strategy code (e.g. "3")
             for t in post_date:
                 if re.match(r'^\d+\.\d{3}$', t):   # ownership% has 3 decimal places
                     ownership = _to_float(t)
+                elif re.match(r'^[1-9]$', t) and not _type_skipped and not numeric_vals:
+                    # First single-digit token before any monetary values is the
+                    # Type/Strategy column code used in BA Part 2/3 (1=VC, 2=LBO, etc.)
+                    _type_skipped = True
                 elif re.match(r'^[\d,()]+$', t):
                     numeric_vals.append(_to_int(t))
 

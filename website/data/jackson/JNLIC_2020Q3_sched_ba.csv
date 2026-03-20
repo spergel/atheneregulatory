@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-"Admini- Date Type Actual Cost 0 AEA Investors Small Business Fund IV, L.P. New York",NY,10/10/2019,0,0,14.38
+"and 529,203 0 Commitment AEA Investors Small Business Fund IV, L.P. New York",NY,10/10/2019,0,0,14.38
 "000000-00-0 Apollo Infrastructure Opportunities Fund II, L.P. 162,705 0 70,340,959 0.340 Apollo Investment Fund VIII, L.P. Purchase",NY,08/11/2020,0,0,29.7
 "Arlington Capital Partners IV, L.P. Purchase",NY,12/10/2013,0,0,0.66
 "Arsenal Capital Partners III, L.P. Purchase",NY,09/28/2020,0,0,1.18
@@ -29,38 +29,9 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Novacap TMT V, L.P. New York",NY,12/10/2019,0,0,2.09
 "Sorenson Capital Partners III, L.P. Chicago",IL,04/10/2015,0,0,1.24
 "Sun Capital Partners V, L.P. Chicago",IL,12/14/2018,0,0,0.38
-"Thoma Bravo XIII, L.P. Newtown Square",PA,04/20/2016,0,0,0.0
-Los Angeles,CA,11/29/2012,0,0,0.0
-New York,NY,11/26/2019,0,0,0.0
-Los Angeles,CA,04/14/2020,0,0,0.0
-New York,NY,02/11/2011,0,0,0.0
-New York,NY,03/28/2016,0,0,0.0
 New York,NY,08/14/2020,0,0,0.0
-El Segundo,CA,07/15/2016,0,0,0.0
-El Segundo,CA,11/14/2018,0,0,0.0
-New York,NY,06/01/2017,0,0,0.0
-Beverly Hills CA LLCP Partners,VI,05/30/2017,0,0,0.0
-Greenwich,CT,12/16/2015,0,0,0.0
-Greenwich,CT,07/02/2014,0,0,0.0
-Rolling Hills Estates,CA,03/10/2006,0,0,0.0
-Rolling Hills Estates,CA,10/21/2008,0,0,0.0
-Radnor,PA,03/26/2015,0,0,0.0
-Radnor,PA,10/24/2019,0,0,0.0
-Chicago,IL,05/23/2008,0,0,0.0
-Chicago,IL,12/16/2015,0,0,0.0
-Hermosa Beach,CA,02/20/2018,0,0,0.0
-Hermosa Beach,CA,10/23/2017,0,0,0.0
-New York,NY,05/21/2018,0,0,0.0
 Radnor,PA,08/04/2020,0,0,0.0
-Greenwich,CT,12/28/2018,0,0,0.0
-Longueuil,CAN,10/05/2017,0,0,0.0
-Denver,CO,07/19/2018,0,0,0.0
-Lehi,UT,12/17/2014,0,0,0.0
-Westport,CT,01/02/2014,0,0,0.0
-Boca Raton,FL,05/21/2007,0,0,0.0
-Chicago,IL,05/27/2016,0,0,0.0
-Chicago,IL,02/13/2019,0,0,0.0
-"Admini- Date Type Actual Cost 34,406 0 Torquest Partners Fund (U.S.) IV, L.P. Toronto",CAN,08/31/2016,0,0,1.15
+"and 127,263 0 Commitment Torquest Partners Fund (U.S.) IV, L.P. Toronto",CAN,08/31/2016,0,0,1.15
 "San Francisco 257,836 0 0.310 TSG6, L.P. San Francisco",CA,07/03/2012,0,0,0.49
 "TSG7-A, L.P. San Francisco",CA,03/29/2016,0,0,0.6
 "TSG7-B, L.P. New York",CA,01/15/2016,0,0,0.44
@@ -68,18 +39,7 @@ Chicago,IL,02/13/2019,0,0,0.0
 "Veritas Capital Fund V, L.P. Chicago",NY,06/08/2015,0,0,0.73
 "Veritas Capital Fund VI, L.P. Bala Synwyd",NY,06/14/2017,0,0,1.2
 "Veritas Capital Fund VII, L.P. New York",NY,04/14/2020,0,0,0.58
-"Vortus Investments II, L.P.",TX,06/09/2017,0,0,0.0
 "Vortus Investments, L.P. Chicago",TX,06/03/2014,0,0,49.88
 "Wind Point Partners IX-A, L.P. Chicago",IL,09/05/2019,0,0,47.89
 "Wind Point Partners VIII-A, L.P. Chicago",IL,06/06/2016,0,0,99.98
-"Wynnefield Private Equity Partners I, L.P. Chicago",PA,07/13/2000,0,0,0.0
 "Yorktown Energy Partners IX, L.P.",NY,11/12/2010,0,0,2.0
-"Yorktown Energy Partners VIII, L.P.",NY,09/29/2008,0,0,0.0
-"Yorktown Energy Partners XI, L.P.",NY,04/22/2016,0,0,0.0
-"PPM America Private Equity Fund III, L.P.",IL,03/04/2008,0,0,0.0
-"PPM America Private Equity Fund IV, L.P.",IL,04/28/2015,0,0,0.0
-"PPM America Private Equity Fund V, L.P.",IL,02/11/2014,0,0,0.0
-"PPM America Private Equity Fund VI, L.P.",IL,01/20/2016,0,0,0.0
-"PPM America Private Equity Fund VII, L.P.",IL,06/27/2018,0,0,0.0
-"2099999. Joint Venture Interests - Common Stock - Affiliated 0 Principal Real Estate Debt Fund III, L.P.",IL,05/27/2020,0,0,0.0
-"Square Mile Credit Partners II, L.P.",NY,02/27/2019,0,0,0.0

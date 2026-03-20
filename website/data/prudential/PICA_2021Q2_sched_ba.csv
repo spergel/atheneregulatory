@@ -1,54 +1,36 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-"Admini- Date Type Actual Cost 3,088,549 0 for Accel Growth Fund V L.P. - PICA Palo Alto",CA,03/11/2019,0,0,0.35
+Accel Growth Fund V L.P. - PICA Palo Alto,CA,03/11/2019,0,0,0.35
 Accel Leaders 3 L.P. - PICA Palo Alto,CA,02/17/2021,0,0,0.261
 "Accel-KKR Capital Partners VI, LP - PICA Menlo Park Accel-KKR Holdings GP, LLC",,02/10/2021,0,0,0.826
 "BMU Investment Manager - Mezzanine Management Central Europe 280,000 0 Accession Purpose Trust - PICA Hamilton Ltd",,06/30/2021,0,0,0.65
 "DC Accion Frontier Inclusion Fund GP, L.L.C. (General 2,400,000 0 Accion Frontier Inclusion Fund, L.P. Washington",MA,11/16/2015,0,0,3.254
-"Accion Venture Lab, LP - PICA Cambridge",NY,07/22/2019,0,0,0.0
 "ACP Nycom Holdings, LLC - PICA New York",NY,06/30/2021,0,0,4.348
-"Altaris Health Partners IV, L.P. New York City",NY,06/18/2018,0,0,0.0
 "Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0,0,2.302
-"American Industrial Partners Capital Fund VI, LP. New York",NY,01/21/2016,0,0,0.0
 "American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,10/30/2019,0,0,3.152
-"AMERICAN SECURITIES PARTNERS VII, L.P. - PICA New York",NY,01/19/2016,0,0,0.0
 "American Securities Partners VIII, L.P. - PICA New York",NJ,03/28/2019,0,0,2.326
-"Andreessen Horowitz Fund VII, L.P. - PICA Menlo Park",CA,12/23/2020,0,0,0.0
 "Andreessen Horowitz LsV Fund I, LP - PICA Menlo Park",NJ,05/09/2019,0,0,1.084
 Apax X USD L.P. - PICA St Peter Port,CA,11/10/2020,0,0,0.667
 "Ares US Real Estate Opportunity Fund III, L.P. - PICA Los Angeles",MD,04/15/2021,0,0,0.0
 "Arlington Capital Partners IV, L.P. - PICA Chevy Chase",MD,12/19/2016,0,0,0.5
 "Arlington Capital Partners V, L.P. - PICA Chevy Chase",IL,08/26/2019,0,0,0.0
 "ATI Holding Company, LLC - PICA 4 Bannockburn",FL,06/29/2021,0,0,0.411
-"Bayview Opportunity Domestic VI 1, L.P. - PICA Coral Gables",CA,11/06/2020,0,0,0.0
 "Birch Hill Equity Partners (Global) VI, LP - PICA Toronto",CA,12/17/2020,0,0,0.16
-"Birch Hill Equity Partners V, LP Toronto",NY,02/05/2016,0,0,0.0
 Blackstone BioMed Life Science Real Estate L.P. - PICA New York,NY,11/17/2020,0,0,0.45
-Blackstone BioMed Life Science Real Estate L.P.- PICA 2 New York,NY,10/23/2020,0,0,0.0
 Blackstone BioMed Life Science Real Estate L.P. - PICA 3 New York,NY,05/14/2021,0,0,0.267
-"Blackstone Capital Partners VIII, LP - PICA New York BMA VIII GP L.P.",,02/22/2021,0,0,0.0
 E03 New York,CA,09/23/2019,0,0,1.333
-Los Angeles,CA,12/27/2017,0,0,0.0
 Palo Alto,MA,09/29/2017,0,0,5.6
-Boston,MA,11/27/2017,0,0,0.0
 Boston,CA,07/20/2020,0,0,2.0
-Menlo Park,NJ,01/03/2018,0,0,0.0
 Menlo Park,DE,01/05/2021,0,0,0.057
-Wilmington,DE,10/21/2013,0,0,0.0
 Wilmington,GBR,12/19/2018,0,0,51.25
-London,NY,01/15/2021,0,0,0.0
 New York,CYM,05/21/2015,0,0,5.299
-Grand Cayman,NY,12/24/2013,0,0,0.0
 New York,NY,05/03/2021,0,0,5.54
-New York,NY,03/27/2018,0,0,0.0
 Brooklyn,NY,03/30/2018,0,0,0.187
-New York,JEY,08/07/2014,0,0,0.0
 Jersey,NJ,12/04/2018,0,0,0.027
-Teaneck,DC,05/17/2016,0,0,0.0
 Washington,WA,12/13/2013,0,0,0.029
 Short Hills,LUX,04/22/2014,0,0,0.1
 Blackstone Real Estate Partners Europe VI SCSp - PICA Luxembourg,GBR,02/05/2021,0,0,0.418
 "Brentwood Associates Private Equity VI, LP - PICA Stockholm EQT VIII (GP) SCS",,08/10/2018,0,0,0.03
-Admini- Date Type Actual Cost 0 for E03.1 000000-00-0 Equistone Partners Europe Fund VI D SCSp - PICA Luxembourg CA Equistone General Partner,VI,07/18/2018,0,0,5.2
+"SVO 172,901 0 Commitment E03.1 000000-00-0 Equistone Partners Europe Fund VI D SCSp - PICA Luxembourg CA Equistone General Partner",VI,07/18/2018,0,0,5.2
 "Francisco Partners Agility II, L.P. - PICA San Francisco",CA,09/17/2020,0,0,2.044
 "Francisco Partners VI, L.P. - PICA San Francisco",NC,01/26/2021,0,0,1.166
 Frontier Fund V-A LP - PICA Charlotte,NY,11/21/2017,0,0,2.917
@@ -89,16 +71,14 @@ M31 Navigator Fund LP - PICA Grand Cayman,CA,02/24/2020,0,0,12.5
 Montagu VI L.P. - PICA London,RI,04/01/2021,0,0,0.0
 "Nautic Partners IX, L.P. - PICA Providence",MD,02/21/2020,0,0,0.862
 "Newark Venture Partners Fund, L.P. Newark",CT,07/12/2016,0,0,1.333
-"Oak HC/FT Partners II, L.P. - PICA Greenwich",CYM,10/03/2017,0,0,0.0
 "Oak HC/FT Partners III, L.P. - PICA Cayman Islands",CT,11/22/2019,0,0,18.33
 "Oaktree Ports America Fund (HS III), L.P. - PICA Los Angeles",NY,09/30/2019,0,0,9.72
 "PA Direct Credit Opportunities Fund III, L.P. - PICA Darien",TX,02/08/2021,0,0,2.216
-"Peak Rock Capital Fund II, LP - PICA Austin",LUX,09/06/2017,0,0,0.0
 PGIM Real Estate European Value Partners II - PICA Luxembourg,CA,01/20/2021,0,0,1.88
 "Platinum Equity Small Cap Fund, L.P. Beverly Hills",NJ,06/28/2018,0,0,0.214
 "Prudential Capital Partners V, L.P. - PICA Newark",CA,04/21/2017,0,0,1.568
 "Silver Lake Partners V, LP - PICA Menlo Park Silver Lake Technology Associates V, L.P.",,06/12/2018,0,0,1.25
-Admini- Date Type Actual Cost 0 Sixth Cinven Fund (No. 3) Limited Partnership - PICA London,GBR,05/24/2017,0,0,6.39
+"SVO 241,025 0 Commitment Sixth Cinven Fund (No. 3) Limited Partnership - PICA London",GBR,05/24/2017,0,0,6.39
 "Strategic Value Dislocation Fund, L.P. - PICA Greenwich",CT,09/16/2020,0,0,0.357
 "TCV X, L.P. -PICA Grand Cayman",CYM,02/11/2019,0,0,0.87
 "TCV XI, L.P. - PICA Menlo Park",CA,02/01/2021,0,0,0.965
@@ -117,9 +97,7 @@ Admini- Date Type Actual Cost 0 Sixth Cinven Fund (No. 3) Limited Partnership - 
 "TSSP Capital Solutions (A), L.P. - PICA Dallas",TX,06/05/2019,0,0,0.0
 "E03.2 000000-00-0 Waterton Residential Property Venture XIV, L.P. - PICA Chicago",IL,12/23/2020,0,0,0.0
 "Whitehorse Liquidity Partners (Offshore) III, L.P. - PICA New Castle",DE,10/31/2019,0,0,100.0
-"Inter-Atlantic G Fund, LP New York",NY,02/29/2016,0,0,0.0
 "NorthBound Emerging Manager Fund II-A, L.P. New York",NY,12/18/2013,0,0,100.0
 Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0,0,0.0
-"Prudential Capital Energy Partners, LP -PICA Chicago",IL,02/08/2017,0,0,0.0
 "PruVen Capital Partners Fund I, LP Newark",NJ,09/21/2020,0,0,100.0
 Elm Place - PICA Dallas,TX,04/16/2021,0,0,0.0

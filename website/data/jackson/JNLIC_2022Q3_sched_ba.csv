@@ -25,35 +25,8 @@ name,state,date_acquired,book_value,investment_income,ownership_pct
 "Centre Capital Investors VII, L.P. New York",NY,05/29/2018,0,0,1.16
 "Clairvest Equity Partners V-A, L.P. Toronto",CAN,03/13/2015,0,0,0.79
 "Clairvest Equity Partners VI-A, L.P. Toronto",CAN,07/02/2020,0,0,1.91
-"Clayton, Dubilier & Rice Fund X, L.P. New York",NY,03/26/2018,0,0,0.0
-"Clearlake Capital Partners VII, L.P. Santa Monica",CA,04/25/2022,0,0,0.0
-"Core Senior Lending Fund II Feeder, L.P. New York",NY,12/23/2021,0,0,0.0
-"Cortec Group Fund V, L.P. New York",NY,04/18/2011,0,0,0.0
-"Cortec Group Fund VI, L.P. New York",NY,07/09/2015,0,0,0.0
-"Cortec Group Fund VII, L.P. New York",NY,12/10/2019,0,0,0.0
-"Frazier Healthcare Growth Buyout Fund X, L.P. Seattle",WA,06/10/2021,0,0,0.0
-"Graham Partners V, L.P. Newtown Square",PA,11/05/2019,0,0,0.0
-"Green Equity Investors VII, L.P. Los Angeles",CA,05/11/2017,0,0,0.0
-"Green Equity Investors VIII, L.P. Los Angeles",CA,10/20/2020,0,0,0.0
 "Harvest Partners IX, L.P. New York",NY,08/31/2022,0,0,0.0
-"Harvest Partners VIII, L.P. New York",NY,11/26/2019,0,0,0.0
-"Haveli VC Gaming Fund I, L.P. Wilmington",DE,04/04/2022,0,0,0.0
-"Insight Partners XII, L.P. New York",NY,08/26/2021,0,0,0.0
-"IPI Partners II-A, L.P. Chicago",IL,04/30/2021,0,0,0.0
-Island NYC Recovery Fund I L.P. New York,NY,10/28/2021,0,0,0.0
-"JFL Equity Investors V, L.P. New York",NY,08/14/2020,0,0,0.0
-"K3 Private Investors, L.P. El Segundo",CA,07/15/2016,0,0,0.0
-"K4 Private Investors, L.P. El Segundo",CA,11/14/2018,0,0,0.0
-KKR North America Fund XIII SCSp New York,NY,05/04/2022,0,0,0.0
-"Leeds Equity Partners VI, L.P. New York",NY,06/01/2017,0,0,0.0
-"Levine Leichtman Capital Partners VI, L.P. Beverly Hills CA LLCP Partners",VI,05/30/2017,0,0,0.0
-"Lovell Minnick Equity Partners IV, L.P. Radnor",PA,03/26/2015,0,0,0.0
-"Lovell Minnick Equity Partners V, L.P. Radnor",PA,10/24/2019,0,0,0.0
-"Madison Dearborn Capital Partners VIII, L.P. Chicago",IL,11/19/2020,0,0,0.0
-"Marlin Heritage II, L.P. Hermosa Beach",CA,10/23/2017,0,0,0.0
-"MidCap FinCo Holdings, L.P. El Segundo",CA,04/30/2021,0,0,0.0
-"MidOcean Partners V, L.P. New York",NY,05/21/2018,0,0,0.0
-"Admini- Date Type Actual Cost 2,448,591 0 MidOcean Partners VI, L.P. New York",NY,08/23/2022,0,0,21.5
+"SVO 26,092 0 Commitment MidOcean Partners VI, L.P. New York",NY,08/23/2022,0,0,21.5
 "Motive Capital Fund II-A, L.P. Radnor",DE,08/06/2021,0,0,14.86
 "NewSpring Growth Capital III, L.P. Greenwich",PA,03/02/2012,0,0,2.2
 "NewSpring Growth Capital V, L.P. Longueuil",PA,08/04/2020,0,0,0.38
@@ -69,7 +42,6 @@ KKR North America Fund XIII SCSp New York,NY,05/04/2022,0,0,0.0
 "Sun Capital Partners VI, L.P. New York",FL,08/15/2013,0,0,0.34
 "Thoma Bravo Discover Fund III, L.P. New York",IL,06/30/2021,0,0,1.08
 "Thoma Bravo XII, L.P. Bala Synwyd",IL,05/27/2016,0,0,0.58
-"Thoma Bravo XIII, L.P.",IL,02/13/2019,0,0,0.0
 "Thoma Bravo XV, L.P. Chicago",IL,06/09/2022,0,0,49.88
 "E03.1 000000-00-0 Torquest Partners Fund (U.S.) IV, L.P. Chicago",CAN,08/31/2016,0,0,47.89
 "Torquest Partners Fund (U.S.) V, L.P. Chicago",CAN,07/09/2021,0,0,57.0
@@ -77,22 +49,4 @@ KKR North America Fund XIII SCSp New York,NY,05/04/2022,0,0,0.0
 "New York 265,712,233 XXX TSG7-A, L.P. Birmingham",CA,03/29/2016,0,0,13.74
 "TSG7-B, L.P. Chicago",CA,01/15/2016,0,0,0.0
 "New York 17,140,910 XXX TSG8, L.P.",CA,01/07/2019,0,0,4.04
-"Veritas Capital Fund V, L.P.",NY,06/08/2015,0,0,0.0
 "Veritas Capital Fund VI, L.P.",NY,06/14/2017,0,0,0.0
-"Veritas Capital Fund VII, L.P.",NY,04/14/2020,0,0,0.0
-"Veritas Capital Fund VIII, L.P.",NY,07/01/2022,0,0,0.0
-"Veritas Capital Vantage Fund, L.P.",NY,07/01/2021,0,0,0.0
-"Wind Point Partners IX-A, L.P.",IL,09/05/2019,0,0,0.0
-"Wynnefield Private Equity Partners I, L.P.",PA,07/13/2000,0,0,0.0
-"Yorktown Energy Partners XI, L.P.",NY,04/22/2016,0,0,0.0
-"PPM America Private Equity Fund III, L.P.",IL,03/04/2008,0,0,0.0
-"PPM America Private Equity Fund IV, L.P.",IL,04/28/2015,0,0,0.0
-"PPM America Private Equity Fund V, L.P.",IL,02/11/2014,0,0,0.0
-"PPM America Private Equity Fund VI, L.P.",IL,01/20/2016,0,0,0.0
-"PPM America Private Equity Fund VII, L.P.",IL,03/11/2022,0,0,0.0
-"PPM America Private Equity Fund VIII-A, L.P.",IL,06/08/2022,0,0,0.0
-"PPM Loan Management Company 2, LLC",IL,03/11/2022,0,0,0.0
-"Apollo USREF III Royce Holdings, L.P.",NY,12/29/2020,0,0,0.0
-"Harbert Real Estate Fund V, L.P.",AL,12/07/2012,0,0,0.0
-"Principal Real Estate Debt Fund III, L.P.",IL,05/27/2020,0,0,0.0
-"Square Mile Credit Partners II, L.P.",NY,02/27/2019,0,0,0.0

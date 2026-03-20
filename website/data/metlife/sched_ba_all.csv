@@ -1,5 +1,5 @@
 entity,period,name,state,date_acquired,book_value,investment_income,ownership_pct
-MLIC,2023Q1,Admini- Date Type Actual Cost Additional for 0000702628 Blackstone Mortgage Trus,NJ,06/27/2014,0.0,0,0.0
+MLIC,2023Q1,0000702628 Blackstone Mortgage Trust Inc Warehouse Facility Whippany,NJ,06/27/2014,0.0,0,0.0
 MLIC,2023Q1,Mesa West Core Lending Fund Warehouse Facility - 2021 Refinance NEW YORK,NY,01/28/2021,0.0,0,0.0
 MLIC,2023Q1,Argentic Real Estate Investment Warehouse Facility - 2021 refinance NEW YORK CIT,NY,06/02/2021,0.0,0,0.0
 MLIC,2023Q1,0000703492 Starwood Property Trust Warehouse 2021 Refinance GREENWICH,CT,06/01/2021,0.0,0,0.0
@@ -42,7 +42,7 @@ MLIC,2023Q1,"Battery Ventures XIV, L.P. Boston",MA,05/01/2022,0.0,0,0.3
 MLIC,2023Q1,"Bayview Opportunity Fund Domestic VII, L.P. Coral Gables",FL,01/19/2023,0.0,0,0.4
 MLIC,2023Q1,"Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19/2021,0.0,0,0.69
 MLIC,2023Q1,Blackstone Capital Partners VI L.P. New York,NY,07/29/2008,0.0,0,0.19
-MLIC,2023Q1,Admini- Date Type Actual Cost Additional for Blue Sea Capital Fund II LP Palm Be,FL,02/04/2019,0.0,0,4.6
+MLIC,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE Metropolitan Life Insurance Company Blue S",FL,02/04/2019,0.0,0,4.6
 MLIC,2023Q1,"Brentwood Associates Private Equity V, L.P. Los Angeles",CA,06/12/2013,0.0,0,4.94
 MLIC,2023Q1,"Brentwood Associates Private Equity VI, L.P. Los Angeles",CA,12/06/2016,0.0,0,1.27
 MLIC,2023Q1,Bridgepoint Development Capital IV London,GBR,03/27/2020,0.0,0,1.01
@@ -90,7 +90,7 @@ MLIC,2023Q1,"Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,0
 MLIC,2023Q1,"Glendower Capital Secondary Opportunities Fund V-P, LP New York",NY,06/28/2021,0.0,0,1.42
 MLIC,2023Q1,"Global Infrastructure Partners III-A/B, L.P. New York",NY,12/16/2015,0.0,0,0.25
 MLIC,2023Q1,"Global Infrastructure Partners IV, L.P. New York",NY,07/01/2019,0.0,0,0.14
-MLIC,2023Q1,"Admini- Date Type Actual Cost Additional for Goal Investment Credit Fund, LLC Sa",CA,04/04/2022,0.0,0,3.2
+MLIC,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE Metropolitan Life Insurance Company Goal I",CA,04/04/2022,0.0,0,3.2
 MLIC,2023Q1,"Graham Partners V, LP Philadelphia",PA,07/02/2020,0.0,0,1.78
 MLIC,2023Q1,"Great Hill Equity Partners VII, L.P. Boston",MA,06/26/2019,0.0,0,1.21
 MLIC,2023Q1,"Green Equity Investors VI, L.P. Los Angeles",CA,10/18/2011,0.0,0,0.73
@@ -138,7 +138,7 @@ MLIC,2023Q1,"Maranon Mezzanine Fund II, L.P. Chicago",IL,04/30/2013,0.0,0,1.07
 MLIC,2023Q1,Medicxi III LP London,GBR,04/09/2019,0.0,0,5.29
 MLIC,2023Q1,"Menlo Ventures XV, L.P. Menlo Park",CA,07/22/2020,0.0,0,1.5
 MLIC,2023Q1,"Menlo Ventures XVI, L.P. Menlo Park",CA,02/27/2023,0.0,0,1.12
-MLIC,2023Q1,Admini- Date Type Actual Cost Additional for Meritech Capital Partners VII L.P. ,CA,05/07/2020,0.0,0,1.22
+MLIC,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE Metropolitan Life Insurance Company Merite",CA,05/07/2020,0.0,0,1.22
 MLIC,2023Q1,"MetLife Middle Market Private Debt Fund II, LP Whippany",NJ,08/16/2021,0.0,0,55.63
 MLIC,2023Q1,"Monomoy Capital Partners III, L.P. New York",NY,04/22/2016,0.0,0,3.01
 MLIC,2023Q1,"Mountaingate Capital Fund II, L.P. Denver",CO,05/20/2021,0.0,0,3.05
@@ -185,7 +185,7 @@ MLIC,2023Q1,Tailwater Energy Fund IV LP Dallas,TX,06/24/2019,0.0,0,3.96
 MLIC,2023Q1,"The Veritas Capital Fund VII, L.P. New York",NY,08/09/2019,0.0,0,0.61
 MLIC,2023Q1,"The Veritas Capital Fund VIII, L.P. New York",NY,03/15/2022,0.0,0,0.09
 MLIC,2023Q1,Trace Energy Resources Fund II LP (fka Denham Energy Resources Fund II LP) Bosto,MA,10/30/2019,0.0,0,9.6
-MLIC,2023Q1,Admini- Date Type Actual Cost Additional for Trace Energy Resources Fund LP fka ,MA,08/05/2015,0.0,0,5.1
+MLIC,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE Metropolitan Life Insurance Company Trace ",MA,08/05/2015,0.0,0,5.1
 MLIC,2023Q1,"Trident IX, L.P. Greenwich",CT,09/13/2021,0.0,0,0.52
 MLIC,2023Q1,"Trident V, L.P. Greenwich",CT,02/26/2010,0.0,0,0.16
 MLIC,2023Q1,"Trident VI, L.P. Greenwich",CT,12/20/2013,0.0,0,1.08
@@ -243,7 +243,7 @@ MLIC,2023Q1,U.S.A. Institutional Tax Credit Fund CIII L.P. Greenwich,CT,12/18/20
 MLIC,2023Q1,U.S.A. Institutional Tax Credit Fund LXXXI L.P. Greenwich,CT,04/15/2013,0.0,0,99.9
 MLIC,2023Q1,U.S.A. Institutional Tax Credit Fund LXXXI-A L.P. Greenwich,CT,07/30/2010,0.0,0,99.9
 MLIC,2023Q1,"E03.5 MHEG Fund 50, LP Omaha",NE,10/12/2018,0.0,0,4.76
-MLIC,2023Q3,Admini- Date Type Actual Cost Additional for 0000702628 Blackstone Mortgage Trus,NJ,06/27/2014,0.0,0,0.0
+MLIC,2023Q3,0000702628 Blackstone Mortgage Trust Inc Warehouse Facility MORRISTOWN,NJ,06/27/2014,0.0,0,0.0
 MLIC,2023Q3,Mesa West Core Lending Fund Warehouse Facility - 2021 Refinance NEW YORK,NY,01/28/2021,0.0,0,0.0
 MLIC,2023Q3,p002348 Entity,NY,09/03/2021,0.0,0,98.14
 MLIC,2023Q3,"Accel India VI, L.P. Bangalore",IND,11/11/2019,0.0,0,1.09
@@ -288,7 +288,7 @@ MLIC,2023Q3,"Bond III, L.P. San Francisco",CA,04/01/2022,0.0,0,0.33
 MLIC,2023Q3,"Brentwood Associates Private Equity V, L.P. Los Angeles",CA,06/12/2013,0.0,0,5.2
 MLIC,2023Q3,"Brentwood Associates Private Equity VI, L.P. Los Angeles",CA,12/06/2016,0.0,0,1.33
 MLIC,2023Q3,Bridgepoint Development Capital IV London,GBR,03/27/2020,0.0,0,1.04
-MLIC,2023Q3,"Admini- Date Type Actual Cost Additional for BVP Forge Institutional, L.P. Larch",NY,06/24/2022,0.0,0,0.26
+MLIC,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company BV",NY,06/24/2022,0.0,0,0.26
 MLIC,2023Q3,"Capital International Private Equity Fund VI, L.P. Los Angeles",CA,03/24/2011,0.0,0,0.37
 MLIC,2023Q3,"Carlyle Europe Technology Partners IV, S.C.Sp London",GBR,11/29/2018,0.0,0,0.95
 MLIC,2023Q3,"CARLYLE EUROPE TECHNOLOGY PARTNERS V - EU, S.C.Sp. London",GBR,03/17/2022,0.0,0,0.18
@@ -336,7 +336,7 @@ MLIC,2023Q3,"Francisco Partners VI, L.P. San Francisco",CA,04/03/2020,0.0,0,0.51
 MLIC,2023Q3,"Genstar Capital Partners IX, L.P. San Francisco",CA,02/19/2019,0.0,0,0.46
 MLIC,2023Q3,"Genstar Capital Partners X, L.P. San Francisco",CA,04/01/2021,0.0,0,0.31
 MLIC,2023Q3,"Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,0.0,0,0.34
-MLIC,2023Q3,Admini- Date Type Actual Cost Additional for GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,0.0,0,0.78
+MLIC,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company GG",CA,10/29/2020,0.0,0,0.78
 MLIC,2023Q3,"GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,0.0,0,0.75
 MLIC,2023Q3,"Glasswing Ventures II, L.P. Boston",MA,04/15/2021,0.0,0,5.15
 MLIC,2023Q3,"Glendower Capital Secondary Opportunities Fund V-P, LP New York",NY,06/28/2021,0.0,0,1.38
@@ -384,7 +384,7 @@ MLIC,2023Q3,"Linzor Capital Partners II, L.P. Santiago",CHL,07/23/2010,0.0,0,1.0
 MLIC,2023Q3,"LSC Select II, L.P. Shanghai",CHN,09/09/2021,0.0,0,0.73
 MLIC,2023Q3,"LSC V, L.P. Shanghai",CHN,09/09/2021,0.0,0,0.71
 MLIC,2023Q3,MED Platform I SLP Lyon,FRA,07/20/2020,0.0,0,2.58
-MLIC,2023Q3,Admini- Date Type Actual Cost Additional for MED Platform II SLP Lyon,FRA,12/10/2021,0.0,0,0.29
+MLIC,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company ME",FRA,12/10/2021,0.0,0,0.29
 MLIC,2023Q3,Medicxi III LP London,GBR,04/09/2019,0.0,0,5.29
 MLIC,2023Q3,Medicxi Secondary I LP London,GBR,05/29/2020,0.0,0,2.99
 MLIC,2023Q3,"Menlo Special Opportunities Fund III, L.P. Menlo Park",CA,08/02/2022,0.0,0,0.36
@@ -432,7 +432,7 @@ MLIC,2023Q3,"Spark Capital Growth Fund IV, L.P. Boston",MA,01/25/2022,0.0,0,0.27
 MLIC,2023Q3,"Spark Capital VI, L.P. Boston",MA,02/12/2019,0.0,0,2.82
 MLIC,2023Q3,"Spark Capital VII, L.P. Boston",MA,01/25/2022,0.0,0,0.27
 MLIC,2023Q3,"Sterling Investment Partners IV, L.P. Westport",CT,12/15/2021,0.0,0,0.96
-MLIC,2023Q3,Admini- Date Type Actual Cost Additional for Tailwater Energy Fund IV LP Dallas,TX,06/24/2019,0.0,0,3.91
+MLIC,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company Ta",TX,06/24/2019,0.0,0,3.91
 MLIC,2023Q3,"The Baring Asia Private Equity Fund VI, L.P.1 Hong Kong",CHN,07/25/2014,0.0,0,0.61
 MLIC,2023Q3,"The Veritas Capital Fund VII, L.P. New York",NY,08/09/2019,0.0,0,0.62
 MLIC,2023Q3,"The Veritas Capital Fund VIII, L.P. New York",NY,03/15/2022,0.0,0,0.09
@@ -476,7 +476,7 @@ MLIC,2023Q3,p002479 Terminal 106 Venture LLC Seattle,WA,10/24/2022,0.0,0,80.891
 MLIC,2023Q3,p002596 ML BEI Navy Yard Investors LLC Philadelphia,PA,09/21/2023,0.0,0,63.08
 MLIC,2023Q3,p000882 Entity,NY,12/09/2009,0.0,0,100.0
 MLIC,2023Q3,p000987 Entity,GA,08/01/2012,0.0,0,100.0
-MLIC,2023Q3,Admini- Date Type Actual Cost Additional for p001071 Entity,DE,09/30/2013,0.0,0,100.0
+MLIC,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Life Insurance Company p0",DE,09/30/2013,0.0,0,100.0
 MLIC,2023Q3,"p002115 MMP Owners III, LLC Whippany",NJ,11/25/2019,0.0,0,100.0
 MLIC,2023Q3,p002296 1350 Eye Street LLC Washington,DC,03/10/2021,0.0,0,92.06
 MLIC,2023Q3,"p000983 MetLife Camino Ramon Member, LLC San Francisco",CA,12/20/2013,0.0,0,99.0
@@ -501,7 +501,7 @@ MLIC,2023Q3,"CREA Corporate Tax Credit Fund 43, LLC Indianapolis",IN,06/10/2015,
 MLIC,2023Q3,"Red Stone-2015 National Fund, L.P. Cleveland",OH,10/26/2015,0.0,0,23.35
 MLIC,2023Q3,RBC Tax Credit Equity Fund-66 Limited Partnership Cleveland,OH,09/30/2009,0.0,0,68.87
 MLIC,2023Q3,State Tax Credit Fund L.L.C St. Petersburg,FL,08/05/2015,0.0,0,99.9
-MLIC,2024Q2,"Admini- Date Type Actual Cost Additional for Chestnut Flats Wind, LLC Altoona",PA,09/30/2013,0.0,0,100.0
+MLIC,2024Q2,"Chestnut Flats Wind, LLC Altoona",PA,09/30/2013,0.0,0,100.0
 MLIC,2024Q2,Argentic Real Estate Investments 1 - warehouse refinance NEW YORK CITY,NY,06/06/2024,0.0,0,0.0
 MLIC,2024Q2,p002348 Entity,NY,09/03/2021,0.0,0,98.62
 MLIC,2024Q2,p002599 Entity,WA,10/01/2023,0.0,0,99.07
@@ -544,7 +544,7 @@ MLIC,2024Q2,"KPCB Digital Growth Fund III, LLC New York",NY,06/13/2016,0.0,0,1.5
 MLIC,2024Q2,"Arlington Capital Partners IV, L.P. Chevy Chase",MD,07/28/2016,0.0,0,4.39
 MLIC,2024Q2,Blue Owl GP Stakes III US Investors LP (fka III LP) New York,NY,09/09/2016,0.0,0,2.64
 MLIC,2024Q2,"Trident VII, L.P. Greenwich",CT,09/12/2016,0.0,0,0.54
-MLIC,2024Q2,"Admini- Date Type Actual Cost Additional for EnCap Energy Capital Fund XI, L.P. ",TX,12/12/2016,0.0,0,0.62
+MLIC,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Life Insurance Company EnCap E",TX,12/12/2016,0.0,0,0.62
 MLIC,2024Q2,"The Veritas Capital Fund VI, L.P. New York",NY,12/08/2016,0.0,0,0.7
 MLIC,2024Q2,"CIVC Partners Fund V, L.P. Chicago",IL,03/31/2017,0.0,0,10.26
 MLIC,2024Q2,VIP III LP London,GBR,06/20/2017,0.0,0,0.35
@@ -638,7 +638,7 @@ MLIC,2024Q2,"INDEX VENTURES XI (JERSEY), L.P. London",GBR,06/07/2021,0.0,0,0.73
 MLIC,2024Q2,"Foundation Capital X, L.P. San Francisco",CA,06/07/2021,0.0,0,1.64
 MLIC,2024Q2,"Foundation Capital Leadership Fund III, L.P. San Francisco",CA,06/07/2021,0.0,0,2.27
 MLIC,2024Q2,"APOLLO INFRASTRUCTURE OPPORTUNITIES FUND II, L.P. New York",NY,06/01/2021,0.0,0,7.87
-MLIC,2024Q2,"Admini- Date Type Actual Cost Additional for Nautic Partners X, L.P. Providence",RI,06/23/2021,0.0,0,0.63
+MLIC,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Life Insurance Company Nautic ",RI,06/23/2021,0.0,0,0.63
 MLIC,2024Q2,"Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,0.0,0,0.34
 MLIC,2024Q2,"Quona Accion Inclusion Fund III, L.P. Washington",DC,07/28/2021,0.0,0,4.95
 MLIC,2024Q2,Inflexion Buyout Fund VI (No. 1) London,GBR,06/30/2021,0.0,0,0.21
@@ -686,7 +686,7 @@ MLIC,2024Q2,Hg Genesis 10 A L.P. London,GBR,04/14/2022,0.0,0,0.07
 MLIC,2024Q2,"Wind Point Partners X-A, L.P. Chicago",IL,08/01/2022,0.0,0,0.65
 MLIC,2024Q2,"Arctos Sports Partners Fund II, LP New York",NY,05/03/2022,0.0,0,0.15
 MLIC,2024Q2,"Audax Private Equity Fund VII-A, L.P. Boston",MA,04/15/2022,0.0,0,0.2
-MLIC,2024Q2,"Admini- Date Type Actual Cost Additional for TRIVEST DISCOVERY FUND II, L.P. Cor",FL,04/19/2022,0.0,0,0.8
+MLIC,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Life Insurance Company TRIVEST",FL,04/19/2022,0.0,0,0.8
 MLIC,2024Q2,"Arlington Capital Partners VI, L.P. Chevy Chase",MD,05/01/2022,0.0,0,0.19
 MLIC,2024Q2,Accel Leaders 4 L.P. Palo Alto,CA,06/15/2022,0.0,0,0.15
 MLIC,2024Q2,"BVP Forge Institutional, L.P. Larchmont",NY,06/24/2022,0.0,0,0.28
@@ -734,7 +734,7 @@ MLIC,2024Q2,Inflexion Enterprise Fund VI (No.1) Limited Partnership London,GBR,0
 MLIC,2024Q2,"Prudential Capital Partners II, L.P. Chicago",IL,12/09/2004,0.0,0,0.24
 MLIC,2024Q2,"Court Square Capital Partners II, L.P. New York",NY,07/28/2006,0.0,0,4.0
 MLIC,2024Q2,"Silver Lake Partners III, L.P. Menlo Park",CA,02/28/2007,0.0,0,0.1
-MLIC,2024Q2,"Admini- Date Type Actual Cost Additional for TrueBridge Special Purpose, L.P. Du",NC,06/18/2008,0.0,0,99.9
+MLIC,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Life Insurance Company TrueBri",NC,06/18/2008,0.0,0,99.9
 MLIC,2024Q2,"MetLife Middle Market Private Debt Fund, LP Whippany",NJ,07/02/2018,0.0,0,29.54
 MLIC,2024Q2,"MetLife Next Gen Ventures, LLC Wilmington",DE,06/27/2022,0.0,0,100.0
 MLIC,2024Q2,"p001030 Marina Bay Residences, LLC Quincy",MA,04/08/2014,0.0,0,90.0
@@ -775,7 +775,7 @@ MLIC,2024Q2,p002720 1960 Grand LLC El Segundo,CA,06/11/2024,0.0,0,100.0
 MLIC,2024Q2,p002337 Metlife Strategic Hotel Debt Fund LP - MLIC Whippany,NJ,07/01/2021,0.0,0,100.0
 MLIC,2024Q2,"p0011552480 MetLife Commercial Mortgage Income Fund, LP Whippany",NJ,10/01/2022,0.0,0,34.0
 MLIC,2024Q2,MetLife Investment Private Equity Partners II Acquisition Co Whippany,NJ,03/29/2024,0.0,0,37.29
-MLIC,2024Q2,Admini- Date Type Actual Cost Additional for Red Stone - Fund 9 Limited Partners,OH,12/29/2009,0.0,0,99.9
+MLIC,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Life Insurance Company Red Sto",OH,12/29/2009,0.0,0,99.9
 MLIC,2024Q2,Red Stone - Fund 12 Limited Partnership Cleveland,OH,06/25/2010,0.0,0,99.9
 MLIC,2024Q2,"Boston Financial National Tax Credit Fund 2012, LP Boston",MA,11/15/2012,0.0,0,99.9
 MLIC,2024Q2,"Red Stone - 2012 National Fund, LP Cleveland",OH,11/15/2012,0.0,0,50.47
@@ -786,7 +786,7 @@ MLIC,2024Q2,"Red Stone-2015 National Fund, L.P. Cleveland",OH,10/26/2015,0.0,0,2
 MLIC,2024Q2,"Alliant Tax Credit Fund 85, Ltd. Los Angeles",CA,06/22/2016,0.0,0,44.38
 MLIC,2024Q2,"Red Stone-2016 National Fund, LP Cleveland",OH,09/20/2016,0.0,0,23.81
 MLIC,2024Q2,MHEG Fund 2017 LP Omaha,NE,08/03/2017,0.0,0,32.53
-MLIC,2024Q3,Admini- Date Type Actual Cost Additional for 0000703678 MESA WEST REAL ESTATE FU,NY,04/18/2022,0.0,0,0.0
+MLIC,2024Q3,0000703678 MESA WEST REAL ESTATE FUND V NEW YORK CITY,NY,04/18/2022,0.0,0,0.0
 MLIC,2024Q3,0000703694 ARGENTIC REAL ESTATE II LLC NEW YORK,NY,05/12/2022,0.0,0,0.0
 MLIC,2024Q3,"0000703850 MWCLF MLRS SPE, LLC NEW YORK",NY,01/26/2024,0.0,0,0.0
 MLIC,2024Q3,0000703876 LOANCORE CREDIT REIT LLC GREENWICH,CT,07/11/2024,0.0,0,0.0
@@ -830,7 +830,7 @@ MLIC,2024Q3,"Quantum Energy Partners VII, L.P. Houston",TX,09/01/2017,0.0,0,1.39
 MLIC,2024Q3,"Trivest Fund VI, L.P. Coral Gables",FL,09/19/2017,0.0,0,0.89
 MLIC,2024Q3,Affinity Asia Pacific Fund V L.P. Hong Kong,CHN,01/15/2018,0.0,0,0.19
 MLIC,2024Q3,"IV, L.P) New York",NY,04/06/2018,0.0,0,2.32
-MLIC,2024Q3,"Admini- Date Type Actual Cost Additional for Gryphon Partners V, L.P. San Franci",CA,12/20/2017,0.0,0,0.53
+MLIC,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN LIFE INSURANCE COMPANY Gr",CA,12/20/2017,0.0,0,0.53
 MLIC,2024Q3,"Patria - Private Equity Fund VI, L.P. Sao Paulo",BRA,12/18/2017,0.0,0,0.43
 MLIC,2024Q3,"New Markets Education Partners II, LP Baltimore",MD,11/28/2017,0.0,0,9.25
 MLIC,2024Q3,Primavera Capital Fund III L.P. Hong Kong,CHN,02/14/2018,0.0,0,0.8
@@ -877,7 +877,7 @@ MLIC,2024Q3,Bridgepoint Development Capital IV London,GBR,03/27/2020,0.0,0,1.06
 MLIC,2024Q3,KKR Dislocation Opportunities (Domestic) Fund L.P. New York,NY,04/09/2020,0.0,0,8.87
 MLIC,2024Q3,Dover Street X L.P. Boston,MA,04/30/2020,0.0,0,0.77
 MLIC,2024Q3,Secondary Overflow Fund IV L.P. Boston,MA,04/30/2020,0.0,0,1.81
-MLIC,2024Q3,"Admini- Date Type Actual Cost Additional for Westlake BioPartners Fund II, L.P. ",CA,05/07/2020,0.0,0,1.41
+MLIC,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN LIFE INSURANCE COMPANY We",CA,05/07/2020,0.0,0,1.41
 MLIC,2024Q3,"Westlake BioPartners Opportunity Fund I, L.P. Westlake Village",CA,05/07/2020,0.0,0,4.1
 MLIC,2024Q3,"Wing Three, L.P. Menlo Park",CA,05/29/2020,0.0,0,1.7
 MLIC,2024Q3,"Silver Lake Partners VI, L.P. New York",NY,06/02/2020,0.0,0,0.08
@@ -925,7 +925,7 @@ MLIC,2024Q3,KKR Opportunities (Domestic) Fund II SCSp New York,NY,10/29/2021,0.0
 MLIC,2024Q3,Arsenal Capital Partners VI LP New York,NY,10/21/2021,0.0,0,0.23
 MLIC,2024Q3,PAI Partners VIII-1 SCSp Paris,FRA,11/30/2021,0.0,0,0.1
 MLIC,2024Q3,"Trident IX, L.P. Greenwich",CT,09/13/2021,0.0,0,0.28
-MLIC,2024Q3,"Admini- Date Type Actual Cost Additional for Sterling Investment Partners IV, L.",CT,12/15/2021,0.0,0,0.99
+MLIC,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN LIFE INSURANCE COMPANY St",CT,12/15/2021,0.0,0,0.99
 MLIC,2024Q3,"Andreessen Horowitz Fund VIII, L.P. Menlo Park",CA,11/30/2021,0.0,0,0.17
 MLIC,2024Q3,"Andreessen Horowitz LSV Fund III, L.P. Menlo Park",CA,11/30/2021,0.0,0,0.18
 MLIC,2024Q3,"Spark Capital Growth Fund IV, L.P. Boston",MA,01/25/2022,0.0,0,0.26
@@ -973,7 +973,7 @@ MLIC,2024Q3,SLP Lyon,FRA,11/11/2022,0.0,0,0.33
 MLIC,2024Q3,INDEX ORIGIN II (JERSEY) L.P. London,GBR,11/17/2022,0.0,0,0.34
 MLIC,2024Q3,"Concrete Rose Fund II, L.P. Menlo Park",CA,01/06/2023,0.0,0,3.27
 MLIC,2024Q3,"Trivest Recognition Fund, L.P. Coral Gables",FL,01/13/2023,0.0,0,0.55
-MLIC,2024Q3,Admini- Date Type Actual Cost Additional for Hg Mercury 4 A L.P. London,GBR,01/12/2023,0.0,0,0.1
+MLIC,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN LIFE INSURANCE COMPANY Hg",GBR,01/12/2023,0.0,0,0.1
 MLIC,2024Q3,"Red Arts Capital Opportunity Fund I, L.P. Chicago",IL,12/16/2022,0.0,0,2.23
 MLIC,2024Q3,"Bayview Opportunity Fund Domestic VII, L.P. Coral Gables",FL,01/19/2023,0.0,0,1.49
 MLIC,2024Q3,"Menlo Ventures XVI, L.P. Menlo Park",CA,02/27/2023,0.0,0,1.62
@@ -1019,7 +1019,7 @@ MLIC,2024Q3,"p002270 Midtown Union Investors, LLC Atlanta",GA,10/27/2020,0.0,0,6
 MLIC,2024Q3,p002271 MTU Commercial Holdings LLC Atlanta,GA,10/30/2020,0.0,0,95.0
 MLIC,2024Q3,p002322 ML Corner 63 Member LLC Seattle,WA,07/15/2021,0.0,0,95.0
 MLIC,2024Q3,"p002336 Metlife Enhanced Core Property Fund, LP - MLIC Whippany",NJ,07/01/2021,0.0,0,27.05
-MLIC,2024Q3,Admini- Date Type Actual Cost Additional for p002369 University Town Center Hold,NC,12/15/2021,0.0,0,82.65
+MLIC,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN LIFE INSURANCE COMPANY p0",NC,12/15/2021,0.0,0,82.65
 MLIC,2024Q3,p002410 ML MMIP Member LLC Whippany,NJ,06/29/2022,0.0,0,30.0
 MLIC,2024Q3,p002596 ML Navy Yard Members LLC Philadelphia,PA,09/21/2023,0.0,0,71.975
 MLIC,2024Q3,p000862 Entity,DE,05/09/2007,0.0,0,100.0
@@ -1045,7 +1045,7 @@ MLIC,2024Q3,"RBC Tax Credit Equity Fund-84, Limited Partnership Cleveland",OH,06
 MLIC,2024Q3,"CREA Corporate Tax Credit Fund 39, LLC Indianapolis",IN,06/25/2014,0.0,0,33.44
 MLIC,2024Q3,RED STONE EQUITY-FUND 111 LIMITED PARTNERSHIP New York,NY,03/27/2024,0.0,0,19.5
 MLIC,2024Q3,RBC Tax Credit Equity Fund-66 Limited Partnership Cleveland,OH,09/30/2009,0.0,0,99.9
-MLIC,2025Q1,Admini- Date Type Actual Cost Additional for AMERICAN INTERNATIONAL GROUP I New ,NY,01/01/2025,0.0,0,0.0
+MLIC,2025Q1,AMERICAN INTERNATIONAL GROUP I New York,NY,01/01/2025,0.0,0,0.0
 MLIC,2025Q1,ATHENA TRUST 1 - 1995 TR CERTS Cornwall,GBR,01/01/2025,0.0,0,0.0
 MLIC,2025Q1,BAYERISCHE LANDESBANK Munich,DEU,01/01/2025,0.0,0,0.0
 MLIC,2025Q1,CHELSEA TRUST London,GBR,01/01/2025,0.0,0,0.0
@@ -1088,7 +1088,7 @@ MLIC,2025Q1,"Accel London VIII, L.P. London",GBR,05/01/2024,0.0,0,0.2
 MLIC,2025Q1,"Accel XIII, L.P. Palo Alto",CA,02/19/2016,0.0,0,1.2
 MLIC,2025Q1,"Accel XVI, L.P. Palo Alto",CA,12/08/2023,0.0,0,0.29
 MLIC,2025Q1,"ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0.0,0,7.56
-MLIC,2025Q1,Admini- Date Type Actual Cost Additional for Affinity Asia Pacific Fund IV (NO.2,SGP,03/20/2013,0.0,0,2.31
+MLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Affini",SGP,03/20/2013,0.0,0,2.31
 MLIC,2025Q1,Affinity Asia Pacific Fund V L.P. Hong Kong,CHN,01/15/2018,0.0,0,0.19
 MLIC,2025Q1,"AH American Dynamism Fund I, L.P. Menlo Park",CA,04/12/2024,0.0,0,0.14
 MLIC,2025Q1,Altor Fund V (No. 1) AB Stockholm,SWE,12/17/2018,0.0,0,1.3
@@ -1136,7 +1136,7 @@ MLIC,2025Q1,"Brentwood Associates Private Equity V, L.P. Los Angeles",CA,06/12/2
 MLIC,2025Q1,"Carlyle Europe Technology Partners IV, S.C.Sp London",GBR,11/29/2018,0.0,0,0.94
 MLIC,2025Q1,"Carlyle Global Partners, L.P. Washington",DC,09/01/2016,0.0,0,5.46
 MLIC,2025Q1,"CCMP Capital Investors III, L.P. New York",NY,07/02/2014,0.0,0,0.35
-MLIC,2025Q1,"Admini- Date Type Actual Cost Additional for CIVC Partners Fund V, L.P. Chicago",IL,03/31/2017,0.0,0,10.22
+MLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY CIVC P",IL,03/31/2017,0.0,0,10.22
 MLIC,2025Q1,"CIVC Partners Fund VII, L.P. Chicago",IL,09/29/2023,0.0,0,1.49
 MLIC,2025Q1,Clearlake Capital Partners III Wilmington,DE,11/08/2012,0.0,0,1.08
 MLIC,2025Q1,"Cohere Capital Fund II, LP Boston",MA,08/30/2024,0.0,0,2.4
@@ -1183,7 +1183,7 @@ MLIC,2025Q1,"Glendower Capital Secondary Opportunities Fund V-P, LP New York",NY
 MLIC,2025Q1,"Global Infrastructure Partners II-A, LP New York",NY,09/15/2011,0.0,0,0.93
 MLIC,2025Q1,"Global Infrastructure Partners III-A/B, L.P. New York",NY,12/16/2015,0.0,0,0.13
 MLIC,2025Q1,"Great Hill Equity Partners VIII, L.P. Boston",MA,01/31/2022,0.0,0,0.41
-MLIC,2025Q1,"Admini- Date Type Actual Cost Additional for Green Equity Investors IX, L.P. Los",CA,04/15/2022,0.0,0,0.15
+MLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Green ",CA,04/15/2022,0.0,0,0.15
 MLIC,2025Q1,"Green Equity Investors VII, L.P. Los Angeles",CA,02/16/2016,0.0,0,0.45
 MLIC,2025Q1,Hahn & Company IV L.P. Seoul,KOR,06/27/2023,0.0,0,0.43
 MLIC,2025Q1,Hahn & Company IV-S L.P. Seoul,KOR,05/04/2023,0.0,0,0.62
@@ -1230,7 +1230,7 @@ MLIC,2025Q1,"Mosaic General Fund I, L.P. (fka Mastry Fund I, L.P.) San Francisco
 MLIC,2025Q1,"Nautic Partners VII, L.P. Providence",RI,10/15/2014,0.0,0,8.67
 MLIC,2025Q1,"Nautic Partners X, L.P. Providence",RI,06/23/2021,0.0,0,0.63
 MLIC,2025Q1,"New Enterprise Associates 17, L.P. Menlo Park",CA,05/20/2019,0.0,0,0.38
-MLIC,2025Q1,"Admini- Date Type Actual Cost Additional for New Markets Education Partners III,",MD,09/29/2022,0.0,0,3.99
+MLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY New Ma",MD,09/29/2022,0.0,0,3.99
 MLIC,2025Q1,Oakley Touring Venture B1 SCSP Menlo Park,CA,12/20/2024,0.0,0,0.07
 MLIC,2025Q1,"Odyssey Investment Partners Fund V, LP New York",NY,06/24/2014,0.0,0,0.97
 MLIC,2025Q1,"OEP IX Ballymore Co Investment Partners, L.P. New York",NY,12/20/2024,0.0,0,0.1
@@ -1278,7 +1278,7 @@ MLIC,2025Q1,Trive Capital Fund V LP Dallas,TX,12/07/2023,0.0,0,0.41
 MLIC,2025Q1,"TRIVEST DISCOVERY FUND II, L.P. Coral Gables",FL,04/19/2022,0.0,0,0.8
 MLIC,2025Q1,"TRIVEST FUND VII, L.P. Coral Gables",FL,04/19/2022,0.0,0,0.84
 MLIC,2025Q1,"Trivest Growth Investment Fund II, LP Coral Gables",FL,12/19/2019,0.0,0,3.65
-MLIC,2025Q1,"Admini- Date Type Actual Cost Additional for Trivest Recognition Fund, L.P. Cora",FL,01/13/2023,0.0,0,0.55
+MLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Trives",FL,01/13/2023,0.0,0,0.55
 MLIC,2025Q1,T-VIII Mercury Co-Invest LP Stamford,CT,06/17/2021,0.0,0,3.17
 MLIC,2025Q1,"Valspring Capital Fund I, L.P. Boston",MA,06/25/2024,0.0,0,1.47
 MLIC,2025Q1,VIP III LP London,GBR,06/20/2017,0.0,0,0.35
@@ -1320,7 +1320,7 @@ MLIC,2025Q1,p002599 Entity,WA,10/01/2023,0.0,0,97.96
 MLIC,2025Q1,p002719 Entity,CA,01/24/2024,0.0,0,100.0
 MLIC,2025Q1,0000703678 MESA WEST REAL ESTATE FUND V NEW YORK CITY,NY,04/18/2022,0.0,0,0.0
 MLIC,2025Q1,"0000703850 MWCLF MLRS SPE, LLC NEW YORK",NY,01/26/2024,0.0,0,0.0
-MLIC,2025Q1,Admini- Date Type Actual Cost Additional for 0000703876 LOANCORE CREDIT REIT LLC,CT,07/11/2024,0.0,0,0.0
+MLIC,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY 000070",CT,07/11/2024,0.0,0,0.0
 MLIC,2025Q1,0000703949 ARGENTIC REAL ESTATE INVESTMENT LLC NEW YORK CITY,NY,01/10/2025,0.0,0,0.0
 MLIC,2025Q1,MetLife Investment Private Equity Partners II Acquisition Co Whippany,NJ,03/29/2024,0.0,0,37.29
 MLIC,2025Q1,"Alden Capital Partners Tax Credit Fund 17, LP Sherman Oaks",CA,03/30/2015,0.0,0,46.74
@@ -1360,7 +1360,7 @@ MLIC,2025Q1,U.S.A. Institutional Tax Credit Fund CIII L.P. Greenwich,CT,12/18/20
 MLIC,2025Q1,"MHEG Fund 50, LP Omaha",NE,10/12/2018,0.0,0,4.91
 MLIC,2025Q1,State Tax Credit Fund L.L.C St. Petersburg,FL,08/05/2015,0.0,0,99.9
 MLIC,2025Q1,73758*-AG-6 POTENTIA LUDIS SPV LLC OCTL_2 Wilimington,DE,03/28/2025,0.0,0,0.0
-MLIC,2025Q2,"Admini- Date Type Actual Cost Additional for ACCION VENTURE LAB FUND II, LP Wash",DC,12/12/2023,0.0,0,7.54
+MLIC,2025Q2,"ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0.0,0,7.54
 MLIC,2025Q2,"AH American Dynamism Fund I, L.P. Menlo Park",CA,04/12/2024,0.0,0,0.14
 MLIC,2025Q2,"APOLLO IMPACT MISSION FUND, L.P. New York",NY,07/08/2021,0.0,0,2.97
 MLIC,2025Q2,"APOLLO INFRASTRUCTURE OPPORTUNITIES FUND II, L.P. New York",NY,06/01/2021,0.0,0,7.73
@@ -1408,7 +1408,7 @@ MLIC,2025Q2,"Battery Ventures XIII, L.P. Boston",MA,01/24/2020,0.0,0,0.75
 MLIC,2025Q2,"Battery Ventures XIV, L.P. Boston",MA,05/01/2022,0.0,0,0.3
 MLIC,2025Q2,"Bessemer Venture Partners Century Fund II, L.P. Larchmont",NY,02/19/2021,0.0,0,0.94
 MLIC,2025Q2,Bessemer Venture Partners X Institutional L.P. Larchmont,NY,10/15/2018,0.0,0,0.74
-MLIC,2025Q2,Admini- Date Type Actual Cost Additional for Bessemer Venture Partners XI Instit,NY,02/19/2021,0.0,0,0.65
+MLIC,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Besseme",NY,02/19/2021,0.0,0,0.65
 MLIC,2025Q2,"Bessemer Venture Partners XII Institutional, L.P. Larchmont",NY,07/01/2022,0.0,0,0.21
 MLIC,2025Q2,"BharCap Partners II, L.P. Greenwich",CT,10/15/2024,0.0,0,1.03
 MLIC,2025Q2,BlackFin DHA Financial Partners Rotterdam,NLD,04/02/2025,0.0,0,0.1
@@ -1454,7 +1454,7 @@ MLIC,2025Q2,"Francisco Partners VI, L.P. San Francisco",CA,04/03/2020,0.0,0,0.48
 MLIC,2025Q2,"Francisco Partners VII, L.P. San Francisco",CA,04/28/2022,0.0,0,0.14
 MLIC,2025Q2,GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,0.0,0,0.8
 MLIC,2025Q2,GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,0.0,0,0.79
-MLIC,2025Q2,"Admini- Date Type Actual Cost Additional for GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,0.0,0,0.77
+MLIC,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY GGV Dis",CA,10/29/2020,0.0,0,0.77
 MLIC,2025Q2,"Genstar Capital Partners IX, L.P. San Francisco",CA,02/19/2019,0.0,0,0.46
 MLIC,2025Q2,"Genstar Capital Partners XI, L.P. San Francisco",CA,03/27/2023,0.0,0,0.11
 MLIC,2025Q2,"Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,0.0,0,0.33
@@ -1502,7 +1502,7 @@ MLIC,2025Q2,"Lightspeed Venture Partners Select VI, L.P. Menlo Park",CA,03/27/20
 MLIC,2025Q2,"Lightspeed Venture Partners XIV-A (Inception), L.P. Menlo Park",CA,02/28/2022,0.0,0,0.21
 MLIC,2025Q2,"Lightspeed Venture Partners XIV-B (Ignite), L.P. Menlo Park",CA,02/28/2022,0.0,0,0.21
 MLIC,2025Q2,"Lightspeed Venture Partners XV-A (Inception), L.P. Menlo Park",CA,03/31/2025,0.0,0,0.52
-MLIC,2025Q2,Admini- Date Type Actual Cost Additional for Lightspeed Venture Partners XV-B (I,CA,03/31/2025,0.0,0,0.43
+MLIC,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Lightsp",CA,03/31/2025,0.0,0,0.43
 MLIC,2025Q2,"Linzor Capital Partners II, L.P. Santiago",CHL,07/23/2010,0.0,0,0.94
 MLIC,2025Q2,"Linzor Capital Partners III, L.P. Santiago",CHL,02/26/2015,0.0,0,5.93
 MLIC,2025Q2,"Longreach Capital Partners 4 - USD, L.P. Tokyo",JPN,09/13/2024,0.0,0,2.89
@@ -1549,7 +1549,7 @@ MLIC,2025Q2,"Riverstone Global Energy and Power Fund V, L.P. New York",NY,01/12/
 MLIC,2025Q2,"Riverstone Global Energy and Power Fund VI, L.P. New York",NY,10/31/2014,0.0,0,1.23
 MLIC,2025Q2,"Scale Venture Partners VII, L.P. Foster City",CA,11/02/2020,0.0,0,2.95
 MLIC,2025Q2,"Scale Venture Partners VIII, L.P. Foster City",CA,08/03/2022,0.0,0,0.82
-MLIC,2025Q2,Admini- Date Type Actual Cost Additional for Seventh Cinven Fund (No.1) L.P. Lon,GBR,02/27/2019,0.0,0,0.28
+MLIC,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Seventh",GBR,02/27/2019,0.0,0,0.28
 MLIC,2025Q2,"SignalFire Early Fund IV, L.P. San Francisco",CA,03/29/2024,0.0,0,0.83
 MLIC,2025Q2,"SignalFire Seed Fund V, L.P. San Francisco",CA,03/29/2024,0.0,0,0.83
 MLIC,2025Q2,"Silver Lake Partners III, L.P. Menlo Park",CA,02/28/2007,0.0,0,0.1
@@ -1594,7 +1594,7 @@ MLIC,2025Q2,"MetLife Capital, L.P. New York",NY,12/05/1984,0.0,0,84.43
 MLIC,2025Q2,"MetLife Middle Market Private Debt Fund, LP Whippany",NJ,07/02/2018,0.0,0,28.28
 MLIC,2025Q2,"p001033 Republic Plaza, LLC San Francisco",CA,05/01/2014,0.0,0,47.5
 MLIC,2025Q2,p001876 ML District NOHO Maseter Member LLC North Hollywood,CA,02/15/2019,0.0,0,95.0
-MLIC,2025Q2,"Admini- Date Type Actual Cost Additional for p002017 Studebaker Industrial, LLC ",CA,07/19/2019,0.0,0,95.0
+MLIC,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY p002017",CA,07/19/2019,0.0,0,95.0
 MLIC,2025Q2,"p002138 MetWest International Venture, LLC Tampa",FL,12/16/2019,0.0,0,50.0
 MLIC,2025Q2,p002410 ML MMIP Member LLC Whippany,NJ,06/29/2022,0.0,0,30.0
 MLIC,2025Q2,p002517 ML Steel House Investor JV LLC Denver,CO,01/26/2023,0.0,0,20.0
@@ -1635,7 +1635,7 @@ MLIC,2025Q2,"Boston Financial National Tax Credit Fund 2012, LP Boston",MA,11/15
 MLIC,2025Q2,"CREA Corporate Tax Credit Fund 39, LLC Indianapolis",IN,06/25/2014,0.0,0,33.44
 MLIC,2025Q2,"CREA Corporate Tax Credit Fund 43, LLC Indianapolis",IN,06/10/2015,0.0,0,16.59
 MLIC,2025Q2,"Centerline Corporate Partners XXXIII, L.P. New York",NY,09/27/2006,0.0,0,12.07
-MLIC,2025Q2,Admini- Date Type Actual Cost Additional for MHEG Fund 2017 LP Omaha,NE,08/03/2017,0.0,0,32.53
+MLIC,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY MHEG Fu",NE,08/03/2017,0.0,0,32.53
 MLIC,2025Q2,RBC Tax Credit Equity Fund-66 Limited Partnership Cleveland,OH,09/30/2009,0.0,0,99.9
 MLIC,2025Q2,Raymond James Tax Credit Fund 40 L.L.C. St. Petersburg,FL,09/12/2013,0.0,0,17.95
 MLIC,2025Q2,"Raymond James Tax Credit Fund 41, L.L.C. St. Petersburg",FL,08/05/2015,0.0,0,17.6
@@ -1645,7 +1645,7 @@ MLIC,2025Q2,73758*-AG-6 POTENTIA LUDIS SPV LLC OCTL_2 Wilimington,DE,03/28/2025,
 MLIC,2025Q2,"MetLife Senior Direct Lending Fund II, LP Whippany",NJ,12/18/2023,0.0,0,28.57
 MLIC,2025Q2,SUNWEALTH PROJECT POOL 60 LLC Cambridge,MA,02/25/2025,0.0,0,99.9
 MLIC,2025Q2,ARES PBN FINANCE CO LLC Wilimington DE ARES PBN FINANCE,CO,09/24/2021,0.0,0,0.0
-MLIC,2025Q3,Admini- Date Type Actual Cost Additional for TOTAL SA Paris,FRA,01/01/2025,0.0,0,0.0
+MLIC,2025Q3,TOTAL SA Paris,FRA,01/01/2025,0.0,0,0.0
 MLIC,2025Q3,"ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0.0,0,7.54
 MLIC,2025Q3,ADVENT INTERNATIONAL GPE X-A SCSP Boston,MA,04/28/2022,0.0,0,0.11
 MLIC,2025Q3,ADVENT INTERNATIONAL GPE X-D SCSP Boston,MA,04/28/2022,0.0,0,0.39
@@ -1692,7 +1692,7 @@ MLIC,2025Q3,Bennett Holdings LP Toronto,CAN,05/20/2021,0.0,0,1.62
 MLIC,2025Q3,"Bessemer Venture Partners Century Fund II, L.P. Larchmont",NY,02/19/2021,0.0,0,0.9
 MLIC,2025Q3,"Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19/2021,0.0,0,0.64
 MLIC,2025Q3,"Bessemer Venture Partners XII Institutional, L.P. Larchmont",NY,07/01/2022,0.0,0,0.21
-MLIC,2025Q3,"Admini- Date Type Actual Cost Additional for BharCap Partners II, L.P. Greenwich",CT,10/15/2024,0.0,0,0.79
+MLIC,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Bh",CT,10/15/2024,0.0,0,0.79
 MLIC,2025Q3,Blackstar Stability Distressed Debt Fund Washington,DC,04/26/2023,0.0,0,6.36
 MLIC,2025Q3,B.V.) Rotterdam,NLD,06/18/2021,0.0,0,3.52
 MLIC,2025Q3,Blue Owl GP Stakes III US Investors LP (fka III LP) New York,NY,09/09/2016,0.0,0,2.61
@@ -1738,7 +1738,7 @@ MLIC,2025Q3,"Foundation Capital X, L.P. San Francisco",CA,06/07/2021,0.0,0,1.61
 MLIC,2025Q3,"Foundation Capital XI, L.P. Palo Alto",CA,03/31/2023,0.0,0,1.11
 MLIC,2025Q3,"Francisco Partners Agility III, L.P. San Francisco",CA,04/28/2022,0.0,0,0.3
 MLIC,2025Q3,"Francisco Partners VI, L.P. San Francisco",CA,04/03/2020,0.0,0,0.48
-MLIC,2025Q3,"Admini- Date Type Actual Cost Additional for Francisco Partners VII, L.P. San Fr",CA,04/28/2022,0.0,0,0.15
+MLIC,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Fr",CA,04/28/2022,0.0,0,0.15
 MLIC,2025Q3,GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,0.0,0,0.8
 MLIC,2025Q3,GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,0.0,0,0.79
 MLIC,2025Q3,"GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,0.0,0,0.77
@@ -1786,7 +1786,7 @@ MLIC,2025Q3,"Lightspeed Venture Partners Select III, L.P. Menlo Park",CA,03/28/2
 MLIC,2025Q3,"Lightspeed Venture Partners Select IV, L.P. Menlo Park",CA,02/28/2020,0.0,0,0.56
 MLIC,2025Q3,"Lightspeed Venture Partners Select V, L.P. Menlo Park",CA,02/28/2022,0.0,0,0.2
 MLIC,2025Q3,"Lightspeed Venture Partners Select VI, L.P. Menlo Park",CA,03/27/2025,0.0,0,0.69
-MLIC,2025Q3,"Admini- Date Type Actual Cost Additional for Lightspeed Venture Partners XIII, L",CA,02/28/2020,0.0,0,0.57
+MLIC,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Li",CA,02/28/2020,0.0,0,0.57
 MLIC,2025Q3,"Lightspeed Venture Partners XIV-A (Inception), L.P. Menlo Park",CA,02/28/2022,0.0,0,0.26
 MLIC,2025Q3,"Lightspeed Venture Partners XIV-B (Ignite), L.P. Menlo Park",CA,02/28/2022,0.0,0,0.25
 MLIC,2025Q3,"Lightspeed Venture Partners XV-A (Inception), L.P. Menlo Park",CA,03/31/2025,0.0,0,0.51
@@ -1833,7 +1833,7 @@ MLIC,2025Q3,"SignalFire Seed Fund V, L.P. San Francisco",CA,03/29/2024,0.0,0,0.7
 MLIC,2025Q3,"Silver Lake Partners III, L.P. Menlo Park",CA,02/28/2007,0.0,0,0.1
 MLIC,2025Q3,"Silver Lake Partners IV, L.P. Menlo Park",CA,09/07/2012,0.0,0,0.35
 MLIC,2025Q3,"Silver Lake Partners VI, L.P. New York",NY,06/02/2020,0.0,0,0.08
-MLIC,2025Q3,"Admini- Date Type Actual Cost Additional for Spark Capital Growth Fund IV, L.P. ",MA,01/25/2022,0.0,0,0.24
+MLIC,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Sp",MA,01/25/2022,0.0,0,0.24
 MLIC,2025Q3,"Spark Capital Growth Fund V, L.P. Boston",MA,02/29/2024,0.0,0,0.22
 MLIC,2025Q3,"Spark Capital VIII, L.P. Boston",MA,02/29/2024,0.0,0,0.21
 MLIC,2025Q3,"Sterling Investment Partners IV, L.P. Westport",CT,12/15/2021,0.0,0,1.0
@@ -1878,7 +1878,7 @@ MLIC,2025Q3,"p002684 ML Cooperative Member, LLC Whippany",NJ,03/24/2024,0.0,0,50
 MLIC,2025Q3,"p002880 Shea Residences Investor JV, LLC Scottsdale",AZ,06/25/2025,0.0,0,50.0
 MLIC,2025Q3,"p002881 Founders Investor JV, LLC Columbus",OH,06/25/2025,0.0,0,0.0
 MLIC,2025Q3,"p002881 Founders Investor JV, LLC Columbus",OH,06/25/2025,0.0,0,0.0
-MLIC,2025Q3,Admini- Date Type Actual Cost Additional for p002882 ML-PGGM Penrose Southstone ,TX,06/25/2025,0.0,0,1.0
+MLIC,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY p0",TX,06/25/2025,0.0,0,1.0
 MLIC,2025Q3,"p002883 Markham Investor JV, LLC Cupertino",CA,06/25/2025,0.0,0,8.0
 MLIC,2025Q3,"p002883 Markham Investor JV, LLC Cupertino",CA,06/25/2025,0.0,0,42.0
 MLIC,2025Q3,p000882 Entity,NY,12/09/2009,0.0,0,100.0
@@ -1917,7 +1917,7 @@ MLIC,2025Q3,"CREA Corporate Tax Credit Fund XXIV, LLC Indianapolis",IN,09/28/201
 MLIC,2025Q3,R4 SAN FRANCISCO HOUSING PARTNERS LP New York,NY,06/19/2025,0.0,0,50.97
 MLIC,2025Q3,"USB LIHTC Fund 87, LLC St. Louis",MO,05/29/2025,0.0,0,40.22
 MLIC,2025Q3,73758*-AG-6 POTENTIA LUDIS SPV LLC OCTL_2 Wilimington,DE,03/28/2025,0.0,0,0.0
-MLIC,2025Q3,Admini- Date Type Actual Cost Additional for MetLife Senior Direct Lending Fund ,NJ,12/18/2023,0.0,0,28.57
+MLIC,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN LIFE INSURANCE COMPANY Me",NJ,12/18/2023,0.0,0,28.57
 MLIC,2025Q3,SUNWEALTH PROJECT POOL 60 LLC Cambridge,MA,02/25/2025,0.0,0,99.9
 MTL,2023Q3,p002360 ML Hudson River Waterfront - MTL Whippany,NJ,12/01/2021,0.0,0,100.0
 MTL,2023Q3,ADVENT INTERNATIONAL GPE X-A SCSP Boston,MA,04/28/2022,0.0,0,0.06
@@ -1964,7 +1964,7 @@ MTL,2023Q3,"CIVC Partners Fund VII, L.P. Chicago",IL,08/24/2023,0.0,0,0.1
 MTL,2023Q3,"CRV Select Fund I, L.P. Palo Alto",CA,04/28/2021,0.0,0,0.43
 MTL,2023Q3,"CRV Select Fund II, L.P. Palo Alto",CA,01/27/2022,0.0,0,0.33
 MTL,2023Q3,"CRV XIX, L.P. Palo Alto",CA,01/27/2022,0.0,0,0.33
-MTL,2023Q3,"Admini- Date Type Actual Cost Additional for CSC ADS Holdings, L.P. Miami",FL,07/12/2021,0.0,0,0.75
+MTL,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Tower Life Insurance Comp",FL,07/12/2021,0.0,0,0.75
 MTL,2023Q3,"Carlyle Europe Technology Partners IV, S.C.Sp London",GBR,11/29/2018,0.0,0,0.17
 MTL,2023Q3,"Clearlake Capital Partners V, L.P. Los Angeles",CA,10/13/2017,0.0,0,0.17
 MTL,2023Q3,"Clearlake Capital Partners VI, L.P. Los Angeles",CA,01/16/2020,0.0,0,0.07
@@ -2012,7 +2012,7 @@ MTL,2023Q3,"IMPACT DEVELOPERS FUND, LP New York",NY,07/17/2023,0.0,0,2.44
 MTL,2023Q3,INDEX ORIGIN II (JERSEY) L.P. London,GBR,11/17/2022,0.0,0,0.19
 MTL,2023Q3,"INDEX VENTURES XI (JERSEY), L.P. London",GBR,06/07/2021,0.0,0,0.16
 MTL,2023Q3,Inflexion Buyout Fund V Limited Partnership London,GBR,04/09/2018,0.0,0,0.32
-MTL,2023Q3,Admini- Date Type Actual Cost Additional for Inflexion Buyout Fund VI (No. 1) Lo,GBR,06/30/2021,0.0,0,0.05
+MTL,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Tower Life Insurance Comp",GBR,06/30/2021,0.0,0,0.05
 MTL,2023Q3,Inflexion Enterprise Fund V London,GBR,04/04/2019,0.0,0,0.24
 MTL,2023Q3,Inflexion Partnership Capital Fund II Limited Partnership London,GBR,04/09/2018,0.0,0,0.36
 MTL,2023Q3,Inflexion Supplemental Fund V London,GBR,04/04/2019,0.0,0,0.34
@@ -2060,7 +2060,7 @@ MTL,2023Q3,"Quona Accion Inclusion Fund III, L.P. Washington",DC,07/28/2021,0.0,
 MTL,2023Q3,"Red Arts Capital Opportunity Fund I, L.P. Chicago",IL,12/16/2022,0.0,0,1.22
 MTL,2023Q3,Revelstoke Holdings I LP Toronto,CAN,09/22/2021,0.0,0,0.15
 MTL,2023Q3,"Scale Venture Partners VI, L.P. Foster City",CA,06/27/2018,0.0,0,1.32
-MTL,2023Q3,"Admini- Date Type Actual Cost Additional for Scale Venture Partners VII, L.P. Fo",CA,11/02/2020,0.0,0,0.65
+MTL,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Tower Life Insurance Comp",CA,11/02/2020,0.0,0,0.65
 MTL,2023Q3,Secondary Overflow Fund IV L.P. Boston,MA,04/30/2020,0.0,0,0.32
 MTL,2023Q3,"Sequoia Capital US Venture 2010 Fund, LP Menlo Park",CA,03/25/2010,0.0,0,0.22
 MTL,2023Q3,Seventh Cinven Fund (No.1) L.P. London,GBR,02/27/2019,0.0,0,0.05
@@ -2104,7 +2104,7 @@ MTL,2023Q3,p002297 1350 Eye Street Owner LLC Washington,DC,03/10/2021,0.0,0,4.38
 MTL,2023Q3,"p002335 Metlife Enhanced Core Property Fund, LP - MTL Whippany",NJ,07/01/2021,0.0,0,100.0
 MTL,2023Q3,"p002502 ML CW Member, LLC Portland",OR,07/18/2023,0.0,0,7.197
 MTL,2023Q3,"p001831 MetLife Commercial Mortgage Income Fund, LP - MTL Whippany",NJ,12/31/2018,0.0,0,5.17
-MTL,2023Q3,Admini- Date Type Actual Cost Additional for p002344 Metlife Strategic Hotel Deb,NJ,07/01/2021,0.0,0,100.0
+MTL,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE Metropolitan Tower Life Insurance Comp",NJ,07/01/2021,0.0,0,100.0
 MTL,2023Q4,"p001831 MetLife Commercial Mortgage Income Fund, LP - MTL Whippany",NJ,12/31/2018,163279760.0,4289861,5.16
 MTL,2023Q4,"p001148 MetLife Core Property Fund, LP - MTL Whippany",NJ,11/01/2013,115004073.0,1023309,2.37
 MTL,2023Q4,"p002335 Metlife Enhanced Core Property Fund, LP - MTL Whippany",NJ,07/01/2021,107861662.0,992480,100.0
@@ -2115,13 +2115,13 @@ MTL,2023Q4,LP Austin,TX,03/15/2019,29360863.0,9242647,1.94
 MTL,2023Q4,p000978 MetLife 555 12th Member LLC Washington,DC,01/07/2014,26098621.0,-11925,10.106
 MTL,2023Q4,p001700 150 North Riverside Preferred Equity Member LLC Chicago,IL,08/17/2017,23025623.0,0,18.55
 MTL,2023Q4,p002446 MetLife Galleria Dallas Equity Fund (Mall) LP Dallas,TX,12/15/2022,22121816.0,-1,15.262
-MTL,2023Q4,"Invictus Growth Fund I, L.P. Los Angeles",CA,06/15/2018,19199188.0,858524,0.54
+MTL,2023Q4,"Invictus Growth Fund I, L.P. Los Angeles",CA,06/15/2018,19199188.0,838966,0.54
 MTL,2023Q4,"Private Investors, L.P. KKR Dislocation Opportunities (Domestic) Fund New York",NY,04/09/2020,19012739.0,5125818,1.6
-MTL,2023Q4,Bessemer Venture Partners Century Fund L.P. . Larchmont,NY,01/23/2015,18728666.0,3157224,1.17
-MTL,2023Q4,"INDEX ORIGIN I (JERSEY), L.P. London",GBR,07/02/2018,18686889.0,-1997291,0.59
+MTL,2023Q4,Bessemer Venture Partners Century Fund L.P. . Larchmont,NY,01/23/2015,18728667.0,3157224,1.17
+MTL,2023Q4,"INDEX ORIGIN I (JERSEY), L.P. London",GBR,07/02/2018,18686889.0,0,0.59
 MTL,2023Q4,Los Angeles,CA,02/27/2015,17046323.0,3750000,0.18
 MTL,2023Q4,"Cerberus SFR Opportunistic Partners, L.P. New York",NY,05/17/2021,16936719.0,0,2.99
-MTL,2023Q4,"Andreessen Horowitz LSV Fund III, L.P. Chevy Chase",MD,04/29/2019,16575412.0,2617834,0.56
+MTL,2023Q4,"Andreessen Horowitz LSV Fund III, L.P. Chevy Chase",MD,04/29/2019,16575412.0,688480,0.56
 MTL,2023Q4,Stamford,CT,11/20/2017,13493652.0,651122,0.24
 MTL,2023Q4,"Oaktree Opportunities Fund VIIIb, L.P. Chicago",IL,08/07/2018,13452731.0,326457,0.53
 MTL,2023Q4,Hong Kong,CHN,10/14/2014,13441832.0,749588,0.54
@@ -2130,8 +2130,8 @@ MTL,2023Q4,"Pretium Single Family Rental Investments V, L.P. New York",NY,10/14/
 MTL,2023Q4,"The Baring Asia Private Equity Fund VII, L.P. Hong Kong",CHN,07/10/2018,12617459.0,1458495,0.27
 MTL,2023Q4,AP Tundra Holdings LLC Wilmington,DE,12/14/2020,12172593.0,600000,2.66
 MTL,2023Q4,"p000630 Met II Hotel, LLC Miami",FL,12/21/2006,11954839.0,-216,11.539
-MTL,2023Q4,"Accomplice Fund II, L.P. Cambridge",MA,01/10/2018,11690025.0,-16006132,1.64
-MTL,2023Q4,"Fund IV, L.P. Foster City",CA,06/27/2018,10761952.0,-2650241,1.32
+MTL,2023Q4,"Accomplice Fund II, L.P. Cambridge",MA,01/10/2018,11690026.0,3342857,1.64
+MTL,2023Q4,"Fund IV, L.P. Foster City",CA,06/27/2018,10761952.0,0,1.32
 MTL,2023Q4,London,GBR,03/07/2018,10704440.0,47580,0.71
 MTL,2023Q4,"Designation Book/ Years Other- Foreign Francisco Partners V, L.P. San Francisco",CA,09/29/2017,10593297.0,854437,0.24
 MTL,2023Q4,San Francisco,CA,12/20/2017,10520016.0,70658,0.59
@@ -2140,7 +2140,7 @@ MTL,2023Q4,p001875 ML Port Chester SC Member LLC Port Chester,NY,02/06/2019,1042
 MTL,2023Q4,p002443 MetLife Galleria Dallas Equity Fund (Hotel) LP Dallas,TX,12/15/2022,10298214.0,905771,15.211
 MTL,2023Q4,p002479 ML Terminal 106 Member LLC Seattle,WA,10/24/2022,10192729.0,0,12.55
 MTL,2023Q4,"Designation Book/ Years Other- Foreign One Equity Partners VIII, L.P. Chicago",IL,12/08/2021,9978856.0,123543,0.66
-MTL,2023Q4,New York,NY,08/09/2019,9895481.0,69152,0.11
+MTL,2023Q4,New York,NY,08/09/2019,9895481.0,376802,0.11
 MTL,2023Q4,"p001592 ML Southlands Member, LLC Aurora",CO,02/14/2018,9886199.0,-16320,40.0
 MTL,2023Q4,Permira VII L.P.1 Hong Kong,CHN,02/14/2018,9606431.0,602870,0.24
 MTL,2023Q4,Los Angeles,CA,10/14/2019,9486210.0,46610,0.16
@@ -2153,16 +2153,16 @@ MTL,2023Q4,Boston,MA,04/30/2020,8153057.0,346073,0.14
 MTL,2023Q4,p002297 1350 Eye Street Owner LLC Washington,DC,03/10/2021,7991311.0,0,4.38
 MTL,2023Q4,Pasubio Co-Invest SCSp London,GBR,05/03/2019,7875437.0,455405,0.07
 MTL,2023Q4,Sao Paulo,BRA,12/18/2017,7752587.0,49003,0.29
-MTL,2023Q4,Los Angeles,CA,10/14/2019,7684986.0,415061,0.52
+MTL,2023Q4,Los Angeles,CA,10/14/2019,7684986.0,2026957,0.52
 MTL,2023Q4,New York,NY,11/30/2018,7563217.0,1158146,0.15
 MTL,2023Q4,"Graham Partners VI, L.P. Los Angeles",CA,02/16/2016,7414634.0,1900718,0.15
 MTL,2023Q4,"Rhodium AveOne Co-Invest 2022, LLC Riverstone Global Energy and Power Fund VI, N",NY,10/31/2014,7368452.0,986545,0.32
-MTL,2023Q4,Southern Cross Latin America Private Equity Boston,MA,02/12/2019,7345940.0,-2939340,0.48
+MTL,2023Q4,Southern Cross Latin America Private Equity Boston,MA,02/12/2019,7345940.0,224400,0.48
 MTL,2023Q4,London,GBR,04/09/2018,7251391.0,687657,0.32
 MTL,2023Q4,"Patria - Private Equity Fund VI, L.P. Warsaw POL Enterprise Investors",,09/08/2017,7233880.0,1230079,0.67
-MTL,2023Q4,L.P. Menlo Park,CA,03/25/2010,7042252.0,-1071705,0.22
+MTL,2023Q4,L.P. Menlo Park,CA,03/25/2010,7042252.0,39397,0.22
 MTL,2023Q4,"p001671 ML-AI Member 4, LLC Chantilly",VA,06/12/2018,6915529.0,519000,40.0
-MTL,2023Q4,"Dyal Capital Partners IV, L.P) Palm Beach",FL,04/07/2015,6888402.0,654797,2.77
+MTL,2023Q4,"Dyal Capital Partners IV, L.P) Palm Beach",FL,04/07/2015,6888402.0,590034,2.77
 MTL,2023Q4,New York,NY,12/11/2018,6879034.0,480376,0.3
 MTL,2023Q4,"MetLife Middle Market Private Debt Fund II, LP Whippany",NJ,08/16/2021,6784312.0,41222,18.67
 MTL,2023Q4,Audax Private Equity Fund VII (Guidepoint Co- Greenwich,CT,11/06/2009,6607465.0,1542364,0.5
@@ -2170,12 +2170,12 @@ MTL,2023Q4,Andreessen Horowitz LSV Fund II New York,NY,05/04/2020,6591113.0,1865
 MTL,2023Q4,"Clearlake Capital Partners VII, L.P. New York",NY,09/16/2019,6556870.0,1963357,0.57
 MTL,2023Q4,"King Street Capital, L.P. Simsbury",CT,09/22/2017,6539176.0,132875,0.21
 MTL,2023Q4,CPEC 8 Trust B (fka CHAMP IV Trust B) Hong Kong,CHN,01/17/2019,6474984.0,83467,0.13
-MTL,2023Q4,"FVLCRUM Fund, L.P. San Francisco",CA,08/10/2018,6400110.0,-966867,1.09
+MTL,2023Q4,"FVLCRUM Fund, L.P. San Francisco",CA,08/10/2018,6400110.0,247912,1.09
 MTL,2023Q4,"Audax Mezzanine Fund III, L.P. Boston",MA,08/03/2018,6302389.0,352736,0.13
 MTL,2023Q4,ARES PBN FINANCE CO LLC Wilimington DE ARES PBN FINANCE,CO,09/24/2021,6250000.0,0,0.0
 MTL,2023Q4,Boston,MA,02/01/2018,6183715.0,178812,0.36
 MTL,2023Q4,"Accion Quona Inclusion Fund, L.P. Washington",DC,07/26/2018,6169096.0,-9846,1.82
-MTL,2023Q4,Toronto,CAN,06/22/2015,6164271.0,543989,2.79
+MTL,2023Q4,Toronto,CAN,06/22/2015,6164271.0,820619,2.79
 MTL,2023Q4,"Invest), L.P. Melbourne",AUS,05/15/2018,6089049.0,-147043,0.61
 MTL,2023Q4,London,GBR,04/27/2020,6047135.0,35957,0.1
 MTL,2023Q4,Advent Latin American Private Equity Fund VI-B Limited Partnership Boston,MA,09/05/2014,5927346.0,505313,2.31
@@ -2186,49 +2186,49 @@ MTL,2023Q4,"OpenGate Capital Partners II, L.P. Los Angeles",CA,10/04/2019,572546
 MTL,2023Q4,p002064 ML Armature Member LLC Washington,DC,08/30/2019,5692355.0,-88975,12.66
 MTL,2023Q4,Alchemy Special Opportunities Fund IV L.P. London,GBR,01/05/2018,5624160.0,-2680,0.52
 MTL,2023Q4,"WestCap Strategic Operator Fund II, L.P. WestCap Strategic Operator US Feeder Fu",NY,01/19/2021,5553901.0,43045,0.45
-MTL,2023Q4,"KRIV Co-Invest Holdings, L.P. Mount Kisco",NY,12/09/2019,5528750.0,885094,0.12
+MTL,2023Q4,"KRIV Co-Invest Holdings, L.P. Mount Kisco",NY,12/09/2019,5528750.0,639642,0.12
 MTL,2023Q4,London,GBR,02/27/2019,5516728.0,259284,0.05
 MTL,2023Q4,"TowerBrook Investors III, L.P. Greenwich",CT,05/03/2019,5491129.0,95561,0.1
 MTL,2023Q4,Tailwater Energy Fund IV LP Dallas,TX,06/24/2019,5451673.0,5751,0.69
 MTL,2023Q4,ELECTRON CO-INVESTMENT L.P. London,GBR,03/08/2018,5308572.0,1692115,0.2
-MTL,2023Q4,Menlo Park,CA,03/28/2018,5242135.0,-2177793,0.2
-MTL,2023Q4,Blue Sea Capital Fund II LP San Francisco,CA,01/15/2021,5169217.0,-578128,0.3
+MTL,2023Q4,Menlo Park,CA,03/28/2018,5242135.0,96000,0.2
+MTL,2023Q4,Blue Sea Capital Fund II LP San Francisco,CA,01/15/2021,5169217.0,700065,0.3
 MTL,2023Q4,PAI Europe VII-1 SCSp Paris,FRA,11/02/2017,5095933.0,236638,0.13
 MTL,2023Q4,SLP Palo Alto,CA,05/07/2018,5054055.0,293406,0.68
 MTL,2023Q4,"Genstar Capital Partners IX, L.P. San Francisco",CA,02/19/2019,5048273.0,473760,0.08
-MTL,2023Q4,Whitehorse Liquidity Partners Fund III LP Toronto,CAN,05/31/2019,5031381.0,129006,0.51
-MTL,2023Q4,Kuala Lumpur MYS Navis Capital Partners,,09/17/2014,4905914.0,284744,0.35
+MTL,2023Q4,Whitehorse Liquidity Partners Fund III LP Toronto,CAN,05/31/2019,5031381.0,1440234,0.51
+MTL,2023Q4,Kuala Lumpur MYS Navis Capital Partners,,09/17/2014,4905914.0,336200,0.35
 MTL,2023Q4,Greenwich,CT,12/20/2013,4904980.0,1721453,0.21
 MTL,2023Q4,"Genstar Capital Partners X, L.P. San Francisco",CA,04/01/2021,4875257.0,21728,0.07
 MTL,2023Q4,"The Veritas Capital Fund VIII, L.P. Boston",MA,10/30/2019,4868153.0,248678,1.76
-MTL,2023Q4,"Andreessen Horowitz Seed Fund I, L.P. New York",NY,09/03/2015,4837114.0,-405656,0.43
+MTL,2023Q4,"Andreessen Horowitz Seed Fund I, L.P. New York",NY,09/03/2015,4837114.0,842393,0.43
 MTL,2023Q4,"Clearlake Opportunities Partners II, L.P New York",NY,07/03/2018,4778160.0,79793,0.17
-MTL,2023Q4,London,GBR,07/02/2018,4771890.0,-551492,0.3
+MTL,2023Q4,London,GBR,07/02/2018,4771890.0,32474,0.3
 MTL,2023Q4,New York,NY,07/01/2019,4699190.0,152675,0.1
-MTL,2023Q4,"CHRYSCAPITAL IX, LLC New York",NY,02/04/2016,4627273.0,-1666158,2.46
+MTL,2023Q4,"CHRYSCAPITAL IX, LLC New York",NY,02/04/2016,4627273.0,878032,2.46
 MTL,2023Q4,Inflexion Enterprise Fund V Inflexion Partnership Capital Fund II Limited London,GBR,04/09/2018,4615864.0,21172,0.36
 MTL,2023Q4,"p000910 Metlife CC Member , LLC Washington",DC,12/13/2012,4515097.0,178623,4.878
-MTL,2023Q4,Mumbai,IND,10/04/2018,4457546.0,-168171,0.38
+MTL,2023Q4,Mumbai,IND,10/04/2018,4457546.0,0,0.38
 MTL,2023Q4,"Apollo Investment Fund X, L.P. New York",NY,04/01/2019,4445104.0,652586,0.19
 MTL,2023Q4,"p002257 West 44th Street PE, LLC New York",NY,05/14/2020,4376672.0,0,5.0
 MTL,2023Q4,"Oaktree Opportunities Fund VIII, L.P. New York",NY,12/06/2019,4291590.0,85569,0.13
 MTL,2023Q4,ASTORG VIII Paris,FRA,11/11/2021,4194415.0,-13319,0.23
 MTL,2023Q4,Advent International GPE IX-A SCSP Boston,MA,03/13/2019,4166586.0,59763,0.17
 MTL,2023Q4,Designation Book/ Years Other- Foreign Affinity Asia Pacific Fund V L.P. Hong Ko,CHN,01/15/2018,4156473.0,36531,0.13
-MTL,2023Q4,Philadelphia,PA,07/02/2020,4099235.0,814851,0.31
+MTL,2023Q4,Philadelphia,PA,07/02/2020,4099235.0,364381,0.31
 MTL,2023Q4,ASTORG VII Paris,FRA,10/26/2018,4088520.0,259486,0.07
 MTL,2023Q4,"Global Infrastructure Partners IV, L.P. San Diego",CA,04/04/2022,4051190.0,0,1.8
 MTL,2023Q4,L.P. New York,NY,10/29/2021,4028905.0,11616046,1.43
-MTL,2023Q4,"Accomplice Fortuity Pool, L.P. Cambridge",MA,06/11/2020,4024146.0,-1183684,1.75
-MTL,2023Q4,Boston,MA,06/26/2019,3999746.0,401176,0.21
-MTL,2023Q4,New York,NY,01/28/2019,3964931.0,-261248,0.2
+MTL,2023Q4,"Accomplice Fortuity Pool, L.P. Cambridge",MA,06/11/2020,4024146.0,0,1.75
+MTL,2023Q4,Boston,MA,06/26/2019,3999746.0,120116,0.21
+MTL,2023Q4,New York,NY,01/28/2019,3964931.0,172500,0.2
 MTL,2023Q4,"Green Equity Investors VII, L.P. New York",NY,09/29/2021,3959893.0,23167,0.28
-MTL,2023Q4,Accel Growth Fund III L.P. Palo Alto,CA,05/19/2014,3874104.0,1959336,0.38
-MTL,2023Q4,Palm Beach,FL,02/04/2019,3834629.0,525452,0.8
+MTL,2023Q4,Accel Growth Fund III L.P. Palo Alto,CA,05/19/2014,3874105.0,1959336,0.38
+MTL,2023Q4,Palm Beach,FL,02/04/2019,3834629.0,260023,0.8
 MTL,2023Q4,Santiago,CHL,02/26/2015,3824819.0,82578,0.92
 MTL,2023Q4,Trive Capital Fund IV LP Coral Gables,FL,09/19/2017,3801243.0,753774,0.59
 MTL,2023Q4,New York,NY,10/07/2021,3759946.0,601,0.23
-MTL,2023Q4,"Accel Growth V, L.P. Palo Alto",CA,03/01/2019,3758257.0,-624801,0.16
+MTL,2023Q4,"Accel Growth V, L.P. Palo Alto",CA,03/01/2019,3758257.0,83474,0.16
 MTL,2023Q4,"American Industrial Partners Capital Fund VII, New York",NY,03/26/2019,3694823.0,265215,0.09
 MTL,2023Q4,"Wind Point Partners IX, L.P. Chicago",IL,01/17/2020,3628882.0,630554,0.21
 MTL,2023Q4,"Francisco Partners VI, L.P. San Francisco",CA,04/03/2020,3610412.0,358025,0.09
@@ -2239,44 +2239,44 @@ MTL,2023Q4,L.P. Paris,FRA,06/26/2019,3424331.0,121553,0.41
 MTL,2023Q4,"Wynnchurch Capital Partners V, L.P. Chicago",IL,12/13/2019,3415518.0,26664,0.17
 MTL,2023Q4,PAI Europe VII-1 S.L.P. Paris,FRA,11/02/2017,3357107.0,263371,0.12
 MTL,2023Q4,"BGH Capital Offshore II, LP Boston",MA,04/01/2018,3351211.0,138497,0.33
-MTL,2023Q4,"Accomplice Fund IV, L.P. Boston",MA,04/11/2022,3349649.0,19950,1.14
+MTL,2023Q4,"Accomplice Fund IV, L.P. Boston",MA,04/11/2022,3349649.0,943338,1.14
 MTL,2023Q4,"Linzor Capital Partners III, L.P. Lyon",FRA,07/20/2020,3291353.0,-7396,0.46
 MTL,2023Q4,p002360 ML Hudson River Waterfront - MTL Whippany,NJ,12/01/2021,3287088.0,0,100.0
 MTL,2023Q4,New York,NY,12/16/2015,3285580.0,193182,0.1
 MTL,2023Q4,New York,NY,12/13/2019,3268110.0,36022,0.75
-MTL,2023Q4,London,GBR,02/07/2020,3191071.0,496574,0.07
+MTL,2023Q4,London,GBR,02/07/2020,3191071.0,958017,0.07
 MTL,2023Q4,E07.9 p002369 University Town Center Holdings LLC Charlotte,NC,12/15/2021,3184153.0,0,12.35
 MTL,2023Q4,"Clearhaven Fund II, L.P. Santa Monica",CA,02/11/2022,3169463.0,14008,0.1
 MTL,2023Q4,"Gryphon Partners V, L.P. London",GBR,02/07/2020,3128820.0,115896,0.26
-MTL,2023Q4,"Andreessen Horowitz Fund VIII, L.P. New York",NY,07/22/2022,3118262.0,-61751,0.21
-MTL,2023Q4,San Francisco,CA,04/15/2019,3095816.0,-635239,0.14
+MTL,2023Q4,"Andreessen Horowitz Fund VIII, L.P. New York",NY,07/22/2022,3118262.0,14636499,0.21
+MTL,2023Q4,San Francisco,CA,04/15/2019,3095816.0,101250,0.14
 MTL,2023Q4,Los Angeles,CA,05/31/2019,3088404.0,1964340,0.36
-MTL,2023Q4,Boston,MA,02/12/2019,3036341.0,779226,0.5
-MTL,2023Q4,Menlo Park,CA,11/17/2020,3028927.0,-613144,0.11
+MTL,2023Q4,Boston,MA,02/12/2019,3036341.0,433500,0.5
+MTL,2023Q4,Menlo Park,CA,11/17/2020,3028927.0,0,0.11
 MTL,2023Q4,London,GBR,11/29/2018,3018227.0,52263,0.17
 MTL,2023Q4,London,GBR,02/07/2020,3001566.0,139675,0.07
 MTL,2023Q4,London,GBR,12/14/2021,2990390.0,1010,0.06
-MTL,2023Q4,"Lightspeed Venture Partners XII, L.P. Menlo Park",CA,03/28/2018,2975227.0,-662758,0.2
+MTL,2023Q4,"Lightspeed Venture Partners XII, L.P. Menlo Park",CA,03/28/2018,2975227.0,45000,0.2
 MTL,2023Q4,"Andreessen Horowitz LSV Fund I, L.P. New York",NY,08/05/2021,2973725.0,-29827,0.13
-MTL,2023Q4,"Sequoia Capital US Venture 2010 Fund, LP New York",NY,06/02/2020,2965045.0,137834,0.1
+MTL,2023Q4,"Sequoia Capital US Venture 2010 Fund, LP New York",NY,06/02/2020,2965045.0,115602,0.1
 MTL,2023Q4,"APOLLO IMPACT MISSION FUND, L.P. New York",NY,07/08/2021,2953130.0,468474,0.64
 MTL,2023Q4,Limited Partnership London,GBR,04/04/2019,2938635.0,13824,0.34
-MTL,2023Q4,San Francisco,CA,02/20/2020,2925023.0,-237601,1.55
-MTL,2023Q4,"E07.8 The Veritas Capital Fund IV, L.P. New York",NY,03/15/2022,2923669.0,-73163,0.05
-MTL,2023Q4,L.P. Dallas,TX,04/08/2021,2895878.0,350425,0.24
-MTL,2023Q4,"Accomplice Fund III, L.P. Cambridge",MA,06/11/2020,2855477.0,-217683,1.0
-MTL,2023Q4,American Industrial Partners Capital Fund Menlo Park,CA,04/18/2019,2836620.0,-432792,0.09
+MTL,2023Q4,San Francisco,CA,02/20/2020,2925023.0,5721,1.55
+MTL,2023Q4,"E07.8 The Veritas Capital Fund IV, L.P. New York",NY,03/15/2022,2923669.0,2451172,0.05
+MTL,2023Q4,L.P. Dallas,TX,04/08/2021,2895878.0,1413879,0.24
+MTL,2023Q4,"Accomplice Fund III, L.P. Cambridge",MA,06/11/2020,2855477.0,0,1.0
+MTL,2023Q4,American Industrial Partners Capital Fund Menlo Park,CA,04/18/2019,2836620.0,0,0.09
 MTL,2023Q4,Greenwich,CT,09/13/2021,2817463.0,3096836,0.11
-MTL,2023Q4,New York,NY,12/13/2019,2802705.0,-358600,1.14
+MTL,2023Q4,New York,NY,12/13/2019,2802705.0,0,1.14
 MTL,2023Q4,Advent International GPE IX-D SCSP Boston,MA,03/13/2019,2790447.0,46800,0.54
 MTL,2023Q4,Los Angeles,CA,06/26/2020,2784930.0,141547,0.11
-MTL,2023Q4,"Andreessen Horowitz Fund VII, L.P. Menlo Park",CA,11/30/2021,2772077.0,-197186,0.1
-MTL,2023Q4,Accel Growth Fund L.P. Palo Alto,CA,12/10/2008,2769919.0,610615,0.7
-MTL,2023Q4,Foster City,CA,11/02/2020,2753853.0,-291185,0.65
+MTL,2023Q4,"Andreessen Horowitz Fund VII, L.P. Menlo Park",CA,11/30/2021,2772077.0,1827360,0.1
+MTL,2023Q4,Accel Growth Fund L.P. Palo Alto,CA,12/10/2008,2769919.0,0,0.7
+MTL,2023Q4,Foster City,CA,11/02/2020,2753853.0,1083452,0.65
 MTL,2023Q4,Atlanta,GA,10/04/2021,2743367.0,0,2.94
 MTL,2023Q4,MASSACHUSETTS MUTUAL LIFE INSU 5.625 Springfield,MA,05/14/2004,2718902.0,150372,0.0
-MTL,2023Q4,Medicxi III LP Denver,CO,05/20/2021,2691184.0,-54400,0.68
-MTL,2023Q4,New York,NY,04/01/2021,2679464.0,373434,1.81
+MTL,2023Q4,Medicxi III LP Denver,CO,05/20/2021,2691184.0,877752,0.68
+MTL,2023Q4,New York,NY,04/01/2021,2679464.0,2933473,1.81
 MTL,2023Q4,L.P. Santiago,CHL,07/23/2010,2663654.0,73562,1.01
 MTL,2023Q4,"CIVC Partners Fund VII, L.P. Miami",FL,07/12/2021,2636372.0,0,0.75
 MTL,2023Q4,Altor Fund V (No. 1) AB Stockholm,SWE,12/17/2018,2628573.0,230977,0.23
@@ -2285,9 +2285,9 @@ MTL,2023Q4,T-VIII Mercury Co-Invest LP Stamford,CT,06/17/2021,2585789.0,211828,0
 MTL,2023Q4,Toronto,CAN,06/09/2008,2535081.0,0,2.63
 MTL,2023Q4,"PAG Asia III, L.P. Hong Kong",CHN,09/06/2018,2421735.0,199188,0.1
 MTL,2023Q4,MED Platform I SLP London,GBR,04/09/2019,2416994.0,3977,0.93
-MTL,2023Q4,London,GBR,03/02/2020,2412233.0,-119099,0.17
+MTL,2023Q4,London,GBR,03/02/2020,2412233.0,86605,0.17
 MTL,2023Q4,"The Baring Asia Private Equity Fund VI, L.P.1 Hong Kong",CHN,07/25/2014,2405748.0,296104,0.2
-MTL,2023Q4,"VIII, L.P. Menlo Park",CA,11/17/2020,2403457.0,-143234,0.13
+MTL,2023Q4,"VIII, L.P. Menlo Park",CA,11/17/2020,2403457.0,302400,0.13
 MTL,2023Q4,Mount Kisco,NY,08/21/2023,2400000.0,0,0.1
 MTL,2023Q4,Hong Kong,CHN,05/20/2021,2384619.0,-3651,0.11
 MTL,2023Q4,Boston,MA,04/30/2020,2353120.0,17853,0.32
@@ -2296,38 +2296,38 @@ MTL,2023Q4,Whitehorse Liquidity Partners Fund IV LP Toronto,CAN,04/21/2020,23015
 MTL,2023Q4,"p001073 ML Mililani Member, LLC Mililani",HI,12/18/2014,2291915.0,0,5.0
 MTL,2023Q4,Boston,MA,09/21/2020,2281975.0,0,0.46
 MTL,2023Q4,L.P. Larchmont,NY,09/13/2019,2247191.0,81553,0.57
-MTL,2023Q4,"Wind Point Partners X-A, L.P. Chicago",IL,08/01/2022,2217383.0,143010,0.41
+MTL,2023Q4,"Wind Point Partners X-A, L.P. Chicago",IL,08/01/2022,2217383.0,2213525,0.41
 MTL,2023Q4,Bengal Co-Invest SCSp Paris,FRA,10/14/2021,2212135.0,760915,0.23
 MTL,2023Q4,"Great Hill Equity Partners VIII, L.P. San Francisco",CA,03/16/2020,2202881.0,7802,0.21
 MTL,2023Q4,Nashville,TN,01/11/2021,2193641.0,5453,0.38
-MTL,2023Q4,"FirstMark Capital OF IV, L.P. San Francisco",CA,04/03/2020,2189555.0,388872,0.22
+MTL,2023Q4,"FirstMark Capital OF IV, L.P. San Francisco",CA,04/03/2020,2189555.0,448350,0.22
 MTL,2023Q4,Permira VIII - 1 SCSp New York,NY,07/10/2014,2182544.0,11591,0.18
-MTL,2023Q4,ASTORG VII CO-INVEST LGC London,GBR,02/14/2020,2169946.0,69975,0.39
-MTL,2023Q4,Palo Alto,CA,03/28/2019,2142093.0,-121697,0.92
+MTL,2023Q4,ASTORG VII CO-INVEST LGC London,GBR,02/14/2020,2169946.0,133565,0.39
+MTL,2023Q4,Palo Alto,CA,03/28/2019,2142093.0,950000,0.92
 MTL,2023Q4,Paris,FRA,07/07/2022,2131424.0,15572,1.47
-MTL,2023Q4,Menlo Park,CA,05/20/2019,2118562.0,-140275,0.07
+MTL,2023Q4,Menlo Park,CA,05/20/2019,2118562.0,471750,0.07
 MTL,2023Q4,"Spark Capital Growth Fund IV, L.P. Westport",CT,12/15/2021,2115606.0,642875,0.56
-MTL,2023Q4,"Andreessen Horowitz Fund VI, L.P. Menlo Park",CA,04/18/2019,2112630.0,820,0.06
-MTL,2023Q4,"Designation Book/ Years Other- Foreign Lightspeed Venture Partners Select IV, L.",CA,02/28/2020,2100653.0,-98358,0.09
+MTL,2023Q4,"Andreessen Horowitz Fund VI, L.P. Menlo Park",CA,04/18/2019,2112630.0,0,0.06
+MTL,2023Q4,"Designation Book/ Years Other- Foreign Lightspeed Venture Partners Select IV, L.",CA,02/28/2020,2100653.0,90000,0.09
 MTL,2023Q4,p002600 ML PE Terminal 106 LLC Seattle,WA,10/01/2023,2099921.0,0,100.0
 MTL,2023Q4,Medicxi IV LP Providence,RI,06/23/2021,2077022.0,33285,0.24
-MTL,2023Q4,Washington,DC,01/15/2021,2053636.0,-33203,1.18
+MTL,2023Q4,Washington,DC,01/15/2021,2053636.0,468000,1.18
 MTL,2023Q4,"Tower Square Capital Partners III, L.P. Greenwich",CT,02/26/2010,2014103.0,405650,0.18
 MTL,2023Q4,Leeds,GBR,10/16/2020,1968445.0,112344,0.86
 MTL,2023Q4,Gibson Holdings I LP Toronto,CAN,10/17/2019,1937097.0,147398,1.26
-MTL,2023Q4,Cambridge,MA,06/24/2020,1916966.0,-203575,0.35
+MTL,2023Q4,Cambridge,MA,06/24/2020,1916966.0,433125,0.35
 MTL,2023Q4,New York,NY,02/17/2023,1912920.0,0,2.4
 MTL,2023Q4,"IMPACT DEVELOPERS FUND, LP Wilmington",DE,04/30/2021,1897125.0,481846,0.28
-MTL,2023Q4,Boston,MA,01/24/2020,1871411.0,-122165,0.14
+MTL,2023Q4,Boston,MA,01/24/2020,1871411.0,284400,0.14
 MTL,2023Q4,Blackstar Stability Distressed Debt Fund Blauwtrust Financial Partners B.V. (fka,NLD,06/18/2021,1845923.0,79154,0.77
-MTL,2023Q4,GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,1810610.0,-59624,0.17
+MTL,2023Q4,GGV Capital VIII L.P. Menlo Park,CA,10/29/2020,1810610.0,949000,0.17
 MTL,2023Q4,Chevy Chase,MD,05/01/2022,1799094.0,2912,0.17
 MTL,2023Q4,JACKSON NATL LIFE INS CO JACKSON NATL LI Lansing,MI,12/01/2005,1794154.0,112792,0.0
 MTL,2023Q4,Mount Kisco,NY,08/12/2021,1791681.0,0,1.43
 MTL,2023Q4,Bessemer Venture Partners X Institutional Larchmont,NY,10/15/2018,1773519.0,4487,0.13
-MTL,2023Q4,INDEX ORIGIN II (JERSEY) L.P. London,GBR,03/02/2020,1716829.0,-25705,0.11
-MTL,2023Q4,"Accel Leaders 3, L.P. Palo Alto",CA,12/07/2020,1708482.0,-132448,0.1
-MTL,2023Q4,Inflexion Supplemental Fund V San Francisco,CA,09/23/2021,1695407.0,293128,0.79
+MTL,2023Q4,INDEX ORIGIN II (JERSEY) L.P. London,GBR,03/02/2020,1716829.0,148297,0.11
+MTL,2023Q4,"Accel Leaders 3, L.P. Palo Alto",CA,12/07/2020,1708482.0,444000,0.1
+MTL,2023Q4,Inflexion Supplemental Fund V San Francisco,CA,09/23/2021,1695407.0,597546,0.79
 MTL,2023Q4,London,GBR,03/27/2020,1683063.0,3777,0.19
 MTL,2023Q4,"Ares Special Opportunities Fund, LP Baltimore",MD,10/12/2020,1675272.0,0,9.64
 MTL,2023Q4,"New Enterprise Associates 17, L.P. North American Essential Services Aggregator ",FL,09/24/2021,1662127.0,284400,0.3
@@ -2337,16 +2337,16 @@ MTL,2023Q4,"Partners Group Secondary 2008, L.P. Paris",FRA,09/09/2021,1642810.0,
 MTL,2023Q4,Bridgepoint Development Capital IV Palo Alto,CA,09/13/2021,1638650.0,0,1.22
 MTL,2023Q4,"ASTORG VI, SLP Paris",FRA,09/25/2015,1607299.0,135073,0.12
 MTL,2023Q4,"Audax Private Equity Fund VI, L.P. Boston",MA,10/02/2023,1600000.0,0,0.05
-MTL,2023Q4,"Bessemer Venture Partners XI Institutional, Larchmont",NY,02/19/2021,1570959.0,-39510,0.15
-MTL,2023Q4,Coral Gables,FL,12/19/2019,1556784.0,74636,0.64
+MTL,2023Q4,"Bessemer Venture Partners XI Institutional, Larchmont",NY,02/19/2021,1570959.0,623905,0.15
+MTL,2023Q4,Coral Gables,FL,12/19/2019,1556784.0,1183387,0.64
 MTL,2023Q4,"BDCM Opportunity Fund III, L.P. Boston",MA,11/06/2023,1528500.0,764250,0.1
 MTL,2023Q4,"Gryphon Partners VI, L.P. Atlanta",GA,09/17/2021,1522397.0,122498,2.31
 MTL,2023Q4,"Trivest Growth Investment Fund II, LP Chicago",IL,05/17/2022,1510118.0,154538,1.33
 MTL,2023Q4,Oslo,NOR,09/04/2020,1488647.0,-43,0.09
-MTL,2023Q4,L.P. Beijing,CHN,09/24/2015,1485093.0,46132,0.11
+MTL,2023Q4,L.P. Beijing,CHN,09/24/2015,1485093.0,182646,0.11
 MTL,2023Q4,New York,NY,07/29/2008,1472991.0,252506,0.1
 MTL,2023Q4,"Concrete Rose Fund II, L.P. Miami",FL,05/01/2023,1465818.0,0,0.53
-MTL,2023Q4,Waltham,MA,12/16/2009,1465594.0,-52537,0.2
+MTL,2023Q4,Waltham,MA,12/16/2009,1465594.0,109946,0.2
 MTL,2023Q4,Glendower Capital Secondary Opportunities Fund New York,NY,06/28/2021,1431284.0,205322,0.28
 MTL,2023Q4,OEP VIII Project Laser Co-Investment Chicago,IL,03/29/2023,1406745.0,0,0.87
 MTL,2023Q4,MED III A SLP Stamford,CT,06/12/2023,1406010.0,-1189,0.69
@@ -2355,168 +2355,168 @@ MTL,2023Q4,Lyon,FRA,10/01/2021,1401796.0,-2072,1.16
 MTL,2023Q4,"Polish Enterprise Fund VIII, L.P. Washington",DC,07/28/2021,1396202.0,302217,1.09
 MTL,2023Q4,Toronto,CAN,10/26/2020,1390143.0,4422,0.43
 MTL,2023Q4,Cleveland,OH,08/30/2023,1385143.0,214857,10.67
-MTL,2023Q4,"BLUE VISTA ACCELERATOR FUND, L.P. Boston",MA,01/24/2020,1383972.0,-22476,0.14
-MTL,2023Q4,Coral Gables,FL,12/19/2019,1370543.0,181693,0.51
-MTL,2023Q4,PAG Growth II L.P. Shanghai,CHN,04/29/2021,1343236.0,-114302,0.72
-MTL,2023Q4,MEI Co-Investor Aggregator LLC Menlo Park,CA,07/22/2020,1333887.0,29058,0.27
+MTL,2023Q4,"BLUE VISTA ACCELERATOR FUND, L.P. Boston",MA,01/24/2020,1383972.0,201600,0.14
+MTL,2023Q4,Coral Gables,FL,12/19/2019,1370543.0,345242,0.51
+MTL,2023Q4,PAG Growth II L.P. Shanghai,CHN,04/29/2021,1343236.0,1896943,0.72
+MTL,2023Q4,MEI Co-Investor Aggregator LLC Menlo Park,CA,07/22/2020,1333887.0,148500,0.27
 MTL,2023Q4,London,GBR,03/25/2019,1333252.0,70729,0.1
-MTL,2023Q4,Blue Sea Capital Fund I LP Palm Beach,FL,07/29/2022,1329644.0,100428,0.59
-MTL,2023Q4,"Lightspeed Venture Partners Select V, L.P. Menlo Park",CA,02/28/2022,1311848.0,-48226,0.12
+MTL,2023Q4,Blue Sea Capital Fund I LP Palm Beach,FL,07/29/2022,1329644.0,2429699,0.59
+MTL,2023Q4,"Lightspeed Venture Partners Select V, L.P. Menlo Park",CA,02/28/2022,1311848.0,1324251,0.12
 MTL,2023Q4,Designation Book/ Years Other- Foreign T-VIII Celestial Co-Invest LP Stamford,CT,04/20/2021,1310558.0,61968,0.1
-MTL,2023Q4,"Accel India VI, L.P. Bangalore",IND,11/11/2019,1307293.0,-96508,0.19
+MTL,2023Q4,"Accel India VI, L.P. Bangalore",IND,11/11/2019,1307293.0,147000,0.19
 MTL,2023Q4,New York,NY,10/21/2021,1280882.0,20,0.13
 MTL,2023Q4,Hahn & Company IV-S L.P. Boston,MA,09/04/2020,1249927.0,974,0.36
 MTL,2023Q4,"Wing Three, L.P. Menlo Park",CA,05/29/2020,1247484.0,25285,0.31
 MTL,2023Q4,MED Platform II SLP London,GBR,05/29/2020,1244080.0,-1564,0.53
-MTL,2023Q4,Shanghai,CHN,12/10/2018,1242324.0,-63827,0.26
+MTL,2023Q4,Shanghai,CHN,12/10/2018,1242324.0,178500,0.26
 MTL,2023Q4,ASTORG CO-INVEST OPUS 2 London,GBR,05/18/2021,1232079.0,49923,1.14
-MTL,2023Q4,Palo Alto,CA,05/07/2020,1211355.0,-2282,0.22
+MTL,2023Q4,Palo Alto,CA,05/07/2020,1211355.0,660450,0.22
 MTL,2023Q4,"Great Hill Equity Partners VII, L.P. San Francisco",CA,03/16/2020,1210099.0,626379,0.8
 MTL,2023Q4,Riverstone/Carlyle Global Energy and Power Vienna,AUT,05/31/2023,1205331.0,-26852,0.8
-MTL,2023Q4,"Accel XIV, L.P. Palo Alto",CA,03/01/2019,1197541.0,-269457,0.16
-MTL,2023Q4,"Lightspeed Venture Partners XIII, L.P. Menlo Park",CA,02/28/2020,1188900.0,-272683,0.09
+MTL,2023Q4,"Accel XIV, L.P. Palo Alto",CA,03/01/2019,1197541.0,113850,0.16
+MTL,2023Q4,"Lightspeed Venture Partners XIII, L.P. Menlo Park",CA,02/28/2020,1188900.0,72000,0.09
 MTL,2023Q4,KKR Opportunities (Domestic) Fund II SCSp Mount Kisco,NY,07/06/2023,1171875.0,234375,0.1
-MTL,2023Q4,Seventh Cinven Fund (No.1) L.P. Southern Cross Latin America Private Equity Toro,CAN,05/14/2010,1164366.0,-77213,0.18
-MTL,2023Q4,"FirstMark Capital OF III, L.P. Hong Kong",CHN,02/18/2021,1155721.0,-171590,0.15
-MTL,2023Q4,Menlo Park,CA,11/30/2021,1150955.0,4713,0.1
+MTL,2023Q4,Seventh Cinven Fund (No.1) L.P. Southern Cross Latin America Private Equity Toro,CAN,05/14/2010,1164366.0,384900,0.18
+MTL,2023Q4,"FirstMark Capital OF III, L.P. Hong Kong",CHN,02/18/2021,1155721.0,2743601,0.15
+MTL,2023Q4,Menlo Park,CA,11/30/2021,1150955.0,1335600,0.1
 MTL,2023Q4,MED III B SLP Lyon,FRA,11/11/2022,1149169.0,749,0.19
-MTL,2023Q4,ADVENT INTERNATIONAL GPE X-D SCSP Boston,MA,04/28/2022,1148894.0,-55934,0.24
-MTL,2023Q4,"Fifth Wall Ventures II, L.P. San Francisco",CA,06/07/2021,1141704.0,-5130,0.36
+MTL,2023Q4,ADVENT INTERNATIONAL GPE X-D SCSP Boston,MA,04/28/2022,1148894.0,2180650,0.24
+MTL,2023Q4,"Fifth Wall Ventures II, L.P. San Francisco",CA,06/07/2021,1141704.0,716599,0.36
 MTL,2023Q4,ADVENT INTERNATIONAL GPE X-A SCSP Boston,MA,04/28/2022,1140419.0,-13418,0.06
 MTL,2023Q4,"Accel London VI, L.P. London",GBR,05/06/2019,1137516.0,57306,0.15
-MTL,2023Q4,"Accel Leaders Fund II, L.P. Palo Alto",CA,03/01/2019,1132497.0,-117244,0.17
-MTL,2023Q4,"Kleiner Perkins Caufield & Byers XVIII, LLC . Shanghai",CHN,12/10/2018,1129071.0,-10119,0.37
+MTL,2023Q4,"Accel Leaders Fund II, L.P. Palo Alto",CA,03/01/2019,1132497.0,0,0.17
+MTL,2023Q4,"Kleiner Perkins Caufield & Byers XVIII, LLC . Shanghai",CHN,12/10/2018,1129071.0,252000,0.37
 MTL,2023Q4,"p002502 ML CW Member, LLC Portland",OR,07/18/2023,1117986.0,0,7.197
-MTL,2023Q4,San Francisco,CA,10/14/2021,1113910.0,-86298,2.53
+MTL,2023Q4,San Francisco,CA,10/14/2021,1113910.0,2319983,2.53
 MTL,2023Q4,London,GBR,04/04/2019,1102021.0,224594,0.24
 MTL,2023Q4,"Partners, L.P. Detroit",MI,12/20/2023,1073618.0,0,0.06
 MTL,2023Q4,Bennett Holdings LP Toronto,CAN,05/20/2021,1069169.0,143910,0.34
 MTL,2023Q4,"Hony Capital Fund VIII (Cayman), L.P. Toronto",CAN,07/29/2019,1064079.0,-40669,1.06
 MTL,2023Q4,"Green Equity Investors VIII, L.P. Los Angeles",CA,01/10/2023,1053012.0,0,0.32
-MTL,2023Q4,Hudson Holdings I LP London,GBR,06/07/2021,995928.0,-173067,0.14
-MTL,2023Q4,Accel Growth Fund VI L.P. Palo Alto,CA,06/15/2021,993578.0,-73443,0.11
+MTL,2023Q4,Hudson Holdings I LP London,GBR,06/07/2021,995928.0,1652064,0.14
+MTL,2023Q4,Accel Growth Fund VI L.P. Palo Alto,CA,06/15/2021,993578.0,840780,0.11
 MTL,2023Q4,New York,NY,05/03/2022,992985.0,2641867,0.16
-MTL,2023Q4,New York,NY,07/01/2019,983500.0,1664651,1.27
 MTL,2023Q4,Eight Cinven Fund (NO.1) L.P. Bethesda,MD,07/22/2022,973436.0,7529,1.67
-MTL,2023Q4,Hahn & Company IV L.P. London,GBR,03/01/2022,953978.0,29905,0.1
-MTL,2023Q4,"BVP Forge Institutional, L.P. Boston",MA,05/01/2022,950126.0,-95655,0.17
+MTL,2023Q4,Hahn & Company IV L.P. London,GBR,03/01/2022,953978.0,2094188,0.1
+MTL,2023Q4,"BVP Forge Institutional, L.P. Boston",MA,05/01/2022,950126.0,4408652,0.17
 MTL,2023Q4,Chicago,IL,12/16/2022,939698.0,-36756,1.22
-MTL,2023Q4,ASTORG VIII CO-INVEST LITHIUM London,GBR,01/27/2023,933048.0,-1490,0.26
+MTL,2023Q4,ASTORG VIII CO-INVEST LITHIUM London,GBR,01/27/2023,933049.0,0,0.26
 MTL,2023Q4,p002453 ML HS Member LLC Whippany,NJ,08/25/2022,933004.0,0,4.082
-MTL,2023Q4,"Graham Partners V, LP Boston",MA,01/31/2022,904968.0,-286472,0.23
-MTL,2023Q4,Medicxi Secondary I LP Menlo Park,CA,12/19/2008,892416.0,-134528,0.13
+MTL,2023Q4,"Graham Partners V, LP Boston",MA,01/31/2022,904968.0,4326272,0.23
+MTL,2023Q4,Medicxi Secondary I LP Menlo Park,CA,12/19/2008,892416.0,430556,0.13
 MTL,2023Q4,Toronto,CAN,06/15/2010,890205.0,0,0.32
 MTL,2023Q4,"Menlo Special Opportunities Fund III, L.P. Baltimore",MD,09/29/2022,869761.0,-34064,2.24
 MTL,2023Q4,AFFIRM ASSET SECURITIZATION TRUST AFFRM_22-Z1 AFFIRM ASSET SECURITIZATION TRUST ,DE,06/16/2022,842045.0,1023232,0.0
-MTL,2023Q4,"CIVC Partners Fund VI, L.P. Palo Alto",CA,01/27/2022,841895.0,-82406,0.33
-MTL,2023Q4,"GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,834826.0,24446,0.16
-MTL,2023Q4,"BGH Capital Offshore Fund I, L.P. Boston",MA,02/08/2021,799586.0,-70100,0.24
-MTL,2023Q4,"CIP Capital Fund III, L.P. Palo Alto",CA,04/28/2021,798564.0,-92981,0.43
-MTL,2023Q4,"Fund V, L.P. Boston",MA,01/25/2022,791594.0,-57687,0.15
+MTL,2023Q4,"CIVC Partners Fund VI, L.P. Palo Alto",CA,01/27/2022,841895.0,2342270,0.33
+MTL,2023Q4,"GGV Discovery III, L.P. Menlo Park",CA,10/29/2020,834826.0,486000,0.16
+MTL,2023Q4,"BGH Capital Offshore Fund I, L.P. Boston",MA,02/08/2021,799586.0,0,0.24
+MTL,2023Q4,"CIP Capital Fund III, L.P. Palo Alto",CA,04/28/2021,798564.0,92250,0.43
+MTL,2023Q4,"Fund V, L.P. Boston",MA,01/25/2022,791594.0,1313215,0.15
 MTL,2023Q4,"Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,768378.0,3710,0.07
 MTL,2023Q4,Chicago,IL,11/18/2022,768293.0,0,1.85
-MTL,2023Q4,S.C.Sp. Mumbai,IND,06/03/2022,760425.0,-83785,0.29
+MTL,2023Q4,S.C.Sp. Mumbai,IND,06/03/2022,760425.0,2466417,0.29
 MTL,2023Q4,Lyon,FRA,12/10/2021,755322.0,-9564,0.16
-MTL,2023Q4,"Falcon Strategic Partners III, LP San Francisco",CA,06/07/2021,743329.0,89675,0.48
+MTL,2023Q4,"Falcon Strategic Partners III, LP San Francisco",CA,06/07/2021,743329.0,490766,0.48
 MTL,2023Q4,PERCIPIENCE CO-INVESTMENT LIMITED PARTNERSHIP London,GBR,02/09/2021,731170.0,58976,10.44
-MTL,2023Q4,"Lightspeed Venture Partners XIV-B (Ignite), Menlo Park",CA,02/28/2022,712791.0,73330,0.13
-MTL,2023Q4,"The Baring Asia Private Equity Fund VIII, Hong Kong",CHN,07/08/2021,693352.0,91095,0.05
-MTL,2023Q4,San Francisco,CA,04/01/2022,686068.0,21420,0.17
-MTL,2023Q4,"Clearlake Capital Partners VI, L.P. Washington",DC,06/01/2022,681465.0,-52184,1.67
-MTL,2023Q4,"Lightspeed Venture Partners XIV-A (Inception), Menlo Park",CA,02/28/2022,668536.0,-17643,0.14
-MTL,2023Q4,L.P. Westlake Village,CA,05/07/2020,662885.0,-67581,0.24
+MTL,2023Q4,"Lightspeed Venture Partners XIV-B (Ignite), Menlo Park",CA,02/28/2022,712791.0,849728,0.13
+MTL,2023Q4,"The Baring Asia Private Equity Fund VIII, Hong Kong",CHN,07/08/2021,693352.0,3663743,0.05
+MTL,2023Q4,San Francisco,CA,04/01/2022,686068.0,3638704,0.17
+MTL,2023Q4,"Clearlake Capital Partners VI, L.P. Washington",DC,06/01/2022,681465.0,2862000,1.67
+MTL,2023Q4,"Lightspeed Venture Partners XIV-A (Inception), Menlo Park",CA,02/28/2022,668536.0,533838,0.14
+MTL,2023Q4,L.P. Westlake Village,CA,05/07/2020,662885.0,372750,0.24
 MTL,2023Q4,New York,NY,10/21/2021,653012.0,3918615,0.93
 MTL,2023Q4,E07.7 Primavera Capital Fund II L.P. Toronto,CAN,09/22/2021,643392.0,19062,0.15
 MTL,2023Q4,"Trivest Recognition Fund, L.P. New York",NY,12/15/2020,614322.0,247146,1.51
 MTL,2023Q4,ASTORG MIDCAP London,GBR,02/16/2021,603378.0,5294,0.15
-MTL,2023Q4,London,GBR,06/07/2021,578985.0,-45446,0.16
+MTL,2023Q4,London,GBR,06/07/2021,578985.0,777596,0.16
 MTL,2023Q4,New York,NY,07/17/2023,565068.0,0,2.44
-MTL,2023Q4,Westlake Village,CA,05/07/2020,557923.0,-10081,0.73
+MTL,2023Q4,Westlake Village,CA,05/07/2020,557923.0,193108,0.73
 MTL,2023Q4,"Gryphon Heritage Partners, L.P. London",GBR,04/14/2022,555761.0,-9920,0.05
 MTL,2023Q4,"p000911 MetLife LHH Member, LLC Hollywood",CA,11/08/2012,516152.0,-36,1.0
-MTL,2023Q4,Accel Leaders 4 L.P. Palo Alto,CA,06/15/2022,511506.0,-3042,0.09
-MTL,2023Q4,"Spark Capital Growth Fund III, L.P. Boston",MA,01/25/2022,505477.0,-28166,0.15
+MTL,2023Q4,Accel Leaders 4 L.P. Palo Alto,CA,06/15/2022,511506.0,2915771,0.09
+MTL,2023Q4,"Spark Capital Growth Fund III, L.P. Boston",MA,01/25/2022,505477.0,551769,0.15
 MTL,2023Q4,Toronto,CAN,07/29/2019,504495.0,339792,1.08
-MTL,2023Q4,"Senator Global Opportunity Fund LP Sequoia Capital U.S. Venture 2010-Seed Fund, ",CA,12/01/2012,495651.0,-276814,0.18
+MTL,2023Q4,"Senator Global Opportunity Fund LP Sequoia Capital U.S. Venture 2010-Seed Fund, ",CA,12/01/2012,495651.0,2345,0.18
 MTL,2023Q4,"CIP Capital Fund II, L.P. Sydney",AUS,07/24/2015,478154.0,-6877,1.33
 MTL,2023Q4,Boston,MA,10/20/2008,471444.0,60403,0.44
-MTL,2023Q4,Washington,DC,06/01/2022,447026.0,-3384,2.39
-MTL,2023Q4,Designation Book/ Years Other- Foreign Whale Rock Flagship Fund L.P. Boston,MA,07/31/2017,445419.0,220741,0.1
+MTL,2023Q4,Washington,DC,06/01/2022,447026.0,1355400,2.39
+MTL,2023Q4,Designation Book/ Years Other- Foreign Whale Rock Flagship Fund L.P. Boston,MA,07/31/2017,445419.0,308810,0.1
 MTL,2023Q4,Sydney,AUS,06/15/2022,443922.0,6206,0.44
 MTL,2023Q4,"HongShan Capital Venture 2010 Partners Fund, Menlo Park",CA,03/25/2010,438418.0,71981,0.11
-MTL,2023Q4,New York,NY,12/10/2009,398547.0,-34703,0.63
-MTL,2023Q4,"George Town, Grand Cayman",CYM,01/17/2008,393399.0,-5385,0.23
-MTL,2023Q4,Palo Alto,CA,01/27/2022,383895.0,-41849,0.33
-MTL,2023Q4,Singapore,SGP,06/24/2021,382140.0,-24728,0.79
+MTL,2023Q4,New York,NY,12/10/2009,398547.0,0,0.63
+MTL,2023Q4,"George Town, Grand Cayman",CYM,01/17/2008,393399.0,1521621,0.23
+MTL,2023Q4,Palo Alto,CA,01/27/2022,383895.0,1220792,0.33
+MTL,2023Q4,Singapore,SGP,06/24/2021,382140.0,1350000,0.79
 MTL,2023Q4,p002348 Entity 91952 Extell Hudson Waterfront I Mezz LLC New York,NY,09/03/2021,368127.0,0,0.105
-MTL,2023Q4,Larchmont,NY,06/24/2022,356442.0,-38138,0.16
+MTL,2023Q4,Larchmont,NY,06/24/2022,356442.0,724539,0.16
 MTL,2023Q4,"III, L.P. Los Angeles",CA,10/05/2007,351392.0,276114,1.72
-MTL,2023Q4,Menlo Park,CA,08/02/2022,350076.0,-26505,0.2
-MTL,2023Q4,VIP IV LP New York,NY,05/29/2008,349612.0,-11938,0.12
+MTL,2023Q4,Menlo Park,CA,08/02/2022,350076.0,1176080,0.2
+MTL,2023Q4,VIP IV LP New York,NY,05/29/2008,349612.0,0,0.12
 MTL,2023Q4,"INDEX VENTURES GROWTH VI (JERSEY), L.P. London",GBR,06/30/2021,349461.0,1676,0.05
-MTL,2023Q4,WndrCo Holdings II LP Wilmington,DE,04/14/2023,342921.0,-64238,0.67
-MTL,2023Q4,E07.4 Glendower Capital Strategic Partnership 2021 New York,NY,06/28/2021,337586.0,50185,2.25
+MTL,2023Q4,WndrCo Holdings II LP Wilmington,DE,04/14/2023,342921.0,1467842,0.67
+MTL,2023Q4,E07.4 Glendower Capital Strategic Partnership 2021 New York,NY,06/28/2021,337586.0,872007,2.25
 MTL,2023Q4,"Trivest Fund VI, L.P. London",GBR,10/24/2022,336276.0,848,0.1
-MTL,2023Q4,Accel XV L.P. Palo Alto,CA,06/15/2021,336131.0,-44266,0.11
-MTL,2023Q4,Hudson Holdings Cayman I LP London,GBR,02/02/2021,315038.0,-1829,0.14
+MTL,2023Q4,Accel XV L.P. Palo Alto,CA,06/15/2021,336131.0,357930,0.11
+MTL,2023Q4,Hudson Holdings Cayman I LP London,GBR,02/02/2021,315038.0,30600,0.14
 MTL,2023Q4,OWL Co-Invest Opportunity LP Los Angeles,CA,12/24/2009,311664.0,397089,0.18
-MTL,2023Q4,GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,310279.0,-4453,0.18
-MTL,2023Q4,"Glasswing Ventures II, L.P. Boston",MA,04/15/2021,309542.0,-32562,1.13
+MTL,2023Q4,GGV Capital VIII Plus L.P. Menlo Park,CA,10/29/2020,310279.0,351000,0.18
+MTL,2023Q4,"Glasswing Ventures II, L.P. Boston",MA,04/15/2021,309542.0,1390500,1.13
 MTL,2023Q4,New York,NY,03/01/2023,299616.0,4351,0.24
-MTL,2023Q4,Boston,MA,04/15/2022,294017.0,-27071,0.1
+MTL,2023Q4,Boston,MA,04/15/2022,294017.0,1822861,0.1
 MTL,2023Q4,"St. Peter Port, Guernsey",GBR,05/09/2008,293218.0,35695,0.4
-MTL,2023Q4,Accel London VII L.P. London,GBR,06/15/2021,281766.0,-59659,0.11
-MTL,2023Q4,Boston,MA,05/01/2022,272810.0,-3075,0.21
-MTL,2023Q4,Shanghai,CHN,09/09/2021,271002.0,-2388,0.16
-MTL,2023Q4,Menlo Park,CA,07/23/2021,269412.0,12374,0.08
-MTL,2023Q4,"Mastry Fund I, L.P. Palo Alto",CA,05/06/2021,260462.0,13075,0.34
-MTL,2023Q4,"HongShan Capital Growth 2010 Principals Fund, Menlo Park",CA,03/25/2010,260240.0,-66974,0.12
+MTL,2023Q4,Accel London VII L.P. London,GBR,06/15/2021,281766.0,391140,0.11
+MTL,2023Q4,Boston,MA,05/01/2022,272810.0,827657,0.21
+MTL,2023Q4,Shanghai,CHN,09/09/2021,271002.0,476280,0.16
+MTL,2023Q4,Menlo Park,CA,07/23/2021,269412.0,74844,0.08
+MTL,2023Q4,"Mastry Fund I, L.P. Palo Alto",CA,05/06/2021,260462.0,609120,0.34
+MTL,2023Q4,"HongShan Capital Growth 2010 Principals Fund, Menlo Park",CA,03/25/2010,260240.0,58691,0.12
 MTL,2023Q4,BlackFin Financial Services Fund III Washington,DC,04/26/2023,260125.0,3339875,3.6
-MTL,2023Q4,Springfield,MA,09/29/2008,255336.0,-15932,0.98
+MTL,2023Q4,Springfield,MA,09/29/2008,255336.0,220262,0.98
 MTL,2023Q4,"CARLYLE EUROPE TECHNOLOGY PARTNERS V - EU, London",GBR,03/17/2022,241984.0,29,0.1
-MTL,2023Q4,Menlo Park,CA,02/27/2023,237924.0,-10327,0.39
+MTL,2023Q4,Menlo Park,CA,02/27/2023,237924.0,1212048,0.39
 MTL,2023Q4,"Linzor Capital Partners II, L.P. Lyon",FRA,07/07/2021,226662.0,-996,0.17
 MTL,2023Q4,"p000981 ML SOUTHMORE, LLC Houston",TX,10/08/2013,224893.0,0,1.0
-MTL,2023Q4,Advent International GPE VI-A Limited Partnership London,GBR,06/13/2008,218661.0,-21735,0.09
-MTL,2023Q4,"Bessemer Venture Partners Century Fund II, Larchmont",NY,02/19/2021,210686.0,-18014,0.21
+MTL,2023Q4,Advent International GPE VI-A Limited Partnership London,GBR,06/13/2008,218661.0,312500,0.09
+MTL,2023Q4,"Bessemer Venture Partners Century Fund II, Larchmont",NY,02/19/2021,210686.0,1279680,0.21
 MTL,2023Q4,Houston,TX,09/30/2008,204988.0,1644612,0.53
 MTL,2023Q4,Designation Book/ Years Other- Foreign CVC European Equity Partners V (C) L.P. C,GBR,04/18/2008,202019.0,8292,0.06
 MTL,2023Q4,"Trivest Discovery Fund, LP Coral Gables",FL,01/13/2023,200942.0,431,0.31
-MTL,2023Q4,"TRIVEST FUND VII, L.P. Coral Gables",FL,04/19/2022,191277.0,-38722,0.47
-MTL,2023Q4,"KWOL Co-Invest, LP Shanghai",CHN,09/09/2021,179733.0,-5694,0.16
-MTL,2023Q4,"Goal Investment Credit Fund, LLC Philadelphia",PA,05/03/2023,169602.0,-50254,0.39
+MTL,2023Q4,"TRIVEST FUND VII, L.P. Coral Gables",FL,04/19/2022,191277.0,2389447,0.47
+MTL,2023Q4,"KWOL Co-Invest, LP Shanghai",CHN,09/09/2021,179733.0,559440,0.16
+MTL,2023Q4,"Goal Investment Credit Fund, LLC Philadelphia",PA,05/03/2023,169602.0,2509944,0.39
 MTL,2023Q4,KMEPS Topco New York,NY,06/01/2008,149332.0,-33228,0.1
-MTL,2023Q4,"Accel India VII, L.P. Bangalore",IND,03/01/2022,144724.0,-21054,0.08
-MTL,2023Q4,Equistone Partners Europe Fund VI SCSp New York,NY,04/15/2022,144058.0,-18882,0.44
-MTL,2023Q4,Chevy Chase,MD,02/02/2010,144018.0,-29092,0.64
+MTL,2023Q4,"Accel India VII, L.P. Bangalore",IND,03/01/2022,144724.0,375204,0.08
+MTL,2023Q4,Equistone Partners Europe Fund VI SCSp New York,NY,04/15/2022,144058.0,1552219,0.44
+MTL,2023Q4,Chevy Chase,MD,02/02/2010,144018.0,76117,0.64
 MTL,2023Q4,"TPG Partners VI, L.P. Fort Worth",TX,03/17/2008,130811.0,-5258,0.1
-MTL,2023Q4,Boston,MA,10/05/2023,128274.0,1471726,1.33
+MTL,2023Q4,Boston,MA,10/05/2023,128274.0,0,1.33
 MTL,2023Q4,"Clearlake Capital Partners V, L.P. Menlo Park",CA,01/06/2023,115493.0,-5253,1.84
-MTL,2023Q4,"Brentwood Associates Private Equity IV, L.P. Los Angeles",CA,08/17/2006,110597.0,47982,0.27
-MTL,2023Q4,FCDE Independent Fund II FPCI New York,NY,04/15/2022,85758.0,1629401,0.44
+MTL,2023Q4,"Brentwood Associates Private Equity IV, L.P. Los Angeles",CA,08/17/2006,110597.0,126646,0.27
+MTL,2023Q4,FCDE Independent Fund II FPCI New York,NY,04/15/2022,85758.0,0,0.44
 MTL,2023Q4,Lyon,FRA,07/07/2021,84439.0,-44,0.17
-MTL,2023Q4,"TRIVEST DISCOVERY FUND II, L.P. Coral Gables",FL,04/19/2022,84212.0,-21464,0.45
+MTL,2023Q4,"TRIVEST DISCOVERY FUND II, L.P. Coral Gables",FL,04/19/2022,84212.0,774827,0.45
 MTL,2023Q4,"Designation Book/ Years Other- Foreign HgCapital 6, L.P. London",GBR,09/30/2008,81416.0,6752,2.77
-MTL,2023Q4,L.P. New York,NY,05/24/2010,79191.0,-25243,0.44
-MTL,2023Q4,Los Angeles,CA,04/15/2022,78906.0,28879,0.08
+MTL,2023Q4,L.P. New York,NY,05/24/2010,79191.0,83145,0.44
+MTL,2023Q4,Los Angeles,CA,04/15/2022,78906.0,5152419,0.08
 MTL,2023Q4,AFFIRM ASSET SECURITIZATION TRUST AFFRM_22-X1 AFFIRM ASSET SECURITIZATION TRUST ,DE,02/04/2022,74231.0,686029,0.0
-MTL,2023Q4,London,GBR,11/17/2022,71091.0,-7544,0.19
+MTL,2023Q4,London,GBR,11/17/2022,71091.0,496338,0.19
 MTL,2023Q4,PAI Partners VIII-1 SCSp Paris,FRA,11/30/2021,51777.0,-4616,0.09
 MTL,2023Q4,"TPG Asia V, L.P. Fort Worth",TX,12/17/2007,44136.0,214,0.1
 MTL,2023Q4,Altor Fund VI (No. 1) AB Stockholm,SWE,09/30/2022,39014.0,1571,0.27
-MTL,2023Q4,London,GBR,05/11/2022,37873.0,1665601,0.38
-MTL,2023Q4,"Francisco Partners VII, L.P. San Francisco",CA,04/28/2022,35375.0,4681313,0.12
+MTL,2023Q4,London,GBR,05/11/2022,37873.0,0,0.38
+MTL,2023Q4,"Francisco Partners VII, L.P. San Francisco",CA,04/28/2022,35375.0,0,0.12
 MTL,2023Q4,"Scale Venture Partners VI, L.P. New York",NY,03/02/2015,26861.0,0,0.48
-MTL,2023Q4,Catalyst Fund Limited Partnership III Menlo Park,CA,02/20/2009,26213.0,32872,0.11
+MTL,2023Q4,Catalyst Fund Limited Partnership III Menlo Park,CA,02/20/2009,26213.0,100583,0.11
 MTL,2023Q4,"p000983 MetLife Camino Ramon Member, LLC San Francisco",CA,12/20/2013,19658.0,44575,1.0
 MTL,2023Q4,p002599 Entity,WA,10/01/2023,15455.0,0,12.55
-MTL,2023Q4,"Genstar Capital Partners XI, L.P. San Francisco",CA,03/27/2023,10854.0,2718946,0.1
+MTL,2023Q4,"Genstar Capital Partners XI, L.P. San Francisco",CA,03/27/2023,10854.0,0,0.1
 MTL,2023Q4,Los Angeles,CA,12/10/2009,9475.0,5822,0.06
 MTL,2023Q4,"TCW/Crescent Mezzanine Partners V, L.P. Los Angeles",CA,12/14/2007,8863.0,20546,0.22
 MTL,2023Q4,E07.10 St. Louis Equity Fund 1997 L.L.C. St. Louis,MO,07/18/1989,6073.0,0,0.1
 MTL,2023Q4,St. Louis Equity Fund 1998 L.L.C. St. Louis,MO,07/18/1989,5858.0,0,6.52
 MTL,2023Q4,London,GBR,01/12/2023,5036.0,-143,0.1
-MTL,2023Q4,"The Veritas Capital Fund VII, L.P. London",GBR,03/27/2008,3721.0,-2644,0.1
+MTL,2023Q4,New York,NY,07/01/2019,3937.0,0,1.27
+MTL,2023Q4,"The Veritas Capital Fund VII, L.P. London",GBR,03/27/2008,3721.0,0,0.1
 MTL,2023Q4,New York,NY,05/02/2008,1482.0,69086,0.1
 MTL,2023Q4,Designation Book/ Years Other- Foreign p000773 MTL AG Mineral Rights Retained Va,OK,02/03/1942,0.0,0,50.0
 MTL,2023Q4,"ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0.0,0,2.29
@@ -2551,7 +2551,7 @@ MTL,2023Q4,MASSACHUSETTS MUTUAL LIFE INSU 7.625 Springfield,MA,05/14/2004,0.0,0,
 MTL,2023Q4,TEACHERS INSURANCE AND ANNUITY 4.900 New York,NY,09/29/2014,0.0,0,0.0
 MTL,2023Q4,National Corporate Tax Credit Fund Beverly Hills,CA,07/20/1993,0.0,0,9.7
 MTL,2023Q4,General Deal New York,NY,01/01/1990,0.0,0,100.0
-MTL,2024Q2,Admini- Date Type Actual Cost Additional for p002360 ML Hudson River Waterfront ,NJ,12/01/2021,0.0,0,100.0
+MTL,2024Q2,p002360 ML Hudson River Waterfront - MTL Whippany,NJ,12/01/2021,0.0,0,100.0
 MTL,2024Q2,p002600 ML PE Terminal 106 LLC Seattle,WA,10/01/2023,0.0,0,100.0
 MTL,2024Q2,"ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0.0,0,2.29
 MTL,2024Q2,"ACS Celsius Aggregator, LP San Francisco",CA,06/25/2024,0.0,0,6.49
@@ -2598,7 +2598,7 @@ MTL,2024Q2,Bessemer Venture Partners Century Fund L.P. Larchmont,NY,09/13/2019,0
 MTL,2024Q2,Bessemer Venture Partners X Institutional L.P. Larchmont,NY,10/15/2018,0.0,0,0.13
 MTL,2024Q2,"Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19/2021,0.0,0,0.15
 MTL,2024Q2,"Bessemer Venture Partners XII Institutional, L.P. Larchmont",NY,07/01/2022,0.0,0,0.12
-MTL,2024Q2,Admini- Date Type Actual Cost Additional for Blackstar Stability Distressed Debt,DC,04/26/2023,0.0,0,3.23
+MTL,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Tower Life Insurance Company B",DC,04/26/2023,0.0,0,3.23
 MTL,2024Q2,Blue Sea Capital Fund I LP Palm Beach,FL,04/07/2015,0.0,0,2.75
 MTL,2024Q2,"Bond Capital Fund I, LP San Francisco",CA,04/15/2019,0.0,0,0.14
 MTL,2024Q2,"Bond Capital Fund II, LP San Francisco",CA,01/15/2021,0.0,0,0.31
@@ -2646,7 +2646,7 @@ MTL,2024Q2,"Great Hill Equity Partners VIII, L.P. Boston",MA,01/31/2022,0.0,0,0.
 MTL,2024Q2,"Green Equity Investors IX, L.P. Los Angeles",CA,04/15/2022,0.0,0,0.09
 MTL,2024Q2,"Green Equity Investors VII, L.P. Los Angeles",CA,02/16/2016,0.0,0,0.14
 MTL,2024Q2,"Gryphon Partners V, L.P. San Francisco",CA,12/20/2017,0.0,0,0.59
-MTL,2024Q2,Admini- Date Type Actual Cost Additional for Hahn & Company IV L.P. Seoul,KOR,06/27/2023,0.0,0,0.1
+MTL,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Tower Life Insurance Company H",KOR,06/27/2023,0.0,0,0.1
 MTL,2024Q2,Hart Holdings I LP Toronto,CAN,10/26/2020,0.0,0,0.43
 MTL,2024Q2,Hg Genesis 10 A L.P. London,GBR,04/14/2022,0.0,0,0.1
 MTL,2024Q2,Hg Genesis 9 L.P. London,GBR,02/07/2020,0.0,0,0.06
@@ -2694,7 +2694,7 @@ MTL,2024Q2,"Nautic Partners X, L.P. Providence",RI,06/23/2021,0.0,0,0.24
 MTL,2024Q2,"Nautic Partners XI, L.P. Providence",RI,06/06/2024,0.0,0,0.28
 MTL,2024Q2,"New Enterprise Associates 17, L.P. Menlo Park",CA,05/20/2019,0.0,0,0.07
 MTL,2024Q2,"OEP VIII PGW Co-Investment Partners, L.P. Chicago",IL,06/20/2022,0.0,0,3.43
-MTL,2024Q2,"Admini- Date Type Actual Cost Additional for One Equity Partners VII, L.P. Chica",IL,08/07/2018,0.0,0,0.54
+MTL,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Tower Life Insurance Company O",IL,08/07/2018,0.0,0,0.54
 MTL,2024Q2,"OpenGate Capital Partners II, L.P. Los Angeles",CA,10/04/2019,0.0,0,0.7
 MTL,2024Q2,"PAG Asia III, L.P. Hong Kong",CHN,09/06/2018,0.0,0,0.1
 MTL,2024Q2,PAI Partners VIII-1 SCSp Paris,FRA,11/30/2021,0.0,0,0.08
@@ -2741,7 +2741,7 @@ MTL,2024Q2,Whitehorse Liquidity Partners Fund IV LP Toronto,CAN,04/21/2020,0.0,0
 MTL,2024Q2,"Wind Point Partners IX, L.P. Chicago",IL,01/17/2020,0.0,0,0.21
 MTL,2024Q2,"Wind Point Partners X-A, L.P. Chicago",IL,08/01/2022,0.0,0,0.36
 MTL,2024Q2,"Wing Four, L.P. Palo Alto",CA,06/29/2023,0.0,0,0.24
-MTL,2024Q2,"Admini- Date Type Actual Cost Additional for Wing Three, L.P. Menlo Park",CA,05/29/2020,0.0,0,0.31
+MTL,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE Metropolitan Tower Life Insurance Company W",CA,05/29/2020,0.0,0,0.31
 MTL,2024Q2,WndrCo Holdings II LP Wilmington,DE,04/14/2023,0.0,0,0.61
 MTL,2024Q2,p002369 University Town Center Holdings LLC Charlotte,NC,12/15/2021,0.0,0,12.35
 MTL,2024Q2,"p000910 Metlife CC Member , LLC Washington",DC,12/13/2012,0.0,0,4.878
@@ -2757,7 +2757,7 @@ MTL,2024Q2,"E03.4 p001831 MetLife Commercial Mortgage Income Fund, LP - MTL Whip
 MTL,2024Q2,p002344 Metlife Strategic Hotel Debt Fund LP - MTL Whippany,NJ,07/01/2021,0.0,0,100.0
 MTL,2024Q2,FARMERS MUTUAL INSURANCE COMPA Washington,CA,05/14/2024,0.0,0,0.0
 MTL,2024Q2,MetLife Investment Private Equity Partners II Acquisition Co Whippany,NJ,03/29/2024,0.0,0,9.62
-MTL,2024Q3,Admini- Date Type Actual Cost Additional for p002360 ML Hudson River Waterfront ,NJ,12/01/2021,0.0,0,1.58
+MTL,2024Q3,p002360 ML Hudson River Waterfront - MTL Whippany,NJ,12/01/2021,0.0,0,1.58
 MTL,2024Q3,p002600 ML PE Terminal 106 LLC Seattle,WA,10/01/2023,0.0,0,100.0
 MTL,2024Q3,"ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0.0,0,2.29
 MTL,2024Q3,"ACS Celsius Aggregator, LP San Francisco",CA,07/02/2024,0.0,0,6.49
@@ -2803,7 +2803,7 @@ MTL,2024Q3,"Bessemer Venture Partners XII Institutional, L.P. Larchmont",NY,07/0
 MTL,2024Q3,Blackstar Stability Distressed Debt Fund Washington,DC,04/26/2023,0.0,0,3.25
 MTL,2024Q3,"IV, L.P) New York Blue Owl Capital",,04/06/2018,0.0,0,1.55
 MTL,2024Q3,Blue Revolution Fund L.P. Cork,IRL,09/19/2024,0.0,0,1.56
-MTL,2024Q3,Admini- Date Type Actual Cost Additional for Blue Sea Capital Fund II LP Palm Be,FL,02/04/2019,0.0,0,0.78
+MTL,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",FL,02/04/2019,0.0,0,0.78
 MTL,2024Q3,"Bond Capital Fund II, LP San Francisco",CA,01/15/2021,0.0,0,0.31
 MTL,2024Q3,"Bond III, L.P. San Francisco Bond Capital",,04/01/2022,0.0,0,0.18
 MTL,2024Q3,Bridgepoint Development Capital IV London,GBR,03/27/2020,0.0,0,0.19
@@ -2851,7 +2851,7 @@ MTL,2024Q3,"Gryphon Partners V, L.P. San Francisco Gryphon",,12/20/2017,0.0,0,0.
 MTL,2024Q3,Hahn & Company IV L.P. Seoul,KOR,06/27/2023,0.0,0,0.1
 MTL,2024Q3,Hg Genesis 10 A L.P. London,GBR,04/14/2022,0.0,0,0.1
 MTL,2024Q3,Hg Genesis 9 L.P. London,GBR,02/07/2020,0.0,0,0.06
-MTL,2024Q3,Admini- Date Type Actual Cost Additional for Hg Mercury 3 L.P. London,GBR,02/07/2020,0.0,0,0.26
+MTL,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",GBR,02/07/2020,0.0,0,0.26
 MTL,2024Q3,Hg Mercury 4 A L.P. London,GBR,01/12/2023,0.0,0,0.1
 MTL,2024Q3,Hg Saturn 2 A L.P. London,GBR,02/07/2020,0.0,0,0.07
 MTL,2024Q3,Hg Saturn 3 A L.P. London,GBR,03/01/2022,0.0,0,0.1
@@ -2899,7 +2899,7 @@ MTL,2024Q3,Primavera Capital Fund II L.P. Hong Kong,CHN,10/14/2014,0.0,0,0.54
 MTL,2024Q3,Primavera Capital Fund III L.P. Hong Kong,CHN,02/14/2018,0.0,0,0.24
 MTL,2024Q3,Primavera Capital Fund IV L.P. Hong Kong,CHN,05/20/2021,0.0,0,0.11
 MTL,2024Q3,"Public Pension Capital, LLC New York",NY,07/10/2014,0.0,0,0.26
-MTL,2024Q3,"Admini- Date Type Actual Cost Additional for Quona Accion Inclusion Fund III, L.",DC,07/28/2021,0.0,0,1.09
+MTL,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",DC,07/28/2021,0.0,0,1.09
 MTL,2024Q3,"Red Arts Capital Opportunity Fund I, L.P. Chicago Red Arts Capital",,12/16/2022,0.0,0,1.26
 MTL,2024Q3,Revelstoke Holdings I LP Toronto,CAN,09/22/2021,0.0,0,0.14
 MTL,2024Q3,Savory Co-Invest SCSp Vienna,AUT,05/31/2023,0.0,0,0.29
@@ -2944,13 +2944,13 @@ MTL,2024Q3,"p000630 Met II Hotel, LLC Miami",FL,12/21/2006,0.0,0,11.539
 MTL,2024Q3,p002369 University Town Center Holdings LLC Charlotte,NC,12/15/2021,0.0,0,12.35
 MTL,2024Q3,"p000910 Metlife CC Member , LLC Washington",DC,12/13/2012,0.0,0,4.878
 MTL,2024Q3,"p000983 MetLife Camino Ramon Member, LLC San Francisco",CA,12/20/2013,0.0,0,1.0
-MTL,2024Q3,Admini- Date Type Actual Cost Additional for p001875 ML Port Chester SC Member L,NY,02/06/2019,0.0,0,40.0
+MTL,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",NY,02/06/2019,0.0,0,40.0
 MTL,2024Q3,p002064 ML Armature Member LLC Washington,DC,08/30/2019,0.0,0,12.66
 MTL,2024Q3,"p002335 Metlife Enhanced Core Property Fund, LP - MTL Whippany",NJ,07/01/2021,0.0,0,34.17
 MTL,2024Q3,p002453 ML HS Member LLC Whippany,NJ,08/25/2022,0.0,0,4.082
 MTL,2024Q3,p002479 ML Terminal 106 Member LLC Seattle,WA,10/24/2022,0.0,0,12.55
 MTL,2024Q3,"p001831 MetLife Commercial Mortgage Income Fund, LP - MTL Whippany",NJ,12/31/2018,0.0,0,5.26
-MTL,2025Q1,Admini- Date Type Actual Cost Additional for ENBRIDGE INC Calgary,CAN,01/01/2025,0.0,0,0.0
+MTL,2025Q1,ENBRIDGE INC Calgary,CAN,01/01/2025,0.0,0,0.0
 MTL,2025Q1,NGG FINANCE PLC London,GBR,01/01/2025,0.0,0,0.0
 MTL,2025Q1,SUMMARY ADJUSTMENT New York,NY,03/31/2025,0.0,0,0.0
 MTL,2025Q1,DULLES DISCOVERY I Chantilly,VA,01/01/2025,0.0,0,0.0
@@ -2996,7 +2996,7 @@ MTL,2025Q1,"Bessemer Venture Partners Century Fund II, L.P. Larchmont",NY,02/19/
 MTL,2025Q1,Bessemer Venture Partners Century Fund L.P. Larchmont,NY,09/13/2019,0.0,0,0.57
 MTL,2025Q1,Bessemer Venture Partners X Institutional L.P. Larchmont,NY,10/15/2018,0.0,0,0.13
 MTL,2025Q1,"Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19/2021,0.0,0,0.15
-MTL,2025Q1,"Admini- Date Type Actual Cost Additional for BharCap Partners II, L.P. Greenwich",CT,10/15/2024,0.0,0,0.1
+MTL,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY ",CT,10/15/2024,0.0,0,0.1
 MTL,2025Q1,BlackFin Financial Services Fund III Paris,FRA,06/26/2019,0.0,0,0.41
 MTL,2025Q1,Blackstar Stability Distressed Debt Fund Washington,DC,04/26/2023,0.0,0,3.35
 MTL,2025Q1,"Blue Sea Capital Fund III, LP Palm Beach",FL,07/29/2022,0.0,0,0.57
@@ -3043,7 +3043,7 @@ MTL,2025Q1,"Great Hill Equity Partners VIII, L.P. Boston",MA,01/31/2022,0.0,0,0.
 MTL,2025Q1,"Green Equity Investors IX, L.P. Los Angeles",CA,04/15/2022,0.0,0,0.08
 MTL,2025Q1,"Green Equity Investors VII, L.P. Los Angeles",CA,02/16/2016,0.0,0,0.15
 MTL,2025Q1,Hahn & Company IV L.P. Seoul,KOR,06/27/2023,0.0,0,0.1
-MTL,2025Q1,Admini- Date Type Actual Cost Additional for Hahn & Company IV-S L.P. Seoul,KOR,05/04/2023,0.0,0,0.14
+MTL,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY ",KOR,05/04/2023,0.0,0,0.14
 MTL,2025Q1,Hg Genesis 10 A L.P. London,GBR,04/14/2022,0.0,0,0.1
 MTL,2025Q1,Hg Genesis 9 L.P. London,GBR,02/07/2020,0.0,0,0.06
 MTL,2025Q1,Hg Mercury 3 L.P. London,GBR,02/07/2020,0.0,0,0.26
@@ -3090,7 +3090,7 @@ MTL,2025Q1,"OEP IX Ballymore Co Investment Partners, L.P. New York",NY,12/20/202
 MTL,2025Q1,Oakley Touring Venture B1 SCSP Menlo Park,CA,12/20/2024,0.0,0,0.06
 MTL,2025Q1,"Olympus Growth Fund VII, L.P. Stamford",CT,11/20/2017,0.0,0,0.25
 MTL,2025Q1,"One Equity Partners IX, L.P. New York",NY,12/06/2024,0.0,0,0.1
-MTL,2025Q1,"Admini- Date Type Actual Cost Additional for One Equity Partners VII, L.P. Chica",IL,08/07/2018,0.0,0,0.53
+MTL,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY ",IL,08/07/2018,0.0,0,0.53
 MTL,2025Q1,PAG Growth II L.P. Shanghai,CHN,04/29/2021,0.0,0,0.73
 MTL,2025Q1,PAI Partners VIII-1 SCSp Paris,FRA,11/30/2021,0.0,0,0.1
 MTL,2025Q1,Pasubio Co-Invest SCSp Paris,FRA,10/31/2021,0.0,0,1.74
@@ -3138,7 +3138,7 @@ MTL,2025Q1,"Westlake BioPartners Opportunity Fund I, L.P. Westlake Village",CA,0
 MTL,2025Q1,"Wind Point Partners IX, L.P. Chicago",IL,01/17/2020,0.0,0,0.21
 MTL,2025Q1,"Wind Point Partners X-A, L.P. Chicago",IL,08/01/2022,0.0,0,0.23
 MTL,2025Q1,"Wing Four, L.P. Palo Alto",CA,06/29/2023,0.0,0,0.24
-MTL,2025Q1,"Admini- Date Type Actual Cost Additional for Wing Three, L.P. Menlo Park",CA,05/29/2020,0.0,0,0.3
+MTL,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY ",CA,05/29/2020,0.0,0,0.3
 MTL,2025Q1,p002369 University Town Center Holdings LLC Charlotte,NC,12/15/2021,0.0,0,12.35
 MTL,2025Q1,"p000911 MetLife LHH Member, LLC Hollywood",CA,11/08/2012,0.0,0,1.0
 MTL,2025Q1,p001875 ML Port Chester SC Member LLC Port Chester,NY,02/06/2019,0.0,0,40.0
@@ -3198,7 +3198,7 @@ MTL,2025Q2,"BGH Capital Offshore Fund I, L.P. Melbourne",AUS,05/15/2018,0.0,0,0.
 MTL,2025Q2,"BGH Capital Offshore II, LP Melbourne",AUS,02/11/2022,0.0,0,0.22
 MTL,2025Q2,"BPOC Fund VI, L.P. Chicago",IL,12/20/2024,0.0,0,0.87
 MTL,2025Q2,"Battery Ventures Select Fund II, L.P. Boston",MA,05/01/2022,0.0,0,0.21
-MTL,2025Q2,"Admini- Date Type Actual Cost Additional for Battery Ventures XIII, L.P. Boston",MA,01/24/2020,0.0,0,0.13
+MTL,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY B",MA,01/24/2020,0.0,0,0.13
 MTL,2025Q2,"Battery Ventures XIV, L.P. Boston",MA,05/01/2022,0.0,0,0.17
 MTL,2025Q2,"Bessemer Venture Partners Century Fund II, L.P. Larchmont",NY,02/19/2021,0.0,0,0.21
 MTL,2025Q2,Bessemer Venture Partners X Institutional L.P. Larchmont,NY,10/15/2018,0.0,0,0.13
@@ -3245,7 +3245,7 @@ MTL,2025Q2,"Genstar Capital Partners XI, L.P. San Francisco",CA,03/27/2023,0.0,0
 MTL,2025Q2,"Genstar X Opportunities Fund I, L.P. San Francisco",CA,03/18/2021,0.0,0,0.07
 MTL,2025Q2,"Glasswing Ventures II, L.P. Boston",MA,04/15/2021,0.0,0,1.14
 MTL,2025Q2,"Glendower Capital Secondary Opportunities Fund V-P, LP New York",NY,06/28/2021,0.0,0,0.28
-MTL,2025Q2,Admini- Date Type Actual Cost Additional for Global Infrastructure Partners III-,NY,12/16/2015,0.0,0,0.1
+MTL,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY G",NY,12/16/2015,0.0,0,0.1
 MTL,2025Q2,"Global Infrastructure Partners IV, L.P. New York",NY,07/01/2019,0.0,0,0.1
 MTL,2025Q2,"Graham Partners V, LP Philadelphia",PA,07/02/2020,0.0,0,0.31
 MTL,2025Q2,"Graham Partners VI, L.P. Philadelphia",PA,05/03/2023,0.0,0,0.15
@@ -3293,7 +3293,7 @@ MTL,2025Q2,MED Platform I SLP Lyon,FRA,07/20/2020,0.0,0,0.47
 MTL,2025Q2,MED Platform II SLP Lyon,FRA,12/10/2021,0.0,0,0.16
 MTL,2025Q2,SLP Lyon,FRA,10/01/2021,0.0,0,1.16
 MTL,2025Q2,Medicxi III LP London,GBR,04/09/2019,0.0,0,0.91
-MTL,2025Q2,Admini- Date Type Actual Cost Additional for Medicxi IV LP London,GBR,05/11/2022,0.0,0,0.43
+MTL,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY M",GBR,05/11/2022,0.0,0,0.43
 MTL,2025Q2,Medicxi Secondary I LP London,GBR,05/29/2020,0.0,0,0.49
 MTL,2025Q2,"Menlo Inflection III L.P. (F.K.A. Menlo Special Opportunities Fund III, L.P) Men",CA,08/02/2022,0.0,0,0.2
 MTL,2025Q2,"Menlo Ventures XVI, L.P. Menlo Park",CA,02/27/2023,0.0,0,0.37
@@ -3339,7 +3339,7 @@ MTL,2025Q2,"Trident IX, L.P. Greenwich",CT,09/13/2021,0.0,0,0.11
 MTL,2025Q2,"Trident VI, L.P. Greenwich",CT,12/20/2013,0.0,0,0.33
 MTL,2025Q2,"Trident VIII, L.P. Greenwich",CT,05/03/2019,0.0,0,0.1
 MTL,2025Q2,Trive Capital Fund IV LP Dallas,TX,04/08/2021,0.0,0,0.23
-MTL,2025Q2,Admini- Date Type Actual Cost Additional for Trive Capital Fund V LP Dallas,TX,12/07/2023,0.0,0,0.25
+MTL,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMPANY T",TX,12/07/2023,0.0,0,0.25
 MTL,2025Q2,"Trivest Fund VI, L.P. Coral Gables",FL,09/19/2017,0.0,0,0.59
 MTL,2025Q2,"Trivest Growth Investment Fund II, LP Coral Gables",FL,12/19/2019,0.0,0,0.64
 MTL,2025Q2,"Trivest Recognition Fund, L.P. Coral Gables",FL,01/13/2023,0.0,0,0.31
@@ -3366,7 +3366,7 @@ MTL,2025Q2,"0000703815 TERMINAL 106, LLC Seattle",DE,03/31/2025,0.0,0,0.0
 MTL,2025Q2,MASSACHUSETTS MUTUAL LIFE INSU New York,NY,05/21/2025,0.0,0,0.0
 MTL,2025Q2,73758*-AG-6 POTENTIA LUDIS SPV LLC OCTL_2 Wilimington,DE,03/28/2025,0.0,0,0.0
 MTL,2025Q2,"MetLife Senior Direct Lending Fund II, LP Whippany",NJ,12/18/2023,0.0,0,19.05
-MTL,2025Q3,"Admini- Date Type Actual Cost Additional for ACCION VENTURE LAB FUND II, LP Wash",DC,12/12/2023,0.0,0,1.74
+MTL,2025Q3,"ACCION VENTURE LAB FUND II, LP Washington",DC,12/12/2023,0.0,0,1.74
 MTL,2025Q3,ADVENT INTERNATIONAL GPE X-A SCSP Boston,MA,04/28/2022,0.0,0,0.06
 MTL,2025Q3,ADVENT INTERNATIONAL GPE X-D SCSP Boston,MA,04/28/2022,0.0,0,0.22
 MTL,2025Q3,"AH American Dynamism Fund I, L.P. Menlo Park",CA,04/12/2024,0.0,0,0.11
@@ -3413,7 +3413,7 @@ MTL,2025Q3,"Bessemer Venture Partners XI Institutional, L.P. Larchmont",NY,02/19
 MTL,2025Q3,"Bessemer Venture Partners XII Institutional, L.P. Larchmont",NY,07/01/2022,0.0,0,0.12
 MTL,2025Q3,"BharCap Partners II, L.P. Greenwich",CT,10/15/2024,0.0,0,0.64
 MTL,2025Q3,Blackstar Stability Distressed Debt Fund Washington,DC,04/26/2023,0.0,0,3.58
-MTL,2025Q3,Admini- Date Type Actual Cost Additional for B.V.) Rotterdam,NLD,06/18/2021,0.0,0,0.77
+MTL,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",NLD,06/18/2021,0.0,0,0.77
 MTL,2025Q3,Blue Revolution Fund L.P. Cork,IRL,09/19/2024,0.0,0,1.54
 MTL,2025Q3,Blue Sea Capital Fund II LP Palm Beach,FL,02/04/2019,0.0,0,0.77
 MTL,2025Q3,"Blue Sea Capital Fund III, LP Palm Beach",FL,07/29/2022,0.0,0,0.58
@@ -3460,7 +3460,7 @@ MTL,2025Q3,"Glenwood Korea Private Equity Fund III, L.P. Seoul",KOR,06/06/2025,0
 MTL,2025Q3,"Global Infrastructure Partners III-A/B, L.P. New York",NY,12/16/2015,0.0,0,0.1
 MTL,2025Q3,"Global Infrastructure Partners IV, L.P. New York",NY,07/01/2019,0.0,0,0.1
 MTL,2025Q3,"Graham Partners VI, L.P. Philadelphia",PA,05/03/2023,0.0,0,0.15
-MTL,2025Q3,"Admini- Date Type Actual Cost Additional for Great Hill Equity Partners IX, L.P.",MA,07/10/2025,0.0,0,0.15
+MTL,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",MA,07/10/2025,0.0,0,0.15
 MTL,2025Q3,"Great Hill Equity Partners VII, L.P. Boston",MA,06/26/2019,0.0,0,0.2
 MTL,2025Q3,"Great Hill Equity Partners VIII, L.P. Boston",MA,01/31/2022,0.0,0,0.23
 MTL,2025Q3,"Green Equity Investors IX, L.P. Los Angeles",CA,04/15/2022,0.0,0,0.08
@@ -3507,7 +3507,7 @@ MTL,2025Q3,"Menlo Ventures XVI, L.P. Menlo Park",CA,02/27/2023,0.0,0,0.37
 MTL,2025Q3,Meritech Capital Partners VIII L.P. Palo Alto,CA,07/01/2022,0.0,0,0.23
 MTL,2025Q3,Meritech Capital Sidecar III L.P. Palo Alto,CA,07/01/2022,0.0,0,0.7
 MTL,2025Q3,Meritech Franchise Fund L.P. Palo Alto,CA,05/06/2021,0.0,0,0.34
-MTL,2025Q3,Admini- Date Type Actual Cost Additional for Moelis Asset Catalyst (Master) Fund,NY,05/16/2024,0.0,0,4.44
+MTL,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",NY,05/16/2024,0.0,0,4.44
 MTL,2025Q3,"Mosaic General Fund I, L.P. (fka Mastry Fund I, L.P.) San Francisco",CA,10/14/2021,0.0,0,2.44
 MTL,2025Q3,"Mountaingate Capital Fund II, L.P. Denver",CO,05/20/2021,0.0,0,0.67
 MTL,2025Q3,"Mountaingate Capital Fund III, L.P. Denver",CO,12/12/2024,0.0,0,1.78
@@ -3554,7 +3554,7 @@ MTL,2025Q3,VIP IV LP London,GBR,05/13/2020,0.0,0,0.09
 MTL,2025Q3,VIP V S.C.Sp. London,GBR,10/24/2022,0.0,0,0.07
 MTL,2025Q3,"Valspring Capital Fund I, L.P. Boston",MA,06/25/2024,0.0,0,1.2
 MTL,2025Q3,Vivify Aggregator LLC Chicago,IL,05/17/2022,0.0,0,1.32
-MTL,2025Q3,"Admini- Date Type Actual Cost Additional for Waterfall Sentinel Fund I, L.P. New",NY,12/15/2020,0.0,0,1.51
+MTL,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE METROPOLITAN TOWER LIFE INSURANCE COMP",NY,12/15/2020,0.0,0,1.51
 MTL,2025Q3,"WestCap Strategic Operator Fund II, L.P. New York",NY,10/07/2021,0.0,0,0.23
 MTL,2025Q3,"WestCap Strategic Operator US Feeder Fund, L.P. New York",NY,01/19/2021,0.0,0,0.45
 MTL,2025Q3,"Westlake BioPartners Fund II, L.P. Westlake Village",CA,05/07/2020,0.0,0,0.23

@@ -1,5 +1,5 @@
 name,state,date_acquired,book_value,investment_income,ownership_pct
-Admini- Date Type Actual Cost Additional for BC Partners DIRECT 1.C,FE,08/14/2025,0,0,0.0
+BC Partners DIRECT 1.C,FE,08/14/2025,0,0,0.0
 PNMSR 2021-FT1 A ATHENE ANNUITY & LIFE 2.C,FE,07/07/2025,0,0,0.0
 AEA Investors Small Bus Fund III New York,NY,03/24/2016,0,0,0.67
 AEA Investors Small Bus Fund IV New York,NY,10/10/2019,0,0,1.14
@@ -53,7 +53,7 @@ NOVA Infrastructure Fund I Wilmington,DE,05/26/2021,0,0,21.89
 NOVA Infrastructure GP I Wilmington,DE,05/31/2021,0,0,2.2
 NOVA Infrastructure GP II Wilmington,DE,12/23/2024,0,0,0.034
 North Castle Partners VII Greenwich,CT,12/28/2018,0,0,1.9
-Admini- Date Type Actual Cost Additional for Revelstoke Capital Partners III Denver,CO,12/23/2021,0,0,0.67
+"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE JACKSON NATIONAL LIFE INSURANCE COMPANY Revelstoke Capital Partners III Denver",CO,12/23/2021,0,0,0.67
 SPC Partners VI San Francisco CA SPC Management,VI,11/15/2017,0,0,1.88
 SPC Partners VII San Francisco,CA,02/06/2023,0,0,1.0
 Seidler Equity Partners VIII Marina Del Rey,CA,10/12/2023,0,0,1.6

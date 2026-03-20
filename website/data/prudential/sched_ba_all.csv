@@ -1,54 +1,36 @@
 entity,period,name,state,date_acquired,book_value,investment_income,ownership_pct
-PICA,2021Q2,"Admini- Date Type Actual Cost 3,088,549 0 for Accel Growth Fund V L.P. - PICA Pa",CA,03/11/2019,0.0,0,0.35
+PICA,2021Q2,Accel Growth Fund V L.P. - PICA Palo Alto,CA,03/11/2019,0.0,0,0.35
 PICA,2021Q2,Accel Leaders 3 L.P. - PICA Palo Alto,CA,02/17/2021,0.0,0,0.261
 PICA,2021Q2,"Accel-KKR Capital Partners VI, LP - PICA Menlo Park Accel-KKR Holdings GP, LLC",,02/10/2021,0.0,0,0.826
 PICA,2021Q2,"BMU Investment Manager - Mezzanine Management Central Europe 280,000 0 Accession",,06/30/2021,0.0,0,0.65
 PICA,2021Q2,"DC Accion Frontier Inclusion Fund GP, L.L.C. (General 2,400,000 0 Accion Frontie",MA,11/16/2015,0.0,0,3.254
-PICA,2021Q2,"Accion Venture Lab, LP - PICA Cambridge",NY,07/22/2019,0.0,0,0.0
 PICA,2021Q2,"ACP Nycom Holdings, LLC - PICA New York",NY,06/30/2021,0.0,0,4.348
-PICA,2021Q2,"Altaris Health Partners IV, L.P. New York City",NY,06/18/2018,0.0,0,0.0
 PICA,2021Q2,"Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0.0,0,2.302
-PICA,2021Q2,"American Industrial Partners Capital Fund VI, LP. New York",NY,01/21/2016,0.0,0,0.0
 PICA,2021Q2,"American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,10/30/2019,0.0,0,3.152
-PICA,2021Q2,"AMERICAN SECURITIES PARTNERS VII, L.P. - PICA New York",NY,01/19/2016,0.0,0,0.0
 PICA,2021Q2,"American Securities Partners VIII, L.P. - PICA New York",NJ,03/28/2019,0.0,0,2.326
-PICA,2021Q2,"Andreessen Horowitz Fund VII, L.P. - PICA Menlo Park",CA,12/23/2020,0.0,0,0.0
 PICA,2021Q2,"Andreessen Horowitz LsV Fund I, LP - PICA Menlo Park",NJ,05/09/2019,0.0,0,1.084
 PICA,2021Q2,Apax X USD L.P. - PICA St Peter Port,CA,11/10/2020,0.0,0,0.667
 PICA,2021Q2,"Ares US Real Estate Opportunity Fund III, L.P. - PICA Los Angeles",MD,04/15/2021,0.0,0,0.0
 PICA,2021Q2,"Arlington Capital Partners IV, L.P. - PICA Chevy Chase",MD,12/19/2016,0.0,0,0.5
 PICA,2021Q2,"Arlington Capital Partners V, L.P. - PICA Chevy Chase",IL,08/26/2019,0.0,0,0.0
 PICA,2021Q2,"ATI Holding Company, LLC - PICA 4 Bannockburn",FL,06/29/2021,0.0,0,0.411
-PICA,2021Q2,"Bayview Opportunity Domestic VI 1, L.P. - PICA Coral Gables",CA,11/06/2020,0.0,0,0.0
 PICA,2021Q2,"Birch Hill Equity Partners (Global) VI, LP - PICA Toronto",CA,12/17/2020,0.0,0,0.16
-PICA,2021Q2,"Birch Hill Equity Partners V, LP Toronto",NY,02/05/2016,0.0,0,0.0
 PICA,2021Q2,Blackstone BioMed Life Science Real Estate L.P. - PICA New York,NY,11/17/2020,0.0,0,0.45
-PICA,2021Q2,Blackstone BioMed Life Science Real Estate L.P.- PICA 2 New York,NY,10/23/2020,0.0,0,0.0
 PICA,2021Q2,Blackstone BioMed Life Science Real Estate L.P. - PICA 3 New York,NY,05/14/2021,0.0,0,0.267
-PICA,2021Q2,"Blackstone Capital Partners VIII, LP - PICA New York BMA VIII GP L.P.",,02/22/2021,0.0,0,0.0
 PICA,2021Q2,E03 New York,CA,09/23/2019,0.0,0,1.333
-PICA,2021Q2,Los Angeles,CA,12/27/2017,0.0,0,0.0
 PICA,2021Q2,Palo Alto,MA,09/29/2017,0.0,0,5.6
-PICA,2021Q2,Boston,MA,11/27/2017,0.0,0,0.0
 PICA,2021Q2,Boston,CA,07/20/2020,0.0,0,2.0
-PICA,2021Q2,Menlo Park,NJ,01/03/2018,0.0,0,0.0
 PICA,2021Q2,Menlo Park,DE,01/05/2021,0.0,0,0.057
-PICA,2021Q2,Wilmington,DE,10/21/2013,0.0,0,0.0
 PICA,2021Q2,Wilmington,GBR,12/19/2018,0.0,0,51.25
-PICA,2021Q2,London,NY,01/15/2021,0.0,0,0.0
 PICA,2021Q2,New York,CYM,05/21/2015,0.0,0,5.299
-PICA,2021Q2,Grand Cayman,NY,12/24/2013,0.0,0,0.0
 PICA,2021Q2,New York,NY,05/03/2021,0.0,0,5.54
-PICA,2021Q2,New York,NY,03/27/2018,0.0,0,0.0
 PICA,2021Q2,Brooklyn,NY,03/30/2018,0.0,0,0.187
-PICA,2021Q2,New York,JEY,08/07/2014,0.0,0,0.0
 PICA,2021Q2,Jersey,NJ,12/04/2018,0.0,0,0.027
-PICA,2021Q2,Teaneck,DC,05/17/2016,0.0,0,0.0
 PICA,2021Q2,Washington,WA,12/13/2013,0.0,0,0.029
 PICA,2021Q2,Short Hills,LUX,04/22/2014,0.0,0,0.1
 PICA,2021Q2,Blackstone Real Estate Partners Europe VI SCSp - PICA Luxembourg,GBR,02/05/2021,0.0,0,0.418
 PICA,2021Q2,"Brentwood Associates Private Equity VI, LP - PICA Stockholm EQT VIII (GP) SCS",,08/10/2018,0.0,0,0.03
-PICA,2021Q2,Admini- Date Type Actual Cost 0 for E03.1 000000-00-0 Equistone Partners Europe ,VI,07/18/2018,0.0,0,5.2
+PICA,2021Q2,"SVO 172,901 0 Commitment E03.1 000000-00-0 Equistone Partners Europe Fund VI D S",VI,07/18/2018,0.0,0,5.2
 PICA,2021Q2,"Francisco Partners Agility II, L.P. - PICA San Francisco",CA,09/17/2020,0.0,0,2.044
 PICA,2021Q2,"Francisco Partners VI, L.P. - PICA San Francisco",NC,01/26/2021,0.0,0,1.166
 PICA,2021Q2,Frontier Fund V-A LP - PICA Charlotte,NY,11/21/2017,0.0,0,2.917
@@ -89,16 +71,14 @@ PICA,2021Q2,"Mezzanine Partners Fund II, LP New York",GBR,05/06/2013,0.0,0,2.613
 PICA,2021Q2,Montagu VI L.P. - PICA London,RI,04/01/2021,0.0,0,0.0
 PICA,2021Q2,"Nautic Partners IX, L.P. - PICA Providence",MD,02/21/2020,0.0,0,0.862
 PICA,2021Q2,"Newark Venture Partners Fund, L.P. Newark",CT,07/12/2016,0.0,0,1.333
-PICA,2021Q2,"Oak HC/FT Partners II, L.P. - PICA Greenwich",CYM,10/03/2017,0.0,0,0.0
 PICA,2021Q2,"Oak HC/FT Partners III, L.P. - PICA Cayman Islands",CT,11/22/2019,0.0,0,18.33
 PICA,2021Q2,"Oaktree Ports America Fund (HS III), L.P. - PICA Los Angeles",NY,09/30/2019,0.0,0,9.72
 PICA,2021Q2,"PA Direct Credit Opportunities Fund III, L.P. - PICA Darien",TX,02/08/2021,0.0,0,2.216
-PICA,2021Q2,"Peak Rock Capital Fund II, LP - PICA Austin",LUX,09/06/2017,0.0,0,0.0
 PICA,2021Q2,PGIM Real Estate European Value Partners II - PICA Luxembourg,CA,01/20/2021,0.0,0,1.88
 PICA,2021Q2,"Platinum Equity Small Cap Fund, L.P. Beverly Hills",NJ,06/28/2018,0.0,0,0.214
 PICA,2021Q2,"Prudential Capital Partners V, L.P. - PICA Newark",CA,04/21/2017,0.0,0,1.568
 PICA,2021Q2,"Silver Lake Partners V, LP - PICA Menlo Park Silver Lake Technology Associates V",,06/12/2018,0.0,0,1.25
-PICA,2021Q2,Admini- Date Type Actual Cost 0 Sixth Cinven Fund (No. 3) Limited Partnership - ,GBR,05/24/2017,0.0,0,6.39
+PICA,2021Q2,"SVO 241,025 0 Commitment Sixth Cinven Fund (No. 3) Limited Partnership - PICA Lo",GBR,05/24/2017,0.0,0,6.39
 PICA,2021Q2,"Strategic Value Dislocation Fund, L.P. - PICA Greenwich",CT,09/16/2020,0.0,0,0.357
 PICA,2021Q2,"TCV X, L.P. -PICA Grand Cayman",CYM,02/11/2019,0.0,0,0.87
 PICA,2021Q2,"TCV XI, L.P. - PICA Menlo Park",CA,02/01/2021,0.0,0,0.965
@@ -117,14 +97,11 @@ PICA,2021Q2,"Trivest Growth Investment Fund, LP -PICA Coral Gables",FL,01/17/201
 PICA,2021Q2,"TSSP Capital Solutions (A), L.P. - PICA Dallas",TX,06/05/2019,0.0,0,0.0
 PICA,2021Q2,"E03.2 000000-00-0 Waterton Residential Property Venture XIV, L.P. - PICA Chicago",IL,12/23/2020,0.0,0,0.0
 PICA,2021Q2,"Whitehorse Liquidity Partners (Offshore) III, L.P. - PICA New Castle",DE,10/31/2019,0.0,0,100.0
-PICA,2021Q2,"Inter-Atlantic G Fund, LP New York",NY,02/29/2016,0.0,0,0.0
 PICA,2021Q2,"NorthBound Emerging Manager Fund II-A, L.P. New York",NY,12/18/2013,0.0,0,100.0
 PICA,2021Q2,Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0.0,0,0.0
-PICA,2021Q2,"Prudential Capital Energy Partners, LP -PICA Chicago",IL,02/08/2017,0.0,0,0.0
 PICA,2021Q2,"PruVen Capital Partners Fund I, LP Newark",NJ,09/21/2020,0.0,0,100.0
 PICA,2021Q2,Elm Place - PICA Dallas,TX,04/16/2021,0.0,0,0.0
-PICA,2021Q3,"Admini- Date Type Actual Cost 5,374,339 0 GA",,09/01/2021,0.0,0,100.0
-PICA,2021Q3,Accel Leaders 3 L.P. - PICA Palo Alto,CA,02/17/2021,0.0,0,0.0
+PICA,2021Q3,"SVO 2,696,408 0 Commitment GA",,09/01/2021,0.0,0,100.0
 PICA,2021Q3,"Accel-KKR Holdings GP, LLC 0 (3,345,670) 0 Accel-KKR Capital Partners VI, LP - P",CA,02/10/2021,0.0,0,0.0
 PICA,2021Q3,"Accion Frontier Inclusion Fund, L.P. Washington",DC,11/16/2015,0.0,0,3.254
 PICA,2021Q3,"Advent International GPE IX, LLC 0 1,889,817 0 Accion Venture Lab, LP - PICA Cam",MA,07/22/2019,0.0,0,4.348
@@ -176,7 +153,7 @@ PICA,2021Q3,"Energy Capital Partners III-A, L.P. Short Hills",NJ,04/22/2014,0.0,
 PICA,2021Q3,EQT Infrastructure IV (No.2) USD SCSp - PICA Luxembourg,LUX,06/05/2019,0.0,0,0.816
 PICA,2021Q3,EQT Infrastructure V (No.2) USD SCSp - PICA Luxembourg,LUX,08/13/2021,0.0,0,1.239
 PICA,2021Q3,EQT IX (No.2) USD SCSp - PICA Luxembourg,LUX,02/05/2021,0.0,0,0.294
-PICA,2021Q3,"Admini- Date Type Actual Cost 1,451,978 0 EQT VIII (No. 2) SCSP Stockholm",SWE,08/10/2018,0.0,0,1.166
+PICA,2021Q3,"SVO 436,817 0 Commitment EQT VIII (No. 2) SCSP Stockholm",SWE,08/10/2018,0.0,0,1.166
 PICA,2021Q3,"General Atlantic Investment Partners 2019, L.P. - PICA New York",CA,01/26/2021,0.0,0,0.8
 PICA,2021Q3,"Genstar Capital Partners VIII, L.P. - PICA San Francisco",NY,01/14/2020,0.0,0,1.633
 PICA,2021Q3,"000000-00-0 Genstar IX Opportunities Fund I - Genstar VIII Opportunities Fund I,",CA,07/03/2019,0.0,0,2.53
@@ -204,32 +181,9 @@ PICA,2021Q3,"000000-00-0 LBA Logistics Value Fund VII, L.P. - LBA Realty Fund VI
 PICA,2021Q3,"Linden Structured Capital Fund, LP - PICA Chicago",CA,07/28/2017,0.0,0,2.673
 PICA,2021Q3,"000000-00-0 Linden Structured Capital Fund, LP - Littlejohn Fund VI, L.P. - PICA",NY,02/09/2011,0.0,0,1.93
 PICA,2021Q3,000000-00-0 Livingbridge 7 LP - PICA London 0 12.500 M31 Navigator Fund LP - PIC,NY,10/28/2019,0.0,0,1.152
-PICA,2021Q3,"000000-00-0 Marlin Equity V, L.P. - Marlin Heritage II, L.P. Hermosa Beach",DE,10/31/2019,0.0,0,0.0
-PICA,2021Q3,JEY ICG Europe Fund V GP Limited Partnership,,04/27/2012,0.0,0,0.0
-PICA,2021Q3,LUX ICG Europe Fund VII GP LP SCSp,,08/24/2018,0.0,0,0.0
-PICA,2021Q3,LUX ICG Europe Mid-Market Fund GP LP SCSp,,04/09/2020,0.0,0,0.0
-PICA,2021Q3,LUX IK IX Fund GP S r.l.,,11/27/2019,0.0,0,0.0
-PICA,2021Q3,"NY Insight Associate Opportunities I, L.P.",,04/22/2021,0.0,0,0.0
-PICA,2021Q3,"NY Insight Associates XI, L.P.",,03/25/2020,0.0,0,0.0
 PICA,2021Q3,"NY Insight Associates XII, L.P.",,07/15/2021,0.0,0,0.0
-PICA,2021Q3,"NY DLJ Investment Associates III, LP",,06/23/2006,0.0,0,0.0
-PICA,2021Q3,LUX IRESS GP S.A.R.L.,,02/14/2019,0.0,0,0.0
-PICA,2021Q3,"CA K5 Capital Advisors, L.P.",,06/29/2021,0.0,0,0.0
-PICA,2021Q3,TX KCP II GP LP,,12/19/2016,0.0,0,0.0
-PICA,2021Q3,"NY KAWP Holdings GP, LLC",,12/18/2020,0.0,0,0.0
-PICA,2021Q3,"VA KCIBT GP, LLC",,06/21/2017,0.0,0,0.0
-PICA,2021Q3,"NY Kohlberg Management IX, L.L.C.",,03/31/2021,0.0,0,0.0
-PICA,2021Q3,NY Kohlberg Management IX LLC,,12/18/2020,0.0,0,0.0
-PICA,2021Q3,"NY Kohlberg Management VIII, L.L.C.",,08/30/2017,0.0,0,0.0
-PICA,2021Q3,"CA LBA Management Company VI, LLC",,08/18/2017,0.0,0,0.0
-PICA,2021Q3,IL Linden Manager IV LP,,09/27/2018,0.0,0,0.0
-PICA,2021Q3,IL Linden SCF Manager LP,,02/21/2020,0.0,0,0.0
-PICA,2021Q3,IL Linden SCF Manager LP,,03/29/2021,0.0,0,0.0
 PICA,2021Q3,GBR Livingbridge 7 General Partner LLP,,07/07/2021,0.0,0,0.0
-PICA,2021Q3,CYM M31 GP I,,02/24/2020,0.0,0,0.0
-PICA,2021Q3,"CA Marlin Equity Partners V, L.P.",,02/21/2018,0.0,0,0.0
-PICA,2021Q3,"CA Marlin Heritage Partners II, L.P.",,10/24/2017,0.0,0,0.0
-PICA,2021Q3,"Admini- Date Type Actual Cost 376,551 0 for E03.2 000000-00-0 Metalmark Capital ",NY,11/01/2012,0.0,0,3.372
+PICA,2021Q3,"SVO 246,204 0 Commitment E03.2 000000-00-0 Metalmark Capital Partners II, L.P. N",NY,11/01/2012,0.0,0,3.372
 PICA,2021Q3,"Metalmark Capital Partners, L.P. New York",NY,11/01/2012,0.0,0,3.218
 PICA,2021Q3,"MezzVest III, L.P. - PICA St. Helier",JEY,02/24/2012,0.0,0,2.94
 PICA,2021Q3,Montagu VI L.P. - PICA London,GBR,04/01/2021,0.0,0,0.862
@@ -284,8 +238,7 @@ PICA,2021Q3,VIP IV LP - PICA London,GBR,12/23/2020,0.0,0,0.6
 PICA,2021Q3,"Waterton Residential Property Venture XIV, L.P. - PICA Chicago",IL,12/23/2020,0.0,0,3.876
 PICA,2021Q3,"Westbrook Real Estate Fund XI, L.P. - PICA Palm Beach Gardens",FL,12/22/2020,0.0,0,0.67
 PICA,2021Q3,"Whitehorse Liquidity Partners (Offshore) III, L.P. - PICA New Castle",DE,10/31/2019,0.0,0,1.036
-PICA,2021Q3,"Admini- Date Type Actual Cost 0 Inter-Atlantic G Fund, LP New York",NY,02/29/2016,0.0,0,49.5
-PICA,2021Q3,"NorthBound Emerging Manager Fund II-A, L.P. New York",NY,12/18/2013,0.0,0,0.0
+PICA,2021Q3,"SVO 112,975 0 Commitment Inter-Atlantic G Fund, LP New York",NY,02/29/2016,0.0,0,49.5
 PICA,2021Q3,Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0.0,0,0.0
 PICA,2021Q3,Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0.0,0,0.0
 PICA,2021Q3,"PGIM Fixed Income Alternatives Fund, LP - Global Macro (U.S.) 52,126,592 0 Serie",NJ,08/01/2021,0.0,0,0.0
@@ -301,7 +254,7 @@ PICA,2021Q3,Tensator Group Limited Milton Keynes,GBR,12/31/2015,0.0,0,30.0
 PICA,2021Q3,U.S.A. Institutional Tax Credit Fund CXXXV L.P. - PICA Greenwich,CT,07/13/2021,0.0,0,11.416
 PICA,2021Q3,RJTCF-48 State Tax Credit Fund L.L.C. - PICA St. Petersburg,FL,09/23/2021,0.0,0,15.026
 PICA,2021Q3,Connecticut General Life Separate Accounts,CT,11/29/2004,0.0,0,100.0
-PICA,2022Q1,"Admini- Date Type Actual Cost 349,231 0 Accion Frontier Inclusion Fund, L.P. Was",DC,11/16/2015,0.0,0,3.254
+PICA,2022Q1,"SVO 1,692,681 0 Commitment Accion Frontier Inclusion Fund, L.P. Washington",DC,11/16/2015,0.0,0,3.254
 PICA,2022Q1,"Advent International GPE IX, LP - PICA Boston",MA,07/22/2019,0.0,0,4.348
 PICA,2022Q1,"000000-00-0 Advent International GPE Altaris Health Partners IV, L.P. New York C",NY,10/21/2019,0.0,0,0.471
 PICA,2022Q1,"American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,09/26/2016,0.0,0,0.769
@@ -338,7 +291,7 @@ PICA,2022Q1,"000000-00-0 Genstar IX Opportunities Fund I - Genstar VIII Opportun
 PICA,2022Q1,Georgian Partners Growth Fund (International) V - PICA,,03/29/2019,0.0,0,8.974
 PICA,2022Q1,"Greenbriar Equity Fund V, L.P. - PICA",,02/01/2022,0.0,0,100.0
 PICA,2022Q1,"000000-00-0 Greycroft Growth III, L.P. - Greycroft Partners VI, L.P. - PICA",,12/30/2014,0.0,0,6.893
-PICA,2022Q1,"Admini- Date Type Actual Cost 412,729 0 for E03.1 000000-00-0 GSO Capital Opport",NY,09/22/2016,0.0,0,0.451
+PICA,2022Q1,"SVO 117,819 0 Commitment E03.1 000000-00-0 GSO Capital Opportunities Fund III, L",NY,09/22/2016,0.0,0,0.451
 PICA,2022Q1,GSO COF III Co-Investment Fund LP - PICA New York,IL,08/14/2017,0.0,0,0.334
 PICA,2022Q1,GTCR Fund XII/A LP and GTCR XII/B LP - PICA Illinois,IL,05/04/2018,0.0,0,0.788
 PICA,2022Q1,GTCR Fund XIII/A LP and GTCR Fund XIII/B LP - PICA Chicago,NY,09/07/2021,0.0,0,0.5
@@ -374,23 +327,17 @@ PICA,2022Q1,Livingbridge 7 LP - PICA London,CYM,07/07/2021,0.0,0,1.93
 PICA,2022Q1,M31 Navigator Fund LP - PICA Grand Cayman,NY,02/24/2020,0.0,0,12.5
 PICA,2022Q1,"Metalmark Capital Partners II, L.P. New York Metalmark Capital Partners II GP, L",,11/01/2012,0.0,0,3.372
 PICA,2022Q1,"Mezzanine Partners Fund II, LP New York",NY,05/06/2013,0.0,0,2.613
-PICA,2022Q1,"Mezzanine Partners III, L.P. - PICA New York",GBR,02/27/2017,0.0,0,0.0
 PICA,2022Q1,Montagu VI L.P. - PICA London,RI,04/01/2021,0.0,0,1.288
-PICA,2022Q1,"Nautic Partners IX, L.P. - PICA Providence",CT,02/21/2020,0.0,0,0.0
 PICA,2022Q1,"Oak HC/FT Partners II, L.P. - PICA Greenwich",CT,10/03/2017,0.0,0,0.862
-PICA,2022Q1,"Oak HC/FT Partners IV, L.P. - PICA Greenwich",CA,04/27/2021,0.0,0,0.0
 PICA,2022Q1,"Oaktree Ports America Fund (HS III), L.P. - PICA Los Angeles",NY,09/30/2019,0.0,0,1.333
 PICA,2022Q1,"One Rock Capital Partners III, LP - PICA New York",CT,06/21/2021,0.0,0,2.216
-PICA,2022Q1,"PA Direct Credit Opportunities Fund III, L.P. - PICA Darien",CA,02/08/2021,0.0,0,0.0
 PICA,2022Q1,"PCCP Equity IX, LP - PICA Los Angeles",TX,01/12/2022,0.0,0,0.214
-PICA,2022Q1,"Peak Rock Capital Credit Fund II, LP - PICA Austin",TX,11/16/2017,0.0,0,0.0
 PICA,2022Q1,"Peak Rock Capital Fund II, LP - PICA Austin",TX,09/06/2017,0.0,0,1.568
-PICA,2022Q1,Peak Rock Capital Fund III LP - PICA Austin,GGY,07/13/2021,0.0,0,0.0
 PICA,2022Q1,Permira VII L.P. 1 - PICA St. Peter Port,NJ,02/10/2020,0.0,0,2.838
 PICA,2022Q1,PGIM Real Estate European Value Partners II - PICA Luxembourg,CA,01/20/2021,0.0,0,1.25
 PICA,2022Q1,"Platinum Equity Capital Partners V, LP - PICA Beverly Hills",CA,12/27/2019,0.0,0,2.0
 PICA,2022Q1,"Platinum Equity Small Cap Fund, L.P. Beverly Hills Platinum Equity Small Cap Par",,06/28/2018,0.0,0,1.173
-PICA,2022Q1,"Admini- Date Type Actual Cost 2,908,493 0 Pramerica - Fosun China Opportunity Fu",CHN,05/16/2011,0.0,0,4.951
+PICA,2022Q1,"SVO 789,364 0 Commitment Pramerica - Fosun China Opportunity Fund, L.P. Hong Kon",CHN,05/16/2011,0.0,0,4.951
 PICA,2022Q1,"Pramerica European Value Partners, L.P. MADISON",NJ,03/11/2016,0.0,0,13.124
 PICA,2022Q1,Prudential Capital Partners III LP - PICA Chicago,IL,10/16/2008,0.0,0,80.0
 PICA,2022Q1,"Prudential Capital Partners IV, L.P. - PICA Chicago",IL,12/20/2012,0.0,0,1.06
@@ -405,68 +352,43 @@ PICA,2022Q1,Silverlands II SCSp Luxembourg,LUX,02/14/2019,0.0,0,0.636
 PICA,2022Q1,"Strategic Value Dislocation Fund, L.P. - PICA Greenwich",CT,09/16/2020,0.0,0,0.6
 PICA,2022Q1,"TCV XI, L.P. - PICA Menlo Park",CA,02/01/2021,0.0,0,3.876
 PICA,2022Q1,"The Veritas Capital Fund VI, LP -PICA New York",NY,06/15/2017,0.0,0,1.036
-PICA,2022Q1,"The Veritas Capital Fund VII, L.P. - PICA New York",NY,04/15/2020,0.0,0,0.0
 PICA,2022Q1,"Thoma Bravo Discover Fund II, LP -PICA Chicago",IL,12/10/2018,0.0,0,98.0
 PICA,2022Q1,"Thoma Bravo Discover Fund III, L.P. - PICA Chicago",IL,06/11/2021,0.0,0,26.379
-PICA,2022Q1,"E03.2 000000-00-0 Thoma Bravo Fund XII, LP - PICA Chicago",IL,05/31/2016,0.0,0,0.0
-PICA,2022Q1,"Thoma Bravo Fund XIV, L.P. - PICA Chicago",IL,04/15/2021,0.0,0,0.0
 PICA,2022Q1,"TPG Healthcare Partners, L.P. - PICA Fort Worth",TX,10/01/2019,0.0,0,80.0
 PICA,2022Q1,"Trident VI, LP Greenwich",CT,09/12/2014,0.0,0,1.5
-PICA,2022Q1,"Trive Capital Fund III, L.P. -PICA Dallas",TX,12/28/2017,0.0,0,0.0
-PICA,2022Q1,"TSSP Capital Solutions (A), L.P. - PICA Dallas",TX,06/05/2019,0.0,0,0.0
 PICA,2022Q1,VIP IV LP - PICA London,GBR,12/23/2020,0.0,0,100.0
 PICA,2022Q1,"Waterton Residential Property Venture XIV, L.P. - PICA Chicago",IL,12/23/2020,0.0,0,55.349
-PICA,2022Q1,"Whitehorse Liquidity Partners (Offshore) III, L.P. - PICA New Castle, Delaware",DE,10/31/2019,0.0,0,0.0
-PICA,2022Q1,"Inter-Atlantic G Fund, LP Newark",NY,02/29/2016,0.0,0,0.0
 PICA,2022Q1,Passaic Fund LLC- PICA Chicago,NJ,06/27/2018,0.0,0,0.0
-PICA,2022Q1,"Prudential Capital Energy Partners, LP -PICA",IL,02/08/2017,0.0,0,0.0
 PICA,2022Q1,First National Center - PICA Oklahoma City,OK,02/18/2022,0.0,0,0.0
 PICA,2022Q1,"WNC Institutional Tax Credit Fund 52, L.P. - PICA Irvine",CA,03/17/2022,0.0,0,0.0
-PICA,2022Q2,"Admini- Date Type Actual Cost 1,206,288 0 Accel Leaders 3 L.P. - PICA Palo Alto",CA,02/17/2021,0.0,0,0.779
-PICA,2022Q2,"Accel-KKR Capital Partners VI, LP - PICA Menlo Park Accel-KKR Holdings GP, LLC .",,02/10/2021,0.0,0,0.0
+PICA,2022Q2,"SVO 409,888 0 Commitment Accel Leaders 3 L.P. - PICA Palo Alto",CA,02/17/2021,0.0,0,0.779
 PICA,2022Q2,"DC Accion Frontier Inclusion Fund GP, L.L.C. (General (6,536) 0 Accion Frontier ",MA,11/16/2015,0.0,0,3.161
 PICA,2022Q2,"Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0.0,0,4.313
-PICA,2022Q2,"American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,10/30/2019,0.0,0,0.0
 PICA,2022Q2,"American Securities Partners VIII, L.P. - PICA New York",GGY,03/28/2019,0.0,0,1.713
 PICA,2022Q2,Apax X USD L.P. - PICA St Peter Port,CA,11/10/2020,0.0,0,2.468
-PICA,2022Q2,"Ares US Real Estate Opportunity Fund III, L.P. - PICA Los Angeles",MD,04/15/2021,0.0,0,0.0
 PICA,2022Q2,"Arlington Capital Partners IV, L.P. - PICA Chevy Chase",MD,12/19/2016,0.0,0,0.425
-PICA,2022Q2,"Arlington Capital Partners V, L.P. - PICA Chevy Chase",FL,08/26/2019,0.0,0,0.0
 PICA,2022Q2,"Bayview Opportunity Domestic VI 1, L.P. - PICA Coral Gables",CAN,11/06/2020,0.0,0,0.47
-PICA,2022Q2,"Birch Hill Equity Partners (Global) VI, LP - PICA Toronto",CAN,12/17/2020,0.0,0,0.0
 PICA,2022Q2,"Birch Hill Equity Partners V, LP Toronto",NY,02/05/2016,0.0,0,0.261
-PICA,2022Q2,"Blackstone Capital Partners VIII, LP - PICA New York BMA VIII GP L.P. .",,02/22/2021,0.0,0,0.0
 PICA,2022Q2,New York,CA,09/23/2019,0.0,0,5.6
-PICA,2022Q2,Los Angeles,MA,12/27/2017,0.0,0,0.0
 PICA,2022Q2,Boston,CA,07/20/2020,0.0,0,1.478
-PICA,2022Q2,Menlo Park,NJ,01/03/2018,0.0,0,0.0
 PICA,2022Q2,Menlo Park,GBR,01/05/2021,0.0,0,44.759
 PICA,2022Q2,New York,NY,11/01/2012,0.0,0,2.242
-PICA,2022Q2,New York,NY,05/21/2015,0.0,0,0.0
 PICA,2022Q2,New York,CYM,03/27/2018,0.0,0,4.868
-PICA,2022Q2,Grand Cayman,CA,09/23/2021,0.0,0,0.0
 PICA,2022Q2,Santa Monica CA Clearlake Capital Partners,VI,05/22/2020,0.0,0,0.102
 PICA,2022Q2,Blackstone Real Estate Partners Europe VI SCSp - PICA New York,JEY,08/07/2014,0.0,0,0.279
 PICA,2022Q2,"E03 000000-00-0 Brentwood Associates Private Equity VI, LP - PICA Teaneck",NJ,05/17/2016,0.0,0,0.274
-PICA,2022Q2,"BVIP Fund X, L.P. - PICA Teaneck",LUX,06/05/2019,0.0,0,0.0
 PICA,2022Q2,"Canaan XI, LP - PICA Luxembourg",LUX,06/05/2019,0.0,0,3.495
-PICA,2022Q2,Canaan XII L.P. - PICA Luxembourg,LUX,08/13/2021,0.0,0,0.0
 PICA,2022Q2,"CBPE Capital Fund X, LP - PICA Luxembourg",LUX,02/05/2021,0.0,0,4.06
-PICA,2022Q2,"Centerbridge Capital Partners II, L.P. Luxembourg",CA,12/20/2021,0.0,0,0.0
 PICA,2022Q2,"Centerbridge Capital Partners III, L.P. -PICA San Francisco",NY,01/26/2021,0.0,0,1.125
-PICA,2022Q2,"Clayton, Dubilier & Rice Fund X, LP New York",CA,01/14/2020,0.0,0,0.0
 PICA,2022Q2,"Clayton, Dublier & Rice Fund XI, L.P. - PICA San Francisco",CA,07/03/2019,0.0,0,0.625
 PICA,2022Q2,"Clearlake Flagship Plus Partners, L.P. - PICA San Francisco",CA,10/04/2021,0.0,0,2.397
 PICA,2022Q2,CVC Capital Partners VIII (A) L.P. - PICA San Francisco,CA,10/05/2017,0.0,0,7.778
-PICA,2022Q2,"DFW Capital Partners V, L.P. - PICA Toronto",CAN,06/20/2018,0.0,0,0.0
 PICA,2022Q2,"DFW Capital Partners VI, LP -PICA Toronto",NY,03/09/2020,0.0,0,2.23
-PICA,2022Q2,EQT Infrastructure IV (No.2) USD SCSp - PICA New York,NY,09/12/2019,0.0,0,0.0
 PICA,2022Q2,EQT Infrastructure V (No.2) USD SCSp - PICA Rye,LUX,08/02/2021,0.0,0,1.114
-PICA,2022Q2,EQT IX (No.2) USD SCSp - PICA Senningerberg,NY,07/28/2020,0.0,0,0.0
 PICA,2022Q2,Exeter Europe Logistics Value Fund IV S.C.Sp. - PICA New York,NY,09/09/2020,0.0,0,0.128
 PICA,2022Q2,"General Atlantic Investment Partners 2019, L.P. - PICA New York",NY,09/22/2016,0.0,0,0.546
 PICA,2022Q2,"Genstar Capital Partners VIII, L.P. - PICA Chicago",NY,09/07/2021,0.0,0,0.835
-PICA,2022Q2,"000000-00-0 Admini- Date Type Actual Cost 2,450,518 0 for Harvest Partners Struc",CA,10/25/2018,0.0,0,3.492
+PICA,2022Q2,"000000-00-0 SVO 210,000 0 Commitment Harvest Partners Structured Capital Fund II",CA,10/25/2018,0.0,0,3.492
 PICA,2022Q2,"Hellman & Friedman Capital Partners IX, LP - PICA San Francisco",LUX,10/28/2019,0.0,0,1.073
 PICA,2022Q2,"HPS Mezzanine Partners 2019, L.P. - PICA New York",NY,11/27/2019,0.0,0,1.249
 PICA,2022Q2,ICG Europe Fund VII SCSp - PICA Luxembourg,NY,03/25/2020,0.0,0,0.587
@@ -492,13 +414,13 @@ PICA,2022Q2,"IL Veritas Capital Partners BII, L.L.C. .",,04/15/2020,0.0,0,0.615
 PICA,2022Q2,"Oak HC/FT Partners IV, L.P. - PICA Greenwich",DE,12/10/2018,0.0,0,1.78
 PICA,2022Q2,"Thoma Bravo Partners XIII, L.P. .",,02/14/2019,0.0,0,0.994
 PICA,2022Q2,"MO Thoma Bravo Partners XV[-P]9, L.P. .",,06/10/2022,0.0,0,0.0
-PICA,2022Q2,"Admini- Date Type Actual Cost 1,386,912 0 Whitehorse Liquidity Partners (Offshor",DE,10/31/2019,0.0,0,50.0
+PICA,2022Q2,"SVO 1,313,208 0 Commitment Whitehorse Liquidity Partners (Offshore) III, L.P. - ",DE,10/31/2019,0.0,0,50.0
 PICA,2022Q2,Bay Area Investor LLC - STAT San Francisco,CA,03/31/2018,0.0,0,1.247
 PICA,2022Q2,Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0.0,0,0.0
 PICA,2022Q2,"PruVen Capital Partners Fund I, LP Newark",NJ,09/21/2020,0.0,0,50.0
 PICA,2022Q2,El Dorado Family Apartments II - PICA El Centro,CA,04/20/2022,0.0,0,0.0
 PICA,2022Q2,"3999999. Guaranteed State Low Income Housing Tax Credit - Unaffiliated 1,782,000",IN,04/20/2022,0.0,0,0.0
-PICA,2022Q3,"Admini- Date Type Actual Cost 1,389,343 0 Accion Frontier Inclusion Fund, L.P. W",DC,11/16/2015,0.0,0,3.161
+PICA,2022Q3,"SVO 195,516 0 Commitment Accion Frontier Inclusion Fund, L.P. Washington",DC,11/16/2015,0.0,0,3.161
 PICA,2022Q3,"Advent International GPE IX, LP - PICA Boston",MA,07/22/2019,0.0,0,4.313
 PICA,2022Q3,"Altaris Health Partners IV, L.P. New York City",NY,10/21/2019,0.0,0,0.251
 PICA,2022Q3,"American Industrial Partners Capital Fund VI, LP. New York",NY,09/26/2022,0.0,0,0.12
@@ -535,7 +457,7 @@ PICA,2022Q3,000000-00-0 EQT Infrastructure V (No.2) USD SCSp - EQT IX (No.2) USD
 PICA,2022Q3,000000-00-0 EQT VIII (No. 2) SCSP Equistone Partners Europe Fund,VI,05/22/2020,0.0,0,0.546
 PICA,2022Q3,"Francisco Partners VI, L.P. - PICA",,12/17/2020,0.0,0,1.657
 PICA,2022Q3,"000000-00-0 Frontier Fund V-A LP - General Atlantic Investment Partners 2019, L.",,08/07/2014,0.0,0,3.755
-PICA,2022Q3,"Admini- Date Type Actual Cost 44,478 0 Genstar Capital Partners VIII, L.P. - PIC",CA,04/28/2017,0.0,0,0.063
+PICA,2022Q3,"SVO 19,533 0 Commitment Genstar Capital Partners VIII, L.P. - PICA San Francisco",CA,04/28/2017,0.0,0,0.063
 PICA,2022Q3,Genstar IX Opportunities Fund I - PICA San Francisco,CA,10/04/2021,0.0,0,2.539
 PICA,2022Q3,"Global Infrastructure Partners IV-A/B, L.P. - PICA New York",CA,07/08/2019,0.0,0,0.336
 PICA,2022Q3,"000000-00-0 Greenbriar Equity Fund V, L.P. - Greycroft Growth III, L.P. - PICA N",CA,06/20/2018,0.0,0,2.055
@@ -552,20 +474,7 @@ PICA,2022Q3,"000000-00-0 Kohlberg Investors IX, L.P. - Linden Capital Partners I
 PICA,2022Q3,"Linden Structured Capital Fund, LP - PICA Chicago",NY,11/27/2019,0.0,0,2.673
 PICA,2022Q3,"000000-00-0 Linden Structured Capital Fund, LP - Littlejohn Fund VI, L.P. - PICA",CA,04/07/2020,0.0,0,1.927
 PICA,2022Q3,"000000-00-0 Livingbridge 7 LP - PICA London 7,044,855 0 0 5.593 M31 Navigator Fu",CA,07/28/2017,0.0,0,1.736
-PICA,2022Q3,"000000-00-0 Marlin Heritage II, L.P. Hermosa Beach 4,290,164 0 7.350 Metalmark C",NY,10/28/2019,0.0,0,0.0
-PICA,2022Q3,E03.1 New York,LUX,04/09/2020,0.0,0,0.0
-PICA,2022Q3,Cayman Islands,LUX,11/27/2019,0.0,0,0.0
-PICA,2022Q3,Austin,LUX,02/14/2019,0.0,0,0.0
-PICA,2022Q3,St. Peter Port,NY,03/31/2021,0.0,0,0.0
-PICA,2022Q3,Newark,NY,12/18/2020,0.0,0,0.0
-PICA,2022Q3,Providence,IL,09/27/2018,0.0,0,0.0
 PICA,2022Q3,Chicago,IL,07/19/2022,0.0,0,0.0
-PICA,2022Q3,Boston,IL,02/21/2020,0.0,0,0.0
-PICA,2022Q3,IL Linden SCF Manager LP .,,03/29/2021,0.0,0,0.0
-PICA,2022Q3,GBR Livingbridge 7 General Partner LLP .,,07/07/2021,0.0,0,0.0
-PICA,2022Q3,CYM M31 GP I .,,02/24/2020,0.0,0,0.0
-PICA,2022Q3,"CA Marlin Heritage Partners II, L.P. .",,10/24/2017,0.0,0,0.0
-PICA,2022Q3,"NY Metalmark Capital Partners II GP, LP .",,11/01/2012,0.0,0,0.0
 PICA,2022Q3,"Mezzanine Partners Fund II, LP",NY,05/06/2013,0.0,0,2.626
 PICA,2022Q3,"000000-00-0 Montagu VI L.P. - PICA Oak HC/FT Partners III, L.P. - PICA",GBR,04/01/2021,0.0,0,0.922
 PICA,2022Q3,"Oaktree Opportunities Fund Xb, L.P. - PICA",CYM,11/22/2019,0.0,0,1.749
@@ -587,7 +496,7 @@ PICA,2022Q3,"IL Columbus Drive Partners, L.P. .",,10/16/2008,0.0,0,6.953
 PICA,2022Q3,"IL Lake Street Partners IV, L.P. .",,12/20/2012,0.0,0,14.413
 PICA,2022Q3,"NJ Wabash Avenue Partners V, L.P. .",,04/21/2017,0.0,0,47.377
 PICA,2022Q3,MA Rockpoint Real Estate Fund,VI,05/21/2020,0.0,0,1.17
-PICA,2022Q3,"Admini- Date Type Actual Cost 10,355,422 0 Sentinel Capital Partners VI, L.P. Ne",NY,07/11/2019,0.0,0,0.09
+PICA,2022Q3,"SVO (202,112) 0 Commitment Sentinel Capital Partners VI, L.P. New York",NY,07/11/2019,0.0,0,0.09
 PICA,2022Q3,"Silver Lake Partners VI, L.P. - PICA Menlo Park",CA,01/06/2021,0.0,0,4.051
 PICA,2022Q3,"Silver Lake Alpine, L.P. -PICA New York",NY,09/11/2018,0.0,0,6.136
 PICA,2022Q3,"Silver Lake Partners V, LP - PICA Menlo Park",CA,06/12/2018,0.0,0,1.382
@@ -595,14 +504,7 @@ PICA,2022Q3,Silverlands II SCSp Luxembourg,LUX,02/14/2019,0.0,0,1.075
 PICA,2022Q3,"Strategic Value Dislocation Fund, L.P. - PICA Greenwich",CT,09/16/2020,0.0,0,0.104
 PICA,2022Q3,"Summit Subordinated Debt Fund III-A,LP Boston MA Summit Partners",SD,11/01/2012,0.0,0,0.719
 PICA,2022Q3,"TDR Capital IV ""A"" L.P. -PICA London",GBR,11/19/2018,0.0,0,0.994
-PICA,2022Q3,"The Veritas Capital Fund V, L.P. -PICA New York",NY,06/08/2015,0.0,0,0.0
-PICA,2022Q3,"The Veritas Capital Fund VI, LP -PICA New York",NY,06/15/2017,0.0,0,0.0
-PICA,2022Q3,"The Veritas Capital Fund VII, L.P. - PICA New York",NY,04/15/2020,0.0,0,0.0
 PICA,2022Q3,"The Veritas Capital Fund VIII, L.P. - PICA New York",NY,07/01/2022,0.0,0,0.0
-PICA,2022Q3,"Thoma Bravo Discover Fund II, LP -PICA Chicago",IL,12/10/2018,0.0,0,0.0
-PICA,2022Q3,"Thoma Bravo Discover Fund III, L.P. - PICA Chicago",IL,06/11/2021,0.0,0,0.0
-PICA,2022Q3,"Thoma Bravo Fund XII, LP - PICA Chicago",IL,05/31/2016,0.0,0,0.0
-PICA,2022Q3,"Thoma Bravo Fund XIII, L.P. - PICA Dover",DE,02/14/2019,0.0,0,0.0
 PICA,2022Q3,PICA Chicago,IL,06/10/2022,0.0,0,0.193
 PICA,2022Q3,E03.2 000000-00-0 Thomas H. Lee Equity Fund VI Liquidating Trust - PICA Boston,MA,07/31/2022,0.0,0,0.593
 PICA,2022Q3,"Thompson Street Capital Partners V, LP -PICA St. Louis",MO,07/27/2018,0.0,0,3.493
@@ -622,7 +524,7 @@ PICA,2022Q3,"PruVen Capital Partners Fund I, LP Newark",NJ,09/21/2020,0.0,0,99.5
 PICA,2022Q3,"579 Broad Holdings, LLC New Orleans, LA",LA,07/14/2017,0.0,0,80.0
 PICA,2022Q3,"DRA Growth and Income Fund X, LLC - PICA New York",NY,03/25/2020,0.0,0,1.247
 PICA,2022Q3,Prudential Mortgage SKP Venture LLC San Francisco,CA,04/26/2018,0.0,0,100.0
-PICA,2023Q1,"Admini- Date Type Actual Cost Additional for Accel-KKR Capital Partners VI, LP -",CA,02/10/2021,0.0,0,0.779
+PICA,2023Q1,"Accel-KKR Capital Partners VI, LP - PICA Menlo Park",CA,02/10/2021,0.0,0,0.779
 PICA,2023Q1,"Accion Frontier Inclusion Fund GP, L.L.C. (General Accion Frontier Inclusion Fun",DC,11/16/2015,0.0,0,3.161
 PICA,2023Q1,"Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0.0,0,4.313
 PICA,2023Q1,"Advent International GPE IX, LP - PICA Boston",MA,10/21/2019,0.0,0,0.251
@@ -673,7 +575,7 @@ PICA,2023Q1,EQT Infrastructure V (No.2) USD SCSp - PICA Luxembourg,LUX,08/13/202
 PICA,2023Q1,EQT IX (No.2) USD SCSp - PICA Luxembourg,LUX,02/05/2021,0.0,0,0.575
 PICA,2023Q1,EQT VI (No. 1) Limited Partnership St Peter Port GBR EQT,VI,11/01/2012,0.0,0,0.564
 PICA,2023Q1,EQT VIII (No. 2) SCSP Stockholm,SWE,08/10/2018,0.0,0,2.097
-PICA,2023Q1,Admini- Date Type Actual Cost Additional for Equistone Partners Europe Fund VI D,VI,07/18/2018,0.0,0,5.184
+PICA,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Eq",VI,07/18/2018,0.0,0,5.184
 PICA,2023Q1,"Francisco Partners Agility II, L.P. - PICA San Francisco",CA,09/17/2020,0.0,0,1.714
 PICA,2023Q1,Francisco Partners V LP - PICA San Francisco,CA,05/29/2018,0.0,0,0.938
 PICA,2023Q1,"FS Equity Partners V, LP (VZ) Los Angeles",CA,12/10/2012,0.0,0,4.069
@@ -728,7 +630,7 @@ PICA,2023Q1,"Peak Rock Capital Credit Fund II, LP - PICA Austin",TX,11/16/2017,0
 PICA,2023Q1,"Peak Rock Capital Fund II, LP - PICA Austin",TX,09/06/2017,0.0,0,3.233
 PICA,2023Q1,Permira VII L.P. 1 - PICA St. Peter Port,GGY,02/10/2020,0.0,0,0.312
 PICA,2023Q1,"PGIM Capital Partners VI, L.P. - PICA Newark NJ Dickens Avenue Partners",VI,09/22/2021,0.0,0,28.314
-PICA,2023Q1,Admini- Date Type Actual Cost Additional for PGIM Real Estate European Value Par,LUX,01/20/2021,0.0,0,3.08
+PICA,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA PG",LUX,01/20/2021,0.0,0,3.08
 PICA,2023Q1,"PGIM Real Estate U.S. Debt Fund, L.P. - PICA New York",NY,03/31/2023,0.0,0,1.009
 PICA,2023Q1,PGIM Wadhwani Macro Tail Risk Fund Ltd. - PICA Newark,NJ,03/01/2023,0.0,0,70.0
 PICA,2023Q1,"Platinum Equity Capital Partners IV, L.P. - PICA Beverly Hills",CA,03/21/2017,0.0,0,1.949
@@ -772,12 +674,12 @@ PICA,2023Q1,"DRA Growth and Income Fund X, LLC - PICA New York",NY,03/25/2020,0.
 PICA,2023Q1,Menlo Park Investor LLC - STAT Menlo Park,CA,03/19/2018,0.0,0,50.0
 PICA,2023Q1,Triton Investor LLC - STAT Foster City,CA,03/19/2018,0.0,0,50.0
 PICA,2023Q1,"PGIM REF Europe, SCSp - PICA Luxembourg",LUX,04/17/2019,0.0,0,100.0
-PICA,2023Q1,Admini- Date Type Actual Cost Additional for PRUCO SECURITIES LLC Newark,NJ,12/15/2003,0.0,0,100.0
+PICA,2023Q1,"STATEMENT AS OF MARCH 31, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA PR",NJ,12/15/2003,0.0,0,100.0
 PICA,2023Q1,Red Stone Equity-Fund 78 Limited Partnership - PICA Cleveland,OH,07/27/2020,0.0,0,19.824
 PICA,2023Q1,"CREA Corporate Tax Credit Fund 89, LP - PICA Indianapolis",IN,04/20/2022,0.0,0,24.959
 PICA,2023Q1,Indiana Redevelopment Tax Credit; Kokomo Battery Facility - PICA Indianapolis,IN,02/23/2023,0.0,0,59.946
 PICA,2023Q1,Guaranteed Plus Defined Comp Plan Paris,FRA,11/30/2011,0.0,0,100.0
-PICA,2023Q2,Admini- Date Type Actual Cost Additional for Prudential Commercial Property Hold,GA,03/31/2010,0.0,0,100.0
+PICA,2023Q2,"Prudential Commercial Property Holding Company, LLC Atlanta",GA,03/31/2010,0.0,0,100.0
 PICA,2023Q2,"8A HP SCF Investor, LP - PICA New York",NY,01/24/2020,0.0,0,5.369
 PICA,2023Q2,Accel Leaders 3 L.P. - PICA Palo Alto,CA,02/17/2021,0.0,0,0.261
 PICA,2023Q2,"E03 000000-00-0 Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0.0,0,4.313
@@ -828,7 +730,7 @@ PICA,2023Q2,"Canaan XI, LP - PICA Menlo Park",CA,01/03/2018,0.0,0,1.125
 PICA,2023Q2,Canaan XII L.P. - PICA Menlo Park,NJ,01/05/2021,0.0,0,0.625
 PICA,2023Q2,"Carlyle Partners VI, L.P. Wilmington",DE,10/21/2013,0.0,0,2.709
 PICA,2023Q2,"Carlyle Partners VII, L.P. - PICA Wilmington",DE,12/19/2018,0.0,0,0.12
-PICA,2023Q2,Admini- Date Type Actual Cost Additional for Carmel Partners Investment Fund VII,CA,03/28/2022,0.0,0,0.746
+PICA,2023Q2,"STATEMENT AS OF JUNE 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Car",CA,03/28/2022,0.0,0,0.746
 PICA,2023Q2,Catalyst Fund Limited Partnership III - PICA Toronto,CAN,09/01/2010,0.0,0,1.578
 PICA,2023Q2,Catalyst Fund Limited Partnership IV - PICA Toronto,CAN,07/13/2012,0.0,0,2.331
 PICA,2023Q2,"CB HP SCF Investor (Cayman), L.P. - PICA Grand Cayman",CYM,09/04/2018,0.0,0,10.0
@@ -882,7 +784,7 @@ PICA,2023Q2,"Georgian Partners Growth Fund (International) IV, LP - PICA Toronto
 PICA,2023Q2,Georgian Partners Growth Fund (International) V - PICA Toronto,CAN,03/09/2020,0.0,0,1.773
 PICA,2023Q2,"Global Infrastructure Partners IV-A/B, L.P. - PICA New York",NY,09/12/2019,0.0,0,1.474
 PICA,2023Q2,"Granicus Aggregator, LP - PICA New York",NY,02/05/2021,0.0,0,2.77
-PICA,2023Q2,"Admini- Date Type Actual Cost Additional for Greenbriar Equity Fund V, L.P. - PI",NY,08/02/2021,0.0,0,0.665
+PICA,2023Q2,"STATEMENT AS OF JUNE 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Gre",NY,08/02/2021,0.0,0,0.665
 PICA,2023Q2,"GreenOak Europe Core Plus Logistics, SCSp - PICA Senningerberg",LUX,07/28/2020,0.0,0,4.994
 PICA,2023Q2,"Greycroft Growth III, L.P. - PICA New York",NY,09/09/2020,0.0,0,0.953
 PICA,2023Q2,"GSO Capital Opportunities Fund III, LP - PICA New York",NY,09/22/2016,0.0,0,4.991
@@ -936,7 +838,7 @@ PICA,2023Q2,"MezzVest III, L.P. - PICA St. Helier",JEY,02/24/2012,0.0,0,2.932
 PICA,2023Q2,Mission Parent LLC - PICA Chevy Chase,MD,07/03/2020,0.0,0,0.725
 PICA,2023Q2,Montagu VI L.P. - PICA London,GBR,04/01/2021,0.0,0,0.896
 PICA,2023Q2,"Nautic CarepathRx Co-Invest, L.P. - PICA Providence",RI,05/08/2020,0.0,0,2.0
-PICA,2023Q2,"Admini- Date Type Actual Cost Additional for Newark Venture Partners Fund, L.P. ",NJ,07/12/2016,0.0,0,13.837
+PICA,2023Q2,"STATEMENT AS OF JUNE 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA New",NJ,07/12/2016,0.0,0,13.837
 PICA,2023Q2,"NVP General Partner, L.L.C Newark",NJ,07/12/2016,0.0,0,0.441
 PICA,2023Q2,"Oak HC/FT Partners II, L.P. - PICA Greenwich",CT,10/03/2017,0.0,0,2.034
 PICA,2023Q2,"Oak HC/FT Partners IV, L.P. - PICA Greenwich",CT,04/27/2021,0.0,0,0.21
@@ -983,11 +885,10 @@ PICA,2023Q2,"Rockpoint Real Estate Fund VI, L.P. - PICA Boston MA Rockpoint Real
 PICA,2023Q2,Senior Housing Partnership Fund VI LP - PICA Newark NJ Senior Housing Partnershi,VI,04/26/2023,0.0,0,1.857
 PICA,2023Q2,"Sentinel Capital Partners IV, L.P (VZ) New York",NY,12/10/2012,0.0,0,3.789
 PICA,2023Q2,"Sentinel Capital Partners VI, L.P. New York",NY,07/11/2019,0.0,0,1.088
-PICA,2023Q2,Seventh Cinven Fund (No. 1) Limited Partnership - PICA St Peter Port,GGY,04/07/2020,0.0,0,0.0
 PICA,2023Q2,"Silver Lake Partners VI, L.P. - PICA Menlo Park",CA,01/06/2021,0.0,0,0.271
 PICA,2023Q2,"Silver Lake Alpine, L.P. -PICA New York",NY,09/11/2018,0.0,0,1.029
 PICA,2023Q2,"Silver Lake Partners V, LP - PICA Menlo Park",CA,06/12/2018,0.0,0,4.051
-PICA,2023Q2,Admini- Date Type Actual Cost Additional for Silverlands II SCSp Luxembourg,LUX,02/14/2019,0.0,0,3.867
+PICA,2023Q2,"STATEMENT AS OF JUNE 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Sil",LUX,02/14/2019,0.0,0,3.867
 PICA,2023Q2,"Siris Partners III, L.P. -PICA New York",NY,05/04/2015,0.0,0,1.228
 PICA,2023Q2,"Siris Partners IV, L.P. -PICA New York",NY,03/15/2019,0.0,0,0.856
 PICA,2023Q2,Sixth Cinven Fund (No. 3) Limited Partnership - PICA London,GBR,05/24/2017,0.0,0,2.863
@@ -1034,7 +935,7 @@ PICA,2023Q2,Prudential Impact Investments Private Equity LLC Newark,NJ,06/12/201
 PICA,2023Q2,"PruVen Capital Partners Fund I, LP Newark",NJ,09/21/2020,0.0,0,99.503
 PICA,2023Q2,Curzon Capital Partners 5 Long-Life LP-PICA London,GBR,09/24/2020,0.0,0,2.799
 PICA,2023Q2,"DRA Growth and Income Fund X, LLC - PICA New York",NY,03/25/2020,0.0,0,1.247
-PICA,2023Q2,Admini- Date Type Actual Cost Additional for 333 Hennepin Investor LLC - STAT Sa,MN,12/31/2017,0.0,0,90.0
+PICA,2023Q2,"STATEMENT AS OF JUNE 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA 333",MN,12/31/2017,0.0,0,90.0
 PICA,2023Q2,Menlo Park Investor LLC - STAT Menlo Park,CA,03/19/2018,0.0,0,50.0
 PICA,2023Q2,Triton Investor LLC - STAT Foster City,CA,03/19/2018,0.0,0,50.0
 PICA,2023Q2,Prudential Impact Investments Mortgage Loans LLC Newark,NJ,01/27/2016,0.0,0,100.0
@@ -1067,7 +968,7 @@ PICA,2023Q2,Indiana Redevelopment Tax Credit; Kokomo Battery Facility - PICA Ind
 PICA,2023Q2,La Vista Residential - PICA Hayward,CA,12/30/2022,0.0,0,49.946
 PICA,2023Q2,RJTCF-43 State Tax Credit Fund L.L.C. St. Petersburg,FL,09/18/2018,0.0,0,50.0
 PICA,2023Q2,RJTCF-48 State Tax Credit Fund L.L.C. - PICA St. Petersburg,FL,09/23/2021,0.0,0,15.026
-PICA,2023Q3,"Admini- Date Type Actual Cost Additional for Accel-KKR Capital Partners VI, LP -",CA,02/10/2021,0.0,0,0.738
+PICA,2023Q3,"Accel-KKR Capital Partners VI, LP - PICA Menlo Park",CA,02/10/2021,0.0,0,0.738
 PICA,2023Q3,"Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0.0,0,4.313
 PICA,2023Q3,Advent International GPE X Limited Partnership - PICA Boston,MA,09/26/2022,0.0,0,0.12
 PICA,2023Q3,"Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0.0,0,0.937
@@ -1120,7 +1021,7 @@ PICA,2023Q3,Genstar IX Opportunities Fund I - PICA San Francisco,CA,07/08/2019,0
 PICA,2023Q3,"Genstar VIII Opportunities Fund I, L. P. - PICA San Francisco",CA,10/05/2017,0.0,0,8.286
 PICA,2023Q3,"Georgian Partners Growth Fund (International) IV, LP - PICA Toronto",CA,06/20/2018,0.0,0,2.539
 PICA,2023Q3,"Global Infrastructure Partners IV-A/B, L.P. - PICA New York",NY,09/12/2019,0.0,0,1.474
-PICA,2023Q3,"Admini- Date Type Actual Cost Additional for Greenbriar Equity Fund V, L.P. - PI",NY,08/02/2021,0.0,0,0.665
+PICA,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",NY,08/02/2021,0.0,0,0.665
 PICA,2023Q3,"Greycroft Growth III, L.P. - PICA New York",NY,09/09/2020,0.0,0,0.953
 PICA,2023Q3,GSO COF III Co-Investment Fund LP - PICA New York,NY,08/14/2017,0.0,0,0.779
 PICA,2023Q3,GTCR Fund XII/A LP and GTCR XII/B LP - PICA Illinois,IL,05/04/2018,0.0,0,1.575
@@ -1174,7 +1075,7 @@ PICA,2023Q3,"Siris Partners IV, L.P. -PICA New York",NY,03/15/2019,0.0,0,0.856
 PICA,2023Q3,"Sixth Street TAO Partners (B), L.P. - PICA Newark",NJ,07/01/2023,0.0,0,0.126
 PICA,2023Q3,"Strategic Value Dislocation Fund, L.P. - PICA Greenwich",CT,09/16/2020,0.0,0,12.682
 PICA,2023Q3,"TCV XI, L.P. - PICA Menlo Park",CA,02/01/2021,0.0,0,0.459
-PICA,2023Q3,"Admini- Date Type Actual Cost Additional for The Veritas Capital Fund VII, L.P. ",NY,04/15/2020,0.0,0,0.615
+PICA,2023Q3,"STATEMENT AS OF SEPTEMBER 30, 2023 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",NY,04/15/2020,0.0,0,0.615
 PICA,2023Q3,"The Veritas Capital Fund VIII, L.P. - PICA New York",NY,07/01/2022,0.0,0,0.104
 PICA,2023Q3,"Thoma Bravo Discover Fund II, LP -PICA Chicago",IL,12/10/2018,0.0,0,1.78
 PICA,2023Q3,"Thompson Street Capital Partners V, LP -PICA St. Louis",MO,07/27/2018,0.0,0,3.493
@@ -1198,7 +1099,7 @@ PICA,2023Q3,Triton Investor LLC - STAT Foster City,CA,03/31/2018,0.0,0,50.0
 PICA,2023Q3,"CREA Corporate Tax Credit Fund 89, LP - PICA 2 Indianapolis",IN,09/26/2023,0.0,0,2.049
 PICA,2023Q3,Vine Creek Apartments - PICA Temecula,CA,07/11/2023,0.0,0,45.528
 PICA,2023Q3,65020#-*A-2 Nwk Makershoods Urban Rnwl LLC Promissory Note Newark,NJ,09/16/2023,0.0,0,100.0
-PICA,2024Q2,"Admini- Date Type Actual Cost Additional for Accel-KKR Capital Partners VI, LP -",CA,02/10/2021,0.0,0,0.739
+PICA,2024Q2,"Accel-KKR Capital Partners VI, LP - PICA Menlo Park",CA,02/10/2021,0.0,0,0.739
 PICA,2024Q2,"Altaris Health Partners IV, L.P. New York City",NY,06/18/2018,0.0,0,20.186
 PICA,2024Q2,"Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0.0,0,1.69
 PICA,2024Q2,"American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,10/30/2019,0.0,0,3.62
@@ -1251,7 +1152,7 @@ PICA,2024Q2,"Genstar VIII Opportunities Fund I, L. P. - PICA San Francisco",CA,1
 PICA,2024Q2,Georgian Partners Growth Fund (International) V - PICA Toronto,CA,03/09/2020,0.0,0,1.78
 PICA,2024Q2,"Global Infrastructure Partners IV-A/B, L.P. - PICA New York",NY,09/12/2019,0.0,0,2.061
 PICA,2024Q2,"GreenOak Europe Core Plus Logistics, SCSp - PICA Senningerberg",LUX,07/28/2020,0.0,0,4.651
-PICA,2024Q2,"Admini- Date Type Actual Cost Additional for Greycroft Growth III, L.P. - PICA N",NY,09/09/2020,0.0,0,0.954
+PICA,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Gre",NY,09/09/2020,0.0,0,0.954
 PICA,2024Q2,"Greycroft Partners VI, L.P. - PICA New York",NY,09/30/2020,0.0,0,2.066
 PICA,2024Q2,"GSO Capital Opportunities Fund III, LP - PICA New York",NY,09/22/2016,0.0,0,4.692
 PICA,2024Q2,"GTCR Fund XIII/A LP, GTCR Fund LP - PICA Chicago",IL,09/07/2021,0.0,0,0.876
@@ -1305,7 +1206,7 @@ PICA,2024Q2,Sixth Cinven Fund (No. 3) Limited Partnership - PICA London,GBR,05/2
 PICA,2024Q2,"Sixth Street TAO Partners (B), L.P. - PICA Newark",NJ,12/27/2023,0.0,0,0.126
 PICA,2024Q2,"TCV XI, L.P. - PICA Menlo Park",CA,02/01/2021,0.0,0,0.46
 PICA,2024Q2,"The Veritas Capital Fund VIII, L.P. - PICA New York",NY,07/01/2022,0.0,0,0.075
-PICA,2024Q2,"Admini- Date Type Actual Cost Additional for Thompson Street Capital Partners V,",MO,07/27/2018,0.0,0,7.074
+PICA,2024Q2,"STATEMENT AS OF JUNE 30, 2024 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Tho",MO,07/27/2018,0.0,0,7.074
 PICA,2024Q2,"Trident VI, LP Greenwich",CT,09/12/2014,0.0,0,0.615
 PICA,2024Q2,"Trident VIII, L.P. - PICA Greenwich",CT,04/08/2020,0.0,0,0.482
 PICA,2024Q2,VIP IV LP - PICA London,GBR,12/23/2020,0.0,0,0.394
@@ -1388,7 +1289,7 @@ PICA,2024Q3,"Francisco Partners VII, L.P. - PICA San Francisco",CA,11/07/2023,0.
 PICA,2024Q3,Frontier Fund V-A LP - PICA Charlotte,NC,11/21/2017,0.0,0,2.917
 PICA,2024Q3,"General Atlantic Investment Partners 2019, L.P. - PICA New York",NY,01/14/2020,0.0,0,3.57
 PICA,2024Q3,"Genstar Capital Partners IX, L.P. - PICA San Francisco",CA,07/03/2019,0.0,0,6.191
-PICA,2024Q3,"Admini- Date Type Actual Cost Additional for Genstar Capital Partners VIII, L.P.",CA,04/28/2017,0.0,0,5.059
+PICA,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",CA,04/28/2017,0.0,0,5.059
 PICA,2024Q3,"Genstar Capital Partners X, L.P. - PICA San Francisco",CA,10/04/2021,0.0,0,0.078
 PICA,2024Q3,Genstar IX Opportunities Fund I - PICA San Francisco,CA,07/08/2019,0.0,0,1.22
 PICA,2024Q3,"Genstar VIII Opportunities Fund I, L. P. - PICA San Francisco",CA,10/05/2017,0.0,0,8.189
@@ -1441,7 +1342,7 @@ PICA,2024Q3,"Silver Lake Partners V, LP - PICA Menlo Park",CA,06/12/2018,0.0,0,3
 PICA,2024Q3,"Silver Lake Partners VI, L.P. - PICA Menlo Park",CA,01/06/2021,0.0,0,0.586
 PICA,2024Q3,Silverlands II SCSp Luxembourg,LUX,02/14/2019,0.0,0,3.867
 PICA,2024Q3,"Siris Partners IV, L.P. -PICA New York",NY,03/15/2019,0.0,0,0.857
-PICA,2024Q3,Admini- Date Type Actual Cost Additional for Summit Partners Subordinated Debt F,SD,11/01/2012,0.0,0,0.951
+PICA,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",SD,11/01/2012,0.0,0,0.951
 PICA,2024Q3,"TDR Capital V, L.P. - PICA London",GBR,11/16/2023,0.0,0,0.21
 PICA,2024Q3,"The Veritas Capital Fund VI, LP -PICA New York",NY,06/15/2017,0.0,0,1.075
 PICA,2024Q3,"The Veritas Capital Fund VII, L.P. - PICA New York",NY,04/15/2020,0.0,0,0.615
@@ -1481,11 +1382,11 @@ PICA,2024Q3,U.S.A. Institutional Tax Credit Fund CXLIV L.P. - PICA Greenwich,CT,
 PICA,2024Q3,"WNC Institutional Tax Credit Fund 56, L.P. - Federal Irvine",CA,04/24/2024,0.0,0,8.681
 PICA,2024Q3,Red Stone Equity-Fund 83 Limited Partnership - PICA Hyde Park,MA,09/03/2024,0.0,0,0.0
 PICA,2024Q3,"WNC Institutional Tax Credit Fund 56, L.P. - State Irvine",CA,09/04/2024,0.0,0,0.0
-PICA,2024Q3,Admini- Date Type Actual Cost Additional for EK004*-*E-6 External BX 4 Residual ,DE,09/30/2024,0.0,0,7.0
+PICA,2024Q3,"STATEMENT AS OF SEPTEMBER 30, 2024 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",DE,09/30/2024,0.0,0,7.0
 PICA,2024Q3,CRB SUST HOME SOLUT TR 2024-1G ASSET BACKED R Wilmington,DE,02/28/2024,0.0,0,96.2
 PICA,2024Q3,SOFI PERS LN TR 2024-2 ASSET BACKED R1 Wilmington,DE,03/13/2024,0.0,0,95.1
 PICA,2024Q3,Guaranteed Plus Defined Comp Plan Paris,FRA,11/30/2011,0.0,0,100.0
-PICA,2025Q1,"Admini- Date Type Actual Cost Additional for Accel-KKR Capital Partners VI, LP -",VI,02/10/2021,0.0,0,0.739
+PICA,2025Q1,"Accel-KKR Capital Partners VI, LP - PICA Menlo Park CA AKKR Fund",VI,02/10/2021,0.0,0,0.739
 PICA,2025Q1,"Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0.0,0,3.397
 PICA,2025Q1,"Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0.0,0,1.69
 PICA,2025Q1,"American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,10/30/2019,0.0,0,3.62
@@ -1539,7 +1440,7 @@ PICA,2025Q1,"Greycroft Partners VI, L.P. - PICA New York",NY,09/30/2020,0.0,0,2.
 PICA,2025Q1,"Harvest Partners Structured Capital Fund II, L.P. - PICA New York",NY,07/13/2018,0.0,0,3.172
 PICA,2025Q1,"Harvest Partners Structured Capital Fund II, L.P. - PICA 2 New York",NY,10/25/2018,0.0,0,3.172
 PICA,2025Q1,"Harvest Partners Structured Capital Fund III, L.P. - PICA New York",NY,12/18/2020,0.0,0,2.91
-PICA,2025Q1,"Admini- Date Type Actual Cost Additional for Harvest Partners VIII, LP - PICA Ne",NY,11/27/2019,0.0,0,1.148
+PICA,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Ha",NY,11/27/2019,0.0,0,1.148
 PICA,2025Q1,"Hellman & Friedman Capital Partners IX, LP - PICA San Francisco",CA,04/07/2020,0.0,0,0.254
 PICA,2025Q1,"HGGC Fund III, L.P. - PICA Palo Alto",CA,07/28/2017,0.0,0,5.4
 PICA,2025Q1,"HPS Mezzanine Partners 2019, L.P. - PICA New York",NY,10/28/2019,0.0,0,1.039
@@ -1591,7 +1492,7 @@ PICA,2025Q1,"Warburg Pincus Capital Solutions Founders Fund, L.P. New York",NY,1
 PICA,2025Q1,"Warburg Pincus Global Growth 14, L.P. New York",NY,10/02/2023,0.0,0,1.963
 PICA,2025Q1,"Waterton Residential Property Venture XIV, L.P. - PICA Chicago",IL,12/23/2020,0.0,0,2.137
 PICA,2025Q1,"Westbrook Real Estate Fund X, L.P. -PICA Palm Beach Garden",FL,07/18/2016,0.0,0,0.07
-PICA,2025Q1,"Admini- Date Type Actual Cost Additional for WP Dynasty Holdings I, L.P. New Yor",NY,05/13/2024,0.0,0,10.0
+PICA,2025Q1,"STATEMENT AS OF MARCH 31, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA WP",NY,05/13/2024,0.0,0,10.0
 PICA,2025Q1,Ironbound Fund LLC - PICA Newark,NJ,05/27/2010,0.0,0,81.223
 PICA,2025Q1,"Newark Venture Partners Fund II, L.P. - PICA Newark",NJ,09/30/2021,0.0,0,3.307
 PICA,2025Q1,Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0.0,0,18.461
@@ -1621,7 +1522,7 @@ PICA,2025Q1,Cedar Topco A LP - PICA New York,NY,12/31/2024,0.0,0,30.0
 PICA,2025Q1,Steam MH Aggregator LP - PICA New York,NY,12/31/2024,0.0,0,30.0
 PICA,2025Q1,"PGIM Senior Loan Opportunities (Rated Feeder Fund) III Europe, L.P. - PICA Newar",NJ,12/20/2024,0.0,0,25.48
 PICA,2025Q1,"PGIM Senior Loan Opportunities II, L.P. - PICA Newark",NJ,02/21/2024,0.0,0,3.943
-PICA,2025Q2,"Admini- Date Type Actual Cost Additional for Accion Venture Lab, LP - PICA Cambr",MA,07/22/2019,0.0,0,4.375
+PICA,2025Q2,"Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0.0,0,4.375
 PICA,2025Q2,"Altaris Health Partners V, L.P. - PICA New York",NY,04/22/2021,0.0,0,1.695
 PICA,2025Q2,"American Industrial Partners Capital Fund VII, L.P. - PICA New York",NY,10/30/2019,0.0,0,3.569
 PICA,2025Q2,"American Securities Partners VIII, L.P. - PICA New York",NY,03/28/2019,0.0,0,0.422
@@ -1675,7 +1576,7 @@ PICA,2025Q2,"HPS Mezzanine Partners 2019, L.P. - PICA New York",NY,10/28/2019,0.
 PICA,2025Q2,ICG Europe Fund VII SCSp - PICA Luxembourg,LUX,08/24/2018,0.0,0,0.342
 PICA,2025Q2,ICG Europe Mid-Market Fund SCSp - PICA Luxembourg,LUX,04/09/2020,0.0,0,1.514
 PICA,2025Q2,"Insight Partners XII, L.P. - PICA New York",NY,07/15/2021,0.0,0,0.048
-PICA,2025Q2,"Admini- Date Type Actual Cost Additional for Kohlberg Investors VIII, L.P. - PIC",NY,08/30/2017,0.0,0,18.457
+PICA,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Koh",NY,08/30/2017,0.0,0,18.457
 PICA,2025Q2,"LeapFrog Emerging Consumer Fund IV, LP - PICA Ciber City",MUS,05/24/2023,0.0,0,9.131
 PICA,2025Q2,"Linden Capital Partners III, L.P. - PICA Chicago",IL,06/23/2016,0.0,0,3.807
 PICA,2025Q2,Linden Capital Partners IV LP - PICA Chicago,IL,09/27/2018,0.0,0,4.357
@@ -1723,7 +1624,7 @@ PICA,2025Q2,"PruVen Capital Partners Fund I, LP Newark",NJ,09/21/2020,0.0,0,99.4
 PICA,2025Q2,Victor Fund II Investor LLC - PICA Newark,NJ,12/31/2024,0.0,0,100.0
 PICA,2025Q2,"Warburg Pincus Prismic, L.P. - PICA New York",NY,09/25/2023,0.0,0,99.73
 PICA,2025Q2,"579 Broad Holdings, LLC New Orleans, LA",LA,07/14/2017,0.0,0,98.74
-PICA,2025Q2,Admini- Date Type Actual Cost Additional for Menlo Park Investor LLC - STAT Menl,CA,03/19/2018,0.0,0,50.0
+PICA,2025Q2,"STATEMENT AS OF JUNE 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERICA Men",CA,03/19/2018,0.0,0,50.0
 PICA,2025Q2,Triton Investor LLC - STAT Foster City,CA,03/19/2018,0.0,0,50.0
 PICA,2025Q2,Entertainment Earth Simi Valley,CA,04/25/2025,0.0,0,0.16
 PICA,2025Q2,Pramerica Fosun Life Insur Co Newark,NJ,04/30/2012,0.0,0,100.0
@@ -1746,7 +1647,7 @@ PICA,2025Q2,Cedar Topco A LP - PICA New York,NY,12/31/2024,0.0,0,30.0
 PICA,2025Q2,Steam MH Aggregator LP - PICA New York,NY,12/31/2024,0.0,0,30.0
 PICA,2025Q2,"PGIM Large Cap Private Credit Fund I, L.P. - PICA Newark",NJ,06/02/2025,0.0,0,37.36
 PICA,2025Q2,Guaranteed Plus Defined Comp Plan Paris,FRA,11/30/2011,0.0,0,100.0
-PICA,2025Q3,"Admini- Date Type Actual Cost Additional for 8A HP SCF Investor, LP - PICA New Y",NY,01/24/2020,0.0,0,5.369
+PICA,2025Q3,"8A HP SCF Investor, LP - PICA New York",NY,01/24/2020,0.0,0,5.369
 PICA,2025Q3,"Accel-KKR Capital Partners VI, LP - PICA Menlo Park CA AKKR Fund",VI,02/10/2021,0.0,0,0.739
 PICA,2025Q3,"Accion Venture Lab, LP - PICA Cambridge",MA,07/22/2019,0.0,0,4.375
 PICA,2025Q3,Advent International GPE IX Limited Partnership - PICA Boston,MA,10/21/2019,0.0,0,0.501
@@ -1799,7 +1700,7 @@ PICA,2025Q3,"Centerbridge Capital Partners II, L.P. New York",NY,11/01/2012,0.0,
 PICA,2025Q3,"Cerberus Levered Loan Opportunities Fund II, LP - PICA New York",NY,05/31/2013,0.0,0,1.709
 PICA,2025Q3,"Charles River Partnership XIII, L.P. (VZ) Cambridge",MA,12/10/2012,0.0,0,3.266
 PICA,2025Q3,"Clayton, Dubilier & Rice Fund X, LP New York",NY,03/27/2018,0.0,0,2.791
-PICA,2025Q3,"Admini- Date Type Actual Cost Additional for Clayton, Dubilier & Rice Fund XI, L",CYM,09/23/2021,0.0,0,0.472
+PICA,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",CYM,09/23/2021,0.0,0,0.472
 PICA,2025Q3,"Clearlake Capital Partners VI, L.P. - PICA Santa Monica CA Clearlake Capital Par",VI,05/22/2020,0.0,0,1.276
 PICA,2025Q3,"Clearlake Flagship Plus Partners, L.P. - PICA Santa Monica",CA,02/05/2021,0.0,0,7.297
 PICA,2025Q3,"Collagen Holdings, LLC - PICA Oakland",NJ,08/01/2019,0.0,0,2.67
@@ -1853,7 +1754,7 @@ PICA,2025Q3,"Harvest Partners Structured Capital Fund III, L.P. - PICA New York"
 PICA,2025Q3,"Harvest Partners VII, LP - PICA New York",NY,09/28/2016,0.0,0,1.885
 PICA,2025Q3,"Harvest Partners VIII, LP - PICA New York",NY,11/27/2019,0.0,0,1.148
 PICA,2025Q3,"Hellman & Friedman Capital Partners IX, LP - PICA San Francisco",CA,04/07/2020,0.0,0,0.257
-PICA,2025Q3,Admini- Date Type Actual Cost Additional for Hellman & Friedman Capital Partners,CA,11/24/2021,0.0,0,0.044
+PICA,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",CA,11/24/2021,0.0,0,0.044
 PICA,2025Q3,"HGGC Fund III, L.P. - PICA Palo Alto",CA,07/28/2017,0.0,0,5.204
 PICA,2025Q3,"E03.2 000000-00-0 Highstar Capital IV, LP - PICA New York",NY,02/09/2011,0.0,0,0.643
 PICA,2025Q3,"HPS Mezzanine Partners 2019, L.P. - PICA New York",NY,10/28/2019,0.0,0,1.024
@@ -1907,7 +1808,7 @@ PICA,2025Q3,Permira VII L.P. 1 - PICA St. Peter Port,GGY,02/10/2020,0.0,0,0.179
 PICA,2025Q3,"Platinum Equity Capital Partners IV, L.P. - PICA Beverly Hills",CA,03/21/2017,0.0,0,2.253
 PICA,2025Q3,"Platinum Equity Capital Partners V, LP - PICA Beverly Hills",CA,12/27/2019,0.0,0,1.255
 PICA,2025Q3,"Platinum Equity Capital Partners VI, L.P. - PICA Beverly Hills",CA,12/12/2022,0.0,0,0.072
-PICA,2025Q3,Admini- Date Type Actual Cost Additional for Platinum Equity SCRS Co-Investors L,CA,07/31/2017,0.0,0,6.0
+PICA,2025Q3,"STATEMENT AS OF SEPTEMBER 30, 2025 OF THE PRUDENTIAL INSURANCE COMPANY OF AMERIC",CA,07/31/2017,0.0,0,6.0
 PICA,2025Q3,"Platinum Equity Small Cap Fund, L.P. Beverly Hills",CA,06/28/2018,0.0,0,3.363
 PICA,2025Q3,"Range Investor Holdings, LLC - PICA Itasca",IL,02/23/2018,0.0,0,2.497
 PICA,2025Q3,"Rockpoint Real Estate Fund VI, L.P. - PICA Boston MA Rockpoint Real Estate Fund",VI,05/21/2020,0.0,0,1.17
@@ -1949,7 +1850,6 @@ PICA,2025Q3,"Warburg Pincus Capital Solutions Founders Fund, L.P. New York",NY,1
 PICA,2025Q3,"Warburg Pincus Global Growth 14, L.P. New York",NY,10/02/2023,0.0,0,4.316
 PICA,2025Q3,"Waterton Residential Property Venture XIV, L.P. - PICA Chicago",IL,12/23/2020,0.0,0,2.136
 PICA,2025Q3,"Wrigley Co-Invest, L.P. - PICA San Francisco",CA,06/19/2018,0.0,0,3.655
-PICA,2025Q3,"Wrigley Co-Invest, L.P. - PICA 2 San Francisco",CA,10/05/2018,0.0,0,0.0
 PICA,2025Q3,"Yorktown Energy Partners X, L.P. New York",NY,05/31/2013,0.0,0,1.497
 PICA,2025Q3,"Newark Venture Partners Fund II, L.P. - PICA Newark",NJ,09/30/2021,0.0,0,3.404
 PICA,2025Q3,Passaic Fund LLC- PICA Newark,NJ,06/27/2018,0.0,0,15.803
